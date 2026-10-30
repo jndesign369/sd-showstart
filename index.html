@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>San Diego Shows</title>
+<meta name="description" content="Upcoming live music shows in San Diego: times, venues, ticket links.">
+<style>
+  :root {
+    --bg: #ffffff;
+    --text: #1a1a1a;
+    --muted: #5a5a5a;
+    --line: #d9d9d9;
+    --accent: #0066cc;
+    --hover: #f0f4f8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #101214;
+      --text: #e6e6e6;
+      --muted: #9a9a9a;
+      --line: #2a2e33;
+      --accent: #66aaff;
+      --hover: #1a1e23;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--text);
+    background: var(--bg);
+  }
+  main { max-width: 980px; margin: 0 auto; padding: 24px 20px 60px; }
+  h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  .sub { color: var(--muted); font-size: 0.9rem; margin: 0 0 20px; }
+  .controls {
+    display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
+    margin-bottom: 16px;
+  }
+  .controls input[type="search"], .controls select {
+    font: inherit; color: var(--text); background: var(--bg);
+    border: 1px solid var(--line); border-radius: 4px; padding: 6px 8px;
+  }
+  .controls input[type="search"] { min-width: 220px; flex: 1; }
+  .legend { font-size: 0.85rem; color: var(--muted); margin-left: auto; }
+  .table-wrap { overflow-x: auto; }
+  table { border-collapse: collapse; width: 100%; min-width: 720px; font-size: 0.95rem; }
+  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  @media (max-width: 640px) {
+    .table-wrap { overflow-x: visible; }
+    table { min-width: 0; }
+    thead { display: none; }
+    table, tbody, tr, td { display: block; width: 100%; }
+    tr { border-bottom: 1px solid var(--line); padding: 10px 0; }
+    td { border-bottom: 0; padding: 2px 0; }
+    td::before {
+      content: attr(data-label) ": ";
+      color: var(--muted); font-size: 0.75em;
+      text-transform: uppercase; letter-spacing: 0.04em;
+    }
+  }
+  thead th {
+    cursor: pointer; user-select: none; white-space: nowrap;
+    border-bottom: 2px solid var(--line); font-size: 0.8rem;
+    text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted);
+  }
+  thead th:hover { color: var(--text); }
+  tbody tr:hover { background: var(--hover); }
+  td.date { white-space: nowrap; }
+  td.time { white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .doors { color: var(--muted); font-size: 0.85em; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .empty { padding: 30px 0; color: var(--muted); }
+  footer { margin-top: 28px; font-size: 0.8rem; color: var(--muted); }
+  footer p { margin: 4px 0; }
+</style>
+</head>
+<body>
+<main>
+  <h1>San Diego Shows</h1>
+  <p class="sub">Upcoming live music, collected daily from venue websites. No graphics, just the facts.</p>
+
+  <div class="controls">
+    <input id="q" type="search" placeholder="Search band or venue..." aria-label="Search shows">
+    <select id="venue" aria-label="Filter by venue"><option value="">All venues</option></select>
+    <select id="source" aria-label="Filter by source"><option value="">All sources</option></select>
+    <span class="legend" id="count"></span>
+  </div>
+
+  <div class="table-wrap">
+  <table aria-label="Upcoming shows">
+    <thead>
+      <tr>
+        <th data-key="date">Date</th>
+        <th data-key="time">Time</th>
+        <th data-key="title">Band / Event</th>
+        <th data-key="venue">Venue</th>
+        <th data-key="ticket">Tickets</th>
+        <th data-key="band">Band site</th>
+        <th data-key="venue_site">Venue site</th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+  </div>
+  <p class="empty" id="empty" hidden>No shows found.</p>
+
+  <footer>
+    <p>Data collected from venue websites; times are Pacific. Doors time shown in parentheses when published.</p>
+    <p id="meta"></p>
+  </footer>
+</main>
+
+<script>
+(function () {
+  "use strict";
+
+  var state = {
+    shows: [],
+    query: "",
+    venue: "",
+    source: "",
+    sortKey: "date",
+    sortDir: 1
+  };
+
+  var MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  var DAYS = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+
+  function fmtDate(iso) {
+    var p = iso.split("-");
+    var d = new Date(+p[0], +p[1] - 1, +p[2]);
+    var s = DAYS[d.getDay()] + " " + MONTHS[+p[1] - 1] + " " + (+p[2]);
+    if (+p[0] !== new Date().getFullYear()) s += ", " + p[0];
+    return s;
+  }
+
+  function fmtTime(t) {
+    if (!t) return "";
+    var p = t.split(":");
+    var h = +p[0], m = +p[1];
+    var ap = h >= 12 ? "pm" : "am";
+    h = h % 12 || 12;
+    return h + (m ? ":" + p[1] : "") + ap;
+  }
+
+  function todayISO() {
+    // Pacific time, so the list does not drop today's shows early for
+    // visitors in other timezones.
+    return new Intl.DateTimeFormat("en-CA", {
+      timeZone: "America/Los_Angeles"
+    }).format(new Date());
+  }
+
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) {
+      return { "&": "&" + "amp;", "<": "&" + "lt;", ">": "&" + "gt;", '"': "&" + "quot;" }[c];
+    });
+  }
+
+  function filtered() {
+    var q = state.query.toLowerCase();
+    var today = todayISO();
+    return state.shows.filter(function (s) {
+      if (s.date < today) return false;
+      if (state.venue && s.venue !== state.venue) return false;
+      if (state.source && s.source !== state.source) return false;
+      if (q && s.title.toLowerCase().indexOf(q) === -1 &&
+          s.venue.toLowerCase().indexOf(q) === -1) return false;
+      return true;
+    });
+  }
+
+  function sortVal(show, key) {
+    switch (key) {
+      case "date": return show.date + "|" + (show.show_time || "");
+      case "time": return (show.show_time || "99:99") + "|" + show.date;
+      case "title": return show.title.toLowerCase();
+      case "venue": return show.venue.toLowerCase();
+      case "ticket": return show.ticket_url ? 0 : 1;
+      case "band": return show.band_url ? 0 : 1;
+      case "venue_site": return show.venue_url ? 0 : 1;
+    }
+  }
+
+  function render() {
+    var rows = filtered().sort(function (a, b) {
+      var va = sortVal(a, state.sortKey), vb = sortVal(b, state.sortKey);
+      return va < vb ? -state.sortDir : va > vb ? state.sortDir : 0;
+    });
+
+    var tbody = document.getElementById("rows");
+    tbody.innerHTML = rows.map(function (s) {
+      var time = fmtTime(s.show_time);
+      if (s.doors_time) time += ' <span class="doors">(doors ' + fmtTime(s.doors_time) + ")</span>";
+      return "<tr>" +
+        '<td class="date" data-label="Date">' + esc(fmtDate(s.date)) + "</td>" +
+        '<td class="time" data-label="Time">' + time + "</td>" +
+        '<td data-label="Band">' + (s.event_url ? '<a href="' + esc(s.event_url) + '">' + esc(s.title) + "</a>" : esc(s.title)) +
+        (s.age_limit ? ' <span class="doors">' + esc(s.age_limit) + "</span>" : "") + "</td>" +
+        '<td data-label="Venue">' + esc(s.venue) + "</td>" +
+        '<td data-label="Tickets">' + (s.ticket_url ? '<a href="' + esc(s.ticket_url) + '">' + (s.ticket_kind === "event_page" ? "event page" : "tickets") + "</a>" : "") + (s.sold_out ? ' <span class="doors">sold out</span>' : (s.ticket_url ? "" : "—")) + "</td>" +
+        '<td data-label="Band site">' + (s.band_url ? '<a href="' + esc(s.band_url) + '">site</a>' : "—") + "</td>" +
+        '<td data-label="Venue site">' + (s.venue_url ? '<a href="' + esc(s.venue_url) + '">site</a>' : "—") + "</td>" +
+        "</tr>";
+    }).join("");
+
+    document.getElementById("empty").hidden = rows.length !== 0;
+    document.getElementById("count").textContent =
+      rows.length + " show" + (rows.length === 1 ? "" : "s");
+  }
+
+  function fillSelect(id, values) {
+    var sel = document.getElementById(id);
+    values.forEach(function (v) {
+      var opt = document.createElement("option");
+      opt.value = v; opt.textContent = v;
+      sel.appendChild(opt);
+    });
+  }
+
+  document.querySelectorAll("thead th").forEach(function (th) {
+    th.addEventListener("click", function () {
+      var key = th.dataset.key;
+      if (state.sortKey === key) state.sortDir *= -1;
+      else { state.sortKey = key; state.sortDir = 1; }
+      render();
+    });
+  });
+
+  document.getElementById("q").addEventListener("input", function (e) {
+    state.query = e.target.value; render();
+  });
+  document.getElementById("venue").addEventListener("change", function (e) {
+    state.venue = e.target.value; render();
+  });
+  document.getElementById("source").addEventListener("change", function (e) {
+    state.source = e.target.value; render();
+  });
+
+  fetch("shows.json", { cache: "no-store" })
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      state.shows = data.shows || [];
+      fillSelect("venue", [...new Set(state.shows.map(function (s) { return s.venue; }))].sort());
+      fillSelect("source", [...new Set(state.shows.map(function (s) { return s.source; }))].sort());
+      var gen = data.generated_at ? "Updated " + data.generated_at.replace("T", " ").slice(0, 16) + " PT" : "";
+      var stale = Object.keys(data.sources || {})
+        .filter(function (k) { return data.sources[k].status !== "ok"; });
+      if (stale.length) gen += " — stale data for: " + stale.join(", ");
+      document.getElementById("meta").textContent = gen;
+      render();
+    })
+    .catch(function () {
+      document.getElementById("meta").textContent =
+        "Could not load shows.json. If you are opening this file directly from disk, serve the folder over HTTP (see README).";
+    });
+})();
+</script>
+</body>
+</html>
