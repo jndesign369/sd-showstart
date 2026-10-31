@@ -97,11 +97,9 @@
       <tr>
         <th data-key="date">Date</th>
         <th data-key="time">Time</th>
-        <th data-key="title">Band / Event</th>
+        <th data-key="title">Artist / listing</th>
         <th data-key="venue">Venue</th>
         <th data-key="ticket">Tickets</th>
-        <th data-key="band">Band site</th>
-        <th data-key="venue_site">Venue site</th>
       </tr>
     </thead>
     <tbody id="rows"></tbody>
@@ -111,6 +109,7 @@
 
   <footer>
     <p>Data collected from venue websites; times are Pacific. Doors time shown in parentheses when published.</p>
+    <p>Artist names link only to manually verified official websites. Unverified names and listing titles stay plain text; ticket and event-page links are separate.</p>
     <p id="meta"></p>
   </footer>
 </main>
@@ -162,6 +161,50 @@
     });
   }
 
+  function safeURL(value) {
+    if (typeof value !== "string" || /\s/.test(value)) return null;
+    try {
+      var u = new URL(value);
+      return /^(https?:)$/.test(u.protocol) && !u.username && !u.password ? u.href : null;
+    } catch (_) { return null; }
+  }
+
+  function artistURL(artist, show) {
+    var url = safeURL(artist.official_url);
+    if (!url || artist.website_verified !== true || !safeURL(artist.evidence_url) ||
+        !/^\d{4}-\d{2}-\d{2}$/.test(artist.verified_at || "") ||
+        artist.verified_at > todayISO()) return null;
+    var host = new URL(url).hostname.toLowerCase().replace(/\.$/, "");
+    var blocked = ["ticketmaster.com", "ticketweb.com", "axs.com", "dice.fm",
+      "eventbrite.com", "seetickets.us", "seetickets.com", "showclix.com",
+      "etix.com", "tixr.com", "facebook.com", "instagram.com", "x.com",
+      "twitter.com", "tiktok.com", "youtube.com", "youtu.be", "spotify.com",
+      "linktr.ee", "bit.ly"];
+    if (blocked.some(function (h) { return host === h || host.endsWith("." + h); })) return null;
+    if ([show.ticket_url, show.event_url, show.venue_url].some(function (u) {
+      return safeURL(u) === url;
+    })) return null;
+    return url;
+  }
+
+  function artistText(show) {
+    var artists = Array.isArray(show.artists) ? show.artists : [];
+    return artists.map(function (a) { return a.name || ""; }).join(" ");
+  }
+
+  function artistHTML(show) {
+    var artists = Array.isArray(show.artists) ? show.artists : [];
+    if (!artists.length) return esc(show.title);
+    var names = artists.map(function (a) {
+      var url = artistURL(a, show);
+      return url ? '<a href="' + esc(url) + '">' + esc(a.name) + '</a>' : esc(a.name);
+    }).join(", ");
+    // Keep source wording and context visible; never hyperlink a listing title.
+    var title = show.title.trim().toLowerCase();
+    var sameName = artists.length === 1 && artists[0].name.trim().toLowerCase() === title;
+    return names + (sameName ? "" : '<br><span class="doors">' + esc(show.title) + '</span>');
+  }
+
   function filtered() {
     var q = state.query.toLowerCase();
     var today = todayISO();
@@ -169,7 +212,7 @@
       if (s.date < today) return false;
       if (state.venue && s.venue !== state.venue) return false;
       if (state.source && s.source !== state.source) return false;
-      if (q && s.title.toLowerCase().indexOf(q) === -1 &&
+      if (q && (s.title + " " + artistText(s)).toLowerCase().indexOf(q) === -1 &&
           s.venue.toLowerCase().indexOf(q) === -1) return false;
       return true;
     });
@@ -182,8 +225,6 @@
       case "title": return show.title.toLowerCase();
       case "venue": return show.venue.toLowerCase();
       case "ticket": return show.ticket_url ? 0 : 1;
-      case "band": return show.band_url ? 0 : 1;
-      case "venue_site": return show.venue_url ? 0 : 1;
     }
   }
 
@@ -200,12 +241,10 @@
       return "<tr>" +
         '<td class="date" data-label="Date">' + esc(fmtDate(s.date)) + "</td>" +
         '<td class="time" data-label="Time">' + time + "</td>" +
-        '<td data-label="Band">' + (s.event_url ? '<a href="' + esc(s.event_url) + '">' + esc(s.title) + "</a>" : esc(s.title)) +
+        '<td data-label="Artist / listing">' + artistHTML(s) +
         (s.age_limit ? ' <span class="doors">' + esc(s.age_limit) + "</span>" : "") + "</td>" +
-        '<td data-label="Venue">' + esc(s.venue) + "</td>" +
-        '<td data-label="Tickets">' + (s.ticket_url ? '<a href="' + esc(s.ticket_url) + '">' + (s.ticket_kind === "event_page" ? "event page" : "tickets") + "</a>" : "") + (s.sold_out ? ' <span class="doors">sold out</span>' : (s.ticket_url ? "" : "—")) + "</td>" +
-        '<td data-label="Band site">' + (s.band_url ? '<a href="' + esc(s.band_url) + '">site</a>' : "—") + "</td>" +
-        '<td data-label="Venue site">' + (s.venue_url ? '<a href="' + esc(s.venue_url) + '">site</a>' : "—") + "</td>" +
+        '<td data-label="Venue">' + (safeURL(s.venue_url) ? '<a href="' + esc(safeURL(s.venue_url)) + '">' + esc(s.venue) + "</a>" : esc(s.venue)) + "</td>" +
+        '<td data-label="Tickets">' + (safeURL(s.ticket_url) ? '<a href="' + esc(safeURL(s.ticket_url)) + '">' + (s.ticket_kind === "event_page" ? "event page" : "buy tickets") + "</a>" : "") + (s.sold_out ? ' <span class="doors">sold out</span>' : (safeURL(s.ticket_url) ? "" : "—")) + "</td>" +
         "</tr>";
     }).join("");
 

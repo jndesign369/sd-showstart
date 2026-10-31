@@ -1,5 +1,10 @@
 # San Diego Shows
 
+Kit release: **v0.1.0**. Download filename:
+`San Diego Shows starter kit-v0.1.0.zip`. The attachment title remains
+“San Diego Shows starter kit”; check `VERSION` inside the archive to confirm
+the release. See [CHANGELOG.md](CHANGELOG.md) for included changes and limitations.
+
 A zero-cost listings site for upcoming live music in San Diego. One plain HTML
 page reads `shows.json`, which is rebuilt daily by seven venue scrapers running
 on GitHub Actions. No database, no CMS, no server to run.
@@ -7,6 +12,15 @@ on GitHub Actions. No database, no CMS, no server to run.
 For the prepared upload package, start with [GitHub Pages setup](GITHUB-PAGES-SETUP.md).
 The workflow supports a fast snapshot deployment first, followed by optional
 manual refreshes and daily scheduled collection.
+
+The user's desired expansion coverage is saved in [VENUES.md](VENUES.md) and
+`venues.json`: 36 supplied entries with their original ConcertsSD reference
+links. This is a target list, not a list of enabled scrapers or verified official
+venue websites.
+
+See [VENUE-COVERAGE.md](VENUE-COVERAGE.md) for the entry-by-entry implementation
+audit: dedicated collectors, partial cross-listings, parser-only support, and
+coverage gaps.
 
 **Venues covered by the starter kit:**
 
@@ -28,10 +42,16 @@ of shipped broken.
 ## Files
 
 ```
+VERSION                     downloadable kit version (currently 0.1.0)
+CHANGELOG.md                release history and versioning policy
 index.html                  the website (text-only table)
 shows.json                  merged output the page reads
 run.py                      runs all scrapers, merges, dedupes, writes shows.json
-band_overrides.json         optional band name -> official site URL mapping
+artist_links.py             exact artist identity and official-website policy
+band_overrides.json         curated official-site records with verification evidence
+event_lineups.json          optional explicit artist names per stable event ID
+VENUES.md                   saved target coverage list and integration notes
+venues.json                 machine-readable target entries and reference links
 scrapers/
   common.py                 fetching, time parsing, per-source data cache
   bellyup.py                bellyup.com/calendar
@@ -46,8 +66,8 @@ tests/                     unit tests for the parser and merge logic
 
 1. Each scraper reads one venue calendar and returns a list of shows with:
    date, show time, doors time (when published), age limit, event URL,
-   ticket URL, venue URL, and band URL (from `band_overrides.json` only —
-   never guessed).
+   ticket URL and venue URL. Artist identity and verified official websites
+   are applied separately; they are never guessed from ticket destinations.
    - **Belly Up** also visits each upcoming event page (the calendar
      itself has no purchase links) to pick up the real TicketWeb link and
      doors time. That makes the daily run a few minutes longer; the
@@ -66,7 +86,7 @@ tests/                     unit tests for the parser and merge logic
    the previous file stays in place and the run exits with an error.
 4. `index.html` fetches `shows.json` and renders a table with sorting,
    venue/source filters, and search. Ticket links are labeled honestly:
-   "tickets" is a direct purchase link; "event page" means the venue
+   "buy tickets" is a direct purchase link; "event page" means the venue
    sells via its own event page (e.g. sold-out Belly Up shows). It also
    hides past shows client-side using the Pacific date, so the page stays
    correct even if the data is a day old.
@@ -106,22 +126,32 @@ static hosting is free, so the recurring cost is $0. If you prefer
 Cloudflare Pages, push the repo there and point it at `index.html` — just
 keep the scheduled scraper on GitHub Actions.
 
-## Band official URLs
+## Artist names and official websites
 
-Venue calendars almost never include the band's own website, and guessing
-URLs would produce wrong links, so the collectors do not attempt it: the
-"Band site" column is filled only from `band_overrides.json`, which you
-maintain by hand:
+Artist names link only to independently verified official websites. Listing
+titles never link to event pages, and an unknown artist website means plain
+text, not a search, social, ticketing, or guessed URL. Ticket links stay in
+their own column; venue names link to their own official venue websites.
 
-```json
-{
-  "high vis": "https://www.highvis.co.uk/",
-  "rezn": "https://www.rezn.band/"
-}
-```
+See [ARTIST-LINKS.md](ARTIST-LINKS.md) for the evidence-backed registry format
+and explicit multi-artist lineups. Old string-only URL overrides are no longer
+treated as verified. There is no fuzzy or inferred headliner matching.
 
-Matches are tried against the full show title first, then just the
-headliner (text before a comma or " w/ ").
+The supplied registry is empty: no real artist websites were verified in this
+update, and no names are linked merely to make the table look complete.
+For an existing GitHub site, follow [UPDATE-ARTIST-LINKS.md](UPDATE-ARTIST-LINKS.md).
+
+## Broader coverage reference
+
+[ConcertsSD](https://concertssd.com/) is a candidate discovery source, not an
+enabled collector in this release. Its
+[weekly listings](https://concertssd.com/week-12.html) expose individual performer
+names, but those names link to ConcertsSD's own band index rather than official
+artist websites. The weekly page also does not supply direct ticket-purchase
+links. Any future integration should discover current weekly pages from the
+homepage, preserve attribution, filter the intended geography, reconcile
+duplicates with venue collectors, and verify ticket and artist destinations
+separately. Do not treat a numbered weekly URL as a permanent current-week URL.
 
 ## Adding a venue
 

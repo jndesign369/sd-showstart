@@ -2,11 +2,14 @@
 """Validate a snapshot and stage only public files for GitHub Pages."""
 import json
 import shutil
+import sys
 from datetime import date, datetime
 from pathlib import Path
 from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
+from artist_links import verified_record
 PUBLIC_FILES = ("index.html", "shows.json")
 
 
@@ -30,6 +33,18 @@ def validate(data):
                 parsed = urlsplit(url)
                 if parsed.scheme not in ("http", "https") or not parsed.netloc:
                     raise ValueError(f"Show {i}: invalid {field}")
+        for artist in show.get("artists", []):
+            if not isinstance(artist, dict) or not isinstance(artist.get("name"), str) or not artist["name"].strip():
+                raise ValueError(f"Show {i}: artist needs an explicit name")
+            record = dict(artist, verified=artist.get("website_verified"))
+            if artist.get("official_url") and not verified_record(record, show):
+                raise ValueError(f"Show {i}: artist URL lacks valid verification")
+            if artist.get("website_verified") is True and not verified_record(record, show):
+                raise ValueError(f"Show {i}: invalid verified artist record")
+        if show.get("band_url"):
+            artists = show.get("artists", [])
+            if len(artists) != 1 or artists[0].get("official_url") != show["band_url"]:
+                raise ValueError(f"Show {i}: legacy band_url cannot link a whole lineup")
 
 
 def main():

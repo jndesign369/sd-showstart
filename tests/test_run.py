@@ -71,10 +71,11 @@ class MergeTest(unittest.TestCase):
 
 
 class OverridesTest(unittest.TestCase):
-    def test_headline_match(self):
+    def test_headline_is_not_guessed(self):
         s = show("High Vis w/ Chubby and the Gang", "Venue", "2099-01-01")
         run.apply_band_overrides([s], {"high vis": "https://www.highvis.co.uk/"})
-        self.assertEqual(s["band_url"], "https://www.highvis.co.uk/")
+        self.assertIsNone(s["band_url"])
+        self.assertEqual(s["artists"], [])
 
     def test_no_match_leaves_null(self):
         s = show("Unknown Act", "Venue", "2099-01-01")
@@ -86,18 +87,6 @@ class OverridesTest(unittest.TestCase):
         s = show("The Websites", "Venue", "2099-01-01")
         run.apply_band_overrides([s], {})
         self.assertIsNone(s["band_url"])
-
-
-class HeadlineTest(unittest.TestCase):
-    def test_variants(self):
-        for title, expected in [
-            ("A, B, C", "A"),
-            ("A w/ B", "A"),
-            ("A with B", "A"),
-            ("A + B", "A"),
-            ("Just A", "Just A"),
-        ]:
-            self.assertEqual(run.headline(title), expected)
 
 
 if __name__ == "__main__":

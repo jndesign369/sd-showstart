@@ -4,7 +4,7 @@ This kit is prepared for a public repository named `san-diego-shows` with `main`
 
 ## Create and upload the repository
 
-1. Download and extract the attached ZIP. Its files are at the archive root, not inside a second `sdshows` folder.
+1. Download and extract `San Diego Shows starter kit-v0.1.0.zip` (attachment title: “San Diego Shows starter kit”). Its files are at the archive root, not inside a second `sdshows` folder. The `VERSION` file should contain `0.1.0`; release notes are in `CHANGELOG.md`.
 2. Create a new **public** repository on GitHub named `san-diego-shows`. Use `main` as the default branch. Do not add a README, license, or `.gitignore` on GitHub when creating it; the kit already has its own files.
 3. Upload the extracted contents to the repository root. Make sure hidden items are included, especially `.github/workflows/update.yml`. Do not upload the ZIP itself or nest the files under `sdshows/`.
 
@@ -27,6 +27,8 @@ Your repository root must look like this:
 ```text
 .github/workflows/update.yml
 .gitignore
+VERSION
+CHANGELOG.md
 index.html
 shows.json
 run.py
@@ -75,7 +77,7 @@ Do not put personal information or credentials into this public repository. Venu
 - **Old dates or no shows:** The included snapshot is not a fresh scrape. Run the workflow with refresh enabled. The page hides past shows using Pacific dates.
 - **One venue fails:** The scraper retains that source's last successful data. Check the footer and Actions logs; source sites can block hosted runners even when local collection works.
 - **All venues fail:** The previous snapshot remains intact. The workflow deploys it if build validation passes, then marks the run failed so the collection problem is visible.
-- **Band-site column is blank:** Official artist URLs remain manual entries in `band_overrides.json`; they are not guessed.
+- **Artist names are not linked:** Names link only to verified official websites recorded in `band_overrides.json`. Unknown websites remain plain text. See `ARTIST-LINKS.md` for the verification format; old string-only entries no longer enable links.
 
 ## Local check before uploading
 

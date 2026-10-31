@@ -15,6 +15,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
+from artist_links import apply_artist_links
 
 from scrapers import bellyup, humphreys, observatory, quartyard, radyshell, soma, sodabar
 from scrapers.common import (
@@ -23,7 +24,6 @@ from scrapers.common import (
     dedupe_key,
     load_source,
     save_source,
-    slugify,
 )
 
 LA = ZoneInfo("America/Los_Angeles")
@@ -37,24 +37,12 @@ SOURCES = {
     "soma": soma,
 }
 OVERRIDES_FILE = ROOT / "band_overrides.json"
+LINEUPS_FILE = ROOT / "event_lineups.json"
 
 
-def headline(title: str) -> str:
-    """Best guess at the headlining act from a show title."""
-    for sep in (",", " w/", " with ", " + "):
-        if sep in title:
-            return title.split(sep)[0].strip()
-    return title
-
-
-def apply_band_overrides(shows: list[dict], overrides: dict) -> None:
-    """Fill band_url from band_overrides.json (exact title or headline match)."""
-    norm = {slugify(k): v for k, v in overrides.items()}
-    for s in shows:
-        for key in (slugify(s["title"]), slugify(headline(s["title"]))):
-            if key in norm:
-                s["band_url"] = norm[key]
-                break
+def apply_band_overrides(shows: list[dict], overrides: dict, lineups=None) -> None:
+    """Compatibility entry point using the exact, evidence-backed artist policy."""
+    apply_artist_links(shows, overrides, lineups)
 
 
 def merged_and_sorted(source_payloads: dict[str, dict], keep_past: bool) -> list[dict]:
@@ -143,11 +131,14 @@ async def main() -> int:
         return 1
 
     shows = merged_and_sorted(payloads, keep_past)
-    if (OVERRIDES_FILE).exists():
-        try:
-            apply_band_overrides(shows, json.loads(OVERRIDES_FILE.read_text()))
-        except json.JSONDecodeError:
-            print("band_overrides.json is not valid JSON - ignored", file=sys.stderr)
+    # A malformed registry or lineup must never preserve cached artist URLs.
+    try:
+        overrides = json.loads(OVERRIDES_FILE.read_text()) if OVERRIDES_FILE.exists() else {}
+        lineups = json.loads(LINEUPS_FILE.read_text()) if LINEUPS_FILE.exists() else {}
+        apply_band_overrides(shows, overrides, lineups)
+    except (ValueError, TypeError) as exc:
+        print(f"Artist links disabled: {exc}", file=sys.stderr)
+        apply_band_overrides(shows, {}, {})
 
     out = {
         "generated_at": datetime.now(LA).isoformat(timespec="seconds"),
