@@ -1,0 +1,3813 @@
+{
+  "generated_at": "2026-10-31T19:07:43+00:00",
+  "linked_artist_count": 121,
+  "review_count": 134,
+  "requests_made": 0,
+  "network_enabled": false,
+  "items": [
+    {
+      "name": "Abbey Road Christmas Show",
+      "show_ids": [
+        "bellyup:14221404"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Alex Cameron, Josh da Costa",
+      "show_ids": [
+        "sodabar:https://dice.fm/event/alex-cameron-josh-da-costa-5th-nov-soda-bar-san-diego-tickets"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Ambrosia",
+      "show_ids": [
+        "bellyup:14370254"
+      ],
+      "candidates": [
+        {
+          "mbid": "1fbed090-3b82-4766-b1e8-abab89e47417",
+          "name": "Ambrosia",
+          "profile_url": "https://musicbrainz.org/artist/1fbed090-3b82-4766-b1e8-abab89e47417",
+          "disambiguation": "L.A. prog rock band",
+          "area": "United States",
+          "exact_name": true,
+          "score": 100
+        },
+        {
+          "mbid": "f066d497-98c9-4110-b0d6-3b59171a7ed9",
+          "name": "AMbrosia",
+          "profile_url": "https://musicbrainz.org/artist/f066d497-98c9-4110-b0d6-3b59171a7ed9",
+          "disambiguation": "German neo-electronic / kraut / ambient",
+          "area": "Germany",
+          "exact_name": true,
+          "score": 85
+        },
+        {
+          "mbid": "bd27566e-1eaf-471f-832d-948486931f5a",
+          "name": "Ambrosia",
+          "profile_url": "https://musicbrainz.org/artist/bd27566e-1eaf-471f-832d-948486931f5a",
+          "disambiguation": "UK techno vocalist Ambrosia Gainous",
+          "area": "United Kingdom",
+          "exact_name": true,
+          "score": 85
+        },
+        {
+          "mbid": "f3f30db8-149f-4b79-8a21-dc438861f932",
+          "name": "Ambrosia",
+          "profile_url": "https://musicbrainz.org/artist/f3f30db8-149f-4b79-8a21-dc438861f932",
+          "disambiguation": "North West Uk Band",
+          "area": null,
+          "exact_name": true,
+          "score": 85
+        },
+        {
+          "mbid": "ce174269-15b5-4779-823f-006eba5d347a",
+          "name": "Ambrosia",
+          "profile_url": "https://musicbrainz.org/artist/ce174269-15b5-4779-823f-006eba5d347a",
+          "disambiguation": "Inside Your Arms",
+          "area": null,
+          "exact_name": true,
+          "score": 84
+        },
+        {
+          "mbid": "b9988481-eb99-4795-8885-5e9aed246644",
+          "name": "Ambrosia",
+          "profile_url": "https://musicbrainz.org/artist/b9988481-eb99-4795-8885-5e9aed246644",
+          "disambiguation": "soulful house",
+          "area": null,
+          "exact_name": true,
+          "score": 84
+        },
+        {
+          "mbid": "ad4c1a65-bf97-41bd-b0d2-a531a3fd19ee",
+          "name": "Ambrosía",
+          "profile_url": "https://musicbrainz.org/artist/ad4c1a65-bf97-41bd-b0d2-a531a3fd19ee",
+          "disambiguation": "Chile",
+          "area": null,
+          "exact_name": false,
+          "score": 84
+        },
+        {
+          "mbid": "9ef3b182-67f1-4b6d-a852-cafca157384f",
+          "name": "Ambrosia",
+          "profile_url": "https://musicbrainz.org/artist/9ef3b182-67f1-4b6d-a852-cafca157384f",
+          "disambiguation": "from Latvia",
+          "area": "Latvia",
+          "exact_name": true,
+          "score": 84
+        },
+        {
+          "mbid": "4d29c2ae-d583-47b9-b219-a4a45f252aa0",
+          "name": "Ambrosia",
+          "profile_url": "https://musicbrainz.org/artist/4d29c2ae-d583-47b9-b219-a4a45f252aa0",
+          "disambiguation": "Dance, Electro",
+          "area": null,
+          "exact_name": true,
+          "score": 84
+        },
+        {
+          "mbid": "c0bdfe9d-3f7e-40d4-9fe6-4b8e07cf18ce",
+          "name": "Ambrosia(@)",
+          "profile_url": "https://musicbrainz.org/artist/c0bdfe9d-3f7e-40d4-9fe6-4b8e07cf18ce",
+          "disambiguation": "Electronic & Noise project",
+          "area": null,
+          "exact_name": false,
+          "score": 84
+        }
+      ],
+      "total_candidates": 25,
+      "mbid": "1fbed090-3b82-4766-b1e8-abab89e47417",
+      "search_term": "Ambrosia",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "Andrew McMahon and his piano featuring very special guest Ivory Layne",
+      "show_ids": [
+        "bellyup:14974153"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "April and The Funk Junkies Happy Hour - April’s Birthday Bash",
+      "show_ids": [
+        "bellyup:14993293"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Armored Saint & Metal Church",
+      "show_ids": [
+        "observatory:https://www.ticketmaster.com/armored-saint-metal-church-san-diego-california-11-20-2026/event/0B0064B59F854872"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Atomic Groove Happy Hour",
+      "show_ids": [
+        "bellyup:14351714",
+        "bellyup:14351704",
+        "bellyup:14351724"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Atomic Groove Happy Hour (2-day Ticket)",
+      "show_ids": [
+        "bellyup:14391924"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Atomic Groove's A Very Merry Groovemas Holiday Dance Party Happy Hour",
+      "show_ids": [
+        "bellyup:14328174"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Atomic Groove's Here Comes The Holidays Benefit for The Red Nose Run Dance Party Happy Hour",
+      "show_ids": [
+        "bellyup:14999903"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Atomic Groove's NYE After Party Dance Party Happy Hour",
+      "show_ids": [
+        "bellyup:14351694"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Atomic Groove's Peace . Love . Good Vibez Dance Party Happy Hour",
+      "show_ids": [
+        "bellyup:14999933"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Atomic Groove's Special Edition Thursday New Year's Eve Bash Dance Party Happy Hour",
+      "show_ids": [
+        "bellyup:14391904"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Avello",
+      "show_ids": [
+        "bellyup:14381114"
+      ],
+      "candidates": [
+        {
+          "mbid": "90bcd6a7-1267-4275-af31-19e0e601ce73",
+          "name": "AVELLO",
+          "profile_url": "https://musicbrainz.org/artist/90bcd6a7-1267-4275-af31-19e0e601ce73",
+          "disambiguation": "US | EDM",
+          "area": "Orlando",
+          "exact_name": true,
+          "score": 100
+        },
+        {
+          "mbid": "454907dd-f39b-4c5f-a570-26d4bf3a21f2",
+          "name": "Geni Avello",
+          "profile_url": "https://musicbrainz.org/artist/454907dd-f39b-4c5f-a570-26d4bf3a21f2",
+          "disambiguation": null,
+          "area": null,
+          "exact_name": false,
+          "score": 89
+        },
+        {
+          "mbid": "fa47e04f-dbbe-4097-87da-6a79a64e2e52",
+          "name": "Guillermo Avello",
+          "profile_url": "https://musicbrainz.org/artist/fa47e04f-dbbe-4097-87da-6a79a64e2e52",
+          "disambiguation": "cover photography of Rob Tognoni’s “Casino Placebo” album",
+          "area": null,
+          "exact_name": false,
+          "score": 89
+        },
+        {
+          "mbid": "4decdf19-3bec-4265-9b6a-272d720d6465",
+          "name": "Philip S. Avello",
+          "profile_url": "https://musicbrainz.org/artist/4decdf19-3bec-4265-9b6a-272d720d6465",
+          "disambiguation": null,
+          "area": null,
+          "exact_name": false,
+          "score": 83
+        }
+      ],
+      "total_candidates": 4,
+      "mbid": "90bcd6a7-1267-4275-af31-19e0e601ce73",
+      "search_term": "Avello",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "B-Side Players, Elijah Emanuel",
+      "show_ids": [
+        "bellyup:14219064"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "BERTHA: Grateful Drag",
+      "show_ids": [
+        "bellyup:14989283"
+      ],
+      "candidates": [
+        {
+          "mbid": "1892e3d4-7929-452e-9bb2-b4186d3f63fc",
+          "name": "Bertha",
+          "profile_url": "https://musicbrainz.org/artist/1892e3d4-7929-452e-9bb2-b4186d3f63fc",
+          "disambiguation": null,
+          "area": null,
+          "exact_name": false,
+          "score": 100
+        },
+        {
+          "mbid": "0748ffcc-16c6-413a-801c-04e57f02369f",
+          "name": "Bertha Egnos",
+          "profile_url": "https://musicbrainz.org/artist/0748ffcc-16c6-413a-801c-04e57f02369f",
+          "disambiguation": null,
+          "area": "South Africa",
+          "exact_name": false,
+          "score": 98
+        },
+        {
+          "mbid": "4e1f015f-d5e1-434d-bb3f-4b8ff9534c1b",
+          "name": "Bertha",
+          "profile_url": "https://musicbrainz.org/artist/4e1f015f-d5e1-434d-bb3f-4b8ff9534c1b",
+          "disambiguation": "recorded by Mike Skeet",
+          "area": null,
+          "exact_name": false,
+          "score": 98
+        },
+        {
+          "mbid": "c9dc38dc-022b-4830-ba0f-acffce98f01a",
+          "name": "Bertha",
+          "profile_url": "https://musicbrainz.org/artist/c9dc38dc-022b-4830-ba0f-acffce98f01a",
+          "disambiguation": "hardtek, track “Brisigr”",
+          "area": null,
+          "exact_name": false,
+          "score": 98
+        },
+        {
+          "mbid": "7a4b219c-3e94-4238-82e5-adc29e88f48c",
+          "name": "Bertha",
+          "profile_url": "https://musicbrainz.org/artist/7a4b219c-3e94-4238-82e5-adc29e88f48c",
+          "disambiguation": "Party Animals",
+          "area": null,
+          "exact_name": false,
+          "score": 98
+        },
+        {
+          "mbid": "35d0ad3f-3e69-44a8-8251-bdb9ebbc5a90",
+          "name": "Bertha",
+          "profile_url": "https://musicbrainz.org/artist/35d0ad3f-3e69-44a8-8251-bdb9ebbc5a90",
+          "disambiguation": "Grouch from Sesame Street",
+          "area": null,
+          "exact_name": false,
+          "score": 98
+        },
+        {
+          "mbid": "9766a6c5-4d85-4f17-8221-e5ce30b0ac6c",
+          "name": "BERTHA",
+          "profile_url": "https://musicbrainz.org/artist/9766a6c5-4d85-4f17-8221-e5ce30b0ac6c",
+          "disambiguation": "Grateful Drag",
+          "area": "Nashville",
+          "exact_name": false,
+          "score": 98
+        },
+        {
+          "mbid": "a60a28e9-d4bb-4223-9e99-419f1913bd58",
+          "name": "Bertha",
+          "profile_url": "https://musicbrainz.org/artist/a60a28e9-d4bb-4223-9e99-419f1913bd58",
+          "disambiguation": "played on Sea.Hear.Now Festival",
+          "area": null,
+          "exact_name": false,
+          "score": 98
+        },
+        {
+          "mbid": "9a0bc465-9174-432d-a85d-54c8dec8a93c",
+          "name": "Bertha “Chippie” Hill",
+          "profile_url": "https://musicbrainz.org/artist/9a0bc465-9174-432d-a85d-54c8dec8a93c",
+          "disambiguation": null,
+          "area": "United States",
+          "exact_name": false,
+          "score": 95
+        },
+        {
+          "mbid": "4db2a6a7-8bc6-4a53-b3a5-b6250ad31146",
+          "name": "Little Dead Bertha",
+          "profile_url": "https://musicbrainz.org/artist/4db2a6a7-8bc6-4a53-b3a5-b6250ad31146",
+          "disambiguation": null,
+          "area": "Russia",
+          "exact_name": false,
+          "score": 95
+        }
+      ],
+      "total_candidates": 72,
+      "reason": "no_active_official_homepage",
+      "mbid": "1892e3d4-7929-452e-9bb2-b4186d3f63fc",
+      "search_term": "BERTHA",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "BETAMAXX Happy Hour",
+      "show_ids": [
+        "bellyup:14328624"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Billy Joel 2 Elton John Featuring Adam Shapiro of Billy Nation and Kenny Metcalf",
+      "show_ids": [
+        "bellyup:14369104"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "bunii",
+      "show_ids": [
+        "soma:20261104:bunii"
+      ],
+      "candidates": [
+        {
+          "mbid": "bf1518de-586d-43a2-b4dd-9074b03d22d4",
+          "name": "bunii",
+          "profile_url": "https://musicbrainz.org/artist/bf1518de-586d-43a2-b4dd-9074b03d22d4",
+          "disambiguation": null,
+          "area": "Los Angeles",
+          "exact_name": true,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "mbid": "bf1518de-586d-43a2-b4dd-9074b03d22d4",
+      "search_term": "bunii",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "Chasing Abbey - North America Tour Spring 2027",
+      "show_ids": [
+        "bellyup:14303254"
+      ],
+      "candidates": [
+        {
+          "mbid": "00c37ba2-20e6-41d6-9432-441bf5ecea74",
+          "name": "Chasing Abbey",
+          "profile_url": "https://musicbrainz.org/artist/00c37ba2-20e6-41d6-9432-441bf5ecea74",
+          "disambiguation": "Ireland",
+          "area": "Ireland",
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "00c37ba2-20e6-41d6-9432-441bf5ecea74",
+      "search_term": "Chasing Abbey",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "Chris Acker, Kinsey Lee",
+      "show_ids": [
+        "sodabar:https://dice.fm/event/chris-acker-kinsey-lee-4th-nov-soda-bar-san-diego-tickets"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Christian Kuria",
+      "show_ids": [
+        "quartyard:20270305:Christian Kuria"
+      ],
+      "candidates": [
+        {
+          "mbid": "b8d45ed6-5a81-41d5-a59c-ea92aab9c722",
+          "name": "Christian Kuria",
+          "profile_url": "https://musicbrainz.org/artist/b8d45ed6-5a81-41d5-a59c-ea92aab9c722",
+          "disambiguation": null,
+          "area": "United States",
+          "exact_name": true,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "mbid": "b8d45ed6-5a81-41d5-a59c-ea92aab9c722",
+      "search_term": "Christian Kuria",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "Clara La San - Chosen Silences Tour Fall 2026 w/ SAUSHA",
+      "show_ids": [
+        "bellyup:15035903"
+      ],
+      "candidates": [
+        {
+          "mbid": "56393a36-155f-4f50-adbe-45f4a26c40bf",
+          "name": "Clara La San",
+          "profile_url": "https://musicbrainz.org/artist/56393a36-155f-4f50-adbe-45f4a26c40bf",
+          "disambiguation": null,
+          "area": "United Kingdom",
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "56393a36-155f-4f50-adbe-45f4a26c40bf",
+      "search_term": "Clara La San",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "Clay Street Unit, Poor Thing",
+      "show_ids": [
+        "bellyup:14221724"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Club Ironmouse San Diego 2026 (18+ W/ VALID ID)",
+      "show_ids": [
+        "observatory:https://www.ticketmaster.com/club-ironmouse-san-diego-2026-18-san-diego-california-11-12-2026/event/0B00653CCB7A71A6"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Clyde McGee (Bridge City Sinners), Bosko Baker",
+      "show_ids": [
+        "sodabar:https://dice.fm/event/clyde-mcgee-bridge-city-sinners-bosko-baker-2nd-nov-soda-bar-san-diego-tickets"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Daniel Donato's Cosmic Country - Along the Trail Tour Winter & Spring 2027",
+      "show_ids": [
+        "bellyup:14381034"
+      ],
+      "candidates": [
+        {
+          "mbid": "f9d9e995-c8a1-48f5-a112-90353670f91d",
+          "name": "Daniel Donato's Cosmic Country",
+          "profile_url": "https://musicbrainz.org/artist/f9d9e995-c8a1-48f5-a112-90353670f91d",
+          "disambiguation": "Americana country group from Nashville, TN",
+          "area": "Nashville",
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "f9d9e995-c8a1-48f5-a112-90353670f91d",
+      "search_term": "Daniel Donato's Cosmic Country",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "Daring Greatly and Friends w/ Patch & Maggi",
+      "show_ids": [
+        "bellyup:14291494"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Desire, Mothermary, Johnny Jewel",
+      "show_ids": [
+        "sodabar:https://dice.fm/event/desire-mothermary-johnny-jewel-1st-nov-soda-bar-san-diego-tickets"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Desperado (The Nation's Premier Eagles Tribute), Fleetwood Max",
+      "show_ids": [
+        "bellyup:14300064"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "DJ Meredith Marks - YOU. CAN. DANCE. Tour",
+      "show_ids": [
+        "bellyup:14312544"
+      ],
+      "candidates": [
+        {
+          "mbid": "6c8d7f40-6dd1-4c6c-b993-d9ad49d62c85",
+          "name": "DJ Meredith Marks",
+          "profile_url": "https://musicbrainz.org/artist/6c8d7f40-6dd1-4c6c-b993-d9ad49d62c85",
+          "disambiguation": null,
+          "area": null,
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "6c8d7f40-6dd1-4c6c-b993-d9ad49d62c85",
+      "search_term": "DJ Meredith Marks",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "Dogs In A Pile, Audio Perdisco",
+      "show_ids": [
+        "bellyup:14367584"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Dogs In A Pile, Three Legged Dog",
+      "show_ids": [
+        "bellyup:14367574"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Donavon Frankenreiter + The Band Of Heathens - Rolling Together Revue",
+      "show_ids": [
+        "bellyup:14275514",
+        "bellyup:14275554"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Easy Wind - A Jerry Christmas",
+      "show_ids": [
+        "bellyup:15000693"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Electric Waste Band Happy Hour - A Benefit for The Bill Walton Foundation",
+      "show_ids": [
+        "bellyup:14336674"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Eslabon Armado",
+      "show_ids": [
+        "soma:20261205:Eslabon Armado"
+      ],
+      "candidates": [
+        {
+          "mbid": "c748f5d2-eac8-4570-a9cc-d2d03d0a6092",
+          "name": "Eslabón Armado",
+          "profile_url": "https://musicbrainz.org/artist/c748f5d2-eac8-4570-a9cc-d2d03d0a6092",
+          "disambiguation": null,
+          "area": "United States",
+          "exact_name": false,
+          "score": 100
+        },
+        {
+          "mbid": "0f5c273b-8ceb-456a-a6a0-a0798440e2c2",
+          "name": "Eslabón Armado & Gabito Ballesteros",
+          "profile_url": "https://musicbrainz.org/artist/0f5c273b-8ceb-456a-a6a0-a0798440e2c2",
+          "disambiguation": null,
+          "area": null,
+          "exact_name": false,
+          "score": 72
+        }
+      ],
+      "total_candidates": 2,
+      "mbid": "c748f5d2-eac8-4570-a9cc-d2d03d0a6092",
+      "search_term": "Eslabon Armado",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "Faetooth &#038; Glixen",
+      "show_ids": [
+        "soma:20261219:Faetooth &#038; Glixen"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Father Of Peace",
+      "show_ids": [
+        "soma:20261108:Father Of Peace"
+      ],
+      "candidates": [
+        {
+          "mbid": "945725d3-e3ef-41bf-ab1b-58d8d53d032b",
+          "name": "Father of Peace",
+          "profile_url": "https://musicbrainz.org/artist/945725d3-e3ef-41bf-ab1b-58d8d53d032b",
+          "disambiguation": null,
+          "area": "Israel",
+          "exact_name": true,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "mbid": "945725d3-e3ef-41bf-ab1b-58d8d53d032b",
+      "search_term": "Father Of Peace",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "Fiesta Del Sol - Battle of the Bands",
+      "show_ids": [
+        "bellyup:14359514"
+      ],
+      "candidates": [
+        {
+          "mbid": "0927e36d-7364-49cf-981d-34d218912e29",
+          "name": "Fiesta del Sol",
+          "profile_url": "https://musicbrainz.org/artist/0927e36d-7364-49cf-981d-34d218912e29",
+          "disambiguation": null,
+          "area": null,
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "0927e36d-7364-49cf-981d-34d218912e29",
+      "search_term": "Fiesta Del Sol",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "FNGRS CRSSD presents J. WORRA at Quartyard",
+      "show_ids": [
+        "quartyard:20261129:FNGRS CRSSD presents J. WORRA at Quartya"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Fred Tackett & Scott Sharrard (From Little Feat), Dylan Salfer",
+      "show_ids": [
+        "bellyup:15046453"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Full Strength",
+      "show_ids": [
+        "bellyup:15049843"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Gary Numan North American Fall Tour 2026",
+      "show_ids": [
+        "observatory:https://www.ticketmaster.com/gary-numan-north-american-fall-tour-san-diego-california-11-25-2026/event/0B00649B7DB922EA"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Gin Blossoms, Honeygirl",
+      "show_ids": [
+        "bellyup:14262924"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Girl Ultra: el Tour de RRRomeo",
+      "show_ids": [
+        "quartyard:20270223:Girl Ultra: el Tour de RRRomeo"
+      ],
+      "candidates": [
+        {
+          "mbid": "722c286b-39aa-4757-ad40-d2e5550bd254",
+          "name": "Girl Ultra",
+          "profile_url": "https://musicbrainz.org/artist/722c286b-39aa-4757-ad40-d2e5550bd254",
+          "disambiguation": "Nan De Miguel",
+          "area": "Ciudad de México",
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "722c286b-39aa-4757-ad40-d2e5550bd254",
+      "search_term": "Girl Ultra",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "Glen Phillips (of Toad the Wet Sprocket) with special guest Matt the Electrician",
+      "show_ids": [
+        "bellyup:14300114"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Halloween Heat featuring 80's Heat, Bella Lux , DJ Senzø",
+      "show_ids": [
+        "bellyup:15000673"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Hit The Lights, Forever Came Calling, Fox Royale",
+      "show_ids": [
+        "sodabar:https://dice.fm/event/hit-the-lights-forever-came-calling-fox-royale-6th-nov-soda-bar-san-diego-tickets"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Holy Wave, Queen Serene, San Diego Freak Out DJs",
+      "show_ids": [
+        "sodabar:https://dice.fm/event/holy-wave-queen-serene-san-diego-freak-out-djs-8th-nov-soda-bar-san-diego-tickets"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Home Alone 2: Lost in New York – Live In Concert",
+      "show_ids": [
+        "radyshell:20261212:Home Alone 2: Lost in New York"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "How The Grouch Stole Christmas Tour - The Grouch & Eligh ft. Amp Live w/ Special Guests Brother Ali and Lyrics Born",
+      "show_ids": [
+        "bellyup:14296694"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "INOHA - This Might Be Useful Tour w/ Buddha Trixie & Flight By Nothing",
+      "show_ids": [
+        "bellyup:14204764"
+      ],
+      "candidates": [
+        {
+          "mbid": "36b26d21-ed37-4462-b697-181113237de1",
+          "name": "INOHA",
+          "profile_url": "https://musicbrainz.org/artist/36b26d21-ed37-4462-b697-181113237de1",
+          "disambiguation": null,
+          "area": "San Antonio",
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "36b26d21-ed37-4462-b697-181113237de1",
+      "search_term": "INOHA",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "ISAIAH RASHAD",
+      "show_ids": [
+        "soma:20261119:ISAIAH RASHAD"
+      ],
+      "candidates": [
+        {
+          "mbid": "37547347-ea75-45fa-9766-ff36b44d8147",
+          "name": "Isaiah Rashad",
+          "profile_url": "https://musicbrainz.org/artist/37547347-ea75-45fa-9766-ff36b44d8147",
+          "disambiguation": null,
+          "area": "United States",
+          "exact_name": true,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "mbid": "37547347-ea75-45fa-9766-ff36b44d8147",
+      "search_term": "ISAIAH RASHAD",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "Jacob Collier and the Audience Orchestra, Conducted by Suzie Collier",
+      "show_ids": [
+        "radyshell:20270306:Jacob Collier and the Audience"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Jady, colby!, TJ Minor",
+      "show_ids": [
+        "sodabar:https://dice.fm/event/jady-colby-tj-minor-9th-nov-soda-bar-san-diego-tickets"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Jam Down Sunday",
+      "show_ids": [
+        "quartyard:20261206:Jam Down Sunday"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "James Marriott - World Tour",
+      "show_ids": [
+        "bellyup:14328374"
+      ],
+      "candidates": [
+        {
+          "mbid": "afe148c6-63ed-43c7-9db1-36fb7c87a44f",
+          "name": "James Marriott",
+          "profile_url": "https://musicbrainz.org/artist/afe148c6-63ed-43c7-9db1-36fb7c87a44f",
+          "disambiguation": "British musician and YouTuber",
+          "area": "Brighton",
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "afe148c6-63ed-43c7-9db1-36fb7c87a44f",
+      "search_term": "James Marriott",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "Jimi Hendrix Celebration featuring Jeff Moore, Isaiah Mitchell & Anthony Cullins with special guests Jeff Ruiz & Marc Ford",
+      "show_ids": [
+        "bellyup:14246294"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Jimmy's Buffet - 3rd Annual Buffett Birthday Bash",
+      "show_ids": [
+        "bellyup:14221484"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "John Splithoff - 2027 Tour",
+      "show_ids": [
+        "bellyup:14367924"
+      ],
+      "candidates": [
+        {
+          "mbid": "9067ff50-ad4b-469d-90bc-24c4762c3f83",
+          "name": "John Splithoff",
+          "profile_url": "https://musicbrainz.org/artist/9067ff50-ad4b-469d-90bc-24c4762c3f83",
+          "disambiguation": null,
+          "area": null,
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "9067ff50-ad4b-469d-90bc-24c4762c3f83",
+      "search_term": "John Splithoff",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "Jose Madero - USA Tour 2026",
+      "show_ids": [
+        "observatory:https://www.ticketmaster.com/jose-madero-usa-tour-2026-san-diego-california-11-05-2026/event/0B0064D2AD5834D0"
+      ],
+      "candidates": [
+        {
+          "mbid": "b8a6219a-bd18-4450-a8f9-f97ca110fdda",
+          "name": "José Madero",
+          "profile_url": "https://musicbrainz.org/artist/b8a6219a-bd18-4450-a8f9-f97ca110fdda",
+          "disambiguation": null,
+          "area": "Mexico",
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "b8a6219a-bd18-4450-a8f9-f97ca110fdda",
+      "search_term": "Jose Madero",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "Journey USA, Hair Force One",
+      "show_ids": [
+        "bellyup:14359364"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "JSTJR",
+      "show_ids": [
+        "soma:20261114:JSTJR"
+      ],
+      "candidates": [
+        {
+          "mbid": "38c95aaf-0873-4c51-b197-771eb116a1d7",
+          "name": "JSTJR",
+          "profile_url": "https://musicbrainz.org/artist/38c95aaf-0873-4c51-b197-771eb116a1d7",
+          "disambiguation": "EDM producer James S. Tomaszewski, Jr",
+          "area": "Boston",
+          "exact_name": true,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "mbid": "38c95aaf-0873-4c51-b197-771eb116a1d7",
+      "search_term": "JSTJR",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "KBong, Johnny Cosmic, Brendan Clemente",
+      "show_ids": [
+        "bellyup:14250254"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "KBong, Johnny Cosmic, Swooon",
+      "show_ids": [
+        "bellyup:14250234"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "KOMPANY (IN THE ROUND) presents ACQUISITION SOCAL w/ BEASTBOI and CARELESS CASTLE",
+      "show_ids": [
+        "bellyup:14376214"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Kurt Travis",
+      "show_ids": [
+        "soma:20261103:Kurt Travis"
+      ],
+      "candidates": [
+        {
+          "mbid": "1be7bc65-07e1-4df6-9546-304e5800293e",
+          "name": "Kurt Travis",
+          "profile_url": "https://musicbrainz.org/artist/1be7bc65-07e1-4df6-9546-304e5800293e",
+          "disambiguation": null,
+          "area": "United States",
+          "exact_name": true,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "mbid": "1be7bc65-07e1-4df6-9546-304e5800293e",
+      "search_term": "Kurt Travis",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "L.A.B - USA / CANADA TOUR 2027 w/ Seven Suns",
+      "show_ids": [
+        "bellyup:14325574"
+      ],
+      "candidates": [
+        {
+          "mbid": "b2ecfc7e-b61e-40eb-9fc5-4d29dfd59d20",
+          "name": "L.A.B.",
+          "profile_url": "https://musicbrainz.org/artist/b2ecfc7e-b61e-40eb-9fc5-4d29dfd59d20",
+          "disambiguation": "New Zealand eclectic reggae, electronic, blues, rock and funk band",
+          "area": "New Zealand",
+          "exact_name": false,
+          "score": 100
+        },
+        {
+          "mbid": "32ff0254-5c1f-425c-910a-ff62ff888ca2",
+          "name": "Lab 4",
+          "profile_url": "https://musicbrainz.org/artist/32ff0254-5c1f-425c-910a-ff62ff888ca2",
+          "disambiguation": null,
+          "area": "United Kingdom",
+          "exact_name": false,
+          "score": 98
+        },
+        {
+          "mbid": "05a8fca6-3178-4f95-ad82-d325bc6102fe",
+          "name": "Ivy Lab",
+          "profile_url": "https://musicbrainz.org/artist/05a8fca6-3178-4f95-ad82-d325bc6102fe",
+          "disambiguation": null,
+          "area": "London",
+          "exact_name": false,
+          "score": 98
+        },
+        {
+          "mbid": "6977ec07-9d54-4151-b5ef-f4697afc9aee",
+          "name": "Black Lab",
+          "profile_url": "https://musicbrainz.org/artist/6977ec07-9d54-4151-b5ef-f4697afc9aee",
+          "disambiguation": null,
+          "area": "United States",
+          "exact_name": false,
+          "score": 97
+        },
+        {
+          "mbid": "f2ec5c64-3ef5-4548-825a-ce14f631b93b",
+          "name": "Acid_Lab",
+          "profile_url": "https://musicbrainz.org/artist/f2ec5c64-3ef5-4548-825a-ce14f631b93b",
+          "disambiguation": "German drum & bass artist Daniel Schwerdel",
+          "area": "Germany",
+          "exact_name": false,
+          "score": 96
+        },
+        {
+          "mbid": "6c6d0dfa-1771-4a00-a02e-5412974a22d4",
+          "name": "The Cornell Lab of Ornithology",
+          "profile_url": "https://musicbrainz.org/artist/6c6d0dfa-1771-4a00-a02e-5412974a22d4",
+          "disambiguation": null,
+          "area": "United States",
+          "exact_name": false,
+          "score": 96
+        },
+        {
+          "mbid": "f624f0d4-94e9-44d5-8108-1bd6ada5b45c",
+          "name": "LAB",
+          "profile_url": "https://musicbrainz.org/artist/f624f0d4-94e9-44d5-8108-1bd6ada5b45c",
+          "disambiguation": "Finnish rock band",
+          "area": "Finland",
+          "exact_name": false,
+          "score": 96
+        },
+        {
+          "mbid": "ba9945e2-e9dc-413d-bca3-d81d4f924bd2",
+          "name": "Lab’s Cloud",
+          "profile_url": "https://musicbrainz.org/artist/ba9945e2-e9dc-413d-bca3-d81d4f924bd2",
+          "disambiguation": null,
+          "area": "Spain",
+          "exact_name": false,
+          "score": 94
+        },
+        {
+          "mbid": "a38246a2-76b9-4735-b338-76fcd85f770c",
+          "name": "Lab°",
+          "profile_url": "https://musicbrainz.org/artist/a38246a2-76b9-4735-b338-76fcd85f770c",
+          "disambiguation": null,
+          "area": "France",
+          "exact_name": false,
+          "score": 94
+        },
+        {
+          "mbid": "60cfda4e-2f84-480e-800b-b707cbadf774",
+          "name": "Music Lab Collective",
+          "profile_url": "https://musicbrainz.org/artist/60cfda4e-2f84-480e-800b-b707cbadf774",
+          "disambiguation": "classical cross‐over",
+          "area": null,
+          "exact_name": false,
+          "score": 93
+        }
+      ],
+      "total_candidates": 391,
+      "reason": "no_active_official_homepage",
+      "mbid": "b2ecfc7e-b61e-40eb-9fc5-4d29dfd59d20",
+      "search_term": "L.A.B",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "LED presents SHERMANOLOGY at Quartyard",
+      "show_ids": [
+        "quartyard:20261107:LED presents SHERMANOLOGY at Quartyard"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "LUCY (Cooper B. Handy), F.G.S.",
+      "show_ids": [
+        "sodabar:https://dice.fm/event/lucy-cooper-b-handy-fgs-31st-oct-soda-bar-san-diego-tickets"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Luke Kidgell - Live in the USA - early show",
+      "show_ids": [
+        "sodabar:https://dice.fm/event/luke-kidgell-live-in-the-usa-early-show-7th-nov-soda-bar-san-diego-tickets"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Luke Kidgell - Live in the USA - late show",
+      "show_ids": [
+        "sodabar:https://dice.fm/event/luke-kidgell-live-in-the-usa-late-show-7th-nov-soda-bar-san-diego-tickets"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Marci, The Booyah! Kids",
+      "show_ids": [
+        "sodabar:https://dice.fm/event/marci-the-booyah-kids-3rd-nov-soda-bar-san-diego-tickets"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Melvin Seals and JGB",
+      "show_ids": [
+        "bellyup:14291384"
+      ],
+      "candidates": [
+        {
+          "mbid": "6d516230-b18f-4ba9-95b1-4e7aa6646a4b",
+          "name": "Melvin Seals & JGB",
+          "profile_url": "https://musicbrainz.org/artist/6d516230-b18f-4ba9-95b1-4e7aa6646a4b",
+          "disambiguation": null,
+          "area": null,
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "mbid": "6d516230-b18f-4ba9-95b1-4e7aa6646a4b",
+      "search_term": "Melvin Seals and JGB",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "Michael Shannon & Jason Narducy and Friends play R.E.M.’s Document",
+      "show_ids": [
+        "bellyup:14341544"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Nancarrow, Brawley, Matt Axton & Badmoon",
+      "show_ids": [
+        "bellyup:14342244"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Ne'Ol Soul: 1 Year Anniversary",
+      "show_ids": [
+        "quartyard:20261105:Ne'Ol Soul: 1 Year Anniversary"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Never Die Young - The James Taylor and Carole King Holiday Show",
+      "show_ids": [
+        "bellyup:14300534"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "nimino: keep me awake tour",
+      "show_ids": [
+        "bellyup:14974573"
+      ],
+      "candidates": [
+        {
+          "mbid": "e4f6a122-099e-4ced-9efe-f46da2a790fb",
+          "name": "nimino",
+          "profile_url": "https://musicbrainz.org/artist/e4f6a122-099e-4ced-9efe-f46da2a790fb",
+          "disambiguation": null,
+          "area": "United Kingdom",
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "e4f6a122-099e-4ced-9efe-f46da2a790fb",
+      "search_term": "nimino",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "No Duh, Fooz Fighters",
+      "show_ids": [
+        "bellyup:14366524"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "No Tengo Calma Tour 2026 featuring PRAYERS, DEVORA, EX LOVER and HALLOWS",
+      "show_ids": [
+        "bellyup:15013573"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Noel Noel",
+      "show_ids": [
+        "radyshell:20261218:Noel Noel",
+        "radyshell:20261219:Noel Noel",
+        "radyshell:20261220:Noel Noel"
+      ],
+      "candidates": [
+        {
+          "mbid": "4ff2c2c1-2c66-42e9-893f-50ea3048b96c",
+          "name": "Noël‐Noël",
+          "profile_url": "https://musicbrainz.org/artist/4ff2c2c1-2c66-42e9-893f-50ea3048b96c",
+          "disambiguation": null,
+          "area": "France",
+          "exact_name": false,
+          "score": 100
+        },
+        {
+          "mbid": "cbc0150a-cded-48f5-98b0-859923daae72",
+          "name": "Noel Noel",
+          "profile_url": "https://musicbrainz.org/artist/cbc0150a-cded-48f5-98b0-859923daae72",
+          "disambiguation": "mixer",
+          "area": null,
+          "exact_name": true,
+          "score": 99
+        }
+      ],
+      "total_candidates": 2,
+      "mbid": "4ff2c2c1-2c66-42e9-893f-50ea3048b96c",
+      "search_term": "Noel Noel",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "NONSTOP Presents: HUGEL “Make The Girls Dance”",
+      "show_ids": [
+        "radyshell:20261106:NONSTOP Presents: HUGEL “Make "
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Oceans & The Imposters Happy Hour",
+      "show_ids": [
+        "bellyup:15029833"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Ozomatli, SeaPoodle",
+      "show_ids": [
+        "bellyup:14288554"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Patrick Warburton - Patrick Warburton is still Catholic w/ Talon Warburton",
+      "show_ids": [
+        "bellyup:14890173"
+      ],
+      "candidates": [
+        {
+          "mbid": "b828a979-4c06-4224-a6f2-f141b0c624fc",
+          "name": "Patrick Warburton",
+          "profile_url": "https://musicbrainz.org/artist/b828a979-4c06-4224-a6f2-f141b0c624fc",
+          "disambiguation": "US actor",
+          "area": "New Jersey",
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "b828a979-4c06-4224-a6f2-f141b0c624fc",
+      "search_term": "Patrick Warburton",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "Paul Oakenfold + The Crystal Method - Mission Underground 2026 Tour w/ Liquid Todd",
+      "show_ids": [
+        "bellyup:14267124"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Pete Yorn (solo acoustic) - 25th Anniversary of musicforthemorningafter",
+      "show_ids": [
+        "bellyup:14313814"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "PillowTalk, Andrew Wilkinson, DÜKANK",
+      "show_ids": [
+        "quartyard:20261122:PillowTalk, Andrew Wilkinson, DÜKANK"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Poncho Sanchez, The Sleepwalkers",
+      "show_ids": [
+        "bellyup:14993023"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "QUE RICO ES SER LATINO",
+      "show_ids": [
+        "quartyard:20261213:QUE RICO ES SER LATINO"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Queen Nation, DJ Organic Hispanic",
+      "show_ids": [
+        "bellyup:14265204"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "R&B Block Party: Halloween Costume Party",
+      "show_ids": [
+        "quartyard:20261031:R&B Block Party: Halloween Costume Party"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "R&B Block Party: Hip Hop Holiday Party",
+      "show_ids": [
+        "quartyard:20261121:R&B Block Party: Hip Hop Holiday Party"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Rachael & Vilray, Taylor Ashton",
+      "show_ids": [
+        "bellyup:14235644"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Rebirth Brass Band, Nathan & The Zydeco Cha Chas",
+      "show_ids": [
+        "bellyup:14339024"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Richard Thompson & Band - Hippies, Thugs, and Heroes Tour w/ Special guests Clayton Linthicum and Quinn Bachand",
+      "show_ids": [
+        "bellyup:14368204",
+        "bellyup:14368214"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Robby Hoffman: Live On Tour",
+      "show_ids": [
+        "observatory:https://www.ticketmaster.com/robby-hoffman-live-on-tour-san-diego-california-11-07-2026/event/0B0064ABD366567F",
+        "observatory:https://www.ticketmaster.com/robby-hoffman-live-on-tour-san-diego-california-11-07-2026/event/0B0064BB7F892D4D",
+        "observatory:https://www.ticketmaster.com/robby-hoffman-live-on-tour-san-diego-california-11-08-2026/event/0B00650BBBC45A23",
+        "observatory:https://www.ticketmaster.com/robby-hoffman-live-on-tour-san-diego-california-11-08-2026/event/0B0064FB97812CA6"
+      ],
+      "candidates": [
+        {
+          "mbid": "83a67726-057a-4c75-8a4c-bbe9781570cc",
+          "name": "Robby Hoffman",
+          "profile_url": "https://musicbrainz.org/artist/83a67726-057a-4c75-8a4c-bbe9781570cc",
+          "disambiguation": "comedian",
+          "area": "United States",
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "83a67726-057a-4c75-8a4c-bbe9781570cc",
+      "search_term": "Robby Hoffman",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "San Diego Freak Out Presents: Triptophantasia",
+      "show_ids": [
+        "quartyard:20261127:San Diego Freak Out Presents: Triptophan"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Saved By The 90s, Totally 80's Band",
+      "show_ids": [
+        "bellyup:14236984"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "SIESTA FIESTA",
+      "show_ids": [
+        "quartyard:20261128:SIESTA FIESTA"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "SLASH featuring Myles Kennedy and The Conspirators – Flying Blind World Tour 2027",
+      "show_ids": [
+        "bellyup:14356274"
+      ],
+      "candidates": [
+        {
+          "mbid": "7ce51ba7-91f4-46aa-a030-1e22aaa7510d",
+          "name": "Slash featuring Myles Kennedy and the Conspirators",
+          "profile_url": "https://musicbrainz.org/artist/7ce51ba7-91f4-46aa-a030-1e22aaa7510d",
+          "disambiguation": null,
+          "area": "United States",
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "7ce51ba7-91f4-46aa-a030-1e22aaa7510d",
+      "search_term": "SLASH featuring Myles Kennedy and The Conspirators",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "Sleepless in Seattle in Concert",
+      "show_ids": [
+        "radyshell:20261211:Sleepless in Seattle in Concer"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Slothrust, Um, Jennifer?",
+      "show_ids": [
+        "quartyard:20261115:Slothrust, Um, Jennifer?"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Son Volt, Kelly Willis",
+      "show_ids": [
+        "bellyup:14891433"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "SOUNDS OF LAUREL CANYON A Back to the Garden StoryConcert™ special guests Calman Hart and Lauren Leigh",
+      "show_ids": [
+        "bellyup:14368694"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Spike and the Gimme Gimmes",
+      "show_ids": [
+        "observatory:https://www.ticketmaster.com/spike-and-the-gimme-gimmes-san-diego-california-12-04-2026/event/0B00652FD9607FA1"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "SPILL IT: 3 MIN MIC",
+      "show_ids": [
+        "observatory:https://www.ticketmaster.com/spill-it-3-min-mic-21-san-diego-california-11-06-2026/event/0B006549AE237DF3"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Steve Poltz & The Rugburns - 18th Annual 50th Birthday Bash",
+      "show_ids": [
+        "bellyup:14219554"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "strongboi headline tour 2027",
+      "show_ids": [
+        "quartyard:20270312:strongboi headline tour 2027"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Surely Tempo",
+      "show_ids": [
+        "soma:20261129:Surely Tempo"
+      ],
+      "candidates": [
+        {
+          "mbid": "f8d300ad-e5ba-41bb-984d-572af12d36f0",
+          "name": "Surely Tempo",
+          "profile_url": "https://musicbrainz.org/artist/f8d300ad-e5ba-41bb-984d-572af12d36f0",
+          "disambiguation": null,
+          "area": null,
+          "exact_name": true,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "mbid": "f8d300ad-e5ba-41bb-984d-572af12d36f0",
+      "search_term": "Surely Tempo",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "Surfer Girl - The Midnight Tour w/ South Summit and JOBY!",
+      "show_ids": [
+        "bellyup:14384244"
+      ],
+      "candidates": [
+        {
+          "mbid": "cea51d1f-273a-459f-b934-afe363e303de",
+          "name": "Surfer Girl",
+          "profile_url": "https://musicbrainz.org/artist/cea51d1f-273a-459f-b934-afe363e303de",
+          "disambiguation": null,
+          "area": null,
+          "exact_name": false,
+          "score": 100
+        },
+        {
+          "mbid": "6d943802-9d4f-4a4e-a79f-b9cb9fc8d8ac",
+          "name": "Surfer Girl",
+          "profile_url": "https://musicbrainz.org/artist/6d943802-9d4f-4a4e-a79f-b9cb9fc8d8ac",
+          "disambiguation": "Doc McStuffins character",
+          "area": null,
+          "exact_name": false,
+          "score": 96
+        }
+      ],
+      "total_candidates": 2,
+      "reason": "no_active_official_homepage",
+      "mbid": "cea51d1f-273a-459f-b934-afe363e303de",
+      "search_term": "Surfer Girl",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "Surprise Chef",
+      "show_ids": [
+        "quartyard:20261101:Surprise Chef"
+      ],
+      "candidates": [
+        {
+          "mbid": "be809d9a-5841-4733-ad12-979ad6047a22",
+          "name": "Surprise Chef",
+          "profile_url": "https://musicbrainz.org/artist/be809d9a-5841-4733-ad12-979ad6047a22",
+          "disambiguation": "Australian jazz band from Melbourne",
+          "area": "Australia",
+          "exact_name": true,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "mbid": "be809d9a-5841-4733-ad12-979ad6047a22",
+      "search_term": "Surprise Chef",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "Tainted Love, Mëtal Möuse - A Hard Rockin' Tribute to Disney",
+      "show_ids": [
+        "bellyup:15000743"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Taper's Choice",
+      "show_ids": [
+        "bellyup:14368414"
+      ],
+      "candidates": [
+        {
+          "mbid": "2f21ae90-e892-48a1-9ab8-f1e476d8cfd8",
+          "name": "Taper's Choice",
+          "profile_url": "https://musicbrainz.org/artist/2f21ae90-e892-48a1-9ab8-f1e476d8cfd8",
+          "disambiguation": null,
+          "area": null,
+          "exact_name": true,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "mbid": "2f21ae90-e892-48a1-9ab8-f1e476d8cfd8",
+      "search_term": "Taper's Choice",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "The Bobby Lees, MUTTLEE, Doc Hammer",
+      "show_ids": [
+        "bellyup:14907153"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "The English Beat",
+      "show_ids": [
+        "bellyup:14359954",
+        "bellyup:14359964"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "The FABBA Disco Christmas show w/ It's Britney Beep",
+      "show_ids": [
+        "bellyup:14219394"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "The Garcia Project (Tribute To The Jerry Garcia Band)",
+      "show_ids": [
+        "bellyup:14325354"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "The Happy Return, The Grinns, Jettee",
+      "show_ids": [
+        "quartyard:20261211:The Happy Return, The Grinns, Jettee"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "The Jam Berries, Band of Gringos, Box Chevy, The Wide Eyed Kids",
+      "show_ids": [
+        "bellyup:14384764"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "The Staples - Chris Stapleton Tribute, Cassie B",
+      "show_ids": [
+        "bellyup:14360074"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "The Steely Damned 2 - Holiday Show",
+      "show_ids": [
+        "bellyup:15000833"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "The Venice Christmas Show",
+      "show_ids": [
+        "bellyup:14219864"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Through the Roots",
+      "show_ids": [
+        "bellyup:14325644"
+      ],
+      "candidates": [
+        {
+          "mbid": "deb51b37-1c1a-4a1a-a10c-7844f80c1ee5",
+          "name": "Through the Roots",
+          "profile_url": "https://musicbrainz.org/artist/deb51b37-1c1a-4a1a-a10c-7844f80c1ee5",
+          "disambiguation": null,
+          "area": "San Diego",
+          "exact_name": true,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "mbid": "deb51b37-1c1a-4a1a-a10c-7844f80c1ee5",
+      "search_term": "Through the Roots",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "Tommy Castro & The Painkillers, Ana Popovic",
+      "show_ids": [
+        "bellyup:15000783"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Tribal Seeds, Dubbest, Eureka Sound",
+      "show_ids": [
+        "bellyup:15035993"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Venna",
+      "show_ids": [
+        "bellyup:15018503"
+      ],
+      "candidates": [
+        {
+          "mbid": "c529a57c-bc28-48f2-bad2-cdacae48c4af",
+          "name": "Venna",
+          "profile_url": "https://musicbrainz.org/artist/c529a57c-bc28-48f2-bad2-cdacae48c4af",
+          "disambiguation": "saxophonist, producer",
+          "area": "United Kingdom",
+          "exact_name": true,
+          "score": 100
+        },
+        {
+          "mbid": "dfd03254-fed8-41f1-8146-d6c5843baf24",
+          "name": "Venna",
+          "profile_url": "https://musicbrainz.org/artist/dfd03254-fed8-41f1-8146-d6c5843baf24",
+          "disambiguation": "Illinois/Wisconsin indie folk",
+          "area": "United States",
+          "exact_name": true,
+          "score": 94
+        },
+        {
+          "mbid": "634c747f-3b83-4083-9455-9763b35dd84c",
+          "name": "Aino Venna",
+          "profile_url": "https://musicbrainz.org/artist/634c747f-3b83-4083-9455-9763b35dd84c",
+          "disambiguation": null,
+          "area": "Finland",
+          "exact_name": false,
+          "score": 90
+        },
+        {
+          "mbid": "b4feca30-e5a3-4b14-a133-9fa52d62d868",
+          "name": "Venna Keith",
+          "profile_url": "https://musicbrainz.org/artist/b4feca30-e5a3-4b14-a133-9fa52d62d868",
+          "disambiguation": null,
+          "area": null,
+          "exact_name": false,
+          "score": 85
+        }
+      ],
+      "total_candidates": 4,
+      "mbid": "c529a57c-bc28-48f2-bad2-cdacae48c4af",
+      "search_term": "Venna",
+      "match_method": "musicbrainz_highest_ranked_result",
+      "reason": "no_active_official_homepage"
+    },
+    {
+      "name": "Voice of San Diego: Brews & News Live Podcast",
+      "show_ids": [
+        "sodabar:https://dice.fm/event/voice-of-san-diego-brews-news-live-podcast-10th-nov-soda-bar-san-diego-tickets"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Wayward Sons, DJ Mr. 80s",
+      "show_ids": [
+        "bellyup:14370524"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Wheeler Walker Jr. - Pullin’ Out: The Farewell Tour",
+      "show_ids": [
+        "bellyup:14972463"
+      ],
+      "candidates": [
+        {
+          "mbid": "1886d75c-13be-42c4-a6e6-59a18d1ac877",
+          "name": "Wheeler Walker Jr.",
+          "profile_url": "https://musicbrainz.org/artist/1886d75c-13be-42c4-a6e6-59a18d1ac877",
+          "disambiguation": "alias of comedian Ben Hoffman",
+          "area": null,
+          "exact_name": false,
+          "score": 100
+        }
+      ],
+      "total_candidates": 1,
+      "reason": "no_active_official_homepage",
+      "mbid": "1886d75c-13be-42c4-a6e6-59a18d1ac877",
+      "search_term": "Wheeler Walker Jr.",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "name": "Yuki Chiba - First North America Headline Tour w/ DRAM",
+      "show_ids": [
+        "bellyup:14218764"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    },
+    {
+      "name": "Yuri & Lucero – ENTRE AMIGAS TOUR",
+      "show_ids": [
+        "radyshell:20270418:Yuri & Lucero – ENTRE AMIGAS T"
+      ],
+      "candidates": [],
+      "total_candidates": 0,
+      "reason": "no_artist_match"
+    }
+  ],
+  "acceptance_policy": "automatic_musicbrainz_official_homepage",
+  "matches": [
+    {
+      "source_name": "Pigeons Playing Ping Pong",
+      "official_url": "https://pigeonsplayingpingpong.com/",
+      "official_urls": [
+        "https://pigeonsplayingpingpong.com/"
+      ],
+      "artist_name": "Pigeons Playing Ping Pong",
+      "verified": true,
+      "verified_at": "2026-10-30",
+      "evidence_url": "https://musicbrainz.org/artist/ec8e3cea-69f0-4ff3-b42c-74937d336334",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+      "search_term": "Pigeons Playing Ping Pong",
+      "match_method": "optional_mbid_override"
+    },
+    {
+      "source_name": "49 Winchester - Change of Plans Tour w/ Kenny Whitmore",
+      "official_url": "https://49winchester.com/",
+      "official_urls": [
+        "https://49winchester.com/"
+      ],
+      "artist_name": "49 Winchester",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/3ddb5fd0-3831-4ca6-931e-336ac03173a7",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "3ddb5fd0-3831-4ca6-931e-336ac03173a7",
+      "search_term": "49 Winchester",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Agent Orange",
+      "official_url": "http://www.agentorange.net/",
+      "official_urls": [
+        "http://www.agentorange.net/"
+      ],
+      "artist_name": "Agent Orange",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/3214be8b-6d78-4c8e-9c93-b1e31a9bc4d6",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "3214be8b-6d78-4c8e-9c93-b1e31a9bc4d6",
+      "search_term": "Agent Orange",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "AJJ: Dirty Old Power Tour",
+      "official_url": "http://www.ajjtheband.com/",
+      "official_urls": [
+        "http://www.ajjtheband.com/",
+        "http://www.andrewjacksonjihad.com/"
+      ],
+      "artist_name": "AJJ",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/5e1dbdb2-87ac-41ff-9960-4a42a872327a",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "5e1dbdb2-87ac-41ff-9960-4a42a872327a",
+      "search_term": "AJJ",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Al Stewart - Farewell Tour w/ special guests The Empty Pockets",
+      "official_url": "http://www.alstewart.com/",
+      "official_urls": [
+        "http://www.alstewart.com/"
+      ],
+      "artist_name": "Al Stewart",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/ab7d49fa-c383-4c41-b890-3fe68e559dc4",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "ab7d49fa-c383-4c41-b890-3fe68e559dc4",
+      "search_term": "Al Stewart",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Alison&#8217;s Halo",
+      "official_url": "http://alisonshalo.com/",
+      "official_urls": [
+        "http://alisonshalo.com/"
+      ],
+      "artist_name": "Alison’s Halo",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/623977a4-2525-4668-8966-f255dd19700e",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "623977a4-2525-4668-8966-f255dd19700e",
+      "search_term": "Alison’s Halo",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "ALLEYCVT",
+      "official_url": "https://alleycvt.com/",
+      "official_urls": [
+        "https://alleycvt.com/"
+      ],
+      "artist_name": "ALLEYCVT",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/2590b6d4-648a-4092-9850-f614d6df51ca",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "2590b6d4-648a-4092-9850-f614d6df51ca",
+      "search_term": "ALLEYCVT",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Amtrac - Dream Live Tour",
+      "official_url": "https://www.amtracmusic.com/",
+      "official_urls": [
+        "https://www.amtracmusic.com/"
+      ],
+      "artist_name": "Amtrac",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/348c486f-3d12-4361-8cc7-37b3c93f0aed",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "348c486f-3d12-4361-8cc7-37b3c93f0aed",
+      "search_term": "Amtrac",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Anuhea - All Is Bright Tour Feat. Ana Vee",
+      "official_url": "http://www.anuheajams.com/",
+      "official_urls": [
+        "http://www.anuheajams.com/"
+      ],
+      "artist_name": "Anuhea",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/a408ec83-2ee0-4cf2-99d6-161fbe76dd16",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "a408ec83-2ee0-4cf2-99d6-161fbe76dd16",
+      "search_term": "Anuhea",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Bag Raiders",
+      "official_url": "http://www.bagraiders.com/",
+      "official_urls": [
+        "http://www.bagraiders.com/"
+      ],
+      "artist_name": "Bag Raiders",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/6a3d87ad-dd71-4e8f-b8dd-78b61e0e7fe6",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "6a3d87ad-dd71-4e8f-b8dd-78b61e0e7fe6",
+      "search_term": "Bag Raiders",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Bahamas - Industrial Sport & Sound w/ Sister Ray",
+      "official_url": "http://afiesongs.tripod.com/",
+      "official_urls": [
+        "http://afiesongs.tripod.com/",
+        "http://bahamasmusic.net/"
+      ],
+      "artist_name": "Bahamas",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/294d06f7-fd1f-4cbe-a433-bb9cd6ac937b",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "294d06f7-fd1f-4cbe-a433-bb9cd6ac937b",
+      "search_term": "Bahamas",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Ballyhoo! - We Ride at Dawn Tour w/ Chad Tepper",
+      "official_url": "http://www.ballyhoorocks.com/",
+      "official_urls": [
+        "http://www.ballyhoorocks.com/"
+      ],
+      "artist_name": "Ballyhoo!",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/148350d7-1b04-4518-b216-4519eb0bcc08",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "148350d7-1b04-4518-b216-4519eb0bcc08",
+      "search_term": "Ballyhoo!",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Bleeding Through",
+      "official_url": "https://www.bleedingthroughofficial.com/",
+      "official_urls": [
+        "https://www.bleedingthroughofficial.com/"
+      ],
+      "artist_name": "Bleeding Through",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/55fd865d-4a0d-4fd0-af19-7e6feb168ab8",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "55fd865d-4a0d-4fd0-af19-7e6feb168ab8",
+      "search_term": "Bleeding Through",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Blind Boys of Alabama - Christmas Show featuring special guest Shemekia Copeland",
+      "official_url": "http://www.blindboys.com/",
+      "official_urls": [
+        "http://www.blindboys.com/"
+      ],
+      "artist_name": "The Blind Boys of Alabama",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/2f76bd85-ba19-4d80-9bb7-4555abe463c5",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "2f76bd85-ba19-4d80-9bb7-4555abe463c5",
+      "search_term": "Blind Boys of Alabama",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Bo Staloch",
+      "official_url": "https://www.bostaloch.com/",
+      "official_urls": [
+        "https://www.bostaloch.com/"
+      ],
+      "artist_name": "Bo Staloch",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/c353dd11-40c4-493c-ad23-063b19d89ba0",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "c353dd11-40c4-493c-ad23-063b19d89ba0",
+      "search_term": "Bo Staloch",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "BoomBox - Fall Tour 2026 w/ DGTL CLR",
+      "official_url": "http://thisisboombox.com/",
+      "official_urls": [
+        "http://thisisboombox.com/"
+      ],
+      "artist_name": "BoomBox",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/0a7604d0-a712-4d5c-83cb-cc4ae3d01455",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "0a7604d0-a712-4d5c-83cb-cc4ae3d01455",
+      "search_term": "BoomBox",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Buckethead",
+      "official_url": "http://www.bucketheadland.com/",
+      "official_urls": [
+        "http://www.bucketheadland.com/"
+      ],
+      "artist_name": "Buckethead",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/b5179744-f217-4455-9d8b-17b8d4fdeb93",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "b5179744-f217-4455-9d8b-17b8d4fdeb93",
+      "search_term": "Buckethead",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Cannons - Presented by Alt 94.9's December to Remember",
+      "official_url": "https://cannonstheband.com/",
+      "official_urls": [
+        "https://cannonstheband.com/"
+      ],
+      "artist_name": "Cannons",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/eb9eb9f8-c691-4fef-9bdf-0cbffbfa42ee",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "eb9eb9f8-c691-4fef-9bdf-0cbffbfa42ee",
+      "search_term": "Cannons",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Casbah/Belly Up/Desert Daze Present: The Black Angels",
+      "official_url": "https://theblackangels.com/",
+      "official_urls": [
+        "https://theblackangels.com/"
+      ],
+      "artist_name": "The Black Angels",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/49814f71-8fef-41ec-9af8-b6995c0bd601",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "49814f71-8fef-41ec-9af8-b6995c0bd601",
+      "search_term": "The Black Angels",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Chest Fever presents The Last Waltz",
+      "official_url": "https://chestfeverofficial.com/bio",
+      "official_urls": [
+        "https://chestfeverofficial.com/bio"
+      ],
+      "artist_name": "Chest Fever",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/a3e26ed1-9fae-4df9-8e1f-bcd7ebe0babb",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "a3e26ed1-9fae-4df9-8e1f-bcd7ebe0babb",
+      "search_term": "Chest Fever",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Dark Star Orchestra - Winter 2027 Tour",
+      "official_url": "http://www.darkstarorchestra.net/",
+      "official_urls": [
+        "http://www.darkstarorchestra.net/"
+      ],
+      "artist_name": "Dark Star Orchestra",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/e477d9c0-1f35-40f7-ad1a-b915d2523b84",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "e477d9c0-1f35-40f7-ad1a-b915d2523b84",
+      "search_term": "Dark Star Orchestra",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "David Benoit - Christmas Tribute To Charlie Brown ft Special Guest Courtney Fortune w/ Jimmy Patton",
+      "official_url": "http://benoit.com/",
+      "official_urls": [
+        "http://benoit.com/"
+      ],
+      "artist_name": "David Benoit",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/34832720-12d3-44b4-bb80-8f06bcfb09ba",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "34832720-12d3-44b4-bb80-8f06bcfb09ba",
+      "search_term": "David Benoit",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Des Rocs",
+      "official_url": "https://www.desrocs.com/",
+      "official_urls": [
+        "https://www.desrocs.com/"
+      ],
+      "artist_name": "Des Rocs",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/af9fd1b2-e4e7-48fb-8ccc-4cfcfed5f0c1",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "af9fd1b2-e4e7-48fb-8ccc-4cfcfed5f0c1",
+      "search_term": "Des Rocs",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Don McLean - Celebrating America’s 250th Birthday",
+      "official_url": "http://www.don-mclean.com/",
+      "official_urls": [
+        "http://www.don-mclean.com/"
+      ],
+      "artist_name": "Don McLean",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/fa19ee38-c2a9-4ed1-9b24-a18100cf9db3",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "fa19ee38-c2a9-4ed1-9b24-a18100cf9db3",
+      "search_term": "Don McLean",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "DragonForce: Inhuman Rampage 20th Anniversary",
+      "official_url": "http://www.dragonforce.com/",
+      "official_urls": [
+        "http://www.dragonforce.com/"
+      ],
+      "artist_name": "DragonForce",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/ef58d4c9-0d40-42ba-bfab-9186c1483edd",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "ef58d4c9-0d40-42ba-bfab-9186c1483edd",
+      "search_term": "DragonForce",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Dropkick Murphys - St. Patrick’s Day 2027 Tour w/ Spiritual Cramp & Home Front",
+      "official_url": "http://www.dropkickmurphys.com/",
+      "official_urls": [
+        "http://www.dropkickmurphys.com/"
+      ],
+      "artist_name": "Dropkick Murphys",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/e8374874-4178-4869-b92e-fef6bf30dc04",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "e8374874-4178-4869-b92e-fef6bf30dc04",
+      "search_term": "Dropkick Murphys",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Eddie 9V",
+      "official_url": "https://www.eddie9volt.com/",
+      "official_urls": [
+        "https://www.eddie9volt.com/"
+      ],
+      "artist_name": "Eddie 9V",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/bf530a68-5477-4e06-a4d7-4151e6ef6a52",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "bf530a68-5477-4e06-a4d7-4151e6ef6a52",
+      "search_term": "Eddie 9V",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Effin – Heartbeats Tour w/ Nikita, The Wicked",
+      "official_url": "https://www.effinofficial.com/",
+      "official_urls": [
+        "https://www.effinofficial.com/"
+      ],
+      "artist_name": "Effin",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/f6fb52d4-53ab-4d0c-8863-6f13681b9d5c",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "f6fb52d4-53ab-4d0c-8863-6f13681b9d5c",
+      "search_term": "Effin",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Emancipator - Chrysalis Tour w/ Shrimpnose & Lapa",
+      "official_url": "http://www.emancipatormusic.com/",
+      "official_urls": [
+        "http://www.emancipatormusic.com/"
+      ],
+      "artist_name": "Emancipator",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/aa1d4315-5246-42b2-b62b-f997d046d8b2",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "aa1d4315-5246-42b2-b62b-f997d046d8b2",
+      "search_term": "Emancipator",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "feeble little horse - bitknot tour w/ MOP",
+      "official_url": "https://www.feeblelittlehorse.com/",
+      "official_urls": [
+        "https://www.feeblelittlehorse.com/"
+      ],
+      "artist_name": "feeble little horse",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/56252a59-5731-4a3b-96d2-fea7fe88a5d6",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6",
+      "search_term": "feeble little horse",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Fitz and The Tantrums - Greatest Hits Show",
+      "official_url": "http://www.fitzandthetantrums.com/",
+      "official_urls": [
+        "http://www.fitzandthetantrums.com/"
+      ],
+      "artist_name": "Fitz and the Tantrums",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/8560d4e8-05e2-4c20-980b-ad2db445dd5d",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "8560d4e8-05e2-4c20-980b-ad2db445dd5d",
+      "search_term": "Fitz and The Tantrums",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Fitz and The Tantrums – Picking Up The Pieces In Its Entirety",
+      "official_url": "http://www.fitzandthetantrums.com/",
+      "official_urls": [
+        "http://www.fitzandthetantrums.com/"
+      ],
+      "artist_name": "Fitz and the Tantrums",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/8560d4e8-05e2-4c20-980b-ad2db445dd5d",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "8560d4e8-05e2-4c20-980b-ad2db445dd5d",
+      "search_term": "Fitz and The Tantrums",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Five For Fighting with String Quartet",
+      "official_url": "http://www.fiveforfighting.com/",
+      "official_urls": [
+        "http://www.fiveforfighting.com/"
+      ],
+      "artist_name": "Five for Fighting",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/23eeaeaf-423d-4859-8c91-2175ece74287",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "23eeaeaf-423d-4859-8c91-2175ece74287",
+      "search_term": "Five For Fighting",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "FLO",
+      "official_url": "http://www.officialflo.com/",
+      "official_urls": [
+        "http://www.officialflo.com/"
+      ],
+      "artist_name": "Flo Rida",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/4593d49a-7f67-46ba-9ec0-126bd676286f",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "4593d49a-7f67-46ba-9ec0-126bd676286f",
+      "search_term": "FLO",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "G. Love & Special Sauce - Yeah, It’s That Easy 30th Anniversary Tour w/ Todd Carey",
+      "official_url": "http://philadelphonic.com/",
+      "official_urls": [
+        "http://philadelphonic.com/"
+      ],
+      "artist_name": "G. Love & Special Sauce",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/dbf7c761-e332-467b-b4d9-aafe06bbcf8f",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "dbf7c761-e332-467b-b4d9-aafe06bbcf8f",
+      "search_term": "G. Love & Special Sauce",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "George Clanton",
+      "official_url": "http://www.georgeclanton.com/",
+      "official_urls": [
+        "http://www.georgeclanton.com/"
+      ],
+      "artist_name": "George Clanton",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/9abcc01c-dcf1-4d74-bc55-d81922157956",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "9abcc01c-dcf1-4d74-bc55-d81922157956",
+      "search_term": "George Clanton",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Gin Blossoms",
+      "official_url": "http://www.ginblossoms.net/",
+      "official_urls": [
+        "http://www.ginblossoms.net/"
+      ],
+      "artist_name": "Gin Blossoms",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/1c42b705-d3fc-452e-93ee-d0030bdd70f3",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "1c42b705-d3fc-452e-93ee-d0030bdd70f3",
+      "search_term": "Gin Blossoms",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Hans Williams",
+      "official_url": "https://www.hanswilliams.com/home",
+      "official_urls": [
+        "https://www.hanswilliams.com/home"
+      ],
+      "artist_name": "Hans Williams",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/e6ca8ec3-1372-4534-a1c1-b327adc27e9f",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "e6ca8ec3-1372-4534-a1c1-b327adc27e9f",
+      "search_term": "Hans Williams",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "HARBOUR: Great, Big Tour Part Two",
+      "official_url": "http://harbourtheband.com/",
+      "official_urls": [
+        "http://harbourtheband.com/"
+      ],
+      "artist_name": "HARBOUR",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/068f4d3e-94d0-4bfb-a145-c08e08eeaed7",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "068f4d3e-94d0-4bfb-a145-c08e08eeaed7",
+      "search_term": "HARBOUR",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Haywire",
+      "official_url": "http://haywirecomeback.tripod.com/",
+      "official_urls": [
+        "http://haywirecomeback.tripod.com/",
+        "http://www.haywireband.ca/"
+      ],
+      "artist_name": "Haywire",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/29b60be3-5817-426f-b76d-8acb92c83cbc",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "29b60be3-5817-426f-b76d-8acb92c83cbc",
+      "search_term": "Haywire",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Hazlett - The Comeback Tour",
+      "official_url": "https://thisishazlett.com/",
+      "official_urls": [
+        "https://thisishazlett.com/"
+      ],
+      "artist_name": "Hazlett",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/09d13fa7-ce48-4300-be4c-0a8eff2cdb98",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "09d13fa7-ce48-4300-be4c-0a8eff2cdb98",
+      "search_term": "Hazlett",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Houndmouth - The LORDY Tour w/ Dogpark",
+      "official_url": "http://houndmouth.com/",
+      "official_urls": [
+        "http://houndmouth.com/"
+      ],
+      "artist_name": "Houndmouth",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/4a18f60f-7aa9-4476-8d0f-84981d8ccb60",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "4a18f60f-7aa9-4476-8d0f-84981d8ccb60",
+      "search_term": "Houndmouth",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Interpol",
+      "official_url": "https://www.interpolnyc.com/",
+      "official_urls": [
+        "https://www.interpolnyc.com/"
+      ],
+      "artist_name": "Interpol",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/b23e8a63-8f47-4882-b55b-df2c92ef400e",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "b23e8a63-8f47-4882-b55b-df2c92ef400e",
+      "search_term": "Interpol",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Jammy Buffet - Lakes Below the Mountains Tour",
+      "official_url": "https://jammybuffet.com/",
+      "official_urls": [
+        "https://jammybuffet.com/"
+      ],
+      "artist_name": "Jammy Buffet",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/4e2d265c-ead0-4e2d-8225-e1d71b2a77df",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "4e2d265c-ead0-4e2d-8225-e1d71b2a77df",
+      "search_term": "Jammy Buffet",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "JD McPherson - SOCKS: A Rock N’ Roll Christmas Tour w/ Melissa Carper",
+      "official_url": "http://www.jdmcpherson.com/",
+      "official_urls": [
+        "http://www.jdmcpherson.com/"
+      ],
+      "artist_name": "JD McPherson",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/84c7cb93-0622-4b90-8d53-ee2b4650097f",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "84c7cb93-0622-4b90-8d53-ee2b4650097f",
+      "search_term": "JD McPherson",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Jerry's Middle Finger",
+      "official_url": "http://jerrysmiddlefinger.com/",
+      "official_urls": [
+        "http://jerrysmiddlefinger.com/"
+      ],
+      "artist_name": "Jerry’s Middle Finger",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/ed1832b8-7fae-4552-8eae-43ae08d67e71",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "ed1832b8-7fae-4552-8eae-43ae08d67e71",
+      "search_term": "Jerry's Middle Finger",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Jervis Campbell - Good Grief Tour w/ Allie Paige",
+      "official_url": "https://www.jerviscampbell.com/",
+      "official_urls": [
+        "https://www.jerviscampbell.com/"
+      ],
+      "artist_name": "Jervis Campbell",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/18d4cb94-f463-475e-bae5-9b3f125eb117",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "18d4cb94-f463-475e-bae5-9b3f125eb117",
+      "search_term": "Jervis Campbell",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "John Craigie With special guest Lucy Clearwater - Keep It Warm Tour 2026",
+      "official_url": "https://johncraigiemusic.com/",
+      "official_urls": [
+        "https://johncraigiemusic.com/"
+      ],
+      "artist_name": "John Craigie",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/89b381cf-89f4-43d7-b85b-f53efb2bd1a8",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "89b381cf-89f4-43d7-b85b-f53efb2bd1a8",
+      "search_term": "John Craigie",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "King Buffalo - North America Tour 2026 with special guests L.A. Witch",
+      "official_url": "https://kingbuffalo.com/",
+      "official_urls": [
+        "https://kingbuffalo.com/"
+      ],
+      "artist_name": "King Buffalo",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/17216b16-e706-4082-b0ba-e409a3097844",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "17216b16-e706-4082-b0ba-e409a3097844",
+      "search_term": "King Buffalo",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Ladysmith Black Mambazo",
+      "official_url": "http://www.mambazo.com/",
+      "official_urls": [
+        "http://www.mambazo.com/"
+      ],
+      "artist_name": "Ladysmith Black Mambazo",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/c1982570-8efb-4cf7-bb5b-c9c026c0e8f4",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "c1982570-8efb-4cf7-bb5b-c9c026c0e8f4",
+      "search_term": "Ladysmith Black Mambazo",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Led Zepagain",
+      "official_url": "http://zepagain.com/",
+      "official_urls": [
+        "http://zepagain.com/"
+      ],
+      "artist_name": "Led Zepagain",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/0c526c66-8979-4062-bc21-b9d70711c014",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "0c526c66-8979-4062-bc21-b9d70711c014",
+      "search_term": "Led Zepagain",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Leonid & Friends",
+      "official_url": "http://leonidandf.com/",
+      "official_urls": [
+        "http://leonidandf.com/"
+      ],
+      "artist_name": "Leonid & Friends",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/28ee30b4-36c0-492d-a8d2-b69d5068f690",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "28ee30b4-36c0-492d-a8d2-b69d5068f690",
+      "search_term": "Leonid & Friends",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Lizzy McAlpine: The Over Country Tour",
+      "official_url": "https://lizzymcalpine.com/",
+      "official_urls": [
+        "https://lizzymcalpine.com/"
+      ],
+      "artist_name": "Lizzy McAlpine",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/ee0b11de-0c8a-4267-9886-198f4579e1db",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "ee0b11de-0c8a-4267-9886-198f4579e1db",
+      "search_term": "Lizzy McAlpine",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Lunasa",
+      "official_url": "https://www.lunasamusic.com/",
+      "official_urls": [
+        "https://www.lunasamusic.com/"
+      ],
+      "artist_name": "Lúnasa",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/f27ab860-84e3-43c4-872a-a8181192d24a",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "f27ab860-84e3-43c4-872a-a8181192d24a",
+      "search_term": "Lunasa",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Lyle Lovett and his Small Large Band",
+      "official_url": "https://www.lylelovett.com/tour/",
+      "official_urls": [
+        "https://www.lylelovett.com/tour/"
+      ],
+      "artist_name": "Lyle Lovett and his Small Large Band",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/2d669bc4-59a1-4eb4-96de-44a3b7eb01e1",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "2d669bc4-59a1-4eb4-96de-44a3b7eb01e1",
+      "search_term": "Lyle Lovett and his Small Large Band",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "MACK GEIGER - WHEN IT’S POURING 2026 TOUR w/ Colton Dawson",
+      "official_url": "https://mackgeiger.com/",
+      "official_urls": [
+        "https://mackgeiger.com/"
+      ],
+      "artist_name": "Mack Geiger",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/e07e1915-2fe7-4ffb-acd8-8ae47ce58207",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "e07e1915-2fe7-4ffb-acd8-8ae47ce58207",
+      "search_term": "MACK GEIGER",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Manic Street Preachers",
+      "official_url": "https://www.sonymusic.co.uk/artist/manic-street-preachers/",
+      "official_urls": [
+        "https://www.sonymusic.co.uk/artist/manic-street-preachers/",
+        "http://www.manicstreetpreachers.com/"
+      ],
+      "artist_name": "Manic Street Preachers",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/32efea44-6cb5-4b4f-bdaa-c8b8f6cef981",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "32efea44-6cb5-4b4f-bdaa-c8b8f6cef981",
+      "search_term": "Manic Street Preachers",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Marc Broussard - West Coast Tour w/ Cristina Vane",
+      "official_url": "http://www.marcbroussard.com/",
+      "official_urls": [
+        "http://www.marcbroussard.com/"
+      ],
+      "artist_name": "Marc Broussard",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/c9584c27-f240-4f0e-8e82-3470111f24be",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "c9584c27-f240-4f0e-8e82-3470111f24be",
+      "search_term": "Marc Broussard",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Marian Hill - ACT TWO: THE TOUR",
+      "official_url": "https://www.marianhillmusic.com/",
+      "official_urls": [
+        "https://www.marianhillmusic.com/"
+      ],
+      "artist_name": "Marian Hill",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/2ef562e1-17af-495c-9e35-82a329fcf733",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "2ef562e1-17af-495c-9e35-82a329fcf733",
+      "search_term": "Marian Hill",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Martin Sexton - Live Wide Open Tour 2027",
+      "official_url": "http://www.martinsexton.com/",
+      "official_urls": [
+        "http://www.martinsexton.com/"
+      ],
+      "artist_name": "Martin Sexton",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/0685ac4a-5cfc-408a-b391-903ea20e00bf",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "0685ac4a-5cfc-408a-b391-903ea20e00bf",
+      "search_term": "Martin Sexton",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Medium Build Presents The King of Having Fun on Tour",
+      "official_url": "https://www.mediumbuildmusic.com/",
+      "official_urls": [
+        "https://www.mediumbuildmusic.com/"
+      ],
+      "artist_name": "Medium Build",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
+      "search_term": "Medium Build",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Medium Build Presents The King of Having Fun on Tour w/ The Scratch",
+      "official_url": "https://www.mediumbuildmusic.com/",
+      "official_urls": [
+        "https://www.mediumbuildmusic.com/"
+      ],
+      "artist_name": "Medium Build",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
+      "search_term": "Medium Build",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Mei Semones",
+      "official_url": "https://www.meisemones.com/",
+      "official_urls": [
+        "https://www.meisemones.com/"
+      ],
+      "artist_name": "Mei Semones",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/68aaf52d-c2bf-4a2f-9779-8afa07664153",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "68aaf52d-c2bf-4a2f-9779-8afa07664153",
+      "search_term": "Mei Semones",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Mustache Harbor - Yacht Rock Forever! w/ Radio 80's",
+      "official_url": "https://www.mustacheharbor.com/",
+      "official_urls": [
+        "https://www.mustacheharbor.com/"
+      ],
+      "artist_name": "Mustache Harbor",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/3fa77566-a4d0-4165-b5bb-b77b4da0c988",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "3fa77566-a4d0-4165-b5bb-b77b4da0c988",
+      "search_term": "Mustache Harbor",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Nick Shoulders - Apocalypse, Never! Tour w/ Creekbed Carter",
+      "official_url": "http://www.nickshouldersokaycrawdad.com/",
+      "official_urls": [
+        "http://www.nickshouldersokaycrawdad.com/"
+      ],
+      "artist_name": "Nick Shoulders",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/8b1536e8-860e-41d0-90b1-8a067c9c326b",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "8b1536e8-860e-41d0-90b1-8a067c9c326b",
+      "search_term": "Nick Shoulders",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "NONSTOP Presents Vintage Culture \"affairs\"",
+      "official_url": "http://www.devantmanuque.com/",
+      "official_urls": [
+        "http://www.devantmanuque.com/"
+      ],
+      "artist_name": "Nonstop",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/79fd773e-0416-4c21-a18e-abc912a9b885",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "79fd773e-0416-4c21-a18e-abc912a9b885",
+      "search_term": "NONSTOP",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Nothing But Thieves",
+      "official_url": "https://www.nbthieves.com/",
+      "official_urls": [
+        "https://www.nbthieves.com/"
+      ],
+      "artist_name": "Nothing But Thieves",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
+      "search_term": "Nothing But Thieves",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Paco Versailles - The Azúcar Tour 2027",
+      "official_url": "https://www.pacoversailles.com/",
+      "official_urls": [
+        "https://www.pacoversailles.com/"
+      ],
+      "artist_name": "Paco Versailles",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/ff13fe55-4ac2-4913-8438-932faccc472d",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "ff13fe55-4ac2-4913-8438-932faccc472d",
+      "search_term": "Paco Versailles",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Pigeons Playing Ping Pong - Fall Tour 2026 w/ Dizgo",
+      "official_url": "https://pigeonsplayingpingpong.com/",
+      "official_urls": [
+        "https://pigeonsplayingpingpong.com/"
+      ],
+      "artist_name": "Pigeons Playing Ping Pong",
+      "verified": true,
+      "verified_at": "2026-10-30",
+      "evidence_url": "https://musicbrainz.org/artist/ec8e3cea-69f0-4ff3-b42c-74937d336334",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+      "search_term": "Pigeons Playing Ping Pong",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Polyphia",
+      "official_url": "https://polyphia.com/",
+      "official_urls": [
+        "https://polyphia.com/"
+      ],
+      "artist_name": "Polyphia",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/344bfb00-27f0-4ff2-b96b-048ed1c6a968",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "344bfb00-27f0-4ff2-b96b-048ed1c6a968",
+      "search_term": "Polyphia",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Pretty Sick - USA anarchy tour 2026 w/ Sex Week",
+      "official_url": "https://prettysick.com/",
+      "official_urls": [
+        "https://prettysick.com/"
+      ],
+      "artist_name": "Pretty Sick",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/d365ffda-2c35-4d8f-8a41-34093d3cd839",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "d365ffda-2c35-4d8f-8a41-34093d3cd839",
+      "search_term": "Pretty Sick",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "RHYE - JOY TOUR",
+      "official_url": "https://www.rhyemusic.com/",
+      "official_urls": [
+        "https://www.rhyemusic.com/"
+      ],
+      "artist_name": "Rhye",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/aa914efa-d6cb-4816-906f-8edafb08418e",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "aa914efa-d6cb-4816-906f-8edafb08418e",
+      "search_term": "RHYE",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Ripe - Play the Game Fall Tour 2026",
+      "official_url": "http://www.ripetheband.com/",
+      "official_urls": [
+        "http://www.ripetheband.com/"
+      ],
+      "artist_name": "Ripe",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/6ce952eb-0f9d-4185-92a1-9101480212fe",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "6ce952eb-0f9d-4185-92a1-9101480212fe",
+      "search_term": "Ripe",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Rodrigo y Gabriela - OurHome Tour",
+      "official_url": "https://www.rodgab.com/",
+      "official_urls": [
+        "https://www.rodgab.com/"
+      ],
+      "artist_name": "Rodrigo y Gabriela",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/a8ed28e3-5c08-4448-b889-867483e251f5",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "a8ed28e3-5c08-4448-b889-867483e251f5",
+      "search_term": "Rodrigo y Gabriela",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "SAINT LEVANT",
+      "official_url": "https://saintlevant.com/",
+      "official_urls": [
+        "https://saintlevant.com/"
+      ],
+      "artist_name": "Saint Levant",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/015c8b7d-015b-4603-9792-18bb440178ac",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "015c8b7d-015b-4603-9792-18bb440178ac",
+      "search_term": "SAINT LEVANT",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Samantha Fish - Paper Doll Live World Tour w/ Cody Dickinson of North Mississippi Allstars",
+      "official_url": "http://www.samanthafish.com/",
+      "official_urls": [
+        "http://www.samanthafish.com/"
+      ],
+      "artist_name": "Samantha Fish",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/bcf3ad0b-4eae-4c8b-a292-9f4c573aa27a",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "bcf3ad0b-4eae-4c8b-a292-9f4c573aa27a",
+      "search_term": "Samantha Fish",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Saosin: 20 Years of Self-Titled",
+      "official_url": "http://www.saosin.com/",
+      "official_urls": [
+        "http://www.saosin.com/"
+      ],
+      "artist_name": "Saosin",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/47b8b42a-96e8-46fa-9ea6-70c5136ae971",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "47b8b42a-96e8-46fa-9ea6-70c5136ae971",
+      "search_term": "Saosin",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Saxsquatch - The Conspiracy Theory Tour",
+      "official_url": "https://saxsquatch.net/",
+      "official_urls": [
+        "https://saxsquatch.net/"
+      ],
+      "artist_name": "Saxsquatch",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/4b7c152d-1fc8-4ff3-a693-1616bd36d773",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "4b7c152d-1fc8-4ff3-a693-1616bd36d773",
+      "search_term": "Saxsquatch",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Senses Fail Presents Still Searching",
+      "official_url": "https://sensesfail.com/",
+      "official_urls": [
+        "https://sensesfail.com/"
+      ],
+      "artist_name": "Senses Fail",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/b4946461-dacb-4aa9-a77c-7b3231317794",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "b4946461-dacb-4aa9-a77c-7b3231317794",
+      "search_term": "Senses Fail",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Sina Bathaie — White Lotus World Tour: Back Together - San Diego",
+      "official_url": "https://www.sinabathaie.com/",
+      "official_urls": [
+        "https://www.sinabathaie.com/"
+      ],
+      "artist_name": "Sina Bathaie",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/06d988e0-c05e-4b29-a85d-dd7688f27b7c",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "06d988e0-c05e-4b29-a85d-dd7688f27b7c",
+      "search_term": "Sina Bathaie",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Six60 - Right Here Right Now - North America 2026",
+      "official_url": "http://www.six60.co.nz/",
+      "official_urls": [
+        "http://www.six60.co.nz/"
+      ],
+      "artist_name": "Six60",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/0fc1bbd2-c8a0-43cc-a0a1-db1c3fe805d9",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "0fc1bbd2-c8a0-43cc-a0a1-db1c3fe805d9",
+      "search_term": "Six60",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Squirrel Nut Zippers - Christmas Caravan 2026",
+      "official_url": "http://snzippers.com/",
+      "official_urls": [
+        "http://snzippers.com/"
+      ],
+      "artist_name": "Squirrel Nut Zippers",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/31810c40-932a-4f2d-8cfd-17849844e2a6",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "31810c40-932a-4f2d-8cfd-17849844e2a6",
+      "search_term": "Squirrel Nut Zippers",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Steel Pulse - Reggae Against Racism Tour",
+      "official_url": "http://steelpulse.com/",
+      "official_urls": [
+        "http://steelpulse.com/"
+      ],
+      "artist_name": "Steel Pulse",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/37367b2f-69e4-4df2-9e64-75ca6204764b",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "37367b2f-69e4-4df2-9e64-75ca6204764b",
+      "search_term": "Steel Pulse",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Stephen Day - The Self Titled Tour w/ Emily Brimlow",
+      "official_url": "https://stephenday.org/",
+      "official_urls": [
+        "https://stephenday.org/"
+      ],
+      "artist_name": "Stephen Day",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/34f2a859-2e97-4efe-852e-c6e5e98ddb8b",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "34f2a859-2e97-4efe-852e-c6e5e98ddb8b",
+      "search_term": "Stephen Day",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Steve Poltz",
+      "official_url": "http://poltz.com/",
+      "official_urls": [
+        "http://poltz.com/"
+      ],
+      "artist_name": "Steve Poltz",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/8e6498e2-60a4-4c4a-93aa-4c131edf8b87",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "8e6498e2-60a4-4c4a-93aa-4c131edf8b87",
+      "search_term": "Steve Poltz",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Super Diamond",
+      "official_url": "http://www.superdiamond.com/",
+      "official_urls": [
+        "http://www.superdiamond.com/"
+      ],
+      "artist_name": "Super Diamond",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/a616f35a-bbcc-42e4-9b50-0c95252eee2b",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "a616f35a-bbcc-42e4-9b50-0c95252eee2b",
+      "search_term": "Super Diamond",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Syd: Beard Tour",
+      "official_url": "http://www.sydbarrett.com/",
+      "official_urls": [
+        "http://www.sydbarrett.com/"
+      ],
+      "artist_name": "Syd Barrett",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/12327d75-47d5-45d9-84c2-3760b9210c17",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "12327d75-47d5-45d9-84c2-3760b9210c17",
+      "search_term": "Syd",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Sylvan Esso",
+      "official_url": "https://www.sylvanesso.com/",
+      "official_urls": [
+        "https://www.sylvanesso.com/"
+      ],
+      "artist_name": "Sylvan Esso",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/c4593b34-2a94-4e44-ae10-4a0f4c0b4da8",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "c4593b34-2a94-4e44-ae10-4a0f4c0b4da8",
+      "search_term": "Sylvan Esso",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Airborne Toxic Event - The Way Home 20 Year Anniversary Tour",
+      "official_url": "http://www.theairbornetoxicevent.com/",
+      "official_urls": [
+        "http://www.theairbornetoxicevent.com/"
+      ],
+      "artist_name": "The Airborne Toxic Event",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/892fb2e4-0af4-42be-9e60-22898de51d32",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "892fb2e4-0af4-42be-9e60-22898de51d32",
+      "search_term": "The Airborne Toxic Event",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Billy Joel Legacy - A Tribute Experience",
+      "official_url": "https://www.billyjoellegacy.com/",
+      "official_urls": [
+        "https://www.billyjoellegacy.com/"
+      ],
+      "artist_name": "The Billy Joel Legacy - A Tribute Experience",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/c28cfe2a-a0e0-4e96-b06a-c94719c46834",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "c28cfe2a-a0e0-4e96-b06a-c94719c46834",
+      "search_term": "The Billy Joel Legacy - A Tribute Experience",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Black Angels: Passover 2026 Tour",
+      "official_url": "https://theblackangels.com/",
+      "official_urls": [
+        "https://theblackangels.com/"
+      ],
+      "artist_name": "The Black Angels",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/49814f71-8fef-41ec-9af8-b6995c0bd601",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "49814f71-8fef-41ec-9af8-b6995c0bd601",
+      "search_term": "The Black Angels",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Floozies - NYE!",
+      "official_url": "http://flooziesduo.com/",
+      "official_urls": [
+        "http://flooziesduo.com/"
+      ],
+      "artist_name": "The Floozies",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/79488a20-bb2f-47ff-961e-85af2e517d08",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "79488a20-bb2f-47ff-961e-85af2e517d08",
+      "search_term": "The Floozies",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Greyboy Allstars w/ DJ Greyboy",
+      "official_url": "http://www.greyboyallstars.com/",
+      "official_urls": [
+        "http://www.greyboyallstars.com/"
+      ],
+      "artist_name": "The Greyboy Allstars",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/448913ad-9a62-4278-abbe-07b35cae6c73",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "448913ad-9a62-4278-abbe-07b35cae6c73",
+      "search_term": "The Greyboy Allstars",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Interrupters",
+      "official_url": "http://www.wearetheinterrupters.com/",
+      "official_urls": [
+        "http://www.wearetheinterrupters.com/"
+      ],
+      "artist_name": "The Interrupters",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/f8ed032c-0d34-4ae6-a069-91417097509e",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "f8ed032c-0d34-4ae6-a069-91417097509e",
+      "search_term": "The Interrupters",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The James Hunter Six - Off the Fence Tour",
+      "official_url": "https://www.jameshuntermusic.com/",
+      "official_urls": [
+        "https://www.jameshuntermusic.com/"
+      ],
+      "artist_name": "The James Hunter Six",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/fb424cbe-e145-4d0f-a365-1872f6b4cd51",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "fb424cbe-e145-4d0f-a365-1872f6b4cd51",
+      "search_term": "The James Hunter Six",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Jayhawks - Sanctuary Park Tour: Celebrating 40 Years of The Jayhawks w/ Mary Gauthier",
+      "official_url": "http://www.jayhawksofficial.com/",
+      "official_urls": [
+        "http://www.jayhawksofficial.com/"
+      ],
+      "artist_name": "The Jayhawks",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/24ed5b09-02b1-47fe-bd83-6fa5270039b0",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "24ed5b09-02b1-47fe-bd83-6fa5270039b0",
+      "search_term": "The Jayhawks",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Milk Carton Kids - Lost Cause Lover Fool HOLIDAY TOUR w/ Rosi Golan",
+      "official_url": "http://themilkcartonkids.com/",
+      "official_urls": [
+        "http://themilkcartonkids.com/"
+      ],
+      "artist_name": "The Milk Carton Kids",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/94c89f67-8c6e-4317-8186-8aad506bf2ae",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "94c89f67-8c6e-4317-8186-8aad506bf2ae",
+      "search_term": "The Milk Carton Kids",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The PettyBreakers - A Tribute to Tom Petty & The Heartbreakers, Sammy Listoe Band",
+      "official_url": "https://www.thepettybreakers.com/",
+      "official_urls": [
+        "https://www.thepettybreakers.com/"
+      ],
+      "artist_name": "The PettyBreakers",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/bc7ea146-a159-4741-ba3f-ded6b0791d8f",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "bc7ea146-a159-4741-ba3f-ded6b0791d8f",
+      "search_term": "The PettyBreakers",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Psychedelic Furs with Special Guests We Are Scientists",
+      "official_url": "http://www.thepsychedelicfurs.com/",
+      "official_urls": [
+        "http://www.thepsychedelicfurs.com/"
+      ],
+      "artist_name": "The Psychedelic Furs",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/9f930ddf-be2f-4de5-a39f-7ae47305752e",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "9f930ddf-be2f-4de5-a39f-7ae47305752e",
+      "search_term": "The Psychedelic Furs",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Record Company",
+      "official_url": "http://www.therecordcompany.net/",
+      "official_urls": [
+        "http://www.therecordcompany.net/"
+      ],
+      "artist_name": "The Record Company",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/609295c8-5587-4c22-b354-a40e71ddcf62",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "609295c8-5587-4c22-b354-a40e71ddcf62",
+      "search_term": "The Record Company",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Residents - Eskimo Live w/ Rushadicus",
+      "official_url": "http://www.residents.com/",
+      "official_urls": [
+        "http://www.residents.com/"
+      ],
+      "artist_name": "The Residents",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/8c9b336e-acc8-4e20-9195-6ed0634da9fc",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "8c9b336e-acc8-4e20-9195-6ed0634da9fc",
+      "search_term": "The Residents",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Simon & Garfunkel Story",
+      "official_url": "https://www.thesimonandgarfunkelstory.com/welcome/",
+      "official_urls": [
+        "https://www.thesimonandgarfunkelstory.com/welcome/"
+      ],
+      "artist_name": "The Simon & Garfunkel Story",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/af4767bc-9cd9-4117-9de4-a12acfec1c82",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "af4767bc-9cd9-4117-9de4-a12acfec1c82",
+      "search_term": "The Simon & Garfunkel Story",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Story So Far",
+      "official_url": "http://thestorysofarca.com/",
+      "official_urls": [
+        "http://thestorysofarca.com/"
+      ],
+      "artist_name": "The Story So Far",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/bc303c9e-3ffb-49ca-acf1-088ef4d46ed7",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "bc303c9e-3ffb-49ca-acf1-088ef4d46ed7",
+      "search_term": "The Story So Far",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The String Cheese Incident: Just Keep Spinning Tour",
+      "official_url": "https://www.stringcheeseincident.com/",
+      "official_urls": [
+        "https://www.stringcheeseincident.com/"
+      ],
+      "artist_name": "The String Cheese Incident",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "cff95140-6d57-498a-8834-10eb72865b29",
+      "search_term": "The String Cheese Incident",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The String Cheese Incident: Just Keep Spinning Tour 2-Day Tickets",
+      "official_url": "https://www.stringcheeseincident.com/",
+      "official_urls": [
+        "https://www.stringcheeseincident.com/"
+      ],
+      "artist_name": "The String Cheese Incident",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "cff95140-6d57-498a-8834-10eb72865b29",
+      "search_term": "The String Cheese Incident",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Tallest Man On Earth",
+      "official_url": "http://www.thetallestmanonearth.com/",
+      "official_urls": [
+        "http://www.thetallestmanonearth.com/"
+      ],
+      "artist_name": "The Tallest Man on Earth",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/7e35659f-f3bb-4c28-bcf5-47bd5cfa2bca",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "7e35659f-f3bb-4c28-bcf5-47bd5cfa2bca",
+      "search_term": "The Tallest Man On Earth",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Taylor Party: Taylor Swift Night - 21+",
+      "official_url": "https://www.taylorswiftnight.com/",
+      "official_urls": [
+        "https://www.taylorswiftnight.com/"
+      ],
+      "artist_name": "The Taylor Party",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/e36e9da1-0ee1-42a2-b27f-dbe382c8e484",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "e36e9da1-0ee1-42a2-b27f-dbe382c8e484",
+      "search_term": "The Taylor Party",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Womack Sisters",
+      "official_url": "https://www.thewomacksisters.com/",
+      "official_urls": [
+        "https://www.thewomacksisters.com/"
+      ],
+      "artist_name": "The Womack Sisters",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/d76b40cc-3cff-483e-8ae8-f7551e85fa29",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "d76b40cc-3cff-483e-8ae8-f7551e85fa29",
+      "search_term": "The Womack Sisters",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "The Wrecks - Finally : OUTSIDE Tour w/ Worry Club & Kid Sistr",
+      "official_url": "https://www.wearethewrecks.com/",
+      "official_urls": [
+        "https://www.wearethewrecks.com/"
+      ],
+      "artist_name": "The Wrecks",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/3f194516-6f0d-4d26-b631-71117f3bc41d",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "3f194516-6f0d-4d26-b631-71117f3bc41d",
+      "search_term": "The Wrecks",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Thomas Dolby - Iconic 80's Recollections Tour 2026 w/ DJ Vaughn Avakian",
+      "official_url": "http://www.thomasdolby.com/",
+      "official_urls": [
+        "http://www.thomasdolby.com/"
+      ],
+      "artist_name": "Thomas Dolby",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/5a8cc407-7efb-4e94-9637-d5896395e754",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "5a8cc407-7efb-4e94-9637-d5896395e754",
+      "search_term": "Thomas Dolby",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Too Many Zooz - Audio Lipstick Tour",
+      "official_url": "http://toomanyzooz.com/",
+      "official_urls": [
+        "http://toomanyzooz.com/"
+      ],
+      "artist_name": "Too Many Zooz",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/e44ef539-1ec9-4cb2-bee7-852e84618308",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "e44ef539-1ec9-4cb2-bee7-852e84618308",
+      "search_term": "Too Many Zooz",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Top of the World - A Tribute to the Carpenters",
+      "official_url": "https://topoftheworldcarpenterstribute.com/",
+      "official_urls": [
+        "https://topoftheworldcarpenterstribute.com/"
+      ],
+      "artist_name": "Top of the World",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/e0282adf-c7ed-4f8d-918e-d337c1f97915",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "e0282adf-c7ed-4f8d-918e-d337c1f97915",
+      "search_term": "Top of the World",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Trippie Redd",
+      "official_url": "https://trippieredd.com/",
+      "official_urls": [
+        "https://trippieredd.com/"
+      ],
+      "artist_name": "Trippie Redd",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+      "search_term": "Trippie Redd",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Two Door Cinema Club - Tourist History 15th Anniversary Tour w/ Friendly Fires",
+      "official_url": "http://twodoorcinemaclub.com/",
+      "official_urls": [
+        "http://twodoorcinemaclub.com/"
+      ],
+      "artist_name": "Two Door Cinema Club",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/6f1de078-6684-4792-820d-2ffad64c15ed",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "6f1de078-6684-4792-820d-2ffad64c15ed",
+      "search_term": "Two Door Cinema Club",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Umphrey's McGee - Fresh Cut 2027",
+      "official_url": "http://umphreys.com/",
+      "official_urls": [
+        "http://umphreys.com/"
+      ],
+      "artist_name": "Umphrey’s McGee",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/3826a6e0-9ea5-4007-941c-25b9dd943981",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "3826a6e0-9ea5-4007-941c-25b9dd943981",
+      "search_term": "Umphrey's McGee",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "UNDERØATH",
+      "official_url": "https://www.underoath777.com/",
+      "official_urls": [
+        "https://www.underoath777.com/"
+      ],
+      "artist_name": "Underoath",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/674a7e8c-9682-419a-8e05-2358e28b5359",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "674a7e8c-9682-419a-8e05-2358e28b5359",
+      "search_term": "UNDERØATH",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Vacations",
+      "official_url": "https://www.vacationsband.com/",
+      "official_urls": [
+        "https://www.vacationsband.com/"
+      ],
+      "artist_name": "Vacations",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/82cf84b0-4caa-4dfb-b027-6d274e95c82d",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "82cf84b0-4caa-4dfb-b027-6d274e95c82d",
+      "search_term": "Vacations",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Wade Bowen - The Version of Me You Get Tour",
+      "official_url": "http://www.wadebowen.com/",
+      "official_urls": [
+        "http://www.wadebowen.com/"
+      ],
+      "artist_name": "Wade Bowen",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/fe510c08-2449-45b4-9463-e55ecf0efc55",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "fe510c08-2449-45b4-9463-e55ecf0efc55",
+      "search_term": "Wade Bowen",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "WINONA FIGHTER",
+      "official_url": "https://winonafighter.com/",
+      "official_urls": [
+        "https://winonafighter.com/"
+      ],
+      "artist_name": "Winona Fighter",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/18696c37-c6b4-47c0-898b-5db77305b6a7",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "18696c37-c6b4-47c0-898b-5db77305b6a7",
+      "search_term": "WINONA FIGHTER",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Young Dubliners",
+      "official_url": "https://youngdubliners.com/",
+      "official_urls": [
+        "https://youngdubliners.com/"
+      ],
+      "artist_name": "The Young Dubliners",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/47771924-7047-4dbd-b6df-6c0f3bcb6677",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "47771924-7047-4dbd-b6df-6c0f3bcb6677",
+      "search_term": "Young Dubliners",
+      "match_method": "musicbrainz_highest_ranked_result"
+    },
+    {
+      "source_name": "Young the Giant - Presented by Alt 94.9's December to Remember",
+      "official_url": "https://www.youngthegiant.com/",
+      "official_urls": [
+        "https://www.youngthegiant.com/"
+      ],
+      "artist_name": "Young the Giant",
+      "verified": true,
+      "verified_at": "2026-10-31",
+      "evidence_url": "https://musicbrainz.org/artist/7fe96b15-5608-430e-ad25-77a01353c5d9",
+      "verification_method": "musicbrainz_official_homepage",
+      "mbid": "7fe96b15-5608-430e-ad25-77a01353c5d9",
+      "search_term": "Young the Giant",
+      "match_method": "musicbrainz_highest_ranked_result"
+    }
+  ]
+}

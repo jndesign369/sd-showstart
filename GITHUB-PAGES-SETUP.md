@@ -4,7 +4,7 @@ This kit is prepared for a public repository named `san-diego-shows` with `main`
 
 ## Create and upload the repository
 
-1. Download and extract `San Diego Shows starter kit-v0.1.0.zip` (attachment title: “San Diego Shows starter kit”). Its files are at the archive root, not inside a second `sdshows` folder. The `VERSION` file should contain `0.1.0`; release notes are in `CHANGELOG.md`.
+1. Download and extract `San Diego Shows starter kit-v0.3.0.zip` (attachment title: “San Diego Shows starter kit”). Its files are at the archive root, not inside a second `sdshows` folder. The `VERSION` file should contain `0.3.0`; release notes are in `CHANGELOG.md`. For an existing repository, use `UPDATE-v0.3.0.md` rather than repeating initial setup.
 2. Create a new **public** repository on GitHub named `san-diego-shows`. Use `main` as the default branch. Do not add a README, license, or `.gitignore` on GitHub when creating it; the kit already has its own files.
 3. Upload the extracted contents to the repository root. Make sure hidden items are included, especially `.github/workflows/update.yml`. Do not upload the ZIP itself or nest the files under `sdshows/`.
 
@@ -32,8 +32,15 @@ CHANGELOG.md
 index.html
 shows.json
 run.py
+artist_links.py
+artist_enrichment.py
+artist_enrichment.json
+artist_identities.json
+artist_review.json
+artist_review.md
 requirements.txt
 band_overrides.json
+event_lineups.json
 data/
 scrapers/
 scripts/prepare_site.py
@@ -64,7 +71,7 @@ No separate scheduling service is necessary. A push to `main` deploys the curren
 
 The public repository exposes the source code and event data. Only `index.html`, `shows.json`, and `.nojekyll` are uploaded to the Pages deployment artifact; Python scripts, source caches, tests, and workflow files are not part of that artifact.
 
-Do not put personal information or credentials into this public repository. Venue scraping happens on GitHub's runners, not in visitors' browsers; no third-party event API is called by this kit.
+Do not put personal information or credentials into this public repository. Venue scraping happens on GitHub's runners, not in visitors' browsers; no third-party event API is called by this kit. MusicBrainz's API is used only for background artist metadata, with caching and no browser-side requests.
 
 ## Troubleshooting
 
@@ -77,7 +84,7 @@ Do not put personal information or credentials into this public repository. Venu
 - **Old dates or no shows:** The included snapshot is not a fresh scrape. Run the workflow with refresh enabled. The page hides past shows using Pacific dates.
 - **One venue fails:** The scraper retains that source's last successful data. Check the footer and Actions logs; source sites can block hosted runners even when local collection works.
 - **All venues fail:** The previous snapshot remains intact. The workflow deploys it if build validation passes, then marks the run failed so the collection problem is visible.
-- **Artist names are not linked:** Names link only to verified official websites recorded in `band_overrides.json`. Unknown websites remain plain text. See `ARTIST-LINKS.md` for the verification format; old string-only entries no longer enable links.
+- **Artist names are not linked:** v0.3.0 accepts MusicBrainz official-homepage answers automatically. Check `artist_review.md` for no match, no homepage, or pending API calls; no manual approval is required. See `MUSICBRAINZ.md` for the policy and optional corrections.
 
 ## Local check before uploading
 

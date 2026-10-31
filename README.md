@@ -1,9 +1,10 @@
 # San Diego Shows
 
-Kit release: **v0.1.0**. Download filename:
-`San Diego Shows starter kit-v0.1.0.zip`. The attachment title remains
+Kit release: **v0.3.0**. Download filename:
+`San Diego Shows starter kit-v0.3.0.zip`. The attachment title remains
 “San Diego Shows starter kit”; check `VERSION` inside the archive to confirm
 the release. See [CHANGELOG.md](CHANGELOG.md) for included changes and limitations.
+Existing GitHub repository: follow [UPDATE-v0.3.0.md](UPDATE-v0.3.0.md).
 
 A zero-cost listings site for upcoming live music in San Diego. One plain HTML
 page reads `shows.json`, which is rebuilt daily by seven venue scrapers running
@@ -42,12 +43,18 @@ of shipped broken.
 ## Files
 
 ```
-VERSION                     downloadable kit version (currently 0.1.0)
+VERSION                     downloadable kit version (currently 0.3.0)
 CHANGELOG.md                release history and versioning policy
 index.html                  the website (text-only table)
 shows.json                  merged output the page reads
 run.py                      runs all scrapers, merges, dedupes, writes shows.json
 artist_links.py             exact artist identity and official-website policy
+artist_enrichment.py        bounded background MusicBrainz lookups and caching
+artist_enrichment.json      enable/disable, request budget, cache lifetime
+artist_identities.json      optional MBID corrections and explicit disables
+artist_review.md            human-readable unresolved-lookup report
+artist_review.json          unresolved lookups and all accepted matches
+MUSICBRAINZ.md               enrichment and identity-review instructions
 band_overrides.json         curated official-site records with verification evidence
 event_lineups.json          optional explicit artist names per stable event ID
 VENUES.md                   saved target coverage list and integration notes
@@ -128,18 +135,23 @@ keep the scheduled scraper on GitHub Actions.
 
 ## Artist names and official websites
 
-Artist names link only to independently verified official websites. Listing
+Artist names automatically link to MusicBrainz “official homepage” results. Listing
 titles never link to event pages, and an unknown artist website means plain
-text, not a search, social, ticketing, or guessed URL. Ticket links stay in
+text, not a search or guessed URL. Ticket links stay in
 their own column; venue names link to their own official venue websites.
 
 See [ARTIST-LINKS.md](ARTIST-LINKS.md) for the evidence-backed registry format
 and explicit multi-artist lineups. Old string-only URL overrides are no longer
-treated as verified. There is no fuzzy or inferred headliner matching.
+treated as verified. Automatic matches follow MusicBrainz ranking and may try
+a clearly separated performer prefix; the returned artist name is linked,
+not the entire event title.
 
-The supplied registry is empty: no real artist websites were verified in this
-update, and no names are linked merely to make the table look complete.
-For an existing GitHub site, follow [UPDATE-ARTIST-LINKS.md](UPDATE-ARTIST-LINKS.md).
+The manual registry remains empty. v0.3.0 removes the three-artist whitelist
+and manual approval gate: MusicBrainz's returned official homepages are
+accepted automatically. Missing homepages remain plain text. The API's
+highest-ranked artist is used without independent identity verification.
+See [MUSICBRAINZ.md](MUSICBRAINZ.md) for matching, caching, source limitations,
+and optional corrections; use [UPDATE-v0.3.0.md](UPDATE-v0.3.0.md) to upgrade.
 
 ## Broader coverage reference
 

@@ -1,7 +1,8 @@
 """Conservative artist identity and official-website policy.
 
 No title splitting, fuzzy matching, web-domain guessing, or legacy URL promotion.
-Verification is curated, not inferred from a venue's event or purchase link.
+Official websites can be curated or automatically accepted from MusicBrainz's
+official-homepage relationship, never inferred from ticket/event links.
 """
 from datetime import date
 from urllib.parse import urlsplit
@@ -11,6 +12,7 @@ NON_ARTIST_HOSTS = {
     "seetickets.us", "seetickets.com", "showclix.com", "etix.com", "tixr.com",
     "facebook.com", "instagram.com", "x.com", "twitter.com", "tiktok.com",
     "youtube.com", "youtu.be", "spotify.com", "linktr.ee", "bit.ly",
+    "musicbrainz.org", "setlist.fm", "bandsintown.com", "songkick.com",
 }
 
 
@@ -43,10 +45,11 @@ def official_website(value):
 
 
 def verified_record(record, show):
-    """Metadata is a curator's assertion, not automatic verification."""
+    """Check manual evidence or automatically accepted MusicBrainz metadata."""
     if not isinstance(record, dict) or record.get("verified") is not True:
         return None
-    url = official_website(record.get("official_url"))
+    url = (http_url if record.get("verification_method") == "musicbrainz_official_homepage"
+           else official_website)(record.get("official_url"))
     evidence = http_url(record.get("evidence_url"))
     try:
         checked = date.fromisoformat(record.get("verified_at", ""))
@@ -59,12 +62,17 @@ def verified_record(record, show):
         (show.get(k) or "").rstrip("/") for k in ("ticket_url", "event_url", "venue_url")
     }:
         return None
-    return {
+    result = {
         "official_url": url,
         "website_verified": True,
         "evidence_url": evidence,
         "verified_at": checked.isoformat(),
     }
+    for key in ("verification_method", "mbid", "artist_name", "official_urls",
+                "search_term", "match_method"):
+        if record.get(key):
+            result[key] = record[key]
+    return result
 
 
 def apply_artist_links(shows, registry, lineups=None):
@@ -102,6 +110,10 @@ def apply_artist_links(shows, registry, lineups=None):
             checked = verified_record(records.get(artist_key(name)), show)
             if checked:
                 artist.update(checked)
+                if checked.get("artist_name"):
+                    # Link the returned artist name, never an entire tour title
+                    # or multi-performer source listing to one homepage.
+                    artist["name"] = checked["artist_name"]
             show["artists"].append(artist)
         if len(show["artists"]) == 1:
             # Backward-compatible field, only after this artist's verification.

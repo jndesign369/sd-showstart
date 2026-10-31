@@ -1,40 +1,46 @@
 {
- "generated_at": "2026-10-31T11:42:12-07:00",
+ "generated_at": "2026-10-31T12:07:43-07:00",
+ "artist_enrichment": {
+  "generated_at": "2026-10-31T19:07:43+00:00",
+  "linked_artist_count": 121,
+  "review_count": 134,
+  "requests_made": 0
+ },
  "sources": {
   "bellyup": {
    "status": "ok",
-   "last_success": "2026-10-31T11:41:52-07:00",
-   "show_count": 239
+   "last_success": "2026-10-24T14:54:17-07:00",
+   "show_count": 225
   },
   "sodabar": {
    "status": "ok",
-   "last_success": "2026-10-31T11:41:58-07:00",
-   "show_count": 21
+   "last_success": "2026-10-24T14:54:53-07:00",
+   "show_count": 19
   },
   "quartyard": {
    "status": "ok",
-   "last_success": "2026-10-31T11:42:02-07:00",
-   "show_count": 28
+   "last_success": "2026-10-24T14:56:22-07:00",
+   "show_count": 27
   },
   "observatory": {
    "status": "ok",
-   "last_success": "2026-10-31T11:42:03-07:00",
+   "last_success": "2026-10-24T14:54:58-07:00",
    "show_count": 25
   },
   "humphreys": {
    "status": "ok",
-   "last_success": "2026-10-31T11:42:06-07:00",
+   "last_success": "2026-10-24T14:58:53-07:00",
    "show_count": 5
   },
   "radyshell": {
    "status": "ok",
-   "last_success": "2026-10-31T11:42:11-07:00",
-   "show_count": 12
+   "last_success": "2026-10-24T15:02:37-07:00",
+   "show_count": 13
   },
   "soma": {
    "status": "ok",
-   "last_success": "2026-10-31T11:42:11-07:00",
-   "show_count": 32
+   "last_success": "2026-10-24T14:55:46-07:00",
+   "show_count": 28
   }
  },
  "shows": [
@@ -68,10 +74,26 @@
    "ticket_url": "https://www.ticketmaster.com/pigeons-playing-ping-pong-san-diego-california-10-31-2026/event/0B0064C59C304DFA",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://pigeonsplayingpingpong.com/",
    "venue_url": "https://www.observatorysd.com",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Pigeons Playing Ping Pong",
+     "official_url": "https://pigeonsplayingpingpong.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/ec8e3cea-69f0-4ff3-b42c-74937d336334",
+     "verified_at": "2026-10-30",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+     "artist_name": "Pigeons Playing Ping Pong",
+     "official_urls": [
+      "https://pigeonsplayingpingpong.com/"
+     ],
+     "search_term": "Pigeons Playing Ping Pong",
+     "match_method": "optional_mbid_override"
+    }
+   ]
   },
   {
    "id": "bellyup:14981773",
@@ -85,10 +107,26 @@
    "event_url": "https://bellyup.com/calendar/14981773/pigeons-playing-ping-pong-fall-tour-2026-w-dizgo",
    "ticket_url": "https://www.ticketweb.com/event/pigeons-playing-ping-pong-the-observatory-north-park-tickets/14981773?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://pigeonsplayingpingpong.com/",
    "venue_url": "https://www.observatorysd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Pigeons Playing Ping Pong",
+     "official_url": "https://pigeonsplayingpingpong.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/ec8e3cea-69f0-4ff3-b42c-74937d336334",
+     "verified_at": "2026-10-30",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "ec8e3cea-69f0-4ff3-b42c-74937d336334",
+     "artist_name": "Pigeons Playing Ping Pong",
+     "official_urls": [
+      "https://pigeonsplayingpingpong.com/"
+     ],
+     "search_term": "Pigeons Playing Ping Pong",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "sodabar:https://dice.fm/event/lucy-cooper-b-handy-fgs-31st-oct-soda-bar-san-diego-tickets",
@@ -153,10 +191,26 @@
    "event_url": "https://bellyup.com/calendar/14203664/samantha-fish-paper-doll-live-world-tour-w-cody-dickinson-of-north-mississippi-allstars",
    "ticket_url": "https://www.ticketweb.com/event/samantha-fish-paper-belly-up-tickets/14203664?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.samanthafish.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Samantha Fish",
+     "official_url": "http://www.samanthafish.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/bcf3ad0b-4eae-4c8b-a292-9f4c573aa27a",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "bcf3ad0b-4eae-4c8b-a292-9f4c573aa27a",
+     "artist_name": "Samantha Fish",
+     "official_urls": [
+      "http://www.samanthafish.com/"
+     ],
+     "search_term": "Samantha Fish",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14204764",
@@ -176,15 +230,15 @@
    "artists": []
   },
   {
-   "id": "sodabar:https://dice.fm/event/desire-mothermary-twin-ritual-johnny-jewel-1st-nov-soda-bar-san-diego-tickets",
+   "id": "sodabar:https://dice.fm/event/desire-mothermary-johnny-jewel-1st-nov-soda-bar-san-diego-tickets",
    "source": "sodabar",
-   "title": "Desire, Mothermary, Twin Ritual, Johnny Jewel",
+   "title": "Desire, Mothermary, Johnny Jewel",
    "venue": "Soda Bar",
    "date": "2026-11-01",
    "show_time": "19:00",
    "doors_time": "19:00",
    "age_limit": "21+",
-   "event_url": "https://dice.fm/event/desire-mothermary-twin-ritual-johnny-jewel-1st-nov-soda-bar-san-diego-tickets",
+   "event_url": "https://dice.fm/event/desire-mothermary-johnny-jewel-1st-nov-soda-bar-san-diego-tickets",
    "ticket_url": "https://link.dice.fm/g3abe76ced82?pid=b5421562",
    "ticket_kind": "direct",
    "band_url": null,
@@ -205,10 +259,26 @@
    "ticket_url": "https://www.ticketmaster.com/casbahbelly-updesert-daze-present-the-black-san-diego-california-11-01-2026/event/0B006489B3AA4759",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://theblackangels.com/",
    "venue_url": "https://www.observatorysd.com",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Black Angels",
+     "official_url": "https://theblackangels.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/49814f71-8fef-41ec-9af8-b6995c0bd601",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "49814f71-8fef-41ec-9af8-b6995c0bd601",
+     "artist_name": "The Black Angels",
+     "official_urls": [
+      "https://theblackangels.com/"
+     ],
+     "search_term": "The Black Angels",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14845983",
@@ -222,21 +292,37 @@
    "event_url": "https://bellyup.com/calendar/14845983/the-black-angels-passover-2026-tour",
    "ticket_url": "https://www.ticketweb.com/event/the-black-angels-passover-2026-the-observatory-north-park-tickets/14845983?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://theblackangels.com/",
    "venue_url": "https://www.observatorysd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Black Angels",
+     "official_url": "https://theblackangels.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/49814f71-8fef-41ec-9af8-b6995c0bd601",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "49814f71-8fef-41ec-9af8-b6995c0bd601",
+     "artist_name": "The Black Angels",
+     "official_urls": [
+      "https://theblackangels.com/"
+     ],
+     "search_term": "The Black Angels",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
-   "id": "sodabar:https://dice.fm/event/clyde-mcgee-bridge-city-sinners-bosko-baker-clinton-davis-2nd-nov-soda-bar-san-diego-tickets",
+   "id": "sodabar:https://dice.fm/event/clyde-mcgee-bridge-city-sinners-bosko-baker-2nd-nov-soda-bar-san-diego-tickets",
    "source": "sodabar",
-   "title": "Clyde McGee (Bridge City Sinners), Bosko Baker, Clinton Davis",
+   "title": "Clyde McGee (Bridge City Sinners), Bosko Baker",
    "venue": "Soda Bar",
    "date": "2026-11-02",
    "show_time": "19:00",
    "doors_time": "19:00",
    "age_limit": "21+",
-   "event_url": "https://dice.fm/event/clyde-mcgee-bridge-city-sinners-bosko-baker-clinton-davis-2nd-nov-soda-bar-san-diego-tickets",
+   "event_url": "https://dice.fm/event/clyde-mcgee-bridge-city-sinners-bosko-baker-2nd-nov-soda-bar-san-diego-tickets",
    "ticket_url": "https://link.dice.fm/u64891b7c1ba?pid=b5421562",
    "ticket_kind": "direct",
    "band_url": null,
@@ -257,10 +343,26 @@
    "ticket_url": "https://www.ticketmaster.com/medium-build-presents-the-king-of-san-diego-california-11-02-2026/event/0B0064D6DD254796",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://www.mediumbuildmusic.com/",
    "venue_url": "https://www.observatorysd.com",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Medium Build",
+     "official_url": "https://www.mediumbuildmusic.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
+     "artist_name": "Medium Build",
+     "official_urls": [
+      "https://www.mediumbuildmusic.com/"
+     ],
+     "search_term": "Medium Build",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14216064",
@@ -274,10 +376,26 @@
    "event_url": "https://bellyup.com/calendar/14216064/medium-build-presents-the-king-of-having-fun-on-tour-w-the-scratch",
    "ticket_url": "https://www.ticketweb.com/event/medium-build-presents-the-king-the-observatory-north-park-tickets/14216064?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.mediumbuildmusic.com/",
    "venue_url": "https://www.observatorysd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Medium Build",
+     "official_url": "https://www.mediumbuildmusic.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
+     "artist_name": "Medium Build",
+     "official_urls": [
+      "https://www.mediumbuildmusic.com/"
+     ],
+     "search_term": "Medium Build",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "soma:20261103:Kurt Travis",
@@ -326,10 +444,26 @@
    "event_url": "https://bellyup.com/calendar/14935873/fitz-and-the-tantrums-picking-up-the-pieces-in-its-entirety",
    "ticket_url": "https://www.ticketweb.com/event/fitz-and-the-tantrums-belly-up-tickets/14935873?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.fitzandthetantrums.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Fitz and the Tantrums",
+     "official_url": "http://www.fitzandthetantrums.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/8560d4e8-05e2-4c20-980b-ad2db445dd5d",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "8560d4e8-05e2-4c20-980b-ad2db445dd5d",
+     "artist_name": "Fitz and the Tantrums",
+     "official_urls": [
+      "http://www.fitzandthetantrums.com/"
+     ],
+     "search_term": "Fitz and The Tantrums",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14221724",
@@ -366,34 +500,16 @@
    "artists": []
   },
   {
-   "id": "radyshell:20261103:Tom Jones: Come Gather Round",
-   "source": "radyshell",
-   "title": "Tom Jones: Come Gather Round",
-   "venue": "The Rady Shell at Jacobs Park",
-   "date": "2026-11-03",
-   "show_time": "20:00",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.theshell.org/performances/tom-jones/",
-   "ticket_url": "https://www.ticketmaster.com/event/0A0064B31A394E43",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://theshell.org/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
    "id": "soma:20261104:bunii",
    "source": "soma",
    "title": "bunii",
    "venue": "SOMA San Diego",
    "date": "2026-11-04",
-   "show_time": null,
+   "show_time": "19:00",
    "doors_time": null,
    "age_limit": null,
    "event_url": "https://www.somasandiego.com/event/bunii/",
-   "ticket_url": "https://www.ticketmaster.com/event/0A00655AABAC5DD3",
+   "ticket_url": "https://bit.ly/4gtTYnM",
    "ticket_kind": "direct",
    "sold_out": false,
    "band_url": null,
@@ -430,27 +546,59 @@
    "event_url": "https://bellyup.com/calendar/14935903/fitz-and-the-tantrums-greatest-hits-show",
    "ticket_url": "https://www.ticketweb.com/event/fitz-and-the-tantrums-belly-up-tickets/14935903?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.fitzandthetantrums.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Fitz and the Tantrums",
+     "official_url": "http://www.fitzandthetantrums.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/8560d4e8-05e2-4c20-980b-ad2db445dd5d",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "8560d4e8-05e2-4c20-980b-ad2db445dd5d",
+     "artist_name": "Fitz and the Tantrums",
+     "official_urls": [
+      "http://www.fitzandthetantrums.com/"
+     ],
+     "search_term": "Fitz and The Tantrums",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14249494",
    "source": "bellyup",
-   "title": "Six60 - Right Here Right Now - North America 2026 w/ We the Commas",
+   "title": "Six60 - Right Here Right Now - North America 2026",
    "venue": "Music Box",
    "date": "2026-11-04",
    "show_time": "20:00",
    "doors_time": "19:00",
    "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14249494/six60-right-here-right-now-north-america-2026-w-we-the-commas",
+   "event_url": "https://bellyup.com/calendar/14249494/six60-right-here-right-now-north-america-2026",
    "ticket_url": "https://www.ticketweb.com/event/six60-right-here-music-box-tickets/14249494?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.six60.co.nz/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Six60",
+     "official_url": "http://www.six60.co.nz/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/0fc1bbd2-c8a0-43cc-a0a1-db1c3fe805d9",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "0fc1bbd2-c8a0-43cc-a0a1-db1c3fe805d9",
+     "artist_name": "Six60",
+     "official_urls": [
+      "http://www.six60.co.nz/"
+     ],
+     "search_term": "Six60",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14215064",
@@ -464,10 +612,26 @@
    "event_url": "https://bellyup.com/calendar/14215064/lyle-lovett-and-his-small-large-band",
    "ticket_url": "https://www.ticketweb.com/event/lyle-lovett-and-his-small-the-sound-tickets/14215064?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.lylelovett.com/tour/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Lyle Lovett and his Small Large Band",
+     "official_url": "https://www.lylelovett.com/tour/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/2d669bc4-59a1-4eb4-96de-44a3b7eb01e1",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "2d669bc4-59a1-4eb4-96de-44a3b7eb01e1",
+     "artist_name": "Lyle Lovett and his Small Large Band",
+     "official_urls": [
+      "https://www.lylelovett.com/tour/"
+     ],
+     "search_term": "Lyle Lovett and his Small Large Band",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "quartyard:20261105:Ne'Ol Soul: 1 Year Anniversary",
@@ -533,10 +697,26 @@
    "event_url": "https://bellyup.com/calendar/14140644/don-mclean-celebrating-americas-250th-birthday",
    "ticket_url": "https://www.ticketweb.com/event/don-mclean-celebrating-belly-up-tickets/14140644?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.don-mclean.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Don McLean",
+     "official_url": "http://www.don-mclean.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/fa19ee38-c2a9-4ed1-9b24-a18100cf9db3",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "fa19ee38-c2a9-4ed1-9b24-a18100cf9db3",
+     "artist_name": "Don McLean",
+     "official_urls": [
+      "http://www.don-mclean.com/"
+     ],
+     "search_term": "Don McLean",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "soma:20261106:The Story So Far",
@@ -545,16 +725,32 @@
    "venue": "SOMA San Diego",
    "date": "2026-11-06",
    "show_time": null,
-   "doors_time": "18:00",
+   "doors_time": "19:00",
    "age_limit": null,
    "event_url": "https://www.somasandiego.com/event/the-story-so-far/",
    "ticket_url": null,
    "ticket_kind": null,
    "sold_out": true,
-   "band_url": null,
+   "band_url": "http://thestorysofarca.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Story So Far",
+     "official_url": "http://thestorysofarca.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/bc303c9e-3ffb-49ca-acf1-088ef4d46ed7",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "bc303c9e-3ffb-49ca-acf1-088ef4d46ed7",
+     "artist_name": "The Story So Far",
+     "official_urls": [
+      "http://thestorysofarca.com/"
+     ],
+     "search_term": "The Story So Far",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "radyshell:20261106:NONSTOP Presents: HUGEL \u201cMake ",
@@ -638,10 +834,26 @@
    "event_url": "https://bellyup.com/calendar/14248134/the-billy-joel-legacy-a-tribute-experience",
    "ticket_url": "https://www.ticketweb.com/event/the-billy-joel-legacy-the-sound-tickets/14248134?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.billyjoellegacy.com/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Billy Joel Legacy - A Tribute Experience",
+     "official_url": "https://www.billyjoellegacy.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/c28cfe2a-a0e0-4e96-b06a-c94719c46834",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "c28cfe2a-a0e0-4e96-b06a-c94719c46834",
+     "artist_name": "The Billy Joel Legacy - A Tribute Experience",
+     "official_urls": [
+      "https://www.billyjoellegacy.com/"
+     ],
+     "search_term": "The Billy Joel Legacy - A Tribute Experience",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14288554",
@@ -741,27 +953,26 @@
    "event_url": "https://bellyup.com/calendar/14264904/mustache-harbor-yacht-rock-forever-w-radio-80s",
    "ticket_url": "https://www.ticketweb.com/event/mustache-harbor-yacht-belly-up-tickets/14264904?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.mustacheharbor.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "sodabar:https://dice.fm/event/still-obsessed-the-ultimate-boyband-party-7th-nov-soda-bar-san-diego-tickets",
-   "source": "sodabar",
-   "title": "STILL OBSESSED: The Ultimate Boyband Party",
-   "venue": "Soda Bar",
-   "date": "2026-11-07",
-   "show_time": "20:00",
-   "doors_time": "20:00",
-   "age_limit": "21+",
-   "event_url": "https://dice.fm/event/still-obsessed-the-ultimate-boyband-party-7th-nov-soda-bar-san-diego-tickets",
-   "ticket_url": "https://link.dice.fm/Tf8c74f1ac30?pid=b5421562",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://sodabarmusic.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Mustache Harbor",
+     "official_url": "https://www.mustacheharbor.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/3fa77566-a4d0-4165-b5bb-b77b4da0c988",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "3fa77566-a4d0-4165-b5bb-b77b4da0c988",
+     "artist_name": "Mustache Harbor",
+     "official_urls": [
+      "https://www.mustacheharbor.com/"
+     ],
+     "search_term": "Mustache Harbor",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "sodabar:https://dice.fm/event/luke-kidgell-live-in-the-usa-late-show-7th-nov-soda-bar-san-diego-tickets",
@@ -810,10 +1021,26 @@
    "event_url": "https://quartyardsd.com/event/bag-raiders/",
    "ticket_url": "https://www.eventbrite.com/e/bag-raiders-tickets-1998906799045?aff=oddtdtcreator&keep_tld=true",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.bagraiders.com/",
    "venue_url": "https://quartyardsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Bag Raiders",
+     "official_url": "http://www.bagraiders.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/6a3d87ad-dd71-4e8f-b8dd-78b61e0e7fe6",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "6a3d87ad-dd71-4e8f-b8dd-78b61e0e7fe6",
+     "artist_name": "Bag Raiders",
+     "official_urls": [
+      "http://www.bagraiders.com/"
+     ],
+     "search_term": "Bag Raiders",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "observatory:https://www.ticketmaster.com/robby-hoffman-live-on-tour-san-diego-california-11-08-2026/event/0B00650BBBC45A23",
@@ -898,10 +1125,27 @@
    "event_url": "https://bellyup.com/calendar/14757683/bahamas-industrial-sport-sound-w-sister-ray",
    "ticket_url": "https://www.ticketweb.com/event/bahamas-industrial-sport-belly-up-tickets/14757683?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://afiesongs.tripod.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Bahamas",
+     "official_url": "http://afiesongs.tripod.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/294d06f7-fd1f-4cbe-a433-bb9cd6ac937b",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "294d06f7-fd1f-4cbe-a433-bb9cd6ac937b",
+     "artist_name": "Bahamas",
+     "official_urls": [
+      "http://afiesongs.tripod.com/",
+      "http://bahamasmusic.net/"
+     ],
+     "search_term": "Bahamas",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14973783",
@@ -915,10 +1159,26 @@
    "event_url": "https://bellyup.com/calendar/14973783/stephen-day-the-self-titled-tour-w-emily-brimlow",
    "ticket_url": "https://www.ticketweb.com/event/stephen-day-the-music-box-tickets/14973783?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://stephenday.org/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Stephen Day",
+     "official_url": "https://stephenday.org/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/34f2a859-2e97-4efe-852e-c6e5e98ddb8b",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "34f2a859-2e97-4efe-852e-c6e5e98ddb8b",
+     "artist_name": "Stephen Day",
+     "official_urls": [
+      "https://stephenday.org/"
+     ],
+     "search_term": "Stephen Day",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14964383",
@@ -932,10 +1192,26 @@
    "event_url": "https://bellyup.com/calendar/14964383/the-psychedelic-furs-with-special-guests-we-are-scientists",
    "ticket_url": "https://www.ticketweb.com/event/the-psychedelic-furs-with-special-the-sound-tickets/14964383?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.thepsychedelicfurs.com/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Psychedelic Furs",
+     "official_url": "http://www.thepsychedelicfurs.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/9f930ddf-be2f-4de5-a39f-7ae47305752e",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "9f930ddf-be2f-4de5-a39f-7ae47305752e",
+     "artist_name": "The Psychedelic Furs",
+     "official_urls": [
+      "http://www.thepsychedelicfurs.com/"
+     ],
+     "search_term": "The Psychedelic Furs",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "sodabar:https://dice.fm/event/jady-colby-tj-minor-9th-nov-soda-bar-san-diego-tickets",
@@ -966,10 +1242,26 @@
    "event_url": "https://bellyup.com/calendar/14918073/king-buffalo-north-america-tour-2026-with-special-guests-l-a-witch",
    "ticket_url": "https://www.ticketweb.com/event/king-buffalo-north-belly-up-tickets/14918073?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://kingbuffalo.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "King Buffalo",
+     "official_url": "https://kingbuffalo.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/17216b16-e706-4082-b0ba-e409a3097844",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "17216b16-e706-4082-b0ba-e409a3097844",
+     "artist_name": "King Buffalo",
+     "official_urls": [
+      "https://kingbuffalo.com/"
+     ],
+     "search_term": "King Buffalo",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:15017053",
@@ -983,10 +1275,26 @@
    "event_url": "https://bellyup.com/calendar/15017053/thomas-dolby-iconic-80s-recollections-tour-2026-w-dj-vaughn-avakian",
    "ticket_url": "https://www.ticketweb.com/event/thomas-dolby-iconic-music-box-tickets/15017053?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.thomasdolby.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Thomas Dolby",
+     "official_url": "http://www.thomasdolby.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/5a8cc407-7efb-4e94-9637-d5896395e754",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "5a8cc407-7efb-4e94-9637-d5896395e754",
+     "artist_name": "Thomas Dolby",
+     "official_urls": [
+      "http://www.thomasdolby.com/"
+     ],
+     "search_term": "Thomas Dolby",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "soma:20261110:UNDER\u00d8ATH",
@@ -1001,10 +1309,26 @@
    "ticket_url": null,
    "ticket_kind": null,
    "sold_out": true,
-   "band_url": null,
+   "band_url": "https://www.underoath777.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Underoath",
+     "official_url": "https://www.underoath777.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/674a7e8c-9682-419a-8e05-2358e28b5359",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "674a7e8c-9682-419a-8e05-2358e28b5359",
+     "artist_name": "Underoath",
+     "official_urls": [
+      "https://www.underoath777.com/"
+     ],
+     "search_term": "UNDER\u00d8ATH",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "sodabar:https://dice.fm/event/voice-of-san-diego-brews-news-live-podcast-10th-nov-soda-bar-san-diego-tickets",
@@ -1036,27 +1360,26 @@
    "ticket_url": "https://www.ticketmaster.com/event/0A0064C4DEE6ADD7",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://www.rodgab.com/",
    "venue_url": "https://www.humphreysconcerts.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "sodabar:https://dice.fm/event/todd-day-wait-zack-oakley-zb-savoy-11th-nov-soda-bar-san-diego-tickets",
-   "source": "sodabar",
-   "title": "Todd Day Wait, Zack Oakley, ZB Savoy",
-   "venue": "Soda Bar",
-   "date": "2026-11-11",
-   "show_time": "19:00",
-   "doors_time": "19:00",
-   "age_limit": "21+",
-   "event_url": "https://dice.fm/event/todd-day-wait-zack-oakley-zb-savoy-11th-nov-soda-bar-san-diego-tickets",
-   "ticket_url": "https://link.dice.fm/l9f5f434e12f?pid=b5421562",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://sodabarmusic.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Rodrigo y Gabriela",
+     "official_url": "https://www.rodgab.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/a8ed28e3-5c08-4448-b889-867483e251f5",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "a8ed28e3-5c08-4448-b889-867483e251f5",
+     "artist_name": "Rodrigo y Gabriela",
+     "official_urls": [
+      "https://www.rodgab.com/"
+     ],
+     "search_term": "Rodrigo y Gabriela",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14837403",
@@ -1070,27 +1393,26 @@
    "event_url": "https://bellyup.com/calendar/14837403/nick-shoulders-apocalypse-never-tour-w-creekbed-carter",
    "ticket_url": "https://www.ticketweb.com/event/nick-shoulders-apocalypse-belly-up-tickets/14837403?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.nickshouldersokaycrawdad.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "quartyard:20261112:FIC STUDIO SESSIONS",
-   "source": "quartyard",
-   "title": "FIC STUDIO SESSIONS",
-   "venue": "Quartyard",
-   "date": "2026-11-12",
-   "show_time": "18:00",
-   "doors_time": null,
-   "age_limit": "All Ages",
-   "event_url": "https://quartyardsd.com/event/fic-studio-sessions/",
-   "ticket_url": "https://www.eventbrite.com/o/future-is-color-59492018283",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://quartyardsd.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Nick Shoulders",
+     "official_url": "http://www.nickshouldersokaycrawdad.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/8b1536e8-860e-41d0-90b1-8a067c9c326b",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "8b1536e8-860e-41d0-90b1-8a067c9c326b",
+     "artist_name": "Nick Shoulders",
+     "official_urls": [
+      "http://www.nickshouldersokaycrawdad.com/"
+     ],
+     "search_term": "Nick Shoulders",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "observatory:https://www.ticketmaster.com/club-ironmouse-san-diego-2026-18-san-diego-california-11-12-2026/event/0B00653CCB7A71A6",
@@ -1122,27 +1444,26 @@
    "event_url": "https://bellyup.com/calendar/14232964/chest-fever-presents-the-last-waltz",
    "ticket_url": "https://www.ticketweb.com/event/chest-fever-presents-the-last-belly-up-tickets/14232964?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://chestfeverofficial.com/bio",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "sodabar:https://dice.fm/event/val-kate-delos-santos-vivi-nubes-12th-nov-soda-bar-san-diego-tickets",
-   "source": "sodabar",
-   "title": "VAL\u00c9, Kate Delos Santos, Vivi Nubes",
-   "venue": "Soda Bar",
-   "date": "2026-11-12",
-   "show_time": "19:00",
-   "doors_time": "19:00",
-   "age_limit": "21+",
-   "event_url": "https://dice.fm/event/val-kate-delos-santos-vivi-nubes-12th-nov-soda-bar-san-diego-tickets",
-   "ticket_url": "https://link.dice.fm/gf83ff215c8a?pid=b5421562",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://sodabarmusic.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Chest Fever",
+     "official_url": "https://chestfeverofficial.com/bio",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/a3e26ed1-9fae-4df9-8e1f-bcd7ebe0babb",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "a3e26ed1-9fae-4df9-8e1f-bcd7ebe0babb",
+     "artist_name": "Chest Fever",
+     "official_urls": [
+      "https://chestfeverofficial.com/bio"
+     ],
+     "search_term": "Chest Fever",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14902753",
@@ -1156,10 +1477,26 @@
    "event_url": "https://bellyup.com/calendar/14902753/jervis-campbell-good-grief-tour-w-allie-paige",
    "ticket_url": "https://www.ticketweb.com/event/jervis-campbell-good-music-box-tickets/14902753?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.jerviscampbell.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Jervis Campbell",
+     "official_url": "https://www.jerviscampbell.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/18d4cb94-f463-475e-bae5-9b3f125eb117",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "18d4cb94-f463-475e-bae5-9b3f125eb117",
+     "artist_name": "Jervis Campbell",
+     "official_urls": [
+      "https://www.jerviscampbell.com/"
+     ],
+     "search_term": "Jervis Campbell",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "radyshell:20261113:NONSTOP Presents Vintage Cultu",
@@ -1174,21 +1511,37 @@
    "ticket_url": "https://www.ticketmaster.com/event/0A00650CF5957BE0",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "http://www.devantmanuque.com/",
    "venue_url": "https://theshell.org/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Nonstop",
+     "official_url": "http://www.devantmanuque.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/79fd773e-0416-4c21-a18e-abc912a9b885",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "79fd773e-0416-4c21-a18e-abc912a9b885",
+     "artist_name": "Nonstop",
+     "official_urls": [
+      "http://www.devantmanuque.com/"
+     ],
+     "search_term": "NONSTOP",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14999933",
    "source": "bellyup",
-   "title": "Atomic Groove's Peace . Love . Gratitude Dance Party Happy Hour",
+   "title": "Atomic Groove's Peace . Love . Good Vibez Dance Party Happy Hour",
    "venue": "Belly Up",
    "date": "2026-11-13",
    "show_time": "17:30",
    "doors_time": "17:00",
    "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14999933/atomic-grooves-peace-love-gratitude-dance-party-happy-hour",
+   "event_url": "https://bellyup.com/calendar/14999933/atomic-grooves-peace-love-good-vibez-dance-party-happy-hour",
    "ticket_url": "https://www.ticketweb.com/event/atomic-grooves-peace-love-belly-up-tickets/14999933?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
    "band_url": null,
@@ -1209,27 +1562,26 @@
    "ticket_url": "https://www.ticketmaster.com/dragonforce-inhuman-rampage-20th-anniversary-san-diego-california-11-13-2026/event/0B0064B4CB986AA5",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "http://www.dragonforce.com/",
    "venue_url": "https://www.observatorysd.com",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "sodabar:https://dice.fm/event/sparta-public-opinion-13th-nov-soda-bar-san-diego-tickets",
-   "source": "sodabar",
-   "title": "Sparta, Public Opinion",
-   "venue": "Soda Bar",
-   "date": "2026-11-13",
-   "show_time": "19:30",
-   "doors_time": "19:30",
-   "age_limit": "21+",
-   "event_url": "https://dice.fm/event/sparta-public-opinion-13th-nov-soda-bar-san-diego-tickets",
-   "ticket_url": "https://link.dice.fm/g5f7ab949d8d?pid=b5421562",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://sodabarmusic.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "DragonForce",
+     "official_url": "http://www.dragonforce.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/ef58d4c9-0d40-42ba-bfab-9186c1483edd",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "ef58d4c9-0d40-42ba-bfab-9186c1483edd",
+     "artist_name": "DragonForce",
+     "official_urls": [
+      "http://www.dragonforce.com/"
+     ],
+     "search_term": "DragonForce",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:15013573",
@@ -1277,27 +1629,26 @@
    "event_url": "https://quartyardsd.com/event/sina-bathaie-white-lotus-world-tour-back-together-san-diego/",
    "ticket_url": "https://ra.co/events/2516281",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.sinabathaie.com/",
    "venue_url": "https://quartyardsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "sodabar:https://dice.fm/event/death-cab-for-karaoke-live-band-karaoke-14th-nov-soda-bar-san-diego-tickets",
-   "source": "sodabar",
-   "title": "Death Cab For Karaoke | live band karaoke!",
-   "venue": "Soda Bar",
-   "date": "2026-11-14",
-   "show_time": "19:00",
-   "doors_time": "19:00",
-   "age_limit": "21+",
-   "event_url": "https://dice.fm/event/death-cab-for-karaoke-live-band-karaoke-14th-nov-soda-bar-san-diego-tickets",
-   "ticket_url": "https://link.dice.fm/U8ec196bcd96?pid=b5421562",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://sodabarmusic.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Sina Bathaie",
+     "official_url": "https://www.sinabathaie.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/06d988e0-c05e-4b29-a85d-dd7688f27b7c",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "06d988e0-c05e-4b29-a85d-dd7688f27b7c",
+     "artist_name": "Sina Bathaie",
+     "official_urls": [
+      "https://www.sinabathaie.com/"
+     ],
+     "search_term": "Sina Bathaie",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "observatory:https://www.ticketmaster.com/the-tallest-man-on-earth-san-diego-california-11-14-2026/event/0B0064B6C81763BF",
@@ -1312,10 +1663,26 @@
    "ticket_url": "https://www.ticketmaster.com/the-tallest-man-on-earth-san-diego-california-11-14-2026/event/0B0064B6C81763BF",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "http://www.thetallestmanonearth.com/",
    "venue_url": "https://www.observatorysd.com",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Tallest Man on Earth",
+     "official_url": "http://www.thetallestmanonearth.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/7e35659f-f3bb-4c28-bcf5-47bd5cfa2bca",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "7e35659f-f3bb-4c28-bcf5-47bd5cfa2bca",
+     "artist_name": "The Tallest Man on Earth",
+     "official_urls": [
+      "http://www.thetallestmanonearth.com/"
+     ],
+     "search_term": "The Tallest Man On Earth",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "soma:20261114:JSTJR",
@@ -1381,10 +1748,26 @@
    "event_url": "https://bellyup.com/calendar/14891513/boombox-fall-tour-2026-w-dgtl-clr",
    "ticket_url": "https://www.ticketweb.com/event/boombox-fall-tour-music-box-tickets/14891513?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://thisisboombox.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "BoomBox",
+     "official_url": "http://thisisboombox.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/0a7604d0-a712-4d5c-83cb-cc4ae3d01455",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "0a7604d0-a712-4d5c-83cb-cc4ae3d01455",
+     "artist_name": "BoomBox",
+     "official_urls": [
+      "http://thisisboombox.com/"
+     ],
+     "search_term": "BoomBox",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "quartyard:20261115:Slothrust, Um, Jennifer?",
@@ -1404,23 +1787,6 @@
    "artists": []
   },
   {
-   "id": "sodabar:https://dice.fm/event/two-runner-kimmi-bitter-15th-nov-soda-bar-san-diego-tickets",
-   "source": "sodabar",
-   "title": "Two Runner, Kimmi Bitter",
-   "venue": "Soda Bar",
-   "date": "2026-11-15",
-   "show_time": "19:00",
-   "doors_time": "19:00",
-   "age_limit": "21+",
-   "event_url": "https://dice.fm/event/two-runner-kimmi-bitter-15th-nov-soda-bar-san-diego-tickets",
-   "ticket_url": "https://link.dice.fm/E477f143e1c2?pid=b5421562",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://sodabarmusic.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
    "id": "bellyup:14856253",
    "source": "bellyup",
    "title": "Marc Broussard - West Coast Tour w/ Cristina Vane",
@@ -1432,27 +1798,26 @@
    "event_url": "https://bellyup.com/calendar/14856253/marc-broussard-west-coast-tour-w-cristina-vane",
    "ticket_url": "https://www.ticketweb.com/event/marc-broussard-west-belly-up-tickets/14856253?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.marcbroussard.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "sodabar:https://dice.fm/event/oso-oso-liquid-mike-bugsy-jordan-krimston-16th-nov-soda-bar-san-diego-tickets",
-   "source": "sodabar",
-   "title": "Oso Oso, Liquid Mike, bugsy,  Jordan Krimston",
-   "venue": "Soda Bar",
-   "date": "2026-11-16",
-   "show_time": "18:30",
-   "doors_time": "18:30",
-   "age_limit": "21+",
-   "event_url": "https://dice.fm/event/oso-oso-liquid-mike-bugsy-jordan-krimston-16th-nov-soda-bar-san-diego-tickets",
-   "ticket_url": "https://link.dice.fm/Z95aa536eb0a?pid=b5421562",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://sodabarmusic.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Marc Broussard",
+     "official_url": "http://www.marcbroussard.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/c9584c27-f240-4f0e-8e82-3470111f24be",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "c9584c27-f240-4f0e-8e82-3470111f24be",
+     "artist_name": "Marc Broussard",
+     "official_urls": [
+      "http://www.marcbroussard.com/"
+     ],
+     "search_term": "Marc Broussard",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "observatory:https://www.ticketmaster.com/syd-beard-tour-san-diego-california-11-16-2026/event/0B00652EA6483CE6",
@@ -1467,10 +1832,26 @@
    "ticket_url": "https://www.ticketmaster.com/syd-beard-tour-san-diego-california-11-16-2026/event/0B00652EA6483CE6",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "http://www.sydbarrett.com/",
    "venue_url": "https://www.observatorysd.com",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Syd Barrett",
+     "official_url": "http://www.sydbarrett.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/12327d75-47d5-45d9-84c2-3760b9210c17",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "12327d75-47d5-45d9-84c2-3760b9210c17",
+     "artist_name": "Syd Barrett",
+     "official_urls": [
+      "http://www.sydbarrett.com/"
+     ],
+     "search_term": "Syd",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14235644",
@@ -1490,23 +1871,6 @@
    "artists": []
   },
   {
-   "id": "sodabar:https://dice.fm/event/sofie-royer-rebounder-17th-nov-soda-bar-san-diego-tickets",
-   "source": "sodabar",
-   "title": "Sofie Royer, Rebounder",
-   "venue": "Soda Bar",
-   "date": "2026-11-17",
-   "show_time": "19:00",
-   "doors_time": "19:00",
-   "age_limit": "21+",
-   "event_url": "https://dice.fm/event/sofie-royer-rebounder-17th-nov-soda-bar-san-diego-tickets",
-   "ticket_url": "https://link.dice.fm/wbfb594ed25f?pid=b5421562",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://sodabarmusic.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
    "id": "bellyup:14264344",
    "source": "bellyup",
    "title": "John Craigie With special guest Lucy Clearwater - Keep It Warm Tour 2026",
@@ -1518,27 +1882,26 @@
    "event_url": "https://bellyup.com/calendar/14264344/john-craigie-with-special-guest-lucy-clearwater-keep-it-warm-tour-2026",
    "ticket_url": "https://www.ticketweb.com/event/john-craigie-with-special-guest-music-box-tickets/14264344?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://johncraigiemusic.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "sodabar:https://dice.fm/event/paul-blasko-prizecard-zach-blanchet-18th-nov-soda-bar-san-diego-tickets",
-   "source": "sodabar",
-   "title": "Paul Blasko, Prizecard, Zach Blanchet",
-   "venue": "Soda Bar",
-   "date": "2026-11-18",
-   "show_time": "19:00",
-   "doors_time": "19:00",
-   "age_limit": "21+",
-   "event_url": "https://dice.fm/event/paul-blasko-prizecard-zach-blanchet-18th-nov-soda-bar-san-diego-tickets",
-   "ticket_url": "https://link.dice.fm/U6d23380124b?pid=b5421562",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://sodabarmusic.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "John Craigie",
+     "official_url": "https://johncraigiemusic.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/89b381cf-89f4-43d7-b85b-f53efb2bd1a8",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "89b381cf-89f4-43d7-b85b-f53efb2bd1a8",
+     "artist_name": "John Craigie",
+     "official_urls": [
+      "https://johncraigiemusic.com/"
+     ],
+     "search_term": "John Craigie",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "observatory:https://www.ticketmaster.com/rhye-joy-tour-san-diego-california-11-18-2026/event/0B0064C3A2C75233",
@@ -1553,10 +1916,26 @@
    "ticket_url": "https://www.ticketmaster.com/rhye-joy-tour-san-diego-california-11-18-2026/event/0B0064C3A2C75233",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://www.rhyemusic.com/",
    "venue_url": "https://www.observatorysd.com",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Rhye",
+     "official_url": "https://www.rhyemusic.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/aa914efa-d6cb-4816-906f-8edafb08418e",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "aa914efa-d6cb-4816-906f-8edafb08418e",
+     "artist_name": "Rhye",
+     "official_urls": [
+      "https://www.rhyemusic.com/"
+     ],
+     "search_term": "RHYE",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14989283",
@@ -1606,10 +1985,27 @@
    "ticket_url": "https://www.ticketmaster.com/manic-street-preachers-san-diego-california-11-19-2026/event/0B0064B69A3F3C5B",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://www.sonymusic.co.uk/artist/manic-street-preachers/",
    "venue_url": "https://www.observatorysd.com",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Manic Street Preachers",
+     "official_url": "https://www.sonymusic.co.uk/artist/manic-street-preachers/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/32efea44-6cb5-4b4f-bdaa-c8b8f6cef981",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "32efea44-6cb5-4b4f-bdaa-c8b8f6cef981",
+     "artist_name": "Manic Street Preachers",
+     "official_urls": [
+      "https://www.sonymusic.co.uk/artist/manic-street-preachers/",
+      "http://www.manicstreetpreachers.com/"
+     ],
+     "search_term": "Manic Street Preachers",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14288634",
@@ -1623,10 +2019,26 @@
    "event_url": "https://bellyup.com/calendar/14288634/jammy-buffet-lakes-below-the-mountains-tour",
    "ticket_url": "https://www.ticketweb.com/event/jammy-buffet-lakes-belly-up-tickets/14288634?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://jammybuffet.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Jammy Buffet",
+     "official_url": "https://jammybuffet.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/4e2d265c-ead0-4e2d-8225-e1d71b2a77df",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "4e2d265c-ead0-4e2d-8225-e1d71b2a77df",
+     "artist_name": "Jammy Buffet",
+     "official_urls": [
+      "https://jammybuffet.com/"
+     ],
+     "search_term": "Jammy Buffet",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14999903",
@@ -1710,10 +2122,26 @@
    "ticket_url": "https://www.ticketmaster.com/senses-fail-presents-still-searching-san-diego-california-11-21-2026/event/0B0064CBF69B525F",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://sensesfail.com/",
    "venue_url": "https://www.observatorysd.com",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Senses Fail",
+     "official_url": "https://sensesfail.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/b4946461-dacb-4aa9-a77c-7b3231317794",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "b4946461-dacb-4aa9-a77c-7b3231317794",
+     "artist_name": "Senses Fail",
+     "official_urls": [
+      "https://sensesfail.com/"
+     ],
+     "search_term": "Senses Fail",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14262974",
@@ -1727,10 +2155,26 @@
    "event_url": "https://bellyup.com/calendar/14262974/houndmouth-the-lordy-tour-w-dogpark",
    "ticket_url": "https://www.ticketweb.com/event/houndmouth-the-lordy-the-sound-tickets/14262974?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://houndmouth.com/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Houndmouth",
+     "official_url": "http://houndmouth.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/4a18f60f-7aa9-4476-8d0f-84981d8ccb60",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "4a18f60f-7aa9-4476-8d0f-84981d8ccb60",
+     "artist_name": "Houndmouth",
+     "official_urls": [
+      "http://houndmouth.com/"
+     ],
+     "search_term": "Houndmouth",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14250254",
@@ -1784,6 +2228,23 @@
    "artists": []
   },
   {
+   "id": "bellyup:14974153",
+   "source": "bellyup",
+   "title": "Andrew McMahon and his piano featuring very special guest Ivory Layne",
+   "venue": "Belly Up",
+   "date": "2026-11-22",
+   "show_time": "19:00",
+   "doors_time": "18:00",
+   "age_limit": null,
+   "event_url": "https://bellyup.com/calendar/14974153/andrew-mcmahon-and-his-piano-featuring-very-special-guest-ivory-layne",
+   "ticket_url": "https://www.ticketweb.com/event/andrew-mcmahon-and-his-piano-belly-up-tickets/14974153?theme=bellyup&REFID=bupwebsite",
+   "ticket_kind": "direct",
+   "band_url": null,
+   "venue_url": "https://bellyup.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
+  },
+  {
    "id": "bellyup:14204254",
    "source": "bellyup",
    "title": "The Wrecks - Finally : OUTSIDE Tour w/ Worry Club & Kid Sistr",
@@ -1795,10 +2256,26 @@
    "event_url": "https://bellyup.com/calendar/14204254/the-wrecks-finally-outside-tour-w-worry-club-kid-sistr",
    "ticket_url": "https://www.ticketweb.com/event/the-wrecks-finally-music-box-tickets/14204254?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.wearethewrecks.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Wrecks",
+     "official_url": "https://www.wearethewrecks.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/3f194516-6f0d-4d26-b631-71117f3bc41d",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "3f194516-6f0d-4d26-b631-71117f3bc41d",
+     "artist_name": "The Wrecks",
+     "official_urls": [
+      "https://www.wearethewrecks.com/"
+     ],
+     "search_term": "The Wrecks",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:15035903",
@@ -1829,10 +2306,26 @@
    "event_url": "https://bellyup.com/calendar/15000573/pretty-sick-usa-anarchy-tour-2026-w-sex-week",
    "ticket_url": "https://www.ticketweb.com/event/pretty-sick-usa-music-box-tickets/15000573?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://prettysick.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Pretty Sick",
+     "official_url": "https://prettysick.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/d365ffda-2c35-4d8f-8a41-34093d3cd839",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "d365ffda-2c35-4d8f-8a41-34093d3cd839",
+     "artist_name": "Pretty Sick",
+     "official_urls": [
+      "https://prettysick.com/"
+     ],
+     "search_term": "Pretty Sick",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14246294",
@@ -1863,10 +2356,26 @@
    "event_url": "https://bellyup.com/calendar/14170334/leonid-friends",
    "ticket_url": "https://www.ticketweb.com/event/leonid-friends-balboa-theatre-san-tickets/14170334?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://leonidandf.com/",
    "venue_url": null,
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Leonid & Friends",
+     "official_url": "http://leonidandf.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/28ee30b4-36c0-492d-a8d2-b69d5068f690",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "28ee30b4-36c0-492d-a8d2-b69d5068f690",
+     "artist_name": "Leonid & Friends",
+     "official_urls": [
+      "http://leonidandf.com/"
+     ],
+     "search_term": "Leonid & Friends",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:15029833",
@@ -1916,10 +2425,26 @@
    "ticket_url": "https://bit.ly/4fMCjHq",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "http://www.georgeclanton.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "George Clanton",
+     "official_url": "http://www.georgeclanton.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/9abcc01c-dcf1-4d74-bc55-d81922157956",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "9abcc01c-dcf1-4d74-bc55-d81922157956",
+     "artist_name": "George Clanton",
+     "official_urls": [
+      "http://www.georgeclanton.com/"
+     ],
+     "search_term": "George Clanton",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14265204",
@@ -1985,10 +2510,26 @@
    "ticket_url": "https://www.ticketmaster.com/the-greyboy-allstars-w-dj-greyboy-san-diego-california-11-27-2026/event/0B0064F9EFE958BF",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "http://www.greyboyallstars.com/",
    "venue_url": "https://www.observatorysd.com",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Greyboy Allstars",
+     "official_url": "http://www.greyboyallstars.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/448913ad-9a62-4278-abbe-07b35cae6c73",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "448913ad-9a62-4278-abbe-07b35cae6c73",
+     "artist_name": "The Greyboy Allstars",
+     "official_urls": [
+      "http://www.greyboyallstars.com/"
+     ],
+     "search_term": "The Greyboy Allstars",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14236984",
@@ -2037,10 +2578,26 @@
    "ticket_url": "https://bit.ly/4dE1UlW",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "http://www.saosin.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Saosin",
+     "official_url": "http://www.saosin.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/47b8b42a-96e8-46fa-9ea6-70c5136ae971",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "47b8b42a-96e8-46fa-9ea6-70c5136ae971",
+     "artist_name": "Saosin",
+     "official_urls": [
+      "http://www.saosin.com/"
+     ],
+     "search_term": "Saosin",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "quartyard:20261128:SIESTA FIESTA",
@@ -2072,10 +2629,26 @@
    "ticket_url": "https://www.ticketmaster.com/agent-orange-san-diego-california-11-28-2026/event/0B0064EDAB1F3F32",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "http://www.agentorange.net/",
    "venue_url": "https://www.observatorysd.com",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Agent Orange",
+     "official_url": "http://www.agentorange.net/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/3214be8b-6d78-4c8e-9c93-b1e31a9bc4d6",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "3214be8b-6d78-4c8e-9c93-b1e31a9bc4d6",
+     "artist_name": "Agent Orange",
+     "official_urls": [
+      "http://www.agentorange.net/"
+     ],
+     "search_term": "Agent Orange",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14219064",
@@ -2106,10 +2679,26 @@
    "event_url": "https://bellyup.com/calendar/15032493/amtrac-dream-live-tour",
    "ticket_url": "https://www.ticketweb.com/event/amtrac-dream-live-music-box-tickets/15032493?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.amtracmusic.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Amtrac",
+     "official_url": "https://www.amtracmusic.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/348c486f-3d12-4361-8cc7-37b3c93f0aed",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "348c486f-3d12-4361-8cc7-37b3c93f0aed",
+     "artist_name": "Amtrac",
+     "official_urls": [
+      "https://www.amtracmusic.com/"
+     ],
+     "search_term": "Amtrac",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "quartyard:20261129:FNGRS CRSSD presents J. WORRA at Quartya",
@@ -2158,27 +2747,59 @@
    "event_url": "https://bellyup.com/calendar/14219674/blind-boys-of-alabama-christmas-show-featuring-special-guest-shemekia-copeland",
    "ticket_url": "https://www.ticketweb.com/event/blind-boys-of-alabama-belly-up-tickets/14219674?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.blindboys.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Blind Boys of Alabama",
+     "official_url": "http://www.blindboys.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/2f76bd85-ba19-4d80-9bb7-4555abe463c5",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "2f76bd85-ba19-4d80-9bb7-4555abe463c5",
+     "artist_name": "The Blind Boys of Alabama",
+     "official_urls": [
+      "http://www.blindboys.com/"
+     ],
+     "search_term": "Blind Boys of Alabama",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14304484",
    "source": "bellyup",
-   "title": "The James Hunter Six - Off the Fence Tour w/ Dove",
+   "title": "The James Hunter Six - Off the Fence Tour",
    "venue": "Belly Up",
    "date": "2026-11-30",
    "show_time": "19:00",
    "doors_time": "18:30",
    "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14304484/the-james-hunter-six-off-the-fence-tour-w-dove",
+   "event_url": "https://bellyup.com/calendar/14304484/the-james-hunter-six-off-the-fence-tour",
    "ticket_url": "https://www.ticketweb.com/event/the-james-hunter-six-belly-up-tickets/14304484?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.jameshuntermusic.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The James Hunter Six",
+     "official_url": "https://www.jameshuntermusic.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/fb424cbe-e145-4d0f-a365-1872f6b4cd51",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "fb424cbe-e145-4d0f-a365-1872f6b4cd51",
+     "artist_name": "The James Hunter Six",
+     "official_urls": [
+      "https://www.jameshuntermusic.com/"
+     ],
+     "search_term": "The James Hunter Six",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14256704",
@@ -2192,10 +2813,26 @@
    "event_url": "https://bellyup.com/calendar/14256704/the-residents-eskimo-live-w-rushadicus",
    "ticket_url": "https://www.ticketweb.com/event/the-residents-eskimo-belly-up-tickets/14256704?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.residents.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Residents",
+     "official_url": "http://www.residents.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/8c9b336e-acc8-4e20-9195-6ed0634da9fc",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "8c9b336e-acc8-4e20-9195-6ed0634da9fc",
+     "artist_name": "The Residents",
+     "official_urls": [
+      "http://www.residents.com/"
+     ],
+     "search_term": "The Residents",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14203904",
@@ -2209,10 +2846,26 @@
    "event_url": "https://bellyup.com/calendar/14203904/squirrel-nut-zippers-christmas-caravan-2026",
    "ticket_url": "https://www.ticketweb.com/event/squirrel-nut-zippers-belly-up-tickets/14203904?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://snzippers.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Squirrel Nut Zippers",
+     "official_url": "http://snzippers.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/31810c40-932a-4f2d-8cfd-17849844e2a6",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "31810c40-932a-4f2d-8cfd-17849844e2a6",
+     "artist_name": "Squirrel Nut Zippers",
+     "official_urls": [
+      "http://snzippers.com/"
+     ],
+     "search_term": "Squirrel Nut Zippers",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14381114",
@@ -2244,10 +2897,26 @@
    "ticket_url": "https://bit.ly/4xTSaff",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "http://alisonshalo.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Alison\u2019s Halo",
+     "official_url": "http://alisonshalo.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/623977a4-2525-4668-8966-f255dd19700e",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "623977a4-2525-4668-8966-f255dd19700e",
+     "artist_name": "Alison\u2019s Halo",
+     "official_urls": [
+      "http://alisonshalo.com/"
+     ],
+     "search_term": "Alison\u2019s Halo",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14300114",
@@ -2278,10 +2947,26 @@
    "event_url": "https://bellyup.com/calendar/14283964/ripe-play-the-game-fall-tour-2026",
    "ticket_url": "https://www.ticketweb.com/event/ripe-play-the-music-box-tickets/14283964?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.ripetheband.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Ripe",
+     "official_url": "http://www.ripetheband.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/6ce952eb-0f9d-4185-92a1-9101480212fe",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "6ce952eb-0f9d-4185-92a1-9101480212fe",
+     "artist_name": "Ripe",
+     "official_urls": [
+      "http://www.ripetheband.com/"
+     ],
+     "search_term": "Ripe",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "soma:20261204:Bleeding Through",
@@ -2296,10 +2981,26 @@
    "ticket_url": "https://bit.ly/4AJAaGi",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://www.bleedingthroughofficial.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Bleeding Through",
+     "official_url": "https://www.bleedingthroughofficial.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/55fd865d-4a0d-4fd0-af19-7e6feb168ab8",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "55fd865d-4a0d-4fd0-af19-7e6feb168ab8",
+     "artist_name": "Bleeding Through",
+     "official_urls": [
+      "https://www.bleedingthroughofficial.com/"
+     ],
+     "search_term": "Bleeding Through",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "observatory:https://www.ticketmaster.com/spike-and-the-gimme-gimmes-san-diego-california-12-04-2026/event/0B00652FD9607FA1",
@@ -2331,10 +3032,26 @@
    "event_url": "https://bellyup.com/calendar/14275804/emancipator-chrysalis-tour-w-shrimpnose-lapa",
    "ticket_url": "https://www.ticketweb.com/event/emancipator-chrysalis-tour-music-box-tickets/14275804?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.emancipatormusic.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Emancipator",
+     "official_url": "http://www.emancipatormusic.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/aa1d4315-5246-42b2-b62b-f997d046d8b2",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "aa1d4315-5246-42b2-b62b-f997d046d8b2",
+     "artist_name": "Emancipator",
+     "official_urls": [
+      "http://www.emancipatormusic.com/"
+     ],
+     "search_term": "Emancipator",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "soma:20261205:Eslabon Armado",
@@ -2351,24 +3068,6 @@
    "sold_out": false,
    "band_url": null,
    "venue_url": "https://www.somasandiego.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "observatory:https://www.ticketmaster.com/punchis-presents-eres-emo-san-diego-california-12-05-2026/event/0B00653090DEA64A",
-   "source": "observatory",
-   "title": "Punchis Presents: \u00bfEres Emo?",
-   "venue": "The Observatory North Park",
-   "date": "2026-12-05",
-   "show_time": "19:30",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.ticketmaster.com/punchis-presents-eres-emo-san-diego-california-12-05-2026/event/0B00653090DEA64A",
-   "ticket_url": "https://www.ticketmaster.com/punchis-presents-eres-emo-san-diego-california-12-05-2026/event/0B00653090DEA64A",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://www.observatorysd.com",
    "timezone": "America/Los_Angeles",
    "artists": []
   },
@@ -2419,28 +3118,26 @@
    "ticket_url": "https://bit.ly/4yGvrn7",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://www.desrocs.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "observatory:https://www.ticketmaster.com/the-pineapple-thief-san-diego-california-12-06-2026/event/0B006488BD7F4B3B",
-   "source": "observatory",
-   "title": "The Pineapple Thief",
-   "venue": "The Observatory North Park",
-   "date": "2026-12-06",
-   "show_time": "19:00",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.ticketmaster.com/the-pineapple-thief-san-diego-california-12-06-2026/event/0B006488BD7F4B3B",
-   "ticket_url": "https://www.ticketmaster.com/the-pineapple-thief-san-diego-california-12-06-2026/event/0B006488BD7F4B3B",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://www.observatorysd.com",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Des Rocs",
+     "official_url": "https://www.desrocs.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/af9fd1b2-e4e7-48fb-8ccc-4cfcfed5f0c1",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "af9fd1b2-e4e7-48fb-8ccc-4cfcfed5f0c1",
+     "artist_name": "Des Rocs",
+     "official_urls": [
+      "https://www.desrocs.com/"
+     ],
+     "search_term": "Des Rocs",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14359604",
@@ -2454,10 +3151,26 @@
    "event_url": "https://bellyup.com/calendar/14359604/anuhea-all-is-bright-tour-feat-ana-vee",
    "ticket_url": "https://www.ticketweb.com/event/anuhea-all-is-music-box-tickets/14359604?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.anuheajams.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Anuhea",
+     "official_url": "http://www.anuheajams.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/a408ec83-2ee0-4cf2-99d6-161fbe76dd16",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "a408ec83-2ee0-4cf2-99d6-161fbe76dd16",
+     "artist_name": "Anuhea",
+     "official_urls": [
+      "http://www.anuheajams.com/"
+     ],
+     "search_term": "Anuhea",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:15018693",
@@ -2471,27 +3184,26 @@
    "event_url": "https://bellyup.com/calendar/15018693/mack-geiger-when-its-pouring-2026-tour-w-colton-dawson",
    "ticket_url": "https://www.ticketweb.com/event/mack-geiger-when-belly-up-tickets/15018693?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://mackgeiger.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "bellyup:14409384",
-   "source": "bellyup",
-   "title": "Sand Dollar Foundation Annual Gala with music by Assisted Living",
-   "venue": "Belly Up",
-   "date": "2026-12-08",
-   "show_time": "18:00",
-   "doors_time": "18:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14409384/sand-dollar-foundation-annual-gala-with-music-by-assisted-living",
-   "ticket_url": "https://www.ticketweb.com/event/sand-dollar-foundation-annual-gala-belly-up-tickets/14409384?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Mack Geiger",
+     "official_url": "https://mackgeiger.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/e07e1915-2fe7-4ffb-acd8-8ae47ce58207",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "e07e1915-2fe7-4ffb-acd8-8ae47ce58207",
+     "artist_name": "Mack Geiger",
+     "official_urls": [
+      "https://mackgeiger.com/"
+     ],
+     "search_term": "MACK GEIGER",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14280444",
@@ -2505,10 +3217,26 @@
    "event_url": "https://bellyup.com/calendar/14280444/the-womack-sisters",
    "ticket_url": "https://www.ticketweb.com/event/the-womack-sisters-music-box-tickets/14280444?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.thewomacksisters.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Womack Sisters",
+     "official_url": "https://www.thewomacksisters.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/d76b40cc-3cff-483e-8ae8-f7551e85fa29",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "d76b40cc-3cff-483e-8ae8-f7551e85fa29",
+     "artist_name": "The Womack Sisters",
+     "official_urls": [
+      "https://www.thewomacksisters.com/"
+     ],
+     "search_term": "The Womack Sisters",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14339864",
@@ -2522,10 +3250,26 @@
    "event_url": "https://bellyup.com/calendar/14339864/young-the-giant-presented-by-alt-94-9s-december-to-remember",
    "ticket_url": "https://www.ticketweb.com/event/young-the-giant-the-sound-tickets/14339864?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.youngthegiant.com/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Young the Giant",
+     "official_url": "https://www.youngthegiant.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/7fe96b15-5608-430e-ad25-77a01353c5d9",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "7fe96b15-5608-430e-ad25-77a01353c5d9",
+     "artist_name": "Young the Giant",
+     "official_urls": [
+      "https://www.youngthegiant.com/"
+     ],
+     "search_term": "Young the Giant",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14339904",
@@ -2539,10 +3283,26 @@
    "event_url": "https://bellyup.com/calendar/14339904/cannons-presented-by-alt-94-9s-december-to-remember",
    "ticket_url": "https://www.ticketweb.com/event/cannons-presented-by-the-sound-tickets/14339904?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://cannonstheband.com/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Cannons",
+     "official_url": "https://cannonstheband.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/eb9eb9f8-c691-4fef-9bdf-0cbffbfa42ee",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "eb9eb9f8-c691-4fef-9bdf-0cbffbfa42ee",
+     "artist_name": "Cannons",
+     "official_urls": [
+      "https://cannonstheband.com/"
+     ],
+     "search_term": "Cannons",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14300424",
@@ -2556,10 +3316,26 @@
    "event_url": "https://bellyup.com/calendar/14300424/jd-mcpherson-socks-a-rock-n-roll-christmas-tour-w-melissa-carper",
    "ticket_url": "https://www.ticketweb.com/event/jd-mcpherson-socks-belly-up-tickets/14300424?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.jdmcpherson.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "JD McPherson",
+     "official_url": "http://www.jdmcpherson.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/84c7cb93-0622-4b90-8d53-ee2b4650097f",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "84c7cb93-0622-4b90-8d53-ee2b4650097f",
+     "artist_name": "JD McPherson",
+     "official_urls": [
+      "http://www.jdmcpherson.com/"
+     ],
+     "search_term": "JD McPherson",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14328174",
@@ -2596,24 +3372,6 @@
    "artists": []
   },
   {
-   "id": "observatory:https://www.ticketmaster.com/stephen-lynch-the-me-tour-san-diego-california-12-11-2026/event/0B00651FB1C462B3",
-   "source": "observatory",
-   "title": "Stephen Lynch: The Me Tour",
-   "venue": "The Observatory North Park",
-   "date": "2026-12-11",
-   "show_time": "18:30",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.ticketmaster.com/stephen-lynch-the-me-tour-san-diego-california-12-11-2026/event/0B00651FB1C462B3",
-   "ticket_url": "https://www.ticketmaster.com/stephen-lynch-the-me-tour-san-diego-california-12-11-2026/event/0B00651FB1C462B3",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://www.observatorysd.com",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
    "id": "soma:20261211:Interpol",
    "source": "soma",
    "title": "Interpol",
@@ -2626,10 +3384,26 @@
    "ticket_url": "https://bit.ly/4zAoOTo",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://www.interpolnyc.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Interpol",
+     "official_url": "https://www.interpolnyc.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/b23e8a63-8f47-4882-b55b-df2c92ef400e",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "b23e8a63-8f47-4882-b55b-df2c92ef400e",
+     "artist_name": "Interpol",
+     "official_urls": [
+      "https://www.interpolnyc.com/"
+     ],
+     "search_term": "Interpol",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:15018633",
@@ -2643,10 +3417,26 @@
    "event_url": "https://bellyup.com/calendar/15018633/the-string-cheese-incident-just-keep-spinning-tour",
    "ticket_url": "https://www.ticketweb.com/event/the-string-cheese-incident-just-the-sound-tickets/15018633?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.stringcheeseincident.com/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The String Cheese Incident",
+     "official_url": "https://www.stringcheeseincident.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "cff95140-6d57-498a-8834-10eb72865b29",
+     "artist_name": "The String Cheese Incident",
+     "official_urls": [
+      "https://www.stringcheeseincident.com/"
+     ],
+     "search_term": "The String Cheese Incident",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:15029263",
@@ -2660,10 +3450,26 @@
    "event_url": "https://bellyup.com/calendar/15029263/the-string-cheese-incident-just-keep-spinning-tour-2-day-tickets",
    "ticket_url": "https://www.ticketweb.com/event/the-string-cheese-incident-just-the-sound-tickets/15029263?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.stringcheeseincident.com/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The String Cheese Incident",
+     "official_url": "https://www.stringcheeseincident.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "cff95140-6d57-498a-8834-10eb72865b29",
+     "artist_name": "The String Cheese Incident",
+     "official_urls": [
+      "https://www.stringcheeseincident.com/"
+     ],
+     "search_term": "The String Cheese Incident",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "radyshell:20261211:Sleepless in Seattle in Concer",
@@ -2695,10 +3501,26 @@
    "event_url": "https://bellyup.com/calendar/14204024/the-jayhawks-sanctuary-park-tour-celebrating-40-years-of-the-jayhawks-w-mary-gauthier",
    "ticket_url": "https://www.ticketweb.com/event/the-jayhawks-sanctuary-belly-up-tickets/14204024?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.jayhawksofficial.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Jayhawks",
+     "official_url": "http://www.jayhawksofficial.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/24ed5b09-02b1-47fe-bd83-6fa5270039b0",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "24ed5b09-02b1-47fe-bd83-6fa5270039b0",
+     "artist_name": "The Jayhawks",
+     "official_urls": [
+      "http://www.jayhawksofficial.com/"
+     ],
+     "search_term": "The Jayhawks",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "quartyard:20261212:HARBOUR: Great, Big Tour Part Two",
@@ -2712,10 +3534,26 @@
    "event_url": "https://quartyardsd.com/event/harbour-great-big-tour-part-two/",
    "ticket_url": "https://www.eventbrite.com/e/1992157050365?aff=oddtdtcreator",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://harbourtheband.com/",
    "venue_url": "https://quartyardsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "HARBOUR",
+     "official_url": "http://harbourtheband.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/068f4d3e-94d0-4bfb-a145-c08e08eeaed7",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "068f4d3e-94d0-4bfb-a145-c08e08eeaed7",
+     "artist_name": "HARBOUR",
+     "official_urls": [
+      "http://harbourtheband.com/"
+     ],
+     "search_term": "HARBOUR",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "radyshell:20261212:Home Alone 2: Lost in New York",
@@ -2747,10 +3585,26 @@
    "event_url": "https://bellyup.com/calendar/15018643/the-string-cheese-incident-just-keep-spinning-tour",
    "ticket_url": "https://www.ticketweb.com/event/the-string-cheese-incident-just-the-sound-tickets/15018643?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.stringcheeseincident.com/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The String Cheese Incident",
+     "official_url": "https://www.stringcheeseincident.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/cff95140-6d57-498a-8834-10eb72865b29",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "cff95140-6d57-498a-8834-10eb72865b29",
+     "artist_name": "The String Cheese Incident",
+     "official_urls": [
+      "https://www.stringcheeseincident.com/"
+     ],
+     "search_term": "The String Cheese Incident",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14219394",
@@ -2799,10 +3653,26 @@
    "ticket_url": "https://bit.ly/3TmOtQ6",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://trippieredd.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Trippie Redd",
+     "official_url": "https://trippieredd.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+     "artist_name": "Trippie Redd",
+     "official_urls": [
+      "https://trippieredd.com/"
+     ],
+     "search_term": "Trippie Redd",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14907153",
@@ -2822,23 +3692,6 @@
    "artists": []
   },
   {
-   "id": "bellyup:15053543",
-   "source": "bellyup",
-   "title": "The Linda Lindas - presented by Alt 94.9's December to Remember",
-   "venue": "Music Box",
-   "date": "2026-12-13",
-   "show_time": "20:00",
-   "doors_time": "19:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/15053543/the-linda-lindas-presented-by-alt-94-9s-december-to-remember",
-   "ticket_url": "https://www.ticketweb.com/event/the-linda-lindas-music-box-tickets/15053543?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://www.musicboxsd.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
    "id": "bellyup:14276134",
    "source": "bellyup",
    "title": "David Benoit - Christmas Tribute To Charlie Brown ft Special Guest Courtney Fortune w/ Jimmy Patton",
@@ -2850,10 +3703,26 @@
    "event_url": "https://bellyup.com/calendar/14276134/david-benoit-christmas-tribute-to-charlie-brown-ft-special-guest-courtney-fortune-w-jimmy-patton",
    "ticket_url": "https://www.ticketweb.com/event/david-benoit-christmas-belly-up-tickets/14276134?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://benoit.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "David Benoit",
+     "official_url": "http://benoit.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/34832720-12d3-44b4-bb80-8f06bcfb09ba",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "34832720-12d3-44b4-bb80-8f06bcfb09ba",
+     "artist_name": "David Benoit",
+     "official_urls": [
+      "http://benoit.com/"
+     ],
+     "search_term": "David Benoit",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14936783",
@@ -2867,10 +3736,26 @@
    "event_url": "https://bellyup.com/calendar/14936783/feeble-little-horse-bitknot-tour-w-mop",
    "ticket_url": "https://www.ticketweb.com/event/feeble-little-horse-music-box-tickets/14936783?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.feeblelittlehorse.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "feeble little horse",
+     "official_url": "https://www.feeblelittlehorse.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/56252a59-5731-4a3b-96d2-fea7fe88a5d6",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "56252a59-5731-4a3b-96d2-fea7fe88a5d6",
+     "artist_name": "feeble little horse",
+     "official_urls": [
+      "https://www.feeblelittlehorse.com/"
+     ],
+     "search_term": "feeble little horse",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14219864",
@@ -2892,14 +3777,14 @@
   {
    "id": "bellyup:15018503",
    "source": "bellyup",
-   "title": "Venna - North America Tour 26' Malik w/ Khal!l",
+   "title": "Venna",
    "venue": "Music Box",
    "date": "2026-12-16",
    "show_time": "20:00",
    "doors_time": "19:00",
    "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/15018503/venna-north-america-tour-26-malik-w-khall",
-   "ticket_url": "https://www.ticketweb.com/event/venna-north-america-music-box-tickets/15018503?REFID=bupwebsite",
+   "event_url": "https://bellyup.com/calendar/15018503/venna",
+   "ticket_url": "https://www.ticketweb.com/event/venna-music-box-tickets/15018503?REFID=bupwebsite",
    "ticket_kind": "direct",
    "band_url": null,
    "venue_url": "https://www.musicboxsd.com/",
@@ -2918,10 +3803,26 @@
    "event_url": "https://bellyup.com/calendar/14311904/the-milk-carton-kids-lost-cause-lover-fool-holiday-tour-w-rosi-golan",
    "ticket_url": "https://www.ticketweb.com/event/the-milk-carton-kids-belly-up-tickets/14311904?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://themilkcartonkids.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Milk Carton Kids",
+     "official_url": "http://themilkcartonkids.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/94c89f67-8c6e-4317-8186-8aad506bf2ae",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "94c89f67-8c6e-4317-8186-8aad506bf2ae",
+     "artist_name": "The Milk Carton Kids",
+     "official_urls": [
+      "http://themilkcartonkids.com/"
+     ],
+     "search_term": "The Milk Carton Kids",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14328624",
@@ -2937,24 +3838,6 @@
    "ticket_kind": "direct",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "observatory:https://www.ticketmaster.com/the-vandals-san-diego-california-12-18-2026/event/0B006542ABCE66DA",
-   "source": "observatory",
-   "title": "The Vandals",
-   "venue": "The Observatory North Park",
-   "date": "2026-12-18",
-   "show_time": "18:30",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.ticketmaster.com/the-vandals-san-diego-california-12-18-2026/event/0B006542ABCE66DA",
-   "ticket_url": "https://www.ticketmaster.com/the-vandals-san-diego-california-12-18-2026/event/0B006542ABCE66DA",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://www.observatorysd.com",
    "timezone": "America/Los_Angeles",
    "artists": []
   },
@@ -2988,10 +3871,26 @@
    "event_url": "https://bellyup.com/calendar/14262904/gin-blossoms",
    "ticket_url": "https://www.ticketweb.com/event/gin-blossoms-belly-up-tickets/14262904?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.ginblossoms.net/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Gin Blossoms",
+     "official_url": "http://www.ginblossoms.net/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/1c42b705-d3fc-452e-93ee-d0030bdd70f3",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "1c42b705-d3fc-452e-93ee-d0030bdd70f3",
+     "artist_name": "Gin Blossoms",
+     "official_urls": [
+      "http://www.ginblossoms.net/"
+     ],
+     "search_term": "Gin Blossoms",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14376214",
@@ -3025,23 +3924,6 @@
    "sold_out": false,
    "band_url": null,
    "venue_url": "https://www.somasandiego.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "quartyard:20261219:Mark Farina Mushroom Jazz, Cris Herrera",
-   "source": "quartyard",
-   "title": "Mark Farina Mushroom Jazz, Cris Herrera",
-   "venue": "Quartyard",
-   "date": "2026-12-19",
-   "show_time": "16:00",
-   "doors_time": null,
-   "age_limit": "21+",
-   "event_url": "https://quartyardsd.com/event/mark-farina-mushroom-jazz-cris-herrera/",
-   "ticket_url": "https://www.eventbrite.com/e/mark-farina-mushroom-jazz-tickets-2003793890467?aff=QYSite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://quartyardsd.com/",
    "timezone": "America/Los_Angeles",
    "artists": []
   },
@@ -3116,23 +3998,6 @@
    "artists": []
   },
   {
-   "id": "bellyup:15053603",
-   "source": "bellyup",
-   "title": "Dyego - Holiday Show and Toy Drive w/ BluNites",
-   "venue": "Music Box",
-   "date": "2026-12-20",
-   "show_time": "19:00",
-   "doors_time": "18:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/15053603/dyego-holiday-show-and-toy-drive-w-blunites",
-   "ticket_url": "https://www.ticketweb.com/event/dyego-holiday-show-music-box-tickets/15053603?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://www.musicboxsd.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
    "id": "bellyup:14291494",
    "source": "bellyup",
    "title": "Daring Greatly and Friends w/ Patch & Maggi",
@@ -3195,10 +4060,26 @@
    "event_url": "https://bellyup.com/calendar/14265074/buckethead",
    "ticket_url": "https://www.ticketweb.com/event/buckethead-music-box-tickets/14265074?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.bucketheadland.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Buckethead",
+     "official_url": "http://www.bucketheadland.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/b5179744-f217-4455-9d8b-17b8d4fdeb93",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "b5179744-f217-4455-9d8b-17b8d4fdeb93",
+     "artist_name": "Buckethead",
+     "official_urls": [
+      "http://www.bucketheadland.com/"
+     ],
+     "search_term": "Buckethead",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14221404",
@@ -3220,13 +4101,13 @@
   {
    "id": "bellyup:14221484",
    "source": "bellyup",
-   "title": "Jimmy's Buffet - 3rd Annual Buffett Birthday Bash w/ Toga Party Band",
+   "title": "Jimmy's Buffet - 3rd Annual Buffett Birthday Bash",
    "venue": "Belly Up",
    "date": "2026-12-26",
    "show_time": "20:00",
    "doors_time": "19:00",
    "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14221484/jimmys-buffet-3rd-annual-buffett-birthday-bash-w-toga-party-band",
+   "event_url": "https://bellyup.com/calendar/14221484/jimmys-buffet-3rd-annual-buffett-birthday-bash",
    "ticket_url": "https://www.ticketweb.com/event/jimmys-buffet-3rd-belly-up-tickets/14221484?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
    "band_url": null,
@@ -3280,10 +4161,26 @@
    "event_url": "https://bellyup.com/calendar/14382744/steel-pulse-reggae-against-racism-tour",
    "ticket_url": "https://www.ticketweb.com/event/steel-pulse-reggae-belly-up-tickets/14382744?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://steelpulse.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Steel Pulse",
+     "official_url": "http://steelpulse.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/37367b2f-69e4-4df2-9e64-75ca6204764b",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "37367b2f-69e4-4df2-9e64-75ca6204764b",
+     "artist_name": "Steel Pulse",
+     "official_urls": [
+      "http://steelpulse.com/"
+     ],
+     "search_term": "Steel Pulse",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14382754",
@@ -3292,15 +4189,31 @@
    "venue": "Belly Up",
    "date": "2026-12-30",
    "show_time": "20:00",
-   "doors_time": "19:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14382754/steel-pulse-reggae-against-racism-tour",
-   "ticket_url": "https://www.ticketweb.com/event/steel-pulse-reggae-belly-up-tickets/14382754?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
+   "ticket_url": "https://bellyup.com/calendar/14382754/steel-pulse-reggae-against-racism-tour",
+   "ticket_kind": "event_page",
+   "band_url": "http://steelpulse.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Steel Pulse",
+     "official_url": "http://steelpulse.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/37367b2f-69e4-4df2-9e64-75ca6204764b",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "37367b2f-69e4-4df2-9e64-75ca6204764b",
+     "artist_name": "Steel Pulse",
+     "official_urls": [
+      "http://steelpulse.com/"
+     ],
+     "search_term": "Steel Pulse",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14391904",
@@ -3309,11 +4222,11 @@
    "venue": "Belly Up",
    "date": "2026-12-31",
    "show_time": "17:30",
-   "doors_time": "17:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14391904/atomic-grooves-special-edition-thursday-new-years-eve-bash-dance-party-happy-hour",
-   "ticket_url": "https://www.ticketweb.com/event/atomic-grooves-special-edition-thursday-belly-up-tickets/14391904?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14391904/atomic-grooves-special-edition-thursday-new-years-eve-bash-dance-party-happy-hour",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -3326,11 +4239,11 @@
    "venue": "Belly Up",
    "date": "2026-12-31",
    "show_time": "17:30",
-   "doors_time": "17:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14391924/atomic-groove-happy-hour-2-day-ticket",
-   "ticket_url": "https://www.ticketweb.com/event/atomic-groove-happy-hour-2-belly-up-tickets/14391924?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14391924/atomic-groove-happy-hour-2-day-ticket",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -3343,11 +4256,11 @@
    "venue": "The Sound",
    "date": "2026-12-31",
    "show_time": "20:00",
-   "doors_time": "19:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/15035993/tribal-seeds-dubbest-eureka-sound",
-   "ticket_url": "https://www.ticketweb.com/event/tribal-seeds-dubbest-eureka-sound-the-sound-tickets/15035993?REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/15035993/tribal-seeds-dubbest-eureka-sound",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
@@ -3360,15 +4273,31 @@
    "venue": "Belly Up",
    "date": "2026-12-31",
    "show_time": "21:30",
-   "doors_time": "20:30",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14369984/the-floozies-nye",
-   "ticket_url": "https://www.ticketweb.com/event/the-floozies-nye-belly-up-tickets/14369984?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
+   "ticket_url": "https://bellyup.com/calendar/14369984/the-floozies-nye",
+   "ticket_kind": "event_page",
+   "band_url": "http://flooziesduo.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Floozies",
+     "official_url": "http://flooziesduo.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/79488a20-bb2f-47ff-961e-85af2e517d08",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "79488a20-bb2f-47ff-961e-85af2e517d08",
+     "artist_name": "The Floozies",
+     "official_urls": [
+      "http://flooziesduo.com/"
+     ],
+     "search_term": "The Floozies",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14351694",
@@ -3377,11 +4306,11 @@
    "venue": "Belly Up",
    "date": "2027-01-01",
    "show_time": "17:30",
-   "doors_time": "17:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14351694/atomic-grooves-nye-after-party-dance-party-happy-hour",
-   "ticket_url": "https://www.ticketweb.com/event/atomic-grooves-nye-after-party-belly-up-tickets/14351694?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14351694/atomic-grooves-nye-after-party-dance-party-happy-hour",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -3394,11 +4323,11 @@
    "venue": "Belly Up",
    "date": "2027-01-01",
    "show_time": "21:00",
-   "doors_time": "20:30",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14366524/no-duh-fooz-fighters",
-   "ticket_url": "https://www.ticketweb.com/event/no-duh-fooz-fighters-belly-up-tickets/14366524?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14366524/no-duh-fooz-fighters",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -3411,11 +4340,11 @@
    "venue": "Belly Up",
    "date": "2027-01-02",
    "show_time": "20:00",
-   "doors_time": "19:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14300064/desperado-the-nations-premier-eagles-tribute-fleetwood-max",
-   "ticket_url": "https://www.ticketweb.com/event/desperado-the-nations-premier-eagles-belly-up-tickets/14300064?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14300064/desperado-the-nations-premier-eagles-tribute-fleetwood-max",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -3428,11 +4357,11 @@
    "venue": "Belly Up",
    "date": "2027-01-03",
    "show_time": "20:00",
-   "doors_time": "19:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14890173/patrick-warburton-patrick-warburton-is-still-catholic-w-talon-warburton",
-   "ticket_url": "https://www.ticketweb.com/event/patrick-warburton-patrick-belly-up-tickets/14890173?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14890173/patrick-warburton-patrick-warburton-is-still-catholic-w-talon-warburton",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -3445,11 +4374,11 @@
    "venue": "Belly Up",
    "date": "2027-01-07",
    "show_time": "20:00",
-   "doors_time": "19:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14360074/the-staples-chris-stapleton-tribute-cassie-b",
-   "ticket_url": "https://www.ticketweb.com/event/the-staples-chris-belly-up-tickets/14360074?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14360074/the-staples-chris-stapleton-tribute-cassie-b",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -3462,11 +4391,11 @@
    "venue": "Belly Up",
    "date": "2027-01-08",
    "show_time": "17:30",
-   "doors_time": "17:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/15049843/full-strength",
-   "ticket_url": "https://www.ticketweb.com/event/full-strength-belly-up-tickets/15049843?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/15049843/full-strength",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -3479,11 +4408,11 @@
    "venue": "Belly Up",
    "date": "2027-01-08",
    "show_time": "21:00",
-   "doors_time": "20:30",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14359954/the-english-beat",
-   "ticket_url": "https://www.ticketweb.com/event/the-english-beat-belly-up-tickets/14359954?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14359954/the-english-beat",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -3496,11 +4425,11 @@
    "venue": "Belly Up",
    "date": "2027-01-09",
    "show_time": "21:00",
-   "doors_time": "20:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14359964/the-english-beat",
-   "ticket_url": "https://www.ticketweb.com/event/the-english-beat-belly-up-tickets/14359964?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14359964/the-english-beat",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -3513,11 +4442,11 @@
    "venue": "Belly Up",
    "date": "2027-01-10",
    "show_time": "19:00",
-   "doors_time": "18:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14384764/the-jam-berries-band-of-gringos-box-chevy-the-wide-eyed-kids",
-   "ticket_url": "https://www.ticketweb.com/event/the-jam-berries-band-of-belly-up-tickets/14384764?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14384764/the-jam-berries-band-of-gringos-box-chevy-the-wide-eyed-kids",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -3530,28 +4459,11 @@
    "venue": "Belly Up",
    "date": "2027-01-11",
    "show_time": "18:00",
-   "doors_time": "17:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14359514/fiesta-del-sol-battle-of-the-bands",
-   "ticket_url": "https://www.ticketweb.com/event/fiesta-del-sol-belly-up-tickets/14359514?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "bellyup:15050623",
-   "source": "bellyup",
-   "title": "Drumtastic! Feat. Sol e Mar | Kainga Music | Antonio Econom & Friends - A celebration to the roots of the Rhythm Makers",
-   "venue": "Belly Up",
-   "date": "2027-01-13",
-   "show_time": "19:00",
-   "doors_time": "18:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/15050623/drumtastic-feat-sol-e-mar-kainga-music-antonio-econom-friends-a-celebration-to-the-roots-of-the-rhythm-makers",
-   "ticket_url": "https://www.ticketweb.com/event/drumtastic-feat-sol-e-mar-belly-up-tickets/15050623?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14359514/fiesta-del-sol-battle-of-the-bands",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -3564,11 +4476,11 @@
    "venue": "Soda Bar",
    "date": "2027-01-14",
    "show_time": "20:00",
-   "doors_time": "19:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14368414/tapers-choice",
-   "ticket_url": "https://www.ticketweb.com/event/tapers-choice-soda-bar-tickets/14368414?REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14368414/tapers-choice",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://sodabarmusic.com/",
    "timezone": "America/Los_Angeles",
@@ -3581,30 +4493,13 @@
    "venue": "Belly Up",
    "date": "2027-01-15",
    "show_time": "17:30",
-   "doors_time": "17:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14351714/atomic-groove-happy-hour",
-   "ticket_url": "https://www.ticketweb.com/event/atomic-groove-happy-hour-belly-up-tickets/14351714?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14351714/atomic-groove-happy-hour",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "bellyup:14402104",
-   "source": "bellyup",
-   "title": "Greensky Bluegrass - Winter Tour 2027",
-   "venue": "The Sound",
-   "date": "2027-01-15",
-   "show_time": "20:00",
-   "doors_time": "19:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14402104/greensky-bluegrass-winter-tour-2027",
-   "ticket_url": "https://www.ticketweb.com/event/greensky-bluegrass-winter-the-sound-tickets/14402104?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
    "artists": []
   },
@@ -3615,15 +4510,31 @@
    "venue": "Belly Up",
    "date": "2027-01-15",
    "show_time": "21:30",
-   "doors_time": "20:30",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14303484/the-record-company",
-   "ticket_url": "https://www.ticketweb.com/event/the-record-company-belly-up-tickets/14303484?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
+   "ticket_url": "https://bellyup.com/calendar/14303484/the-record-company",
+   "ticket_kind": "event_page",
+   "band_url": "http://www.therecordcompany.net/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Record Company",
+     "official_url": "http://www.therecordcompany.net/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/609295c8-5587-4c22-b354-a40e71ddcf62",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "609295c8-5587-4c22-b354-a40e71ddcf62",
+     "artist_name": "The Record Company",
+     "official_urls": [
+      "http://www.therecordcompany.net/"
+     ],
+     "search_term": "The Record Company",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:15000783",
@@ -3632,11 +4543,11 @@
    "venue": "Belly Up",
    "date": "2027-01-16",
    "show_time": "20:00",
-   "doors_time": "19:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/15000783/tommy-castro-the-painkillers-ana-popovic",
-   "ticket_url": "https://www.ticketweb.com/event/tommy-castro-the-painkillers-belly-up-tickets/15000783?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/15000783/tommy-castro-the-painkillers-ana-popovic",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -3649,11 +4560,11 @@
    "venue": "Belly Up",
    "date": "2027-01-21",
    "show_time": "20:00",
-   "doors_time": "19:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14367574/dogs-in-a-pile-three-legged-dog",
-   "ticket_url": "https://www.ticketweb.com/event/dogs-in-a-pile-three-belly-up-tickets/14367574?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14367574/dogs-in-a-pile-three-legged-dog",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -3673,23 +4584,6 @@
    "ticket_kind": "direct",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "bellyup:14402204",
-   "source": "bellyup",
-   "title": "Portugal. The Man - IN THE MOUNTAIN IN THE CLOUD \u2013 15 Year Anniversary Tour w/ Anthony Green",
-   "venue": "The Sound",
-   "date": "2027-01-22",
-   "show_time": "20:00",
-   "doors_time": "19:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14402204/portugal-the-man-in-the-mountain-in-the-cloud-15-year-anniversary-tour-w-anthony-green",
-   "ticket_url": "https://www.ticketweb.com/event/portugal-the-man-the-sound-tickets/14402204?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
    "artists": []
   },
@@ -3739,10 +4633,26 @@
    "event_url": "https://bellyup.com/calendar/14393764/effin-heartbeats-tour-w-nikita-the-wicked",
    "ticket_url": "https://www.ticketweb.com/event/effin-heartbeats-tour-w-music-box-tickets/14393764?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.effinofficial.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Effin",
+     "official_url": "https://www.effinofficial.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/f6fb52d4-53ab-4d0c-8863-6f13681b9d5c",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "f6fb52d4-53ab-4d0c-8863-6f13681b9d5c",
+     "artist_name": "Effin",
+     "official_urls": [
+      "https://www.effinofficial.com/"
+     ],
+     "search_term": "Effin",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14369104",
@@ -3773,10 +4683,26 @@
    "event_url": "https://bellyup.com/calendar/14236474/five-for-fighting-with-string-quartet",
    "ticket_url": "https://www.ticketweb.com/event/five-for-fighting-with-string-belly-up-tickets/14236474?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.fiveforfighting.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Five for Fighting",
+     "official_url": "http://www.fiveforfighting.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/23eeaeaf-423d-4859-8c91-2175ece74287",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "23eeaeaf-423d-4859-8c91-2175ece74287",
+     "artist_name": "Five for Fighting",
+     "official_urls": [
+      "http://www.fiveforfighting.com/"
+     ],
+     "search_term": "Five For Fighting",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:15046453",
@@ -3805,13 +4731,29 @@
    "doors_time": null,
    "age_limit": null,
    "event_url": "https://www.somasandiego.com/event/alleycvt-2/",
-   "ticket_url": "https://bit.ly/4e108eC",
+   "ticket_url": "https://www.ticketmaster.com/event/0A006549504392B1",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://alleycvt.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "ALLEYCVT",
+     "official_url": "https://alleycvt.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/2590b6d4-648a-4092-9850-f614d6df51ca",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "2590b6d4-648a-4092-9850-f614d6df51ca",
+     "artist_name": "ALLEYCVT",
+     "official_urls": [
+      "https://alleycvt.com/"
+     ],
+     "search_term": "ALLEYCVT",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "soma:20270128:WINONA FIGHTER",
@@ -3826,10 +4768,26 @@
    "ticket_url": "https://bit.ly/3W5xFhq",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://winonafighter.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Winona Fighter",
+     "official_url": "https://winonafighter.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/18696c37-c6b4-47c0-898b-5db77305b6a7",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "18696c37-c6b4-47c0-898b-5db77305b6a7",
+     "artist_name": "Winona Fighter",
+     "official_urls": [
+      "https://winonafighter.com/"
+     ],
+     "search_term": "WINONA FIGHTER",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:15008623",
@@ -3843,10 +4801,26 @@
    "event_url": "https://bellyup.com/calendar/15008623/five-for-fighting-with-string-quartet",
    "ticket_url": "https://www.ticketweb.com/event/five-for-fighting-with-string-belly-up-tickets/15008623?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.fiveforfighting.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Five for Fighting",
+     "official_url": "http://www.fiveforfighting.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/23eeaeaf-423d-4859-8c91-2175ece74287",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "23eeaeaf-423d-4859-8c91-2175ece74287",
+     "artist_name": "Five for Fighting",
+     "official_urls": [
+      "http://www.fiveforfighting.com/"
+     ],
+     "search_term": "Five For Fighting",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "soma:20270129:FLO",
@@ -3861,10 +4835,26 @@
    "ticket_url": "https://bit.ly/4zft9eE",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "http://www.officialflo.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Flo Rida",
+     "official_url": "http://www.officialflo.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/4593d49a-7f67-46ba-9ec0-126bd676286f",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "4593d49a-7f67-46ba-9ec0-126bd676286f",
+     "artist_name": "Flo Rida",
+     "official_urls": [
+      "http://www.officialflo.com/"
+     ],
+     "search_term": "FLO",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14351724",
@@ -3895,10 +4885,26 @@
    "event_url": "https://bellyup.com/calendar/14340084/ballyhoo-we-ride-at-dawn-tour-w-chad-tepper",
    "ticket_url": "https://www.ticketweb.com/event/ballyhoo-we-ride-music-box-tickets/14340084?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.ballyhoorocks.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Ballyhoo!",
+     "official_url": "http://www.ballyhoorocks.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/148350d7-1b04-4518-b216-4519eb0bcc08",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "148350d7-1b04-4518-b216-4519eb0bcc08",
+     "artist_name": "Ballyhoo!",
+     "official_urls": [
+      "http://www.ballyhoorocks.com/"
+     ],
+     "search_term": "Ballyhoo!",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14288964",
@@ -3912,10 +4918,26 @@
    "event_url": "https://bellyup.com/calendar/14288964/the-pettybreakers-a-tribute-to-tom-petty-the-heartbreakers-sammy-listoe-band",
    "ticket_url": "https://www.ticketweb.com/event/the-pettybreakers-a-belly-up-tickets/14288964?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.thepettybreakers.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The PettyBreakers",
+     "official_url": "https://www.thepettybreakers.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/bc7ea146-a159-4741-ba3f-ded6b0791d8f",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "bc7ea146-a159-4741-ba3f-ded6b0791d8f",
+     "artist_name": "The PettyBreakers",
+     "official_urls": [
+      "https://www.thepettybreakers.com/"
+     ],
+     "search_term": "The PettyBreakers",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14368694",
@@ -3963,10 +4985,26 @@
    "event_url": "https://bellyup.com/calendar/14288704/super-diamond",
    "ticket_url": "https://www.ticketweb.com/event/super-diamond-belly-up-tickets/14288704?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.superdiamond.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Super Diamond",
+     "official_url": "http://www.superdiamond.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/a616f35a-bbcc-42e4-9b50-0c95252eee2b",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "a616f35a-bbcc-42e4-9b50-0c95252eee2b",
+     "artist_name": "Super Diamond",
+     "official_urls": [
+      "http://www.superdiamond.com/"
+     ],
+     "search_term": "Super Diamond",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "quartyard:20270206:AJJ: Dirty Old Power Tour",
@@ -3980,10 +5018,27 @@
    "event_url": "https://quartyardsd.com/event/ajj/",
    "ticket_url": "https://link.dice.fm/ajj27qy",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.ajjtheband.com/",
    "venue_url": "https://quartyardsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "AJJ",
+     "official_url": "http://www.ajjtheband.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/5e1dbdb2-87ac-41ff-9960-4a42a872327a",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "5e1dbdb2-87ac-41ff-9960-4a42a872327a",
+     "artist_name": "AJJ",
+     "official_urls": [
+      "http://www.ajjtheband.com/",
+      "http://www.andrewjacksonjihad.com/"
+     ],
+     "search_term": "AJJ",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14288724",
@@ -3997,10 +5052,26 @@
    "event_url": "https://bellyup.com/calendar/14288724/super-diamond",
    "ticket_url": "https://www.ticketweb.com/event/super-diamond-belly-up-tickets/14288724?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.superdiamond.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Super Diamond",
+     "official_url": "http://www.superdiamond.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/a616f35a-bbcc-42e4-9b50-0c95252eee2b",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "a616f35a-bbcc-42e4-9b50-0c95252eee2b",
+     "artist_name": "Super Diamond",
+     "official_urls": [
+      "http://www.superdiamond.com/"
+     ],
+     "search_term": "Super Diamond",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14341784",
@@ -4014,10 +5085,26 @@
    "event_url": "https://bellyup.com/calendar/14341784/dark-star-orchestra-winter-2027-tour",
    "ticket_url": "https://www.ticketweb.com/event/dark-star-orchestra-the-sound-tickets/14341784?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.darkstarorchestra.net/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Dark Star Orchestra",
+     "official_url": "http://www.darkstarorchestra.net/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/e477d9c0-1f35-40f7-ad1a-b915d2523b84",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "e477d9c0-1f35-40f7-ad1a-b915d2523b84",
+     "artist_name": "Dark Star Orchestra",
+     "official_urls": [
+      "http://www.darkstarorchestra.net/"
+     ],
+     "search_term": "Dark Star Orchestra",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14339974",
@@ -4031,10 +5118,26 @@
    "event_url": "https://bellyup.com/calendar/14339974/dropkick-murphys-st-patricks-day-2027-tour-w-spiritual-cramp-home-front",
    "ticket_url": "https://www.ticketweb.com/event/dropkick-murphys-st-the-sound-tickets/14339974?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.dropkickmurphys.com/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Dropkick Murphys",
+     "official_url": "http://www.dropkickmurphys.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/e8374874-4178-4869-b92e-fef6bf30dc04",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "e8374874-4178-4869-b92e-fef6bf30dc04",
+     "artist_name": "Dropkick Murphys",
+     "official_urls": [
+      "http://www.dropkickmurphys.com/"
+     ],
+     "search_term": "Dropkick Murphys",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14219734",
@@ -4048,10 +5151,26 @@
    "event_url": "https://bellyup.com/calendar/14219734/ladysmith-black-mambazo",
    "ticket_url": "https://www.ticketweb.com/event/ladysmith-black-mambazo-belly-up-tickets/14219734?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.mambazo.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Ladysmith Black Mambazo",
+     "official_url": "http://www.mambazo.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/c1982570-8efb-4cf7-bb5b-c9c026c0e8f4",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "c1982570-8efb-4cf7-bb5b-c9c026c0e8f4",
+     "artist_name": "Ladysmith Black Mambazo",
+     "official_urls": [
+      "http://www.mambazo.com/"
+     ],
+     "search_term": "Ladysmith Black Mambazo",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14359564",
@@ -4065,10 +5184,26 @@
    "event_url": "https://bellyup.com/calendar/14359564/eddie-9v",
    "ticket_url": "https://www.ticketweb.com/event/eddie-9v-soda-bar-tickets/14359564?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.eddie9volt.com/",
    "venue_url": "https://sodabarmusic.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Eddie 9V",
+     "official_url": "https://www.eddie9volt.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/bf530a68-5477-4e06-a4d7-4151e6ef6a52",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "bf530a68-5477-4e06-a4d7-4151e6ef6a52",
+     "artist_name": "Eddie 9V",
+     "official_urls": [
+      "https://www.eddie9volt.com/"
+     ],
+     "search_term": "Eddie 9V",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "soma:20270210:Polyphia",
@@ -4083,27 +5218,26 @@
    "ticket_url": "https://bit.ly/4xFhVzT",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://polyphia.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "bellyup:15050483",
-   "source": "bellyup",
-   "title": "Ottmar Liebert & Luna Negra",
-   "venue": "Belly Up",
-   "date": "2027-02-10",
-   "show_time": "20:00",
-   "doors_time": "19:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/15050483/ottmar-liebert-luna-negra",
-   "ticket_url": "https://www.ticketweb.com/event/ottmar-liebert-luna-negra-belly-up-tickets/15050483?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Polyphia",
+     "official_url": "https://polyphia.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/344bfb00-27f0-4ff2-b96b-048ed1c6a968",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "344bfb00-27f0-4ff2-b96b-048ed1c6a968",
+     "artist_name": "Polyphia",
+     "official_urls": [
+      "https://polyphia.com/"
+     ],
+     "search_term": "Polyphia",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14339024",
@@ -4134,10 +5268,26 @@
    "event_url": "https://bellyup.com/calendar/14381584/the-taylor-party-taylor-swift-night-21",
    "ticket_url": "https://www.ticketweb.com/event/the-taylor-party-taylor-swift-music-box-tickets/14381584?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.taylorswiftnight.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Taylor Party",
+     "official_url": "https://www.taylorswiftnight.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/e36e9da1-0ee1-42a2-b27f-dbe382c8e484",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "e36e9da1-0ee1-42a2-b27f-dbe382c8e484",
+     "artist_name": "The Taylor Party",
+     "official_urls": [
+      "https://www.taylorswiftnight.com/"
+     ],
+     "search_term": "The Taylor Party",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14368204",
@@ -4185,10 +5335,26 @@
    "event_url": "https://bellyup.com/calendar/14339334/wade-bowen-the-version-of-me-you-get-tour",
    "ticket_url": "https://www.ticketweb.com/event/wade-bowen-the-belly-up-tickets/14339334?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://www.wadebowen.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Wade Bowen",
+     "official_url": "http://www.wadebowen.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/fe510c08-2449-45b4-9463-e55ecf0efc55",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "fe510c08-2449-45b4-9463-e55ecf0efc55",
+     "artist_name": "Wade Bowen",
+     "official_urls": [
+      "http://www.wadebowen.com/"
+     ],
+     "search_term": "Wade Bowen",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14325644",
@@ -4236,10 +5402,26 @@
    "event_url": "https://bellyup.com/calendar/14352054/led-zepagain",
    "ticket_url": "https://www.ticketweb.com/event/led-zepagain-music-box-tickets/14352054?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://zepagain.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Led Zepagain",
+     "official_url": "http://zepagain.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/0c526c66-8979-4062-bc21-b9d70711c014",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "0c526c66-8979-4062-bc21-b9d70711c014",
+     "artist_name": "Led Zepagain",
+     "official_urls": [
+      "http://zepagain.com/"
+     ],
+     "search_term": "Led Zepagain",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14219604",
@@ -4253,10 +5435,26 @@
    "event_url": "https://bellyup.com/calendar/14219604/steve-poltz",
    "ticket_url": "https://www.ticketweb.com/event/steve-poltz-belly-up-tickets/14219604?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://poltz.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Steve Poltz",
+     "official_url": "http://poltz.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/8e6498e2-60a4-4c4a-93aa-4c131edf8b87",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "8e6498e2-60a4-4c4a-93aa-4c131edf8b87",
+     "artist_name": "Steve Poltz",
+     "official_urls": [
+      "http://poltz.com/"
+     ],
+     "search_term": "Steve Poltz",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "quartyard:20270223:Girl Ultra: el Tour de RRRomeo",
@@ -4293,23 +5491,6 @@
    "artists": []
   },
   {
-   "id": "bellyup:14402424",
-   "source": "bellyup",
-   "title": "Hot 8 Brass Band",
-   "venue": "Casbah",
-   "date": "2027-02-24",
-   "show_time": "20:00",
-   "doors_time": "19:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14402424/hot-8-brass-band",
-   "ticket_url": "https://www.ticketweb.com/event/hot-8-brass-band-casbah-tickets/14402424?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://www.casbahmusic.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
    "id": "bellyup:14339154",
    "source": "bellyup",
    "title": "Paco Versailles - The Az\u00facar Tour 2027",
@@ -4321,10 +5502,26 @@
    "event_url": "https://bellyup.com/calendar/14339154/paco-versailles-the-azucar-tour-2027",
    "ticket_url": "https://www.ticketweb.com/event/paco-versailles-the-belly-up-tickets/14339154?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.pacoversailles.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Paco Versailles",
+     "official_url": "https://www.pacoversailles.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/ff13fe55-4ac2-4913-8438-932faccc472d",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "ff13fe55-4ac2-4913-8438-932faccc472d",
+     "artist_name": "Paco Versailles",
+     "official_urls": [
+      "https://www.pacoversailles.com/"
+     ],
+     "search_term": "Paco Versailles",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14996013",
@@ -4338,10 +5535,26 @@
    "event_url": "https://bellyup.com/calendar/14996013/top-of-the-world-a-tribute-to-the-carpenters",
    "ticket_url": "https://www.ticketweb.com/event/top-of-the-world-the-sound-tickets/14996013?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://topoftheworldcarpenterstribute.com/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Top of the World",
+     "official_url": "https://topoftheworldcarpenterstribute.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/e0282adf-c7ed-4f8d-918e-d337c1f97915",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "e0282adf-c7ed-4f8d-918e-d337c1f97915",
+     "artist_name": "Top of the World",
+     "official_urls": [
+      "https://topoftheworldcarpenterstribute.com/"
+     ],
+     "search_term": "Top of the World",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14291384",
@@ -4361,23 +5574,6 @@
    "artists": []
   },
   {
-   "id": "bellyup:15050513",
-   "source": "bellyup",
-   "title": "Mike Love (Solo) - Music Is The Cure Tour",
-   "venue": "Belly Up",
-   "date": "2027-02-28",
-   "show_time": "20:00",
-   "doors_time": "19:30",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/15050513/mike-love-solo-music-is-the-cure-tour",
-   "ticket_url": "https://www.ticketweb.com/event/mike-love-solo-belly-up-tickets/15050513?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
    "id": "bellyup:14978503",
    "source": "bellyup",
    "title": "Sylvan Esso",
@@ -4389,10 +5585,26 @@
    "event_url": "https://bellyup.com/calendar/14978503/sylvan-esso",
    "ticket_url": "https://www.ticketweb.com/event/sylvan-esso-the-sound-tickets/14978503?REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.sylvanesso.com/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Sylvan Esso",
+     "official_url": "https://www.sylvanesso.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/c4593b34-2a94-4e44-ae10-4a0f4c0b4da8",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "c4593b34-2a94-4e44-ae10-4a0f4c0b4da8",
+     "artist_name": "Sylvan Esso",
+     "official_urls": [
+      "https://www.sylvanesso.com/"
+     ],
+     "search_term": "Sylvan Esso",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:15002063",
@@ -4406,10 +5618,26 @@
    "event_url": "https://bellyup.com/calendar/15002063/marian-hill-act-two-the-tour",
    "ticket_url": "https://www.ticketweb.com/event/marian-hill-act-belly-up-tickets/15002063?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://www.marianhillmusic.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Marian Hill",
+     "official_url": "https://www.marianhillmusic.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/2ef562e1-17af-495c-9e35-82a329fcf733",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "2ef562e1-17af-495c-9e35-82a329fcf733",
+     "artist_name": "Marian Hill",
+     "official_urls": [
+      "https://www.marianhillmusic.com/"
+     ],
+     "search_term": "Marian Hill",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14328374",
@@ -4440,28 +5668,26 @@
    "event_url": "https://bellyup.com/calendar/14368774/umphreys-mcgee-fresh-cut-2027",
    "ticket_url": "https://www.ticketweb.com/event/umphreys-mcgee-fresh-belly-up-tickets/14368774?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "http://umphreys.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "soma:20270304:brakence",
-   "source": "soma",
-   "title": "brakence",
-   "venue": "SOMA San Diego",
-   "date": "2027-03-04",
-   "show_time": "19:00",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.somasandiego.com/event/brakence/",
-   "ticket_url": "https://bit.ly/4iBOYPT",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://www.somasandiego.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Umphrey\u2019s McGee",
+     "official_url": "http://umphreys.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/3826a6e0-9ea5-4007-941c-25b9dd943981",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "3826a6e0-9ea5-4007-941c-25b9dd943981",
+     "artist_name": "Umphrey\u2019s McGee",
+     "official_urls": [
+      "http://umphreys.com/"
+     ],
+     "search_term": "Umphrey's McGee",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "quartyard:20270305:Christian Kuria",
@@ -4544,10 +5770,26 @@
    "event_url": "https://bellyup.com/calendar/14381134/49-winchester-change-of-plans-tour-w-kenny-whitmore",
    "ticket_url": "https://www.ticketweb.com/event/49-winchester-change-belly-up-tickets/14381134?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
-   "band_url": null,
+   "band_url": "https://49winchester.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "49 Winchester",
+     "official_url": "https://49winchester.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/3ddb5fd0-3831-4ca6-931e-336ac03173a7",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "3ddb5fd0-3831-4ca6-931e-336ac03173a7",
+     "artist_name": "49 Winchester",
+     "official_urls": [
+      "https://49winchester.com/"
+     ],
+     "search_term": "49 Winchester",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14313814",
@@ -4567,40 +5809,6 @@
    "artists": []
   },
   {
-   "id": "bellyup:14396284",
-   "source": "bellyup",
-   "title": "Two Nights with They Might Be Giants",
-   "venue": "Belly Up",
-   "date": "2027-03-09",
-   "show_time": "20:00",
-   "doors_time": "19:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14396284/two-nights-with-they-might-be-giants",
-   "ticket_url": "https://www.ticketweb.com/event/two-nights-with-they-might-belly-up-tickets/14396284?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "bellyup:15054093",
-   "source": "bellyup",
-   "title": "They Might Be Giants",
-   "venue": "Belly Up",
-   "date": "2027-03-09",
-   "show_time": "20:00",
-   "doors_time": "19:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/15054093/they-might-be-giants",
-   "ticket_url": "https://www.ticketweb.com/event/they-might-be-giants-belly-up-tickets/15054093?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
    "id": "soma:20270310:Haywire",
    "source": "soma",
    "title": "Haywire",
@@ -4613,10 +5821,27 @@
    "ticket_url": "https://bit.ly/4zFmbzC",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "http://haywirecomeback.tripod.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Haywire",
+     "official_url": "http://haywirecomeback.tripod.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/29b60be3-5817-426f-b76d-8acb92c83cbc",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "29b60be3-5817-426f-b76d-8acb92c83cbc",
+     "artist_name": "Haywire",
+     "official_urls": [
+      "http://haywirecomeback.tripod.com/",
+      "http://www.haywireband.ca/"
+     ],
+     "search_term": "Haywire",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:15043003",
@@ -4625,32 +5850,31 @@
    "venue": "Music Box",
    "date": "2027-03-10",
    "show_time": "19:30",
-   "doors_time": "18:30",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/15043003/lunasa",
-   "ticket_url": "https://www.ticketweb.com/event/lunasa-music-box-tickets/15043003?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
+   "ticket_url": "https://bellyup.com/calendar/15043003/lunasa",
+   "ticket_kind": "event_page",
+   "band_url": "https://www.lunasamusic.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "bellyup:15054103",
-   "source": "bellyup",
-   "title": "They Might Be Giants",
-   "venue": "Belly Up",
-   "date": "2027-03-10",
-   "show_time": "20:00",
-   "doors_time": "19:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/15054103/they-might-be-giants",
-   "ticket_url": "https://www.ticketweb.com/event/they-might-be-giants-belly-up-tickets/15054103?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "L\u00fanasa",
+     "official_url": "https://www.lunasamusic.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/f27ab860-84e3-43c4-872a-a8181192d24a",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "f27ab860-84e3-43c4-872a-a8181192d24a",
+     "artist_name": "L\u00fanasa",
+     "official_urls": [
+      "https://www.lunasamusic.com/"
+     ],
+     "search_term": "Lunasa",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14314544",
@@ -4659,15 +5883,31 @@
    "venue": "Belly Up",
    "date": "2027-03-11",
    "show_time": "20:00",
-   "doors_time": "19:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14314544/g-love-special-sauce-yeah-its-that-easy-30th-anniversary-tour-w-todd-carey",
-   "ticket_url": "https://www.ticketweb.com/event/g-love-special-sauce-belly-up-tickets/14314544?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
+   "ticket_url": "https://bellyup.com/calendar/14314544/g-love-special-sauce-yeah-its-that-easy-30th-anniversary-tour-w-todd-carey",
+   "ticket_kind": "event_page",
+   "band_url": "http://philadelphonic.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "G. Love & Special Sauce",
+     "official_url": "http://philadelphonic.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/dbf7c761-e332-467b-b4d9-aafe06bbcf8f",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "dbf7c761-e332-467b-b4d9-aafe06bbcf8f",
+     "artist_name": "G. Love & Special Sauce",
+     "official_urls": [
+      "http://philadelphonic.com/"
+     ],
+     "search_term": "G. Love & Special Sauce",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "quartyard:20270312:strongboi headline tour 2027",
@@ -4693,11 +5933,11 @@
    "venue": "Belly Up",
    "date": "2027-03-12",
    "show_time": "20:30",
-   "doors_time": "20:30",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14370524/wayward-sons-dj-mr-80s",
-   "ticket_url": "https://www.ticketweb.com/event/wayward-sons-dj-mr-80s-belly-up-tickets/14370524?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14370524/wayward-sons-dj-mr-80s",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -4710,30 +5950,13 @@
    "venue": "The Sound",
    "date": "2027-03-13",
    "show_time": "20:00",
-   "doors_time": "19:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14972463/wheeler-walker-jr-pullin-out-the-farewell-tour",
-   "ticket_url": "https://www.ticketweb.com/event/wheeler-walker-jr-the-sound-tickets/14972463?REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14972463/wheeler-walker-jr-pullin-out-the-farewell-tour",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://thesoundsd.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "bellyup:15053443",
-   "source": "bellyup",
-   "title": "Penelope Road - Maybe In Time Tour with support from The Takes",
-   "venue": "Belly Up",
-   "date": "2027-03-13",
-   "show_time": "21:00",
-   "doors_time": "20:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/15053443/penelope-road-maybe-in-time-tour-with-support-from-the-takes",
-   "ticket_url": "https://www.ticketweb.com/event/penelope-road-maybe-belly-up-tickets/15053443?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
    "artists": []
   },
@@ -4744,11 +5967,11 @@
    "venue": "Belly Up",
    "date": "2027-03-14",
    "show_time": "20:00",
-   "doors_time": "19:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14381034/daniel-donatos-cosmic-country-along-the-trail-tour-winter-spring-2027",
-   "ticket_url": "https://www.ticketweb.com/event/daniel-donatos-cosmic-country-belly-up-tickets/14381034?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14381034/daniel-donatos-cosmic-country-along-the-trail-tour-winter-spring-2027",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -4761,15 +5984,31 @@
    "venue": "Belly Up",
    "date": "2027-03-15",
    "show_time": "19:30",
-   "doors_time": "18:30",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14370314/young-dubliners",
-   "ticket_url": "https://www.ticketweb.com/event/young-dubliners-belly-up-tickets/14370314?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
+   "ticket_url": "https://bellyup.com/calendar/14370314/young-dubliners",
+   "ticket_kind": "event_page",
+   "band_url": "https://youngdubliners.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Young Dubliners",
+     "official_url": "https://youngdubliners.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/47771924-7047-4dbd-b6df-6c0f3bcb6677",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "47771924-7047-4dbd-b6df-6c0f3bcb6677",
+     "artist_name": "The Young Dubliners",
+     "official_urls": [
+      "https://youngdubliners.com/"
+     ],
+     "search_term": "Young Dubliners",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14369004",
@@ -4778,15 +6017,31 @@
    "venue": "Music Box",
    "date": "2027-03-16",
    "show_time": "20:00",
-   "doors_time": "19:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14369004/saxsquatch-the-conspiracy-theory-tour",
-   "ticket_url": "https://www.ticketweb.com/event/saxsquatch-the-conspiracy-music-box-tickets/14369004?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
+   "ticket_url": "https://bellyup.com/calendar/14369004/saxsquatch-the-conspiracy-theory-tour",
+   "ticket_kind": "event_page",
+   "band_url": "https://saxsquatch.net/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Saxsquatch",
+     "official_url": "https://saxsquatch.net/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/4b7c152d-1fc8-4ff3-a693-1616bd36d773",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "4b7c152d-1fc8-4ff3-a693-1616bd36d773",
+     "artist_name": "Saxsquatch",
+     "official_urls": [
+      "https://saxsquatch.net/"
+     ],
+     "search_term": "Saxsquatch",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "soma:20270320:Vacations",
@@ -4801,10 +6056,26 @@
    "ticket_url": "https://bit.ly/4dHFFLy",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://www.vacationsband.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Vacations",
+     "official_url": "https://www.vacationsband.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/82cf84b0-4caa-4dfb-b027-6d274e95c82d",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "82cf84b0-4caa-4dfb-b027-6d274e95c82d",
+     "artist_name": "Vacations",
+     "official_urls": [
+      "https://www.vacationsband.com/"
+     ],
+     "search_term": "Vacations",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "soma:20270321:Bo Staloch",
@@ -4819,27 +6090,26 @@
    "ticket_url": "https://bit.ly/4hpc6Q9",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://www.bostaloch.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "quartyard:20270324:Susannah Joffe - The Dust Settles Tour",
-   "source": "quartyard",
-   "title": "Susannah Joffe - The Dust Settles Tour",
-   "venue": "Quartyard",
-   "date": "2027-03-24",
-   "show_time": "18:30",
-   "doors_time": "18:00",
-   "age_limit": "All Ages",
-   "event_url": "https://quartyardsd.com/event/susannah-joffe-the-dust-settles-tour/",
-   "ticket_url": "https://www.ticketweb.com/event/susannah-joffe-the-quartyard-tickets/14402384?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://quartyardsd.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Bo Staloch",
+     "official_url": "https://www.bostaloch.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/c353dd11-40c4-493c-ad23-063b19d89ba0",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "c353dd11-40c4-493c-ad23-063b19d89ba0",
+     "artist_name": "Bo Staloch",
+     "official_urls": [
+      "https://www.bostaloch.com/"
+     ],
+     "search_term": "Bo Staloch",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14303254",
@@ -4848,11 +6118,11 @@
    "venue": "Belly Up",
    "date": "2027-03-27",
    "show_time": "21:00",
-   "doors_time": "20:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14303254/chasing-abbey-north-america-tour-spring-2027",
-   "ticket_url": "https://www.ticketweb.com/event/chasing-abbey-north-belly-up-tickets/14303254?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14303254/chasing-abbey-north-america-tour-spring-2027",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -4871,28 +6141,26 @@
    "ticket_url": "https://bit.ly/4k7JA8s",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://www.hanswilliams.com/home",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "soma:20270331:Gus Dapperton",
-   "source": "soma",
-   "title": "Gus Dapperton",
-   "venue": "SOMA San Diego",
-   "date": "2027-03-31",
-   "show_time": "19:00",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.somasandiego.com/event/gus-dapperton-2/",
-   "ticket_url": "https://bit.ly/4zc2IH6",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://www.somasandiego.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Hans Williams",
+     "official_url": "https://www.hanswilliams.com/home",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/e6ca8ec3-1372-4534-a1c1-b327adc27e9f",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "e6ca8ec3-1372-4534-a1c1-b327adc27e9f",
+     "artist_name": "Hans Williams",
+     "official_urls": [
+      "https://www.hanswilliams.com/home"
+     ],
+     "search_term": "Hans Williams",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "soma:20270406:Nothing But Thieves",
@@ -4907,10 +6175,26 @@
    "ticket_url": "https://bit.ly/4v9D57q",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://www.nbthieves.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Nothing But Thieves",
+     "official_url": "https://www.nbthieves.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
+     "artist_name": "Nothing But Thieves",
+     "official_urls": [
+      "https://www.nbthieves.com/"
+     ],
+     "search_term": "Nothing But Thieves",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:15000943",
@@ -4919,33 +6203,31 @@
    "venue": "Belly Up",
    "date": "2027-04-10",
    "show_time": "21:00",
-   "doors_time": "20:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/15000943/jerrys-middle-finger",
-   "ticket_url": "https://www.ticketweb.com/event/jerrys-middle-finger-belly-up-tickets/15000943?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "soma:20270411:Ninth Key",
-   "source": "soma",
-   "title": "Ninth Key",
-   "venue": "SOMA San Diego",
-   "date": "2027-04-11",
-   "show_time": "18:30",
    "doors_time": null,
    "age_limit": null,
-   "event_url": "https://www.somasandiego.com/event/ninth-key/",
-   "ticket_url": "https://bit.ly/4yFMm8z",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://www.somasandiego.com/",
+   "event_url": "https://bellyup.com/calendar/15000943/jerrys-middle-finger",
+   "ticket_url": "https://bellyup.com/calendar/15000943/jerrys-middle-finger",
+   "ticket_kind": "event_page",
+   "band_url": "http://jerrysmiddlefinger.com/",
+   "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Jerry\u2019s Middle Finger",
+     "official_url": "http://jerrysmiddlefinger.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/ed1832b8-7fae-4552-8eae-43ae08d67e71",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "ed1832b8-7fae-4552-8eae-43ae08d67e71",
+     "artist_name": "Jerry\u2019s Middle Finger",
+     "official_urls": [
+      "http://jerrysmiddlefinger.com/"
+     ],
+     "search_term": "Jerry's Middle Finger",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14381354",
@@ -4954,15 +6236,31 @@
    "venue": "Belly Up",
    "date": "2027-04-11",
    "show_time": "19:30",
-   "doors_time": "18:30",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14381354/martin-sexton-live-wide-open-tour-2027",
-   "ticket_url": "https://www.ticketweb.com/event/martin-sexton-live-belly-up-tickets/14381354?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
+   "ticket_url": "https://bellyup.com/calendar/14381354/martin-sexton-live-wide-open-tour-2027",
+   "ticket_kind": "event_page",
+   "band_url": "http://www.martinsexton.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Martin Sexton",
+     "official_url": "http://www.martinsexton.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/0685ac4a-5cfc-408a-b391-903ea20e00bf",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "0685ac4a-5cfc-408a-b391-903ea20e00bf",
+     "artist_name": "Martin Sexton",
+     "official_urls": [
+      "http://www.martinsexton.com/"
+     ],
+     "search_term": "Martin Sexton",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "radyshell:20270418:Yuri & Lucero \u2013 ENTRE AMIGAS T",
@@ -4989,15 +6287,31 @@
    "venue": "Music Box",
    "date": "2027-04-21",
    "show_time": "20:00",
-   "doors_time": "19:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14344984/mei-semones",
-   "ticket_url": "https://www.ticketweb.com/event/mei-semones-music-box-tickets/14344984?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
+   "ticket_url": "https://bellyup.com/calendar/14344984/mei-semones",
+   "ticket_kind": "event_page",
+   "band_url": "https://www.meisemones.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Mei Semones",
+     "official_url": "https://www.meisemones.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/68aaf52d-c2bf-4a2f-9779-8afa07664153",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "68aaf52d-c2bf-4a2f-9779-8afa07664153",
+     "artist_name": "Mei Semones",
+     "official_urls": [
+      "https://www.meisemones.com/"
+     ],
+     "search_term": "Mei Semones",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14314664",
@@ -5006,15 +6320,31 @@
    "venue": "The Sound",
    "date": "2027-04-27",
    "show_time": "19:30",
-   "doors_time": "18:30",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14314664/the-simon-garfunkel-story",
-   "ticket_url": "https://www.ticketweb.com/event/the-simon-garfunkel-story-the-sound-tickets/14314664?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
+   "ticket_url": "https://bellyup.com/calendar/14314664/the-simon-garfunkel-story",
+   "ticket_kind": "event_page",
+   "band_url": "https://www.thesimonandgarfunkelstory.com/welcome/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Simon & Garfunkel Story",
+     "official_url": "https://www.thesimonandgarfunkelstory.com/welcome/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/af4767bc-9cd9-4117-9de4-a12acfec1c82",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "af4767bc-9cd9-4117-9de4-a12acfec1c82",
+     "artist_name": "The Simon & Garfunkel Story",
+     "official_urls": [
+      "https://www.thesimonandgarfunkelstory.com/welcome/"
+     ],
+     "search_term": "The Simon & Garfunkel Story",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "soma:20270428:SAINT LEVANT",
@@ -5029,10 +6359,26 @@
    "ticket_url": null,
    "ticket_kind": null,
    "sold_out": true,
-   "band_url": null,
+   "band_url": "https://saintlevant.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Saint Levant",
+     "official_url": "https://saintlevant.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/015c8b7d-015b-4603-9792-18bb440178ac",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "015c8b7d-015b-4603-9792-18bb440178ac",
+     "artist_name": "Saint Levant",
+     "official_urls": [
+      "https://saintlevant.com/"
+     ],
+     "search_term": "SAINT LEVANT",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14356274",
@@ -5041,11 +6387,11 @@
    "venue": "The Sound",
    "date": "2027-04-29",
    "show_time": "20:00",
-   "doors_time": "19:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14356274/slash-featuring-myles-kennedy-and-the-conspirators-flying-blind-world-tour-2027",
-   "ticket_url": "https://www.ticketweb.com/event/slash-featuring-myles-kennedy-and-the-sound-tickets/14356274?REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14356274/slash-featuring-myles-kennedy-and-the-conspirators-flying-blind-world-tour-2027",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
@@ -5058,11 +6404,11 @@
    "venue": "Music Box",
    "date": "2027-04-30",
    "show_time": "21:00",
-   "doors_time": "20:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14341544/michael-shannon-jason-narducy-and-friends-play-r-e-m-s-document",
-   "ticket_url": "https://www.ticketweb.com/event/michael-shannon-jason-narducy-music-box-tickets/14341544?REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14341544/michael-shannon-jason-narducy-and-friends-play-r-e-m-s-document",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
@@ -5081,27 +6427,26 @@
    "ticket_url": "https://bit.ly/4i3YY36",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "http://www.wearetheinterrupters.com/",
    "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "bellyup:14408464",
-   "source": "bellyup",
-   "title": "Tally Hall",
-   "venue": "The Sound",
-   "date": "2027-05-01",
-   "show_time": "20:00",
-   "doors_time": "19:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14408464/tally-hall",
-   "ticket_url": "https://www.ticketweb.com/event/tally-hall-the-sound-tickets/14408464?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://thesoundsd.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Interrupters",
+     "official_url": "http://www.wearetheinterrupters.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/f8ed032c-0d34-4ae6-a069-91417097509e",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "f8ed032c-0d34-4ae6-a069-91417097509e",
+     "artist_name": "The Interrupters",
+     "official_urls": [
+      "http://www.wearetheinterrupters.com/"
+     ],
+     "search_term": "The Interrupters",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14359424",
@@ -5110,15 +6455,31 @@
    "venue": "Belly Up",
    "date": "2027-05-04",
    "show_time": "19:30",
-   "doors_time": "18:30",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14359424/al-stewart-farewell-tour-w-special-guests-the-empty-pockets",
-   "ticket_url": "https://www.ticketweb.com/event/al-stewart-farewell-belly-up-tickets/14359424?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
+   "ticket_url": "https://bellyup.com/calendar/14359424/al-stewart-farewell-tour-w-special-guests-the-empty-pockets",
+   "ticket_kind": "event_page",
+   "band_url": "http://www.alstewart.com/",
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Al Stewart",
+     "official_url": "http://www.alstewart.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/ab7d49fa-c383-4c41-b890-3fe68e559dc4",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "ab7d49fa-c383-4c41-b890-3fe68e559dc4",
+     "artist_name": "Al Stewart",
+     "official_urls": [
+      "http://www.alstewart.com/"
+     ],
+     "search_term": "Al Stewart",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14325454",
@@ -5127,15 +6488,31 @@
    "venue": "Music Box",
    "date": "2027-05-07",
    "show_time": "21:00",
-   "doors_time": "20:00",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14325454/too-many-zooz-audio-lipstick-tour",
-   "ticket_url": "https://www.ticketweb.com/event/too-many-zooz-music-box-tickets/14325454?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
+   "ticket_url": "https://bellyup.com/calendar/14325454/too-many-zooz-audio-lipstick-tour",
+   "ticket_kind": "event_page",
+   "band_url": "http://toomanyzooz.com/",
    "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Too Many Zooz",
+     "official_url": "http://toomanyzooz.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/e44ef539-1ec9-4cb2-bee7-852e84618308",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "e44ef539-1ec9-4cb2-bee7-852e84618308",
+     "artist_name": "Too Many Zooz",
+     "official_urls": [
+      "http://toomanyzooz.com/"
+     ],
+     "search_term": "Too Many Zooz",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14367924",
@@ -5144,30 +6521,13 @@
    "venue": "Belly Up",
    "date": "2027-05-14",
    "show_time": "21:00",
-   "doors_time": "20:30",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14367924/john-splithoff-2027-tour",
-   "ticket_url": "https://www.ticketweb.com/event/john-splithoff-2027-belly-up-tickets/14367924?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14367924/john-splithoff-2027-tour",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "quartyard:20270521:CG5 Presents: The GAMER Tour",
-   "source": "quartyard",
-   "title": "CG5 Presents: The GAMER Tour",
-   "venue": "Quartyard",
-   "date": "2027-05-21",
-   "show_time": "18:00",
-   "doors_time": null,
-   "age_limit": "All Ages",
-   "event_url": "https://quartyardsd.com/event/cg5-presents-the-gamer-tour/",
-   "ticket_url": "https://wl.eventim.us/event/cg5-presents-the-gamer-tour/708693?afflky=Casbah",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://quartyardsd.com/",
    "timezone": "America/Los_Angeles",
    "artists": []
   },
@@ -5178,15 +6538,31 @@
    "venue": "The Sound",
    "date": "2027-05-24",
    "show_time": "19:30",
-   "doors_time": "18:30",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14384934/two-door-cinema-club-tourist-history-15th-anniversary-tour-w-friendly-fires",
-   "ticket_url": "https://www.ticketweb.com/event/two-door-cinema-club-the-sound-tickets/14384934?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
+   "ticket_url": "https://bellyup.com/calendar/14384934/two-door-cinema-club-tourist-history-15th-anniversary-tour-w-friendly-fires",
+   "ticket_kind": "event_page",
+   "band_url": "http://twodoorcinemaclub.com/",
    "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Two Door Cinema Club",
+     "official_url": "http://twodoorcinemaclub.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/6f1de078-6684-4792-820d-2ffad64c15ed",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "6f1de078-6684-4792-820d-2ffad64c15ed",
+     "artist_name": "Two Door Cinema Club",
+     "official_urls": [
+      "http://twodoorcinemaclub.com/"
+     ],
+     "search_term": "Two Door Cinema Club",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14348784",
@@ -5195,33 +6571,31 @@
    "venue": "Music Box",
    "date": "2027-06-04",
    "show_time": "21:00",
-   "doors_time": "20:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14348784/hazlett-the-comeback-tour",
-   "ticket_url": "https://www.ticketweb.com/event/hazlett-the-comeback-music-box-tickets/14348784?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://www.musicboxsd.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "soma:20270605:Ocean Alley",
-   "source": "soma",
-   "title": "Ocean Alley",
-   "venue": "SOMA San Diego",
-   "date": "2027-06-05",
-   "show_time": "19:00",
    "doors_time": null,
    "age_limit": null,
-   "event_url": "https://www.somasandiego.com/event/ocean-alley-2/",
-   "ticket_url": "https://bit.ly/4zLFPdn",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://www.somasandiego.com/",
+   "event_url": "https://bellyup.com/calendar/14348784/hazlett-the-comeback-tour",
+   "ticket_url": "https://bellyup.com/calendar/14348784/hazlett-the-comeback-tour",
+   "ticket_kind": "event_page",
+   "band_url": "https://thisishazlett.com/",
+   "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Hazlett",
+     "official_url": "https://thisishazlett.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/09d13fa7-ce48-4300-be4c-0a8eff2cdb98",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "09d13fa7-ce48-4300-be4c-0a8eff2cdb98",
+     "artist_name": "Hazlett",
+     "official_urls": [
+      "https://thisishazlett.com/"
+     ],
+     "search_term": "Hazlett",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "humphreys:2027-06-05:The Airborne Toxic Event - The",
@@ -5236,46 +6610,26 @@
    "ticket_url": "https://www.ticketmaster.com/event/0A006459059592B6",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "http://www.theairbornetoxicevent.com/",
    "venue_url": "https://www.humphreysconcerts.com/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "humphreys:2027-06-27:Chicago",
-   "source": "humphreys",
-   "title": "Chicago",
-   "venue": "Humphreys Concerts by the Bay",
-   "date": "2027-06-27",
-   "show_time": "20:00",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.ticketmaster.com/event/0A006555E1EB4ECF",
-   "ticket_url": "https://www.ticketmaster.com/event/0A006555E1EB4ECF",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://www.humphreysconcerts.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "humphreys:2027-06-28:Chicago",
-   "source": "humphreys",
-   "title": "Chicago",
-   "venue": "Humphreys Concerts by the Bay",
-   "date": "2027-06-28",
-   "show_time": "20:00",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.ticketmaster.com/event/0A006555E1F24ED8",
-   "ticket_url": "https://www.ticketmaster.com/event/0A006555E1F24ED8",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://www.humphreysconcerts.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "The Airborne Toxic Event",
+     "official_url": "http://www.theairbornetoxicevent.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/892fb2e4-0af4-42be-9e60-22898de51d32",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "892fb2e4-0af4-42be-9e60-22898de51d32",
+     "artist_name": "The Airborne Toxic Event",
+     "official_urls": [
+      "http://www.theairbornetoxicevent.com/"
+     ],
+     "search_term": "The Airborne Toxic Event",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14370254",
@@ -5284,11 +6638,11 @@
    "venue": "Belly Up",
    "date": "2027-07-07",
    "show_time": "19:30",
-   "doors_time": "18:30",
+   "doors_time": null,
    "age_limit": null,
    "event_url": "https://bellyup.com/calendar/14370254/ambrosia",
-   "ticket_url": "https://www.ticketweb.com/event/ambrosia-belly-up-tickets/14370254?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
+   "ticket_url": "https://bellyup.com/calendar/14370254/ambrosia",
+   "ticket_kind": "event_page",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
@@ -5307,46 +6661,26 @@
    "ticket_url": "https://www.ticketmaster.com/event/0A0065365069CDEC",
    "ticket_kind": "direct",
    "sold_out": false,
-   "band_url": null,
+   "band_url": "https://lizzymcalpine.com/",
    "venue_url": "https://theshell.org/",
    "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "humphreys:2027-08-20:Mat Kearney - Hanging By A Hea",
-   "source": "humphreys",
-   "title": "Mat Kearney - Hanging By A Heartstring Tour",
-   "venue": "Humphreys Concerts by the Bay",
-   "date": "2027-08-20",
-   "show_time": "19:30",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.ticketmaster.com/event/0A00654EF5BDAB89",
-   "ticket_url": "https://www.ticketmaster.com/event/0A00654EF5BDAB89",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://www.humphreysconcerts.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "radyshell:20270912:Roger Waters Presents LEGACY \u2013",
-   "source": "radyshell",
-   "title": "Roger Waters Presents LEGACY \u2013 A Pink Floyd Tribute Show",
-   "venue": "The Rady Shell at Jacobs Park",
-   "date": "2027-09-12",
-   "show_time": "19:30",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.theshell.org/performances/legacy-pink-floyd/",
-   "ticket_url": "https://www.ticketmaster.com/event/0A00651734618001",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://theshell.org/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
+   "artists": [
+    {
+     "name": "Lizzy McAlpine",
+     "official_url": "https://lizzymcalpine.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/ee0b11de-0c8a-4267-9886-198f4579e1db",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "ee0b11de-0c8a-4267-9886-198f4579e1db",
+     "artist_name": "Lizzy McAlpine",
+     "official_urls": [
+      "https://lizzymcalpine.com/"
+     ],
+     "search_term": "Lizzy McAlpine",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   }
  ]
 }

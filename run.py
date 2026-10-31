@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Run all venue scrapers, merge, dedupe, and write shows.json.
 
-Usage: python run.py [--keep-past]
+Usage: python run.py [--keep-past] [--from-cache] [--enrich-artists]
 
 A failed source keeps its last successful data (stored in data/). The
 script exits 1 only if every source fails, so one flaky venue never
@@ -16,6 +16,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 from artist_links import apply_artist_links
+from artist_enrichment import merge_registries, run_enrichment
 
 from scrapers import bellyup, humphreys, observatory, quartyard, radyshell, soma, sodabar
 from scrapers.common import (
@@ -96,7 +97,8 @@ async def main() -> int:
     keep_past = "--keep-past" in sys.argv
     from_cache = "--from-cache" in sys.argv
     if from_cache:
-        print("Rebuilding shows.json from cached data (no network)")
+        print("Rebuilding shows.json from cached venue data"
+              + ("; artist API enabled" if "--enrich-artists" in sys.argv else " (no network)"))
     else:
         browser = Browser()
         await browser.start()
@@ -135,13 +137,24 @@ async def main() -> int:
     try:
         overrides = json.loads(OVERRIDES_FILE.read_text()) if OVERRIDES_FILE.exists() else {}
         lineups = json.loads(LINEUPS_FILE.read_text()) if LINEUPS_FILE.exists() else {}
-        apply_band_overrides(shows, overrides, lineups)
+        if not isinstance(overrides, dict) or not isinstance(lineups, dict):
+            raise ValueError("Artist registry and lineups must be objects")
+        try:
+            automatic, artist_status = run_enrichment(
+                shows, lineups, online=not from_cache or "--enrich-artists" in sys.argv)
+        except Exception as exc:
+            # Optional artist metadata must not prevent venue-data publication.
+            print(f"Artist enrichment unavailable: {exc}", file=sys.stderr)
+            automatic, artist_status = {}, {"status": "unavailable"}
+        apply_band_overrides(shows, merge_registries(automatic, overrides), lineups)
     except (ValueError, TypeError) as exc:
         print(f"Artist links disabled: {exc}", file=sys.stderr)
         apply_band_overrides(shows, {}, {})
+        artist_status = {"status": "invalid_registry"}
 
     out = {
         "generated_at": datetime.now(LA).isoformat(timespec="seconds"),
+        "artist_enrichment": artist_status,
         "sources": {
             name: {
                 "status": p.get("status"),

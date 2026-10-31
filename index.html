@@ -109,7 +109,7 @@
 
   <footer>
     <p>Data collected from venue websites; times are Pacific. Doors time shown in parentheses when published.</p>
-    <p>Artist names link only to manually verified official websites. Unverified names and listing titles stay plain text; ticket and event-page links are separate.</p>
+    <p>Artist names link automatically to <a href="https://musicbrainz.org/doc/MusicBrainz_API">MusicBrainz</a> “official homepage” results. No homepage returned means no artist link. Ticket links are separate; MusicBrainz matches are not independently verified.</p>
     <p id="meta"></p>
   </footer>
 </main>
@@ -179,8 +179,9 @@
       "eventbrite.com", "seetickets.us", "seetickets.com", "showclix.com",
       "etix.com", "tixr.com", "facebook.com", "instagram.com", "x.com",
       "twitter.com", "tiktok.com", "youtube.com", "youtu.be", "spotify.com",
-      "linktr.ee", "bit.ly"];
-    if (blocked.some(function (h) { return host === h || host.endsWith("." + h); })) return null;
+      "linktr.ee", "bit.ly", "musicbrainz.org", "setlist.fm", "bandsintown.com", "songkick.com"];
+    if (artist.verification_method !== "musicbrainz_official_homepage" &&
+        blocked.some(function (h) { return host === h || host.endsWith("." + h); })) return null;
     if ([show.ticket_url, show.event_url, show.venue_url].some(function (u) {
       return safeURL(u) === url;
     })) return null;
