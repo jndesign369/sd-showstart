@@ -1,200 +1,49 @@
 {
- "generated_at": "2026-11-01T11:05:15-08:00",
+ "generated_at": "2026-11-02T14:52:42-08:00",
  "artist_enrichment": {
-  "generated_at": "2026-11-01T19:02:54+00:00",
+  "generated_at": "2026-11-02T22:52:32+00:00",
   "linked_artist_count": 138,
-  "review_count": 148,
-  "requests_made": 110
+  "review_count": 151,
+  "requests_made": 10
  },
  "sources": {
   "bellyup": {
    "status": "ok",
-   "last_success": "2026-11-01T11:02:33-08:00",
-   "show_count": 185
+   "last_success": "2026-11-02T14:52:12-08:00",
+   "show_count": 191
   },
   "sodabar": {
    "status": "ok",
-   "last_success": "2026-11-01T11:02:41-08:00",
-   "show_count": 21
+   "last_success": "2026-11-02T14:52:19-08:00",
+   "show_count": 22
   },
   "quartyard": {
    "status": "ok",
-   "last_success": "2026-11-01T11:02:46-08:00",
-   "show_count": 27
+   "last_success": "2026-11-02T14:52:23-08:00",
+   "show_count": 26
   },
   "observatory": {
    "status": "ok",
-   "last_success": "2026-11-01T11:02:47-08:00",
+   "last_success": "2026-11-02T14:52:24-08:00",
    "show_count": 25
   },
   "humphreys": {
    "status": "ok",
-   "last_success": "2026-11-01T11:02:50-08:00",
+   "last_success": "2026-11-02T14:52:27-08:00",
    "show_count": 5
   },
   "radyshell": {
    "status": "ok",
-   "last_success": "2026-11-01T11:02:53-08:00",
+   "last_success": "2026-11-02T14:52:31-08:00",
    "show_count": 12
   },
   "soma": {
    "status": "ok",
-   "last_success": "2026-11-01T11:02:54-08:00",
+   "last_success": "2026-11-02T14:52:31-08:00",
    "show_count": 32
   }
  },
  "shows": [
-  {
-   "id": "quartyard:20261101:Surprise Chef",
-   "source": "quartyard",
-   "title": "Surprise Chef",
-   "venue": "Quartyard",
-   "date": "2026-11-01",
-   "show_time": "18:00",
-   "doors_time": null,
-   "age_limit": "All Ages",
-   "event_url": "https://quartyardsd.com/event/surprise-chef/",
-   "ticket_url": "https://link.dice.fm/surprisechef26qy",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://quartyardsd.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "bellyup:14203664",
-   "source": "bellyup",
-   "title": "Samantha Fish - Paper Doll Live World Tour w/ Cody Dickinson of North Mississippi Allstars",
-   "venue": "Belly Up",
-   "date": "2026-11-01",
-   "show_time": "19:00",
-   "doors_time": "18:30",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14203664/samantha-fish-paper-doll-live-world-tour-w-cody-dickinson-of-north-mississippi-allstars",
-   "ticket_url": "https://www.ticketweb.com/event/samantha-fish-paper-belly-up-tickets/14203664?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": "http://www.samanthafish.com/",
-   "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": [
-    {
-     "name": "Samantha Fish",
-     "official_url": "http://www.samanthafish.com/",
-     "website_verified": true,
-     "evidence_url": "https://musicbrainz.org/artist/bcf3ad0b-4eae-4c8b-a292-9f4c573aa27a",
-     "verified_at": "2026-10-31",
-     "verification_method": "musicbrainz_official_homepage",
-     "mbid": "bcf3ad0b-4eae-4c8b-a292-9f4c573aa27a",
-     "artist_name": "Samantha Fish",
-     "official_urls": [
-      "http://www.samanthafish.com/"
-     ],
-     "search_term": "Samantha Fish",
-     "match_method": "musicbrainz_highest_ranked_result"
-    }
-   ]
-  },
-  {
-   "id": "bellyup:14204764",
-   "source": "bellyup",
-   "title": "INOHA - This Might Be Useful Tour w/ Buddha Trixie & Flight By Nothing",
-   "venue": "Music Box",
-   "date": "2026-11-01",
-   "show_time": "19:00",
-   "doors_time": "18:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14204764/inoha-this-might-be-useful-tour-w-buddha-trixie-flight-by-nothing",
-   "ticket_url": "https://www.ticketweb.com/event/inoha-this-might-music-box-tickets/14204764?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://www.musicboxsd.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "sodabar:https://dice.fm/event/desire-mothermary-twin-ritual-johnny-jewel-1st-nov-soda-bar-san-diego-tickets",
-   "source": "sodabar",
-   "title": "Desire, Mothermary, Twin Ritual, Johnny Jewel",
-   "venue": "Soda Bar",
-   "date": "2026-11-01",
-   "show_time": "19:00",
-   "doors_time": "19:00",
-   "age_limit": "21+",
-   "event_url": "https://dice.fm/event/desire-mothermary-twin-ritual-johnny-jewel-1st-nov-soda-bar-san-diego-tickets",
-   "ticket_url": "https://link.dice.fm/g3abe76ced82?pid=b5421562",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://sodabarmusic.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "observatory:https://www.ticketmaster.com/casbahbelly-updesert-daze-present-the-black-san-diego-california-11-01-2026/event/0B006489B3AA4759",
-   "source": "observatory",
-   "title": "Casbah/Belly Up/Desert Daze Present: The Black Angels",
-   "venue": "The Observatory North Park",
-   "date": "2026-11-01",
-   "show_time": "19:00",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.ticketmaster.com/casbahbelly-updesert-daze-present-the-black-san-diego-california-11-01-2026/event/0B006489B3AA4759",
-   "ticket_url": "https://www.ticketmaster.com/casbahbelly-updesert-daze-present-the-black-san-diego-california-11-01-2026/event/0B006489B3AA4759",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": "https://theblackangels.com/",
-   "venue_url": "https://www.observatorysd.com",
-   "timezone": "America/Los_Angeles",
-   "artists": [
-    {
-     "name": "The Black Angels",
-     "official_url": "https://theblackangels.com/",
-     "website_verified": true,
-     "evidence_url": "https://musicbrainz.org/artist/49814f71-8fef-41ec-9af8-b6995c0bd601",
-     "verified_at": "2026-10-31",
-     "verification_method": "musicbrainz_official_homepage",
-     "mbid": "49814f71-8fef-41ec-9af8-b6995c0bd601",
-     "artist_name": "The Black Angels",
-     "official_urls": [
-      "https://theblackangels.com/"
-     ],
-     "search_term": "The Black Angels",
-     "match_method": "musicbrainz_highest_ranked_result"
-    }
-   ]
-  },
-  {
-   "id": "bellyup:14845983",
-   "source": "bellyup",
-   "title": "The Black Angels: Passover 2026 Tour",
-   "venue": "The Observatory North Park",
-   "date": "2026-11-01",
-   "show_time": "20:00",
-   "doors_time": "19:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14845983/the-black-angels-passover-2026-tour",
-   "ticket_url": "https://www.ticketweb.com/event/the-black-angels-passover-2026-the-observatory-north-park-tickets/14845983?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": "https://theblackangels.com/",
-   "venue_url": "https://www.observatorysd.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": [
-    {
-     "name": "The Black Angels",
-     "official_url": "https://theblackangels.com/",
-     "website_verified": true,
-     "evidence_url": "https://musicbrainz.org/artist/49814f71-8fef-41ec-9af8-b6995c0bd601",
-     "verified_at": "2026-10-31",
-     "verification_method": "musicbrainz_official_homepage",
-     "mbid": "49814f71-8fef-41ec-9af8-b6995c0bd601",
-     "artist_name": "The Black Angels",
-     "official_urls": [
-      "https://theblackangels.com/"
-     ],
-     "search_term": "The Black Angels",
-     "match_method": "musicbrainz_highest_ranked_result"
-    }
-   ]
-  },
   {
    "id": "sodabar:https://dice.fm/event/clyde-mcgee-bridge-city-sinners-bosko-baker-clinton-davis-2nd-nov-soda-bar-san-diego-tickets",
    "source": "sodabar",
@@ -1755,6 +1604,39 @@
    "artists": []
   },
   {
+   "id": "bellyup:14891513",
+   "source": "bellyup",
+   "title": "BoomBox - Fall Tour 2026 w/ DGTL CLR",
+   "venue": "Music Box",
+   "date": "2026-11-14",
+   "show_time": "21:00",
+   "doors_time": "20:00",
+   "age_limit": null,
+   "event_url": "https://bellyup.com/calendar/14891513/boombox-fall-tour-2026-w-dgtl-clr",
+   "ticket_url": "https://www.ticketweb.com/event/boombox-fall-tour-music-box-tickets/14891513?REFID=bupwebsite",
+   "ticket_kind": "direct",
+   "band_url": "http://thisisboombox.com/",
+   "venue_url": "https://www.musicboxsd.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": [
+    {
+     "name": "BoomBox",
+     "official_url": "http://thisisboombox.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/0a7604d0-a712-4d5c-83cb-cc4ae3d01455",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "0a7604d0-a712-4d5c-83cb-cc4ae3d01455",
+     "artist_name": "BoomBox",
+     "official_urls": [
+      "http://thisisboombox.com/"
+     ],
+     "search_term": "BoomBox",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
+  },
+  {
    "id": "quartyard:20261115:Slothrust, Um, Jennifer?",
    "source": "quartyard",
    "title": "Slothrust, Um, Jennifer?",
@@ -2146,6 +2028,23 @@
    "artists": []
   },
   {
+   "id": "sodabar:https://dice.fm/event/lesser-works-the-sines-naked-west-20th-nov-soda-bar-san-diego-tickets",
+   "source": "sodabar",
+   "title": "Lesser Works, The Sines, Naked West",
+   "venue": "Soda Bar",
+   "date": "2026-11-20",
+   "show_time": "19:00",
+   "doors_time": "19:00",
+   "age_limit": "21+",
+   "event_url": "https://dice.fm/event/lesser-works-the-sines-naked-west-20th-nov-soda-bar-san-diego-tickets",
+   "ticket_url": "https://link.dice.fm/bc044fe95874?pid=b5421562",
+   "ticket_kind": "direct",
+   "band_url": null,
+   "venue_url": "https://sodabarmusic.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
+  },
+  {
    "id": "bellyup:14250234",
    "source": "bellyup",
    "title": "KBong, Johnny Cosmic, Swooon",
@@ -2281,6 +2180,23 @@
    "artists": []
   },
   {
+   "id": "sodabar:https://dice.fm/event/dance-4-u-slayyyter-x-charli-xcx-night-21st-nov-soda-bar-san-diego-tickets",
+   "source": "sodabar",
+   "title": "DANCE\u2026 4 U: SLAYYYTER X CHARLI XCX NIGHT",
+   "venue": "Soda Bar",
+   "date": "2026-11-21",
+   "show_time": "21:00",
+   "doors_time": "21:00",
+   "age_limit": "21+",
+   "event_url": "https://dice.fm/event/dance-4-u-slayyyter-x-charli-xcx-night-21st-nov-soda-bar-san-diego-tickets",
+   "ticket_url": "https://link.dice.fm/C6f0a2d5f2f7?pid=b5421562",
+   "ticket_kind": "direct",
+   "band_url": null,
+   "venue_url": "https://sodabarmusic.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
+  },
+  {
    "id": "quartyard:20261122:PillowTalk, Andrew Wilkinson, D\u00dcKANK",
    "source": "quartyard",
    "title": "PillowTalk, Andrew Wilkinson, D\u00dcKANK",
@@ -2294,6 +2210,23 @@
    "ticket_kind": "direct",
    "band_url": null,
    "venue_url": "https://quartyardsd.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
+  },
+  {
+   "id": "bellyup:14974153",
+   "source": "bellyup",
+   "title": "Andrew McMahon and his piano featuring very special guest Ivory Layne",
+   "venue": "Belly Up",
+   "date": "2026-11-22",
+   "show_time": "19:00",
+   "doors_time": "18:00",
+   "age_limit": null,
+   "event_url": "https://bellyup.com/calendar/14974153/andrew-mcmahon-and-his-piano-featuring-very-special-guest-ivory-layne",
+   "ticket_url": "https://www.ticketweb.com/event/andrew-mcmahon-and-his-piano-belly-up-tickets/14974153?theme=bellyup&REFID=bupwebsite",
+   "ticket_kind": "direct",
+   "band_url": null,
+   "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
    "artists": []
   },
@@ -4710,6 +4643,24 @@
    "artists": []
   },
   {
+   "id": "observatory:https://www.ticketmaster.com/nurse-georgie-carroll-san-diego-california-01-09-2027/event/0B006549971C553D",
+   "source": "observatory",
+   "title": "Nurse Georgie Carroll",
+   "venue": "The Observatory North Park",
+   "date": "2027-01-09",
+   "show_time": "18:00",
+   "doors_time": null,
+   "age_limit": null,
+   "event_url": "https://www.ticketmaster.com/nurse-georgie-carroll-san-diego-california-01-09-2027/event/0B006549971C553D",
+   "ticket_url": "https://www.ticketmaster.com/nurse-georgie-carroll-san-diego-california-01-09-2027/event/0B006549971C553D",
+   "ticket_kind": "direct",
+   "sold_out": false,
+   "band_url": null,
+   "venue_url": "https://www.observatorysd.com",
+   "timezone": "America/Los_Angeles",
+   "artists": []
+  },
+  {
    "id": "bellyup:14359964",
    "source": "bellyup",
    "title": "The English Beat",
@@ -4891,6 +4842,23 @@
    "ticket_kind": "direct",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
+  },
+  {
+   "id": "bellyup:14409044",
+   "source": "bellyup",
+   "title": "Pepper, Bumpin Uglies",
+   "venue": "The Sound",
+   "date": "2027-01-17",
+   "show_time": "20:00",
+   "doors_time": "19:00",
+   "age_limit": null,
+   "event_url": "https://bellyup.com/calendar/14409044/pepper-bumpin-uglies",
+   "ticket_url": "https://www.ticketweb.com/event/pepper-bumpin-uglies-the-sound-tickets/14409044?REFID=bupwebsite",
+   "ticket_kind": "direct",
+   "band_url": null,
+   "venue_url": "https://thesoundsd.com/",
    "timezone": "America/Los_Angeles",
    "artists": []
   },
@@ -6972,6 +6940,39 @@
    ]
   },
   {
+   "id": "bellyup:14407754",
+   "source": "bellyup",
+   "title": "The Castellows - On The Highway Tour",
+   "venue": "Belly Up",
+   "date": "2027-04-16",
+   "show_time": "21:00",
+   "doors_time": "20:30",
+   "age_limit": null,
+   "event_url": "https://bellyup.com/calendar/14407754/the-castellows-on-the-highway-tour",
+   "ticket_url": "https://www.ticketweb.com/event/the-castellows-on-belly-up-tickets/14407754?theme=bellyup&REFID=bupwebsite",
+   "ticket_kind": "direct",
+   "band_url": "https://www.thecastellowsmusic.com/",
+   "venue_url": "https://bellyup.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": [
+    {
+     "name": "The Castellows",
+     "official_url": "https://www.thecastellowsmusic.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/1efc3e10-961b-4f24-bb51-2cc8692b85a6",
+     "verified_at": "2026-11-02",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "1efc3e10-961b-4f24-bb51-2cc8692b85a6",
+     "artist_name": "The Castellows",
+     "official_urls": [
+      "https://www.thecastellowsmusic.com/"
+     ],
+     "search_term": "The Castellows",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
+  },
+  {
    "id": "radyshell:20270418:Yuri & Lucero \u2013 ENTRE AMIGAS T",
    "source": "radyshell",
    "title": "Yuri & Lucero \u2013 ENTRE AMIGAS TOUR",
@@ -6988,6 +6989,39 @@
    "venue_url": "https://theshell.org/",
    "timezone": "America/Los_Angeles",
    "artists": []
+  },
+  {
+   "id": "bellyup:14344984",
+   "source": "bellyup",
+   "title": "Mei Semones",
+   "venue": "Music Box",
+   "date": "2027-04-21",
+   "show_time": "20:00",
+   "doors_time": "19:00",
+   "age_limit": null,
+   "event_url": "https://bellyup.com/calendar/14344984/mei-semones",
+   "ticket_url": "https://www.ticketweb.com/event/mei-semones-music-box-tickets/14344984?REFID=bupwebsite",
+   "ticket_kind": "direct",
+   "band_url": "https://www.meisemones.com/",
+   "venue_url": "https://www.musicboxsd.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": [
+    {
+     "name": "Mei Semones",
+     "official_url": "https://www.meisemones.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/68aaf52d-c2bf-4a2f-9779-8afa07664153",
+     "verified_at": "2026-10-31",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "68aaf52d-c2bf-4a2f-9779-8afa07664153",
+     "artist_name": "Mei Semones",
+     "official_urls": [
+      "https://www.meisemones.com/"
+     ],
+     "search_term": "Mei Semones",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14314664",
@@ -7070,6 +7104,23 @@
    "ticket_kind": "direct",
    "band_url": null,
    "venue_url": "https://thesoundsd.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
+  },
+  {
+   "id": "bellyup:14341544",
+   "source": "bellyup",
+   "title": "Michael Shannon & Jason Narducy and Friends play R.E.M.\u2019s Document",
+   "venue": "Music Box",
+   "date": "2027-04-30",
+   "show_time": "21:00",
+   "doors_time": "20:00",
+   "age_limit": null,
+   "event_url": "https://bellyup.com/calendar/14341544/michael-shannon-jason-narducy-and-friends-play-r-e-m-s-document",
+   "ticket_url": "https://www.ticketweb.com/event/michael-shannon-jason-narducy-music-box-tickets/14341544?REFID=bupwebsite",
+   "ticket_kind": "direct",
+   "band_url": null,
+   "venue_url": "https://www.musicboxsd.com/",
    "timezone": "America/Los_Angeles",
    "artists": []
   },
@@ -7276,13 +7327,13 @@
   {
    "id": "bellyup:14348784",
    "source": "bellyup",
-   "title": "Hazlett - The Comeback Tour",
+   "title": "Hazlett - The Comeback Tour w/ Hunter Metts",
    "venue": "Music Box",
    "date": "2027-06-04",
    "show_time": "21:00",
    "doors_time": "20:00",
    "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14348784/hazlett-the-comeback-tour",
+   "event_url": "https://bellyup.com/calendar/14348784/hazlett-the-comeback-tour-w-hunter-metts",
    "ticket_url": "https://www.ticketweb.com/event/hazlett-the-comeback-music-box-tickets/14348784?REFID=bupwebsite",
    "ticket_kind": "direct",
    "band_url": "https://thisishazlett.com/",

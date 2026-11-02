@@ -91356,6 +91356,613 @@
         "offset": 0,
         "artists": []
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"DANCE\\u2026 4 U: SLAYYYTER X CHARLI XCX NIGHT\\\"\"}": {
+      "fetched_at": "2026-11-02T22:52:32+00:00",
+      "data": {
+        "created": "2026-11-02T22:52:32.680Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"DANCE\\u2026 4 U\\\"\"}": {
+      "fetched_at": "2026-11-02T22:52:32+00:00",
+      "data": {
+        "created": "2026-11-02T22:52:33.475Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Hazlett - The Comeback Tour w/ Hunter Metts\\\"\"}": {
+      "fetched_at": "2026-11-02T22:52:32+00:00",
+      "data": {
+        "created": "2026-11-02T22:52:34.544Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Lesser Works, The Sines, Naked West\\\"\"}": {
+      "fetched_at": "2026-11-02T22:52:32+00:00",
+      "data": {
+        "created": "2026-11-02T22:52:35.701Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Nurse Georgie Carroll\\\"\"}": {
+      "fetched_at": "2026-11-02T22:52:32+00:00",
+      "data": {
+        "created": "2026-11-02T22:52:36.744Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Pepper, Bumpin Uglies\\\"\"}": {
+      "fetched_at": "2026-11-02T22:52:32+00:00",
+      "data": {
+        "created": "2026-11-02T22:52:37.845Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"The Castellows - On The Highway Tour\\\"\"}": {
+      "fetched_at": "2026-11-02T22:52:32+00:00",
+      "data": {
+        "created": "2026-11-02T22:52:38.960Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"The Castellows\\\"\"}": {
+      "fetched_at": "2026-11-02T22:52:32+00:00",
+      "data": {
+        "created": "2026-11-02T22:52:40.044Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "1efc3e10-961b-4f24-bb51-2cc8692b85a6",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "The Castellows",
+            "sort-name": "Castellows, The",
+            "area": {
+              "id": "d10ba752-c9ce-4804-afc0-7ff94aa5d8d6",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "Georgia",
+              "sort-name": "Georgia",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Sister trio neo-Traditional country music band",
+            "life-span": {
+              "begin": "2022",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Balkcom Sisters, The",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "The Balkcom Sisters",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Castellows",
+                "name": "Castellows",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 1,
+                "name": "bluegrass"
+              },
+              {
+                "count": 3,
+                "name": "country"
+              },
+              {
+                "count": 1,
+                "name": "americana"
+              },
+              {
+                "count": 1,
+                "name": "country folk"
+              },
+              {
+                "count": 2,
+                "name": "neo-traditional country"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/1efc3e10-961b-4f24-bb51-2cc8692b85a6?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-02T22:52:32+00:00",
+      "data": {
+        "end-area": null,
+        "disambiguation": "Sister trio neo-Traditional country music band",
+        "relations": [
+          {
+            "end": null,
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "target-credit": "",
+            "source-credit": "",
+            "url": {
+              "resource": "https://www.allmusic.com/artist/mn0004548591",
+              "id": "019cf527-3846-40d4-8dd3-6c8ce191415f"
+            },
+            "type": "allmusic",
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "begin": null,
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url"
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {},
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "type": "bandsintown",
+            "url": {
+              "resource": "https://www.bandsintown.com/a/15521189",
+              "id": "07bf591b-e2fa-424b-ac6b-52d256524292"
+            },
+            "end": null,
+            "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+            "source-credit": "",
+            "target-credit": ""
+          },
+          {
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "type": "free streaming",
+            "url": {
+              "id": "7f4aa859-6809-49ce-9c25-dfc605fa5784",
+              "resource": "https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG"
+            },
+            "end": null,
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+          },
+          {
+            "url": {
+              "resource": "https://www.deezer.com/artist/234133101",
+              "id": "4a140ce0-be00-4eaf-b140-9b4034c88913"
+            },
+            "end": null,
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "type": "free streaming"
+          },
+          {
+            "url": {
+              "id": "b09bbc4a-2499-4746-ac48-573b7539d59c",
+              "resource": "https://web.archive.org/web/0/https://i.scdn.co/image/ab6761610000e5eb26419c7a8e491a4ac05b21b8"
+            },
+            "source-credit": "",
+            "target-credit": "",
+            "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "direction": "forward",
+            "begin": null,
+            "attribute-ids": {},
+            "attributes": [],
+            "attribute-values": {},
+            "type": "image"
+          },
+          {
+            "type": "image",
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {},
+            "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null,
+            "url": {
+              "resource": "https://web.archive.org/web/0/https://i.scdn.co/image/ab6761610000e5eb5f60db077f2d8661999185f9",
+              "id": "34eeb429-0fb0-4418-aef8-f38b27ae32e6"
+            }
+          },
+          {
+            "url": {
+              "id": "a4ddc785-ccf2-4f22-b360-c8ac206a75fd",
+              "resource": "https://www.last.fm/music/The+Castellows"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "type": "last.fm"
+          },
+          {
+            "url": {
+              "id": "aab80dbd-b7f2-4e2c-944b-e06120f9ebad",
+              "resource": "https://www.thecastellowsmusic.com/"
+            },
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {},
+            "type": "official homepage"
+          },
+          {
+            "url": {
+              "id": "2dd6de76-adf0-4796-a83f-fc19fe3744ed",
+              "resource": "https://open.qobuz.com/artist/20081091"
+            },
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "begin": null,
+            "attribute-ids": {},
+            "attributes": [],
+            "attribute-values": {},
+            "target-type": "url",
+            "ended": false,
+            "direction": "forward",
+            "type": "purchase for download"
+          },
+          {
+            "type": "setlistfm",
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {},
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.setlist.fm/setlists/the-castellows-6be6faca.html",
+              "id": "c63bb767-fd0c-4507-a69b-1be37cb983c0"
+            }
+          },
+          {
+            "type": "social network",
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null,
+            "url": {
+              "resource": "https://twitter.com/thecastellows",
+              "id": "0c183e2d-dca3-4b46-9062-97d685200a21"
+            }
+          },
+          {
+            "type": "social network",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "url": {
+              "resource": "https://www.facebook.com/thecastellowsband",
+              "id": "f879a7e5-ee38-430e-b240-4a47e84346d8"
+            }
+          },
+          {
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "end": null,
+            "url": {
+              "id": "8bd0d187-a510-4300-918f-56eedd70a4d1",
+              "resource": "https://www.instagram.com/thecastellows/"
+            },
+            "type": "social network",
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": []
+          },
+          {
+            "url": {
+              "id": "2d71c709-4e37-47df-8a6e-8ee19258ed18",
+              "resource": "https://www.tiktok.com/@thecastellows"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "type": "social network"
+          },
+          {
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "end": null,
+            "url": {
+              "resource": "https://music.amazon.com/artists/B0CKCYPBD1",
+              "id": "fcd5b1f0-32ee-4645-8b6f-62383736197e"
+            },
+            "type": "streaming",
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": []
+          },
+          {
+            "source-credit": "",
+            "target-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "end": null,
+            "url": {
+              "id": "11838296-964e-46a5-896e-d78af9c99478",
+              "resource": "https://music.apple.com/de/artist/1710273260"
+            },
+            "type": "streaming",
+            "target-type": "url",
+            "ended": false,
+            "direction": "forward",
+            "begin": null,
+            "attribute-ids": {},
+            "attributes": [],
+            "attribute-values": {}
+          },
+          {
+            "url": {
+              "resource": "https://music.apple.com/gb/artist/1710273260",
+              "id": "9c317727-0240-417d-a249-1848a05eab70"
+            },
+            "end": null,
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "target-credit": "",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "begin": null,
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url",
+            "type": "streaming"
+          },
+          {
+            "type": "streaming",
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url",
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "begin": null,
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "url": {
+              "resource": "https://music.apple.com/us/artist/1710273260",
+              "id": "debf72b6-497c-4a6c-9e8e-a487518c3d17"
+            }
+          },
+          {
+            "url": {
+              "resource": "https://open.qobuz.com/artist/20081091",
+              "id": "2dd6de76-adf0-4796-a83f-fc19fe3744ed"
+            },
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {},
+            "type": "streaming"
+          },
+          {
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "type": "streaming",
+            "url": {
+              "id": "e720b015-85e0-47a1-9690-9356a582f450",
+              "resource": "https://tidal.com/artist/42573040"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "end": null
+          },
+          {
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null,
+            "url": {
+              "id": "2e5b6ed9-b22f-4c80-8aed-5742cc45af43",
+              "resource": "https://tidal.com/artist/82728692"
+            },
+            "type": "streaming",
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {}
+          },
+          {
+            "end": null,
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "target-credit": "",
+            "source-credit": "",
+            "url": {
+              "id": "5a4afdad-0d62-4704-909e-3ccc918f8b88",
+              "resource": "https://www.wikidata.org/wiki/Q124392552"
+            },
+            "type": "wikidata",
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "begin": null,
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url"
+          },
+          {
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "type": "wikipedia",
+            "url": {
+              "id": "2a827398-7037-4a2c-ba96-41e866c7a3db",
+              "resource": "https://en.wikipedia.org/wiki/The_Castellows"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb",
+            "end": null
+          },
+          {
+            "type": "youtube",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "url": {
+              "resource": "https://www.youtube.com/channel/UC0ZMT-llb5zaecfPYYt5d6A",
+              "id": "351c8280-fcfc-49b9-b2cb-9bd0d881e33a"
+            }
+          }
+        ],
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "area": {
+          "type": null,
+          "sort-name": "Georgia",
+          "type-id": null,
+          "id": "d10ba752-c9ce-4804-afc0-7ff94aa5d8d6",
+          "disambiguation": "",
+          "name": "Georgia",
+          "iso-3166-2-codes": [
+            "US-GA"
+          ]
+        },
+        "ipis": [],
+        "gender-id": null,
+        "life-span": {
+          "end": null,
+          "begin": "2022",
+          "ended": false
+        },
+        "name": "The Castellows",
+        "gender": null,
+        "begin-area": null,
+        "type": "Group",
+        "sort-name": "Castellows, The",
+        "id": "1efc3e10-961b-4f24-bb51-2cc8692b85a6",
+        "country": "US",
+        "isnis": []
+      }
     }
   }
 }
