@@ -1,133 +1,49 @@
 {
- "generated_at": "2026-11-02T14:52:42-08:00",
+ "generated_at": "2026-11-03T12:36:43-08:00",
  "artist_enrichment": {
-  "generated_at": "2026-11-02T22:52:32+00:00",
-  "linked_artist_count": 138,
-  "review_count": 151,
-  "requests_made": 10
+  "generated_at": "2026-11-03T20:36:01+00:00",
+  "linked_artist_count": 141,
+  "review_count": 156,
+  "requests_made": 28
  },
  "sources": {
   "bellyup": {
    "status": "ok",
-   "last_success": "2026-11-02T14:52:12-08:00",
-   "show_count": 191
+   "last_success": "2026-11-03T12:35:42-08:00",
+   "show_count": 196
   },
   "sodabar": {
    "status": "ok",
-   "last_success": "2026-11-02T14:52:19-08:00",
+   "last_success": "2026-11-03T12:35:48-08:00",
    "show_count": 22
   },
   "quartyard": {
    "status": "ok",
-   "last_success": "2026-11-02T14:52:23-08:00",
-   "show_count": 26
+   "last_success": "2026-11-03T12:35:51-08:00",
+   "show_count": 30
   },
   "observatory": {
    "status": "ok",
-   "last_success": "2026-11-02T14:52:24-08:00",
+   "last_success": "2026-11-03T12:35:53-08:00",
    "show_count": 25
   },
   "humphreys": {
    "status": "ok",
-   "last_success": "2026-11-02T14:52:27-08:00",
+   "last_success": "2026-11-03T12:35:56-08:00",
    "show_count": 5
   },
   "radyshell": {
    "status": "ok",
-   "last_success": "2026-11-02T14:52:31-08:00",
-   "show_count": 12
+   "last_success": "2026-11-03T12:36:00-08:00",
+   "show_count": 13
   },
   "soma": {
    "status": "ok",
-   "last_success": "2026-11-02T14:52:31-08:00",
+   "last_success": "2026-11-03T12:36:00-08:00",
    "show_count": 32
   }
  },
  "shows": [
-  {
-   "id": "sodabar:https://dice.fm/event/clyde-mcgee-bridge-city-sinners-bosko-baker-clinton-davis-2nd-nov-soda-bar-san-diego-tickets",
-   "source": "sodabar",
-   "title": "Clyde McGee (Bridge City Sinners), Bosko Baker, Clinton Davis",
-   "venue": "Soda Bar",
-   "date": "2026-11-02",
-   "show_time": "19:00",
-   "doors_time": "19:00",
-   "age_limit": "21+",
-   "event_url": "https://dice.fm/event/clyde-mcgee-bridge-city-sinners-bosko-baker-clinton-davis-2nd-nov-soda-bar-san-diego-tickets",
-   "ticket_url": "https://link.dice.fm/u64891b7c1ba?pid=b5421562",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://sodabarmusic.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "observatory:https://www.ticketmaster.com/medium-build-presents-the-king-of-san-diego-california-11-02-2026/event/0B0064D6DD254796",
-   "source": "observatory",
-   "title": "Medium Build Presents The King of Having Fun on Tour",
-   "venue": "The Observatory North Park",
-   "date": "2026-11-02",
-   "show_time": "19:00",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.ticketmaster.com/medium-build-presents-the-king-of-san-diego-california-11-02-2026/event/0B0064D6DD254796",
-   "ticket_url": "https://www.ticketmaster.com/medium-build-presents-the-king-of-san-diego-california-11-02-2026/event/0B0064D6DD254796",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": "https://www.mediumbuildmusic.com/",
-   "venue_url": "https://www.observatorysd.com",
-   "timezone": "America/Los_Angeles",
-   "artists": [
-    {
-     "name": "Medium Build",
-     "official_url": "https://www.mediumbuildmusic.com/",
-     "website_verified": true,
-     "evidence_url": "https://musicbrainz.org/artist/fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
-     "verified_at": "2026-10-31",
-     "verification_method": "musicbrainz_official_homepage",
-     "mbid": "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
-     "artist_name": "Medium Build",
-     "official_urls": [
-      "https://www.mediumbuildmusic.com/"
-     ],
-     "search_term": "Medium Build",
-     "match_method": "musicbrainz_highest_ranked_result"
-    }
-   ]
-  },
-  {
-   "id": "bellyup:14216064",
-   "source": "bellyup",
-   "title": "Medium Build Presents The King of Having Fun on Tour w/ The Scratch",
-   "venue": "The Observatory North Park",
-   "date": "2026-11-02",
-   "show_time": "20:00",
-   "doors_time": "19:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14216064/medium-build-presents-the-king-of-having-fun-on-tour-w-the-scratch",
-   "ticket_url": "https://www.ticketweb.com/event/medium-build-presents-the-king-the-observatory-north-park-tickets/14216064?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": "https://www.mediumbuildmusic.com/",
-   "venue_url": "https://www.observatorysd.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": [
-    {
-     "name": "Medium Build",
-     "official_url": "https://www.mediumbuildmusic.com/",
-     "website_verified": true,
-     "evidence_url": "https://musicbrainz.org/artist/fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
-     "verified_at": "2026-10-31",
-     "verification_method": "musicbrainz_official_homepage",
-     "mbid": "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
-     "artist_name": "Medium Build",
-     "official_urls": [
-      "https://www.mediumbuildmusic.com/"
-     ],
-     "search_term": "Medium Build",
-     "match_method": "musicbrainz_highest_ranked_result"
-    }
-   ]
-  },
   {
    "id": "soma:20261103:Kurt Travis",
    "source": "soma",
@@ -2264,6 +2180,23 @@
    ]
   },
   {
+   "id": "sodabar:https://dice.fm/event/the-goddamn-gallows-king-sickabilly-22nd-nov-soda-bar-san-diego-tickets",
+   "source": "sodabar",
+   "title": "The Goddamn Gallows, King Sickabilly",
+   "venue": "Soda Bar",
+   "date": "2026-11-22",
+   "show_time": "19:00",
+   "doors_time": "19:00",
+   "age_limit": "21+",
+   "event_url": "https://dice.fm/event/the-goddamn-gallows-king-sickabilly-22nd-nov-soda-bar-san-diego-tickets",
+   "ticket_url": "https://link.dice.fm/B6807143d23f?pid=b5421562",
+   "ticket_kind": "direct",
+   "band_url": null,
+   "venue_url": "https://sodabarmusic.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
+  },
+  {
    "id": "bellyup:15035903",
    "source": "bellyup",
    "title": "Clara La San - Chosen Silences Tour Fall 2026 w/ SAUSHA",
@@ -3713,6 +3646,40 @@
    "artists": []
   },
   {
+   "id": "observatory:https://www.ticketmaster.com/emo-night-brooklyn-18-w-valid-san-diego-california-12-12-2026/event/0B00655EC7F5950B",
+   "source": "observatory",
+   "title": "Emo Night Brooklyn - 18+ W/ VALID ID",
+   "venue": "The Observatory North Park",
+   "date": "2026-12-12",
+   "show_time": "20:00",
+   "doors_time": null,
+   "age_limit": null,
+   "event_url": "https://www.ticketmaster.com/emo-night-brooklyn-18-w-valid-san-diego-california-12-12-2026/event/0B00655EC7F5950B",
+   "ticket_url": "https://www.ticketmaster.com/emo-night-brooklyn-18-w-valid-san-diego-california-12-12-2026/event/0B00655EC7F5950B",
+   "ticket_kind": "direct",
+   "sold_out": false,
+   "band_url": "http://emonightbk.com/",
+   "venue_url": "https://www.observatorysd.com",
+   "timezone": "America/Los_Angeles",
+   "artists": [
+    {
+     "name": "Emo Night Brooklyn",
+     "official_url": "http://emonightbk.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/a384b738-ff9b-4f73-8e24-0134024f1344",
+     "verified_at": "2026-11-03",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "a384b738-ff9b-4f73-8e24-0134024f1344",
+     "artist_name": "Emo Night Brooklyn",
+     "official_urls": [
+      "http://emonightbk.com/"
+     ],
+     "search_term": "Emo Night Brooklyn",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
+  },
+  {
    "id": "quartyard:20261213:QUE RICO ES SER LATINO",
    "source": "quartyard",
    "title": "QUE RICO ES SER LATINO",
@@ -4626,6 +4593,23 @@
    "artists": []
   },
   {
+   "id": "bellyup:14221594",
+   "source": "bellyup",
+   "title": "Trouble Man - Marvin Gaye Tribute, Kogee Soul Presents: The Sounds of Philly Soul",
+   "venue": "Music Box",
+   "date": "2027-01-08",
+   "show_time": "20:00",
+   "doors_time": "19:00",
+   "age_limit": null,
+   "event_url": "https://bellyup.com/calendar/14221594/trouble-man-marvin-gaye-tribute-kogee-soul-presents-the-sounds-of-philly-soul",
+   "ticket_url": "https://www.ticketweb.com/event/trouble-man-marvin-music-box-tickets/14221594?REFID=bupwebsite",
+   "ticket_kind": "direct",
+   "band_url": null,
+   "venue_url": "https://www.musicboxsd.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
+  },
+  {
    "id": "bellyup:14359954",
    "source": "bellyup",
    "title": "The English Beat",
@@ -4848,14 +4832,14 @@
   {
    "id": "bellyup:14409044",
    "source": "bellyup",
-   "title": "Pepper, Bumpin Uglies",
+   "title": "Pepper - 20 Years of No Shame w/ Bumpin Uglies",
    "venue": "The Sound",
    "date": "2027-01-17",
    "show_time": "20:00",
    "doors_time": "19:00",
    "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14409044/pepper-bumpin-uglies",
-   "ticket_url": "https://www.ticketweb.com/event/pepper-bumpin-uglies-the-sound-tickets/14409044?REFID=bupwebsite",
+   "event_url": "https://bellyup.com/calendar/14409044/pepper-20-years-of-no-shame-w-bumpin-uglies",
+   "ticket_url": "https://www.ticketweb.com/event/pepper-20-years-the-sound-tickets/14409044?REFID=bupwebsite",
    "ticket_kind": "direct",
    "band_url": null,
    "venue_url": "https://thesoundsd.com/",
@@ -5218,13 +5202,13 @@
   {
    "id": "bellyup:14340084",
    "source": "bellyup",
-   "title": "Ballyhoo! - We Ride at Dawn Tour w/ Chad Tepper",
+   "title": "Ballyhoo! - We Ride at Dawn Tour w/ Chad Tepper | Keep Flying",
    "venue": "Music Box",
    "date": "2027-01-29",
    "show_time": "20:00",
    "doors_time": "19:00",
    "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14340084/ballyhoo-we-ride-at-dawn-tour-w-chad-tepper",
+   "event_url": "https://bellyup.com/calendar/14340084/ballyhoo-we-ride-at-dawn-tour-w-chad-tepper-keep-flying",
    "ticket_url": "https://www.ticketweb.com/event/ballyhoo-we-ride-music-box-tickets/14340084?REFID=bupwebsite",
    "ticket_kind": "direct",
    "band_url": "http://www.ballyhoorocks.com/",
@@ -5297,6 +5281,39 @@
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
    "artists": []
+  },
+  {
+   "id": "bellyup:14407714",
+   "source": "bellyup",
+   "title": "Orleans - Farewell Tour",
+   "venue": "Belly Up",
+   "date": "2027-02-03",
+   "show_time": "19:30",
+   "doors_time": "18:30",
+   "age_limit": null,
+   "event_url": "https://bellyup.com/calendar/14407714/orleans-farewell-tour",
+   "ticket_url": "https://www.ticketweb.com/event/orleans-farewell-tour-belly-up-tickets/14407714?theme=bellyup&REFID=bupwebsite",
+   "ticket_kind": "direct",
+   "band_url": "http://orleansonline.com/",
+   "venue_url": "https://bellyup.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": [
+    {
+     "name": "Orleans",
+     "official_url": "http://orleansonline.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/5049ad6c-5ca0-46cb-9416-4567597be83f",
+     "verified_at": "2026-11-03",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "5049ad6c-5ca0-46cb-9416-4567597be83f",
+     "artist_name": "Orleans",
+     "official_urls": [
+      "http://orleansonline.com/"
+     ],
+     "search_term": "Orleans",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14384244",
@@ -5515,6 +5532,23 @@
    ]
   },
   {
+   "id": "bellyup:14412664",
+   "source": "bellyup",
+   "title": "Galdive | rum.gold - A Friend Tour",
+   "venue": "Music Box",
+   "date": "2027-02-08",
+   "show_time": "20:00",
+   "doors_time": "19:00",
+   "age_limit": null,
+   "event_url": "https://bellyup.com/calendar/14412664/galdive-rum-gold-a-friend-tour",
+   "ticket_url": "https://www.ticketweb.com/event/galdive-rumgold-music-box-tickets/14412664?REFID=bupwebsite",
+   "ticket_kind": "direct",
+   "band_url": null,
+   "venue_url": "https://www.musicboxsd.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
+  },
+  {
    "id": "bellyup:14359564",
    "source": "bellyup",
    "title": "Eddie 9V",
@@ -5697,6 +5731,39 @@
    "venue_url": "https://bellyup.com/",
    "timezone": "America/Los_Angeles",
    "artists": []
+  },
+  {
+   "id": "quartyard:20270218:Two Lanes",
+   "source": "quartyard",
+   "title": "Two Lanes",
+   "venue": "Quartyard",
+   "date": "2027-02-18",
+   "show_time": "18:00",
+   "doors_time": null,
+   "age_limit": "All Ages",
+   "event_url": "https://quartyardsd.com/event/two-lanes/",
+   "ticket_url": "https://link.dice.fm/twolanes27qy",
+   "ticket_kind": "direct",
+   "band_url": "https://www.twolanesmusic.com/",
+   "venue_url": "https://quartyardsd.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": [
+    {
+     "name": "TWO LANES",
+     "official_url": "https://www.twolanesmusic.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/3f808f31-4631-43f4-81b7-c98594744421",
+     "verified_at": "2026-11-03",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "3f808f31-4631-43f4-81b7-c98594744421",
+     "artist_name": "TWO LANES",
+     "official_urls": [
+      "https://www.twolanesmusic.com/"
+     ],
+     "search_term": "Two Lanes",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
   },
   {
    "id": "bellyup:14339334",
@@ -5932,6 +5999,23 @@
    ]
   },
   {
+   "id": "quartyard:20270226:FNGRS CRSSD and DAISY CHAIN present JACQ",
+   "source": "quartyard",
+   "title": "FNGRS CRSSD and DAISY CHAIN present JACQUES GREENE B2B PLAYER DAVE",
+   "venue": "Quartyard",
+   "date": "2027-02-26",
+   "show_time": "17:00",
+   "doors_time": null,
+   "age_limit": "21+",
+   "event_url": "https://quartyardsd.com/event/fngrs-crssd-and-daisy-chain-present-jacques-greene-b2b-player-dave/",
+   "ticket_url": "https://events.leapevents.com/event/fngrs-crssd-presents-jacques-greene-player-dave-quartyard-2027/pre-sale",
+   "ticket_kind": "direct",
+   "band_url": null,
+   "venue_url": "https://quartyardsd.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
+  },
+  {
    "id": "bellyup:14996013",
    "source": "bellyup",
    "title": "Top of the World - A Tribute to the Carpenters",
@@ -5960,6 +6044,39 @@
       "https://topoftheworldcarpenterstribute.com/"
      ],
      "search_term": "Top of the World",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
+  },
+  {
+   "id": "quartyard:20270227:SH\u0100HERI \u2013 ROY\u0100 Tour 2027",
+   "source": "quartyard",
+   "title": "SH\u0100HERI \u2013 ROY\u0100 Tour 2027",
+   "venue": "Quartyard",
+   "date": "2027-02-27",
+   "show_time": "18:00",
+   "doors_time": null,
+   "age_limit": "All Ages",
+   "event_url": "https://quartyardsd.com/event/shaheri-roya-tour-2027/",
+   "ticket_url": "https://link.dice.fm/shaeri27qy",
+   "ticket_kind": "direct",
+   "band_url": "https://www.shaheri.com/",
+   "venue_url": "https://quartyardsd.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": [
+    {
+     "name": "SH\u0100HERI",
+     "official_url": "https://www.shaheri.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/e1052910-cae3-4b09-9bd5-1348ee89147e",
+     "verified_at": "2026-11-03",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "e1052910-cae3-4b09-9bd5-1348ee89147e",
+     "artist_name": "SH\u0100HERI",
+     "official_urls": [
+      "https://www.shaheri.com/"
+     ],
+     "search_term": "SH\u0100HERI",
      "match_method": "musicbrainz_highest_ranked_result"
     }
    ]
@@ -6034,13 +6151,13 @@
   {
    "id": "bellyup:15002063",
    "source": "bellyup",
-   "title": "Marian Hill - ACT TWO: THE TOUR",
+   "title": "Marian Hill - ACT TWO: THE TOUR w/ Terror Jr",
    "venue": "Belly Up",
    "date": "2027-03-02",
    "show_time": "20:00",
    "doors_time": "19:00",
    "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/15002063/marian-hill-act-two-the-tour",
+   "event_url": "https://bellyup.com/calendar/15002063/marian-hill-act-two-the-tour-w-terror-jr",
    "ticket_url": "https://www.ticketweb.com/event/marian-hill-act-belly-up-tickets/15002063?theme=bellyup&REFID=bupwebsite",
    "ticket_kind": "direct",
    "band_url": "https://www.marianhillmusic.com/",
@@ -6587,6 +6704,39 @@
    ]
   },
   {
+   "id": "bellyup:14416404",
+   "source": "bellyup",
+   "title": "Little Big",
+   "venue": "Music Box",
+   "date": "2027-03-15",
+   "show_time": "20:30",
+   "doors_time": "19:30",
+   "age_limit": null,
+   "event_url": "https://bellyup.com/calendar/14416404/little-big",
+   "ticket_url": "https://www.ticketweb.com/event/little-big-music-box-tickets/14416404?REFID=bupwebsite",
+   "ticket_kind": "direct",
+   "band_url": "http://littlebigtown.com/",
+   "venue_url": "https://www.musicboxsd.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": [
+    {
+     "name": "Little Big Town",
+     "official_url": "http://littlebigtown.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/76e78b58-f301-4975-8058-7f84d8360738",
+     "verified_at": "2026-11-03",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "76e78b58-f301-4975-8058-7f84d8360738",
+     "artist_name": "Little Big Town",
+     "official_urls": [
+      "http://littlebigtown.com/"
+     ],
+     "search_term": "Little Big",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
+  },
+  {
    "id": "bellyup:14369004",
    "source": "bellyup",
    "title": "Saxsquatch - The Conspiracy Theory Tour",
@@ -6719,6 +6869,23 @@
      "match_method": "musicbrainz_highest_ranked_result"
     }
    ]
+  },
+  {
+   "id": "bellyup:15050843",
+   "source": "bellyup",
+   "title": "Pato Banton, Common Sense",
+   "venue": "Belly Up",
+   "date": "2027-03-26",
+   "show_time": "21:00",
+   "doors_time": "20:30",
+   "age_limit": null,
+   "event_url": "https://bellyup.com/calendar/15050843/pato-banton-common-sense",
+   "ticket_url": "https://www.ticketweb.com/event/pato-banton-common-sense-belly-up-tickets/15050843?theme=bellyup&REFID=bupwebsite",
+   "ticket_kind": "direct",
+   "band_url": null,
+   "venue_url": "https://bellyup.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
   },
   {
    "id": "bellyup:14303254",
@@ -7157,6 +7324,24 @@
      "match_method": "musicbrainz_highest_ranked_result"
     }
    ]
+  },
+  {
+   "id": "radyshell:20270501:Grease Sing-A-Long",
+   "source": "radyshell",
+   "title": "Grease Sing-A-Long",
+   "venue": "The Rady Shell at Jacobs Park",
+   "date": "2027-05-01",
+   "show_time": "19:00",
+   "doors_time": null,
+   "age_limit": null,
+   "event_url": "https://www.theshell.org/performances/grease-sing-a-long/",
+   "ticket_url": null,
+   "ticket_kind": null,
+   "sold_out": false,
+   "band_url": null,
+   "venue_url": "https://theshell.org/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
   },
   {
    "id": "bellyup:14408464",

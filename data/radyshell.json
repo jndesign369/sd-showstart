@@ -1,7 +1,7 @@
 {
  "status": "ok",
- "last_run": "2026-11-02T14:52:31-08:00",
- "last_success": "2026-11-02T14:52:31-08:00",
+ "last_run": "2026-11-03T12:36:00-08:00",
+ "last_success": "2026-11-03T12:36:00-08:00",
  "shows": [
   {
    "id": "radyshell:20261103:Tom Jones: Come Gather Round",
@@ -168,6 +168,23 @@
    "event_url": "https://www.theshell.org/performances/yuri-lucero/",
    "ticket_url": "https://www.ticketmaster.com/event/0A00650C149FD8CB",
    "ticket_kind": "direct",
+   "sold_out": false,
+   "band_url": null,
+   "venue_url": "https://theshell.org/",
+   "timezone": "America/Los_Angeles"
+  },
+  {
+   "id": "radyshell:20270501:Grease Sing-A-Long",
+   "source": "radyshell",
+   "title": "Grease Sing-A-Long",
+   "venue": "The Rady Shell at Jacobs Park",
+   "date": "2027-05-01",
+   "show_time": "19:00",
+   "doors_time": null,
+   "age_limit": null,
+   "event_url": "https://www.theshell.org/performances/grease-sing-a-long/",
+   "ticket_url": null,
+   "ticket_kind": null,
    "sold_out": false,
    "band_url": null,
    "venue_url": "https://theshell.org/",
