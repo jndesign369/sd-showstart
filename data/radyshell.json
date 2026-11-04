@@ -1,25 +1,8 @@
 {
  "status": "ok",
- "last_run": "2026-11-03T12:36:00-08:00",
- "last_success": "2026-11-03T12:36:00-08:00",
+ "last_run": "2026-11-04T12:58:17-08:00",
+ "last_success": "2026-11-04T12:58:17-08:00",
  "shows": [
-  {
-   "id": "radyshell:20261103:Tom Jones: Come Gather Round",
-   "source": "radyshell",
-   "title": "Tom Jones: Come Gather Round",
-   "venue": "The Rady Shell at Jacobs Park",
-   "date": "2026-11-03",
-   "show_time": "20:00",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.theshell.org/performances/tom-jones/",
-   "ticket_url": "https://www.ticketmaster.com/event/0A0064B31A394E43",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://theshell.org/",
-   "timezone": "America/Los_Angeles"
-  },
   {
    "id": "radyshell:20261106:NONSTOP Presents: HUGEL \u201cMake ",
    "source": "radyshell",

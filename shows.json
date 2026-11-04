@@ -1,185 +1,49 @@
 {
- "generated_at": "2026-11-03T12:36:43-08:00",
+ "generated_at": "2026-11-04T12:58:42-08:00",
  "artist_enrichment": {
-  "generated_at": "2026-11-03T20:36:01+00:00",
-  "linked_artist_count": 141,
-  "review_count": 156,
-  "requests_made": 28
+  "generated_at": "2026-11-04T20:58:18+00:00",
+  "linked_artist_count": 142,
+  "review_count": 155,
+  "requests_made": 16
  },
  "sources": {
   "bellyup": {
    "status": "ok",
-   "last_success": "2026-11-03T12:35:42-08:00",
+   "last_success": "2026-11-04T12:57:58-08:00",
    "show_count": 196
   },
   "sodabar": {
    "status": "ok",
-   "last_success": "2026-11-03T12:35:48-08:00",
+   "last_success": "2026-11-04T12:58:05-08:00",
    "show_count": 22
   },
   "quartyard": {
    "status": "ok",
-   "last_success": "2026-11-03T12:35:51-08:00",
-   "show_count": 30
+   "last_success": "2026-11-04T12:58:09-08:00",
+   "show_count": 31
   },
   "observatory": {
    "status": "ok",
-   "last_success": "2026-11-03T12:35:53-08:00",
+   "last_success": "2026-11-04T12:58:10-08:00",
    "show_count": 25
   },
   "humphreys": {
    "status": "ok",
-   "last_success": "2026-11-03T12:35:56-08:00",
+   "last_success": "2026-11-04T12:58:14-08:00",
    "show_count": 5
   },
   "radyshell": {
    "status": "ok",
-   "last_success": "2026-11-03T12:36:00-08:00",
-   "show_count": 13
+   "last_success": "2026-11-04T12:58:17-08:00",
+   "show_count": 12
   },
   "soma": {
    "status": "ok",
-   "last_success": "2026-11-03T12:36:00-08:00",
-   "show_count": 32
+   "last_success": "2026-11-04T12:58:17-08:00",
+   "show_count": 34
   }
  },
  "shows": [
-  {
-   "id": "soma:20261103:Kurt Travis",
-   "source": "soma",
-   "title": "Kurt Travis",
-   "venue": "SOMA San Diego",
-   "date": "2026-11-03",
-   "show_time": null,
-   "doors_time": "18:00",
-   "age_limit": null,
-   "event_url": "https://www.somasandiego.com/event/kurt-travis-2/",
-   "ticket_url": "https://bit.ly/4ikz0Kl",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": null,
-   "venue_url": "https://www.somasandiego.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "sodabar:https://dice.fm/event/marci-the-booyah-kids-3rd-nov-soda-bar-san-diego-tickets",
-   "source": "sodabar",
-   "title": "Marci, The Booyah! Kids",
-   "venue": "Soda Bar",
-   "date": "2026-11-03",
-   "show_time": "19:00",
-   "doors_time": "19:00",
-   "age_limit": "21+",
-   "event_url": "https://dice.fm/event/marci-the-booyah-kids-3rd-nov-soda-bar-san-diego-tickets",
-   "ticket_url": "https://link.dice.fm/Ha7e5abc509d?pid=b5421562",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://sodabarmusic.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "bellyup:14935873",
-   "source": "bellyup",
-   "title": "Fitz and The Tantrums \u2013 Picking Up The Pieces In Its Entirety",
-   "venue": "Belly Up",
-   "date": "2026-11-03",
-   "show_time": "19:30",
-   "doors_time": "18:30",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14935873/fitz-and-the-tantrums-picking-up-the-pieces-in-its-entirety",
-   "ticket_url": "https://www.ticketweb.com/event/fitz-and-the-tantrums-belly-up-tickets/14935873?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": "http://www.fitzandthetantrums.com/",
-   "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": [
-    {
-     "name": "Fitz and the Tantrums",
-     "official_url": "http://www.fitzandthetantrums.com/",
-     "website_verified": true,
-     "evidence_url": "https://musicbrainz.org/artist/8560d4e8-05e2-4c20-980b-ad2db445dd5d",
-     "verified_at": "2026-10-31",
-     "verification_method": "musicbrainz_official_homepage",
-     "mbid": "8560d4e8-05e2-4c20-980b-ad2db445dd5d",
-     "artist_name": "Fitz and the Tantrums",
-     "official_urls": [
-      "http://www.fitzandthetantrums.com/"
-     ],
-     "search_term": "Fitz and The Tantrums",
-     "match_method": "musicbrainz_highest_ranked_result"
-    }
-   ]
-  },
-  {
-   "id": "bellyup:14221724",
-   "source": "bellyup",
-   "title": "Clay Street Unit, Poor Thing",
-   "venue": "Casbah",
-   "date": "2026-11-03",
-   "show_time": "20:00",
-   "doors_time": "19:30",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14221724/clay-street-unit-poor-thing",
-   "ticket_url": "https://www.ticketweb.com/event/clay-street-unit-poor-thing-casbah-tickets/14221724?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://www.casbahmusic.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "bellyup:14218764",
-   "source": "bellyup",
-   "title": "Yuki Chiba - First North America Headline Tour w/ DRAM",
-   "venue": "Music Box",
-   "date": "2026-11-03",
-   "show_time": "20:00",
-   "doors_time": "19:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14218764/yuki-chiba-first-north-america-headline-tour-w-dram",
-   "ticket_url": "https://www.ticketweb.com/event/yuki-chiba-first-music-box-tickets/14218764?REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://www.musicboxsd.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
-   "id": "radyshell:20261103:Tom Jones: Come Gather Round",
-   "source": "radyshell",
-   "title": "Tom Jones: Come Gather Round",
-   "venue": "The Rady Shell at Jacobs Park",
-   "date": "2026-11-03",
-   "show_time": "20:00",
-   "doors_time": null,
-   "age_limit": null,
-   "event_url": "https://www.theshell.org/performances/tom-jones/",
-   "ticket_url": "https://www.ticketmaster.com/event/0A0064B31A394E43",
-   "ticket_kind": "direct",
-   "sold_out": false,
-   "band_url": "http://www.tomjones.com/",
-   "venue_url": "https://theshell.org/",
-   "timezone": "America/Los_Angeles",
-   "artists": [
-    {
-     "name": "Tom Jones",
-     "official_url": "http://www.tomjones.com/",
-     "website_verified": true,
-     "evidence_url": "https://musicbrainz.org/artist/57c6f649-6cde-48a7-8114-2a200247601a",
-     "verified_at": "2026-11-01",
-     "verification_method": "musicbrainz_official_homepage",
-     "mbid": "57c6f649-6cde-48a7-8114-2a200247601a",
-     "artist_name": "Tom Jones",
-     "official_urls": [
-      "http://www.tomjones.com/"
-     ],
-     "search_term": "Tom Jones",
-     "match_method": "musicbrainz_highest_ranked_result"
-    }
-   ]
-  },
   {
    "id": "soma:20261104:bunii",
    "source": "soma",
@@ -1217,13 +1081,13 @@
   {
    "id": "bellyup:14902753",
    "source": "bellyup",
-   "title": "Jervis Campbell - Good Grief Tour w/ Allie Paige",
+   "title": "Jervis Campbell - Good Grief Tour w/ Lydi Lynn",
    "venue": "Music Box",
    "date": "2026-11-12",
    "show_time": "20:00",
    "doors_time": "19:00",
    "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14902753/jervis-campbell-good-grief-tour-w-allie-paige",
+   "event_url": "https://bellyup.com/calendar/14902753/jervis-campbell-good-grief-tour-w-lydi-lynn",
    "ticket_url": "https://www.ticketweb.com/event/jervis-campbell-good-music-box-tickets/14902753?REFID=bupwebsite",
    "ticket_kind": "direct",
    "band_url": "https://www.jerviscampbell.com/",
@@ -2130,23 +1994,6 @@
    "artists": []
   },
   {
-   "id": "bellyup:14974153",
-   "source": "bellyup",
-   "title": "Andrew McMahon and his piano featuring very special guest Ivory Layne",
-   "venue": "Belly Up",
-   "date": "2026-11-22",
-   "show_time": "19:00",
-   "doors_time": "18:00",
-   "age_limit": null,
-   "event_url": "https://bellyup.com/calendar/14974153/andrew-mcmahon-and-his-piano-featuring-very-special-guest-ivory-layne",
-   "ticket_url": "https://www.ticketweb.com/event/andrew-mcmahon-and-his-piano-belly-up-tickets/14974153?theme=bellyup&REFID=bupwebsite",
-   "ticket_kind": "direct",
-   "band_url": null,
-   "venue_url": "https://bellyup.com/",
-   "timezone": "America/Los_Angeles",
-   "artists": []
-  },
-  {
    "id": "bellyup:14204254",
    "source": "bellyup",
    "title": "The Wrecks - Finally : OUTSIDE Tour w/ Worry Club & Kid Sistr",
@@ -2260,6 +2107,23 @@
    "ticket_kind": "direct",
    "band_url": null,
    "venue_url": "https://bellyup.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
+  },
+  {
+   "id": "sodabar:https://dice.fm/event/elixir-minor-gems-viv-nubes-24th-nov-soda-bar-san-diego-tickets",
+   "source": "sodabar",
+   "title": "Elixir, Minor Gems, Viv\u00ed Nubes",
+   "venue": "Soda Bar",
+   "date": "2026-11-24",
+   "show_time": "19:00",
+   "doors_time": "19:00",
+   "age_limit": "21+",
+   "event_url": "https://dice.fm/event/elixir-minor-gems-viv-nubes-24th-nov-soda-bar-san-diego-tickets",
+   "ticket_url": "https://link.dice.fm/u9c0e509e725?pid=b5421562",
+   "ticket_kind": "direct",
+   "band_url": null,
+   "venue_url": "https://sodabarmusic.com/",
    "timezone": "America/Los_Angeles",
    "artists": []
   },
@@ -2971,6 +2835,23 @@
      "match_method": "musicbrainz_highest_ranked_result"
     }
    ]
+  },
+  {
+   "id": "quartyard:20261205:House for the Houseless",
+   "source": "quartyard",
+   "title": "House for the Houseless",
+   "venue": "Quartyard",
+   "date": "2026-12-05",
+   "show_time": "16:00",
+   "doors_time": null,
+   "age_limit": "21+",
+   "event_url": "https://quartyardsd.com/event/house-for-the-houseless/",
+   "ticket_url": "https://givebutter.com/c/H4H6",
+   "ticket_kind": "direct",
+   "band_url": null,
+   "venue_url": "https://quartyardsd.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
   },
   {
    "id": "soma:20261205:Eslabon Armado",
@@ -6888,6 +6769,24 @@
    "artists": []
   },
   {
+   "id": "soma:20270327:Liquid Stranger Presents: Elec",
+   "source": "soma",
+   "title": "Liquid Stranger Presents: Electric Helix",
+   "venue": "SOMA San Diego",
+   "date": "2027-03-27",
+   "show_time": "20:00",
+   "doors_time": null,
+   "age_limit": null,
+   "event_url": "https://www.somasandiego.com/event/liquid-stranger-presents-electric-helix/",
+   "ticket_url": "https://bit.ly/4egMqV7",
+   "ticket_kind": "direct",
+   "sold_out": false,
+   "band_url": null,
+   "venue_url": "https://www.somasandiego.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
+  },
+  {
    "id": "bellyup:14303254",
    "source": "bellyup",
    "title": "Chasing Abbey - North America Tour Spring 2027",
@@ -7002,6 +6901,39 @@
       "https://www.nbthieves.com/"
      ],
      "search_term": "Nothing But Thieves",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
+  },
+  {
+   "id": "bellyup:14411384",
+   "source": "bellyup",
+   "title": "The Palms - After The Fire Tour 2027",
+   "venue": "Belly Up",
+   "date": "2027-04-06",
+   "show_time": "20:00",
+   "doors_time": "19:00",
+   "age_limit": null,
+   "event_url": "https://bellyup.com/calendar/14411384/the-palms-after-the-fire-tour-2027",
+   "ticket_url": "https://www.ticketweb.com/event/the-palms-after-belly-up-tickets/14411384?theme=bellyup&REFID=bupwebsite",
+   "ticket_kind": "direct",
+   "band_url": "http://www.thepalmsmusic.com/",
+   "venue_url": "https://bellyup.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": [
+    {
+     "name": "The Palms",
+     "official_url": "http://www.thepalmsmusic.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/34c05add-ea89-4fdc-8f81-eae6ea08fc30",
+     "verified_at": "2026-11-04",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "34c05add-ea89-4fdc-8f81-eae6ea08fc30",
+     "artist_name": "The Palms",
+     "official_urls": [
+      "http://www.thepalmsmusic.com/"
+     ],
+     "search_term": "The Palms",
      "match_method": "musicbrainz_highest_ranked_result"
     }
    ]
@@ -7186,6 +7118,39 @@
       "https://www.meisemones.com/"
      ],
      "search_term": "Mei Semones",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
+  },
+  {
+   "id": "bellyup:14420034",
+   "source": "bellyup",
+   "title": "LSDREAM: BEE HERE NOW TOUR w/ Kill the Noise | Vincent Antone | F A Y R V H",
+   "venue": "The Sound",
+   "date": "2027-04-24",
+   "show_time": "21:00",
+   "doors_time": "20:00",
+   "age_limit": null,
+   "event_url": "https://bellyup.com/calendar/14420034/lsdream-bee-here-now-tour-w-kill-the-noise-vincent-antone-f-a-y-r-v-h",
+   "ticket_url": "https://www.ticketweb.com/event/lsdream-bee-here-now-tour-the-sound-tickets/14420034?REFID=bupwebsite",
+   "ticket_kind": "direct",
+   "band_url": "https://www.lsdreammusic.com/",
+   "venue_url": "https://thesoundsd.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": [
+    {
+     "name": "LSDREAM",
+     "official_url": "https://www.lsdreammusic.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/3e8f5ad6-fcd4-416c-997e-5d7f6aa99043",
+     "verified_at": "2026-11-04",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "3e8f5ad6-fcd4-416c-997e-5d7f6aa99043",
+     "artist_name": "LSDREAM",
+     "official_urls": [
+      "https://www.lsdreammusic.com/"
+     ],
+     "search_term": "LSDREAM",
      "match_method": "musicbrainz_highest_ranked_result"
     }
    ]
@@ -7460,6 +7425,40 @@
    "artists": []
   },
   {
+   "id": "soma:20270516:The Chats",
+   "source": "soma",
+   "title": "The Chats",
+   "venue": "SOMA San Diego",
+   "date": "2027-05-16",
+   "show_time": "18:30",
+   "doors_time": null,
+   "age_limit": null,
+   "event_url": "https://www.somasandiego.com/event/the-chats/",
+   "ticket_url": "https://bit.ly/4dS9M33",
+   "ticket_kind": "direct",
+   "sold_out": false,
+   "band_url": "https://www.thechatslovebeer.com/",
+   "venue_url": "https://www.somasandiego.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": [
+    {
+     "name": "The Chats",
+     "official_url": "https://www.thechatslovebeer.com/",
+     "website_verified": true,
+     "evidence_url": "https://musicbrainz.org/artist/aafe3816-2d68-4528-adda-d68514c940d4",
+     "verified_at": "2026-11-04",
+     "verification_method": "musicbrainz_official_homepage",
+     "mbid": "aafe3816-2d68-4528-adda-d68514c940d4",
+     "artist_name": "The Chats",
+     "official_urls": [
+      "https://www.thechatslovebeer.com/"
+     ],
+     "search_term": "The Chats",
+     "match_method": "musicbrainz_highest_ranked_result"
+    }
+   ]
+  },
+  {
    "id": "quartyard:20270521:CG5 Presents: The GAMER Tour",
    "source": "quartyard",
    "title": "CG5 Presents: The GAMER Tour",
@@ -7473,6 +7472,24 @@
    "ticket_kind": "direct",
    "band_url": null,
    "venue_url": "https://quartyardsd.com/",
+   "timezone": "America/Los_Angeles",
+   "artists": []
+  },
+  {
+   "id": "soma:20270522:Enjambre",
+   "source": "soma",
+   "title": "Enjambre",
+   "venue": "SOMA San Diego",
+   "date": "2027-05-22",
+   "show_time": "19:00",
+   "doors_time": null,
+   "age_limit": null,
+   "event_url": "https://www.somasandiego.com/event/enjambre/",
+   "ticket_url": "https://bit.ly/4iDNogo",
+   "ticket_kind": "direct",
+   "sold_out": false,
+   "band_url": null,
+   "venue_url": "https://www.somasandiego.com/",
    "timezone": "America/Los_Angeles",
    "artists": []
   },

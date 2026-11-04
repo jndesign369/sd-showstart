@@ -1,7 +1,7 @@
 {
  "status": "ok",
- "last_run": "2026-11-03T12:35:51-08:00",
- "last_success": "2026-11-03T12:35:51-08:00",
+ "last_run": "2026-11-04T12:58:09-08:00",
+ "last_success": "2026-11-04T12:58:09-08:00",
  "shows": [
   {
    "id": "quartyard:20261105:Ne'Ol Soul: 1 Year Anniversary",
@@ -206,6 +206,22 @@
    "age_limit": "21+",
    "event_url": "https://quartyardsd.com/event/fngrs-crssd-presents-j-worra-at-quartyard/",
    "ticket_url": "https://events.leapevents.com/event/fngrs-crssd-presents-jworra-quartyard-2026/pre-sale",
+   "ticket_kind": "direct",
+   "band_url": null,
+   "venue_url": "https://quartyardsd.com/",
+   "timezone": "America/Los_Angeles"
+  },
+  {
+   "id": "quartyard:20261205:House for the Houseless",
+   "source": "quartyard",
+   "title": "House for the Houseless",
+   "venue": "Quartyard",
+   "date": "2026-12-05",
+   "show_time": "16:00",
+   "doors_time": null,
+   "age_limit": "21+",
+   "event_url": "https://quartyardsd.com/event/house-for-the-houseless/",
+   "ticket_url": "https://givebutter.com/c/H4H6",
    "ticket_kind": "direct",
    "band_url": null,
    "venue_url": "https://quartyardsd.com/",

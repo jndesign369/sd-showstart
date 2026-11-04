@@ -95758,6 +95758,1646 @@
           "type": null
         }
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Elixir, Minor Gems, Viv\\u00ed Nubes\\\"\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "created": "2026-11-04T20:58:19.330Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Enjambre\\\"\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "created": "2026-11-04T20:58:19.725Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "acc7cb5a-8f3a-4f61-b199-a62d45374dec",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Enjambre",
+            "sort-name": "Enjambre",
+            "country": "MX",
+            "area": {
+              "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Mexico",
+              "sort-name": "Mexico",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "7401e506-a9a8-439d-a548-27eebc225244",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Fresnillo",
+              "sort-name": "Fresnillo",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000469894735"
+            ],
+            "life-span": {
+              "begin": "2008",
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/acc7cb5a-8f3a-4f61-b199-a62d45374dec?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "end-area": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "country": "MX",
+        "life-span": {
+          "ended": false,
+          "end": null,
+          "begin": "2008"
+        },
+        "id": "acc7cb5a-8f3a-4f61-b199-a62d45374dec",
+        "gender-id": null,
+        "area": {
+          "iso-3166-1-codes": [
+            "MX"
+          ],
+          "sort-name": "Mexico",
+          "name": "Mexico",
+          "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+          "disambiguation": "",
+          "type": null,
+          "type-id": null
+        },
+        "begin-area": {
+          "type-id": null,
+          "disambiguation": "",
+          "type": null,
+          "id": "7401e506-a9a8-439d-a548-27eebc225244",
+          "name": "Fresnillo",
+          "sort-name": "Fresnillo"
+        },
+        "gender": null,
+        "ipis": [],
+        "disambiguation": "",
+        "isnis": [
+          "0000000469894735"
+        ],
+        "name": "Enjambre",
+        "sort-name": "Enjambre",
+        "relations": [
+          {
+            "type": "allmusic",
+            "attributes": [],
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "url": {
+              "id": "bff2e462-06a0-4d71-b1be-c0fd95eb9ff9",
+              "resource": "https://www.allmusic.com/artist/mn0000935589"
+            },
+            "direction": "forward",
+            "attribute-values": {},
+            "target-credit": "",
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {}
+          },
+          {
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": "",
+            "ended": false,
+            "end": null,
+            "url": {
+              "resource": "https://www.discogs.com/artist/2098202",
+              "id": "6b885aea-47dd-464c-9ef6-b8f2fd98ff01"
+            },
+            "attribute-values": {},
+            "target-credit": "",
+            "direction": "forward",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attributes": [],
+            "type": "discogs"
+          },
+          {
+            "source-credit": "",
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {},
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attributes": [],
+            "url": {
+              "id": "eef002e2-b2e0-43bf-8832-16cdd641573a",
+              "resource": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+            },
+            "attribute-values": {},
+            "target-credit": "",
+            "direction": "forward",
+            "ended": false,
+            "end": null
+          },
+          {
+            "source-credit": "",
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {},
+            "type": "free streaming",
+            "attributes": [],
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.deezer.com/artist/427303",
+              "id": "b3ced258-6532-431a-b5a4-9193a74762c1"
+            },
+            "ended": false,
+            "end": null
+          },
+          {
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "type": "last.fm",
+            "ended": false,
+            "end": null,
+            "url": {
+              "resource": "https://www.last.fm/music/Enjambre",
+              "id": "eb9649b9-75cd-4eae-b2ba-af0fd2645d9a"
+            },
+            "attribute-values": {},
+            "target-credit": "",
+            "direction": "forward"
+          },
+          {
+            "attributes": [],
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "type": "other databases",
+            "end": null,
+            "ended": false,
+            "direction": "forward",
+            "target-credit": "",
+            "attribute-values": {},
+            "url": {
+              "id": "f45a454e-5d81-415a-87a4-a24a7fc96c56",
+              "resource": "https://rateyourmusic.com/artist/enjambre"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-ids": {},
+            "begin": null
+          },
+          {
+            "direction": "forward",
+            "attribute-values": {},
+            "target-credit": "",
+            "url": {
+              "id": "362816ed-4f08-4605-b69c-8b86e766f441",
+              "resource": "https://www.facebook.com/enjambre"
+            },
+            "end": null,
+            "ended": false,
+            "type": "social network",
+            "attributes": [],
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "begin": null,
+            "attribute-ids": {},
+            "source-credit": "",
+            "target-type": "url"
+          },
+          {
+            "attributes": [],
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "type": "streaming",
+            "ended": false,
+            "end": null,
+            "target-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "url": {
+              "resource": "https://tidal.com/artist/3824296",
+              "id": "1b573ac9-8d83-4f1f-8ce1-d6e44c9c4fa7"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-ids": {},
+            "begin": null
+          },
+          {
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attributes": [],
+            "type": "wikidata",
+            "ended": false,
+            "end": null,
+            "url": {
+              "resource": "https://www.wikidata.org/wiki/Q16492702",
+              "id": "16d2a69c-acf5-4a04-8adf-760e64a5d297"
+            },
+            "target-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-ids": {},
+            "begin": null
+          }
+        ]
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"House for the Houseless\\\"\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "created": "2026-11-04T20:58:22.949Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Jervis Campbell - Good Grief Tour w/ Lydi Lynn\\\"\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "created": "2026-11-04T20:58:24.447Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Liquid Stranger Presents: Electric Helix\\\"\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "created": "2026-11-04T20:58:27.446Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Electric Helix\\\"\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "created": "2026-11-04T20:58:27.683Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"LSDREAM: BEE HERE NOW TOUR w/ Kill the Noise | Vincent Antone | F A Y R V H\\\"\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "created": "2026-11-04T20:58:30.737Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"LSDREAM\\\"\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "created": "2026-11-04T20:58:30.977Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "3e8f5ad6-fcd4-416c-997e-5d7f6aa99043",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "LSDREAM",
+            "sort-name": "LSDREAM",
+            "gender": "male",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/3e8f5ad6-fcd4-416c-997e-5d7f6aa99043?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "begin-area": null,
+        "life-span": {
+          "end": null,
+          "begin": null,
+          "ended": false
+        },
+        "id": "3e8f5ad6-fcd4-416c-997e-5d7f6aa99043",
+        "name": "LSDREAM",
+        "relations": [
+          {
+            "target-type": "url",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "url": {
+              "resource": "https://www.discogs.com/artist/7157414",
+              "id": "d8afe4ce-1443-4d99-9322-888bda9bfab7"
+            },
+            "direction": "forward",
+            "source-credit": "",
+            "ended": false,
+            "begin": null,
+            "type": "discogs",
+            "target-credit": "",
+            "attributes": [],
+            "end": null
+          },
+          {
+            "direction": "forward",
+            "source-credit": "",
+            "ended": false,
+            "begin": null,
+            "type": "free streaming",
+            "target-credit": "",
+            "end": null,
+            "attributes": [],
+            "target-type": "url",
+            "attribute-ids": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "url": {
+              "resource": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND",
+              "id": "328aba1b-0a34-4cdc-9673-9b6774294cd8"
+            }
+          },
+          {
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "target-type": "url",
+            "attribute-ids": {},
+            "url": {
+              "resource": "https://www.deezer.com/artist/5843066",
+              "id": "8fc1cf0f-89cd-4083-b746-8a3acacceaa5"
+            },
+            "ended": false,
+            "begin": null,
+            "direction": "forward",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null,
+            "attributes": [],
+            "type": "free streaming"
+          },
+          {
+            "begin": null,
+            "ended": false,
+            "source-credit": "",
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "target-credit": "",
+            "type": "official homepage",
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "target-type": "url",
+            "url": {
+              "id": "8e8a2c7d-5e40-476c-a978-a7021de4c526",
+              "resource": "https://www.lsdreammusic.com/"
+            }
+          },
+          {
+            "url": {
+              "id": "29bb8d91-34dc-4862-b9f1-fede44f1a5ca",
+              "resource": "https://music.apple.com/us/artist/1380448832"
+            },
+            "target-type": "url",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "type": "purchase for download",
+            "target-credit": "",
+            "attributes": [],
+            "end": null,
+            "direction": "forward",
+            "source-credit": "",
+            "ended": false,
+            "begin": null
+          },
+          {
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "target-type": "url",
+            "attribute-ids": {},
+            "url": {
+              "id": "5de0c4f1-a7d0-47ee-8ef2-e08ab7417f10",
+              "resource": "https://open.qobuz.com/artist/7974198"
+            },
+            "ended": false,
+            "begin": null,
+            "direction": "forward",
+            "source-credit": "",
+            "target-credit": "",
+            "attributes": [],
+            "end": null,
+            "type": "purchase for download"
+          },
+          {
+            "attribute-ids": {},
+            "target-type": "url",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "url": {
+              "resource": "https://www.beatport.com/artist/lsdream/683154",
+              "id": "960dadad-e1c2-4521-b397-0965b89687df"
+            },
+            "source-credit": "",
+            "direction": "forward",
+            "begin": null,
+            "ended": false,
+            "type": "purchase for download",
+            "attributes": [],
+            "end": null,
+            "target-credit": ""
+          },
+          {
+            "type": "social network",
+            "end": null,
+            "attributes": [],
+            "target-credit": "",
+            "source-credit": "",
+            "direction": "forward",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "id": "89c8608d-bc9a-402d-b276-2e155bcd60fa",
+              "resource": "https://twitter.com/LSDREAM"
+            },
+            "attribute-ids": {},
+            "target-type": "url",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+          },
+          {
+            "url": {
+              "id": "5a25c608-1677-4e9c-a144-190c5755ecab",
+              "resource": "https://www.facebook.com/LSDREAMMUSIC"
+            },
+            "attribute-ids": {},
+            "target-type": "url",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "type": "social network",
+            "end": null,
+            "attributes": [],
+            "target-credit": "",
+            "source-credit": "",
+            "direction": "forward",
+            "begin": null,
+            "ended": false
+          },
+          {
+            "url": {
+              "id": "e1b74904-1e82-48ee-be9c-425e9a1415b1",
+              "resource": "https://www.instagram.com/lsdream/"
+            },
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "target-type": "url",
+            "attribute-ids": {},
+            "target-credit": "",
+            "end": null,
+            "attributes": [],
+            "type": "social network",
+            "ended": false,
+            "begin": null,
+            "direction": "forward",
+            "source-credit": ""
+          },
+          {
+            "direction": "forward",
+            "source-credit": "",
+            "ended": true,
+            "begin": null,
+            "type": "social network",
+            "target-credit": "",
+            "end": null,
+            "attributes": [],
+            "target-type": "url",
+            "attribute-ids": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "url": {
+              "id": "426bc1ed-406c-4938-8d77-bedf57ae7fdf",
+              "resource": "https://twitter.com/LSDREAM_MUSIC"
+            }
+          },
+          {
+            "url": {
+              "id": "3bfb2958-d015-40df-9a22-41a9cfc228c4",
+              "resource": "https://www.instagram.com/LSDREAM_MUSIC/"
+            },
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "target-type": "url",
+            "attributes": [],
+            "end": null,
+            "target-credit": "",
+            "type": "social network",
+            "begin": null,
+            "ended": true,
+            "source-credit": "",
+            "direction": "forward"
+          },
+          {
+            "attribute-values": {},
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "target-type": "url",
+            "attribute-ids": {},
+            "url": {
+              "resource": "https://soundcloud.com/lsdream",
+              "id": "945dc34b-fffc-4b70-a806-7b3939c110f5"
+            },
+            "ended": false,
+            "begin": null,
+            "direction": "forward",
+            "source-credit": "",
+            "target-credit": "",
+            "attributes": [],
+            "end": null,
+            "type": "soundcloud"
+          },
+          {
+            "begin": null,
+            "ended": true,
+            "source-credit": "",
+            "direction": "forward",
+            "end": null,
+            "attributes": [],
+            "target-credit": "",
+            "type": "soundcloud",
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "target-type": "url",
+            "url": {
+              "id": "e7956555-1b78-422e-9a4a-1442e8ab555b",
+              "resource": "https://soundcloud.com/lsdream_music"
+            }
+          },
+          {
+            "direction": "forward",
+            "source-credit": "",
+            "ended": false,
+            "begin": null,
+            "type": "streaming",
+            "target-credit": "",
+            "end": null,
+            "attributes": [],
+            "target-type": "url",
+            "attribute-ids": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "url": {
+              "id": "a8408997-08df-42bc-ada7-27edd47a2b08",
+              "resource": "https://music.apple.com/gb/artist/1380448832"
+            }
+          },
+          {
+            "source-credit": "",
+            "direction": "forward",
+            "begin": null,
+            "ended": false,
+            "type": "streaming",
+            "attributes": [],
+            "end": null,
+            "target-credit": "",
+            "attribute-ids": {},
+            "target-type": "url",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "url": {
+              "id": "29bb8d91-34dc-4862-b9f1-fede44f1a5ca",
+              "resource": "https://music.apple.com/us/artist/1380448832"
+            }
+          },
+          {
+            "url": {
+              "resource": "https://open.qobuz.com/artist/7974198",
+              "id": "5de0c4f1-a7d0-47ee-8ef2-e08ab7417f10"
+            },
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-ids": {},
+            "target-type": "url",
+            "end": null,
+            "attributes": [],
+            "target-credit": "",
+            "type": "streaming",
+            "begin": null,
+            "ended": false,
+            "source-credit": "",
+            "direction": "forward"
+          },
+          {
+            "url": {
+              "resource": "https://tidal.com/artist/5619681",
+              "id": "1380dac4-9189-4739-92d0-eb13e69ca301"
+            },
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-ids": {},
+            "target-type": "url",
+            "end": null,
+            "attributes": [],
+            "target-credit": "",
+            "type": "streaming",
+            "begin": null,
+            "ended": false,
+            "source-credit": "",
+            "direction": "forward"
+          },
+          {
+            "target-type": "url",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "url": {
+              "id": "75a4619c-476f-4cc0-9764-3e678b017ae4",
+              "resource": "https://www.youtube.com/channel/UCopSYHSUFCc6bZknT4rtZwA"
+            },
+            "direction": "forward",
+            "source-credit": "",
+            "ended": false,
+            "begin": null,
+            "type": "youtube",
+            "target-credit": "",
+            "end": null,
+            "attributes": []
+          },
+          {
+            "url": {
+              "resource": "https://music.youtube.com/channel/UCxCAGJuZYTuC0MOGVeCM9yQ",
+              "id": "438ba276-b260-424d-a392-bff9dc799796"
+            },
+            "attribute-values": {},
+            "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+            "target-type": "url",
+            "attribute-ids": {},
+            "target-credit": "",
+            "end": null,
+            "attributes": [],
+            "type": "youtube music",
+            "ended": false,
+            "begin": null,
+            "direction": "forward",
+            "source-credit": ""
+          }
+        ],
+        "country": null,
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "sort-name": "LSDREAM",
+        "type": "Person",
+        "area": null,
+        "ipis": [],
+        "gender": "Male",
+        "isnis": [],
+        "end-area": null
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"The Chats\\\"\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "created": "2026-11-04T20:58:36.329Z",
+        "count": 2,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "aafe3816-2d68-4528-adda-d68514c940d4",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "The Chats",
+            "sort-name": "Chats, The",
+            "country": "AU",
+            "area": {
+              "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Australia",
+              "sort-name": "Australia",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "c1e9cc93-f223-470d-b9e1-653709de68c3",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "Queensland",
+              "sort-name": "Queensland",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Australian shed/punk rock",
+            "isnis": [
+              "0000000469749853"
+            ],
+            "life-span": {
+              "begin": "2016",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 3,
+                "name": "punk rock"
+              },
+              {
+                "count": 1,
+                "name": "hard rock"
+              },
+              {
+                "count": 1,
+                "name": "garage punk"
+              },
+              {
+                "count": 1,
+                "name": "hardcore punk"
+              },
+              {
+                "count": 1,
+                "name": "australia"
+              },
+              {
+                "count": 1,
+                "name": "shed rock"
+              }
+            ]
+          },
+          {
+            "id": "e192d739-5318-459f-96a5-2d1065c2ac13",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 88,
+            "name": "The Chats",
+            "sort-name": "Chats, The",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "d2918f1a-c51e-4a4a-ad7f-cdd88877b25f",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "Florida",
+              "sort-name": "Florida",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "80s punk band from Florida",
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "punk"
+              },
+              {
+                "count": 1,
+                "name": "new wave"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/aafe3816-2d68-4528-adda-d68514c940d4?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "end-area": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "country": "AU",
+        "id": "aafe3816-2d68-4528-adda-d68514c940d4",
+        "life-span": {
+          "begin": "2016",
+          "end": null,
+          "ended": false
+        },
+        "gender-id": null,
+        "area": {
+          "iso-3166-1-codes": [
+            "AU"
+          ],
+          "name": "Australia",
+          "sort-name": "Australia",
+          "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+          "disambiguation": "",
+          "type": null,
+          "type-id": null
+        },
+        "begin-area": {
+          "name": "Queensland",
+          "sort-name": "Queensland",
+          "iso-3166-2-codes": [
+            "AU-QLD"
+          ],
+          "type-id": null,
+          "id": "c1e9cc93-f223-470d-b9e1-653709de68c3",
+          "type": null,
+          "disambiguation": ""
+        },
+        "gender": null,
+        "disambiguation": "Australian shed/punk rock",
+        "ipis": [],
+        "isnis": [
+          "0000000469749853"
+        ],
+        "sort-name": "Chats, The",
+        "name": "The Chats",
+        "relations": [
+          {
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "url": {
+              "resource": "https://www.allmusic.com/artist/mn0003735675",
+              "id": "5dc5fbbe-50af-425f-bbb8-33663d328d2e"
+            },
+            "direction": "forward",
+            "attribute-values": {},
+            "target-credit": "",
+            "attributes": [],
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "type": "allmusic"
+          },
+          {
+            "attributes": [],
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "type": "bandcamp",
+            "ended": false,
+            "end": null,
+            "attribute-values": {},
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "id": "c28e5719-6d65-4118-89b3-aa7edf6d028b",
+              "resource": "https://thechatslovebeer.bandcamp.com/"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-ids": {},
+            "begin": null
+          },
+          {
+            "source-credit": "",
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {},
+            "type": "bandsintown",
+            "attributes": [],
+            "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+            "url": {
+              "resource": "https://www.bandsintown.com/a/388092",
+              "id": "b2e95f7a-a231-48b5-88a7-d23f69b44fc3"
+            },
+            "attribute-values": {},
+            "target-credit": "",
+            "direction": "forward",
+            "ended": false,
+            "end": null
+          },
+          {
+            "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+            "attributes": [],
+            "type": "discography page",
+            "ended": false,
+            "end": null,
+            "url": {
+              "resource": "https://www.pirate-punk.net/groupe-musique-punk/?band=The%20Chats",
+              "id": "ead56303-ac9d-4e54-ab05-40012325a6af"
+            },
+            "attribute-values": {},
+            "target-credit": "",
+            "direction": "forward",
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-ids": {},
+            "begin": null
+          },
+          {
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": "",
+            "ended": false,
+            "end": null,
+            "target-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.discogs.com/artist/6195023",
+              "id": "4ec100b4-4a13-4563-9a09-56ee67b98dda"
+            },
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attributes": [],
+            "type": "discogs"
+          },
+          {
+            "begin": null,
+            "attribute-ids": {},
+            "source-credit": "",
+            "target-type": "url",
+            "attribute-values": {},
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "resource": "https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1",
+              "id": "bd39cc05-f481-4fc9-8b27-be12fe49c854"
+            },
+            "ended": false,
+            "end": null,
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attributes": []
+          },
+          {
+            "end": null,
+            "ended": false,
+            "url": {
+              "id": "21d1be81-b299-461f-8667-b2fe74616242",
+              "resource": "https://www.deezer.com/artist/13700325"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "attribute-values": {},
+            "attributes": [],
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "type": "free streaming",
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": ""
+          },
+          {
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "type-id": "1f171391-1f98-4f45-b191-038ec3b12395",
+            "type": "interview",
+            "end": null,
+            "ended": false,
+            "url": {
+              "id": "199adab3-7360-4d48-91a8-e886f37b39bc",
+              "resource": "https://www.behindthesceneofficial.com/single-post/2017/12/11/THE-CHATS-BEHIND-THE-BAND"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "attribute-values": {}
+          },
+          {
+            "ended": false,
+            "end": null,
+            "url": {
+              "resource": "https://www.last.fm/music/The+Chats",
+              "id": "4a2523f6-491d-4c93-8529-b6a587a22140"
+            },
+            "target-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "attributes": [],
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "type": "last.fm",
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": ""
+          },
+          {
+            "begin": null,
+            "attribute-ids": {},
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "id": "bfcd3a3a-5994-4b4b-9095-ae9bf5affb30",
+              "resource": "https://genius.com/artists/The-chats"
+            },
+            "target-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "ended": false,
+            "end": null,
+            "type": "lyrics",
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "attributes": []
+          },
+          {
+            "begin": null,
+            "attribute-ids": {},
+            "source-credit": "",
+            "target-type": "url",
+            "direction": "forward",
+            "target-credit": "",
+            "attribute-values": {},
+            "url": {
+              "resource": "https://www.thechatslovebeer.com/",
+              "id": "40e8abfe-64a0-47cc-b167-cdde40cb9aef"
+            },
+            "end": null,
+            "ended": false,
+            "type": "official homepage",
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "attributes": []
+          },
+          {
+            "ended": false,
+            "end": null,
+            "attribute-values": {},
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "resource": "https://rateyourmusic.com/artist/the-chats",
+              "id": "9baf9c0b-23a6-4422-b018-ca98ea5b463a"
+            },
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attributes": [],
+            "type": "other databases",
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": ""
+          },
+          {
+            "end": null,
+            "ended": false,
+            "direction": "forward",
+            "attribute-values": {},
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.abc.net.au/triplejunearthed/artist/chats-0",
+              "id": "845fb7ae-a5b4-4919-b3c1-387fc2b8c7c2"
+            },
+            "attributes": [],
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "type": "other databases",
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": ""
+          },
+          {
+            "type": "purchase for download",
+            "attributes": [],
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "url": {
+              "id": "ae02a2f7-1ec5-487d-9e9f-5736f8ff059f",
+              "resource": "https://play.google.com/store/music/artist?id=Age4tho6lccutyeotz42nwintwm"
+            },
+            "direction": "forward",
+            "attribute-values": {},
+            "target-credit": "",
+            "end": "2020-10-12",
+            "ended": true,
+            "source-credit": "",
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {}
+          },
+          {
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": "",
+            "ended": false,
+            "end": null,
+            "attribute-values": {},
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "id": "69368b26-5ad7-48d2-9738-f302baa58462",
+              "resource": "https://itunes.apple.com/au/artist/id1321961023"
+            },
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attributes": [],
+            "type": "purchase for download"
+          },
+          {
+            "source-credit": "",
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {},
+            "type": "setlistfm",
+            "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+            "attributes": [],
+            "direction": "forward",
+            "attribute-values": {},
+            "target-credit": "",
+            "url": {
+              "id": "84dadffb-e614-492e-94ff-3d317bfb9623",
+              "resource": "https://www.setlist.fm/setlists/the-chats-53cadf3d.html"
+            },
+            "end": null,
+            "ended": false
+          },
+          {
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "type": "social network",
+            "end": null,
+            "ended": false,
+            "direction": "forward",
+            "target-credit": "",
+            "attribute-values": {},
+            "url": {
+              "resource": "https://www.facebook.com/thechatsband",
+              "id": "abf73912-96b7-4a52-993a-800eb40639a2"
+            }
+          },
+          {
+            "begin": null,
+            "attribute-ids": {},
+            "source-credit": "",
+            "target-type": "url",
+            "direction": "forward",
+            "target-credit": "",
+            "attribute-values": {},
+            "url": {
+              "id": "dad32dca-0846-4820-9778-9ceeb89f7e69",
+              "resource": "https://www.instagram.com/thechatslovebeer/"
+            },
+            "end": null,
+            "ended": false,
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attributes": []
+          },
+          {
+            "type": "songkick",
+            "attributes": [],
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "url": {
+              "id": "7733f0bf-890f-4b7b-aab8-cceccaf028a4",
+              "resource": "https://www.songkick.com/artists/9145159"
+            },
+            "target-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "ended": false,
+            "end": null,
+            "source-credit": "",
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {}
+          },
+          {
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "attributes": [],
+            "type": "soundcloud",
+            "end": null,
+            "ended": false,
+            "direction": "forward",
+            "attribute-values": {},
+            "target-credit": "",
+            "url": {
+              "id": "8a979d70-f377-4ead-b20a-ccc99c7fa20a",
+              "resource": "https://soundcloud.com/thechats"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-ids": {},
+            "begin": null
+          },
+          {
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "direction": "forward",
+            "attribute-values": {},
+            "target-credit": "",
+            "url": {
+              "id": "c982be1c-e30b-4656-bbce-877ec05a8e2e",
+              "resource": "https://tidal.com/artist/9339344"
+            },
+            "attributes": [],
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "type": "streaming"
+          },
+          {
+            "attributes": [],
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "type": "wikidata",
+            "end": null,
+            "ended": false,
+            "direction": "forward",
+            "attribute-values": {},
+            "target-credit": "",
+            "url": {
+              "id": "ab5957a2-3c5d-44f7-bb28-bf11ccabe4e0",
+              "resource": "https://www.wikidata.org/wiki/Q50825678"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-ids": {},
+            "begin": null
+          },
+          {
+            "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb",
+            "attributes": [],
+            "type": "wikipedia",
+            "end": null,
+            "ended": false,
+            "direction": "forward",
+            "attribute-values": {},
+            "target-credit": "",
+            "url": {
+              "resource": "https://en.wikipedia.org/wiki/The_Chats",
+              "id": "b6296090-d909-426a-bbfb-082e8c4c84e0"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-ids": {},
+            "begin": null
+          },
+          {
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "type": "youtube",
+            "ended": false,
+            "end": null,
+            "target-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "url": {
+              "id": "3ecb8775-92b3-4509-96fc-23e3e80aa1a2",
+              "resource": "https://www.youtube.com/channel/UCgnWTNa4bOAC5MEKiSQV2Wg"
+            }
+          }
+        ]
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"The Palms - After The Fire Tour 2027\\\"\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "created": "2026-11-04T20:58:39.586Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"The Palms\\\"\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "created": "2026-11-04T20:58:41.931Z",
+        "count": 6,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "34c05add-ea89-4fdc-8f81-eae6ea08fc30",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "The Palms",
+            "sort-name": "The Palms",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Los Angeles",
+              "sort-name": "Los Angeles",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "US psychedelic pop band",
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "folk pop"
+              },
+              {
+                "count": 1,
+                "name": "psychedelic pop"
+              }
+            ]
+          },
+          {
+            "id": "aa420b13-b398-4c71-9434-18d2730c6f7d",
+            "score": 92,
+            "name": "The Palms",
+            "sort-name": "Palms, The",
+            "disambiguation": "House, Party In Eivissa",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "75903bfe-bf08-4614-b948-b982c04dacb8",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 92,
+            "name": "The Palms",
+            "sort-name": "Palms, The",
+            "country": "FI",
+            "area": {
+              "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Finland",
+              "sort-name": "Finland",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Finnish; appears on \"Tulevaisuuden lapset\"",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "06743a8f-efef-477a-b08f-2b9bd3f7e183",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 92,
+            "name": "The Palms",
+            "sort-name": "The Palms",
+            "country": "NZ",
+            "area": {
+              "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "New Zealand",
+              "sort-name": "New Zealand",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "New Zealand band c. 2010s",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "0000d7df-04bd-4292-8a0e-633cf7575984",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 92,
+            "name": "The Palms",
+            "sort-name": "Palms, The",
+            "disambiguation": "50s US vocal group",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "0103e065-f129-4513-b7a0-8d7d3163d805",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 77,
+            "name": "Sydney Eloise and the Palms",
+            "sort-name": "Eloise, Sydney and the Palms",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/34c05add-ea89-4fdc-8f81-eae6ea08fc30?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-04T20:58:18+00:00",
+      "data": {
+        "sort-name": "The Palms",
+        "name": "The Palms",
+        "relations": [
+          {
+            "attributes": [],
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "type": "free streaming",
+            "ended": false,
+            "end": null,
+            "target-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "url": {
+              "resource": "https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X",
+              "id": "d2868b3e-36ef-4800-9b21-bcf3e397187e"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-ids": {},
+            "begin": null
+          },
+          {
+            "begin": null,
+            "attribute-ids": {},
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "id": "dafc5947-18b7-4c18-ba84-4b1eb7db2478",
+              "resource": "http://www.thepalmsmusic.com/"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "ended": false,
+            "type": "official homepage",
+            "attributes": [],
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15"
+          },
+          {
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-ids": {},
+            "begin": null,
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attributes": [],
+            "type": "social network",
+            "end": null,
+            "ended": false,
+            "direction": "forward",
+            "target-credit": "",
+            "attribute-values": {},
+            "url": {
+              "resource": "https://twitter.com/thepalmsmusic",
+              "id": "f99b304c-35b7-4ca5-973f-426a7d990b3d"
+            }
+          },
+          {
+            "type": "social network",
+            "attributes": [],
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "url": {
+              "id": "9930b0a6-db0b-46f8-8bd5-f2ff0b347e6e",
+              "resource": "https://www.facebook.com/ThePalmsMusicLA"
+            },
+            "attribute-values": {},
+            "target-credit": "",
+            "direction": "forward",
+            "ended": false,
+            "end": null,
+            "source-credit": "",
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {}
+          },
+          {
+            "begin": null,
+            "attribute-ids": {},
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "id": "b4cd5707-c4e2-456d-9a42-ac8275a61008",
+              "resource": "https://www.instagram.com/thepalmsmusic/"
+            },
+            "attribute-values": {},
+            "target-credit": "",
+            "direction": "forward",
+            "ended": false,
+            "end": null,
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attributes": []
+          },
+          {
+            "ended": false,
+            "end": null,
+            "attribute-values": {},
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "id": "56b31fa8-08a2-43c5-aa72-01c9b1714d9f",
+              "resource": "https://soundcloud.com/thepalmsmusic"
+            },
+            "attributes": [],
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "type": "soundcloud",
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": ""
+          },
+          {
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": "",
+            "ended": false,
+            "end": null,
+            "attribute-values": {},
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "resource": "https://tidal.com/artist/3908319",
+              "id": "5c64f6b4-e3e0-4e11-9569-9eb650a36790"
+            },
+            "attributes": [],
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "type": "streaming"
+          },
+          {
+            "end": null,
+            "ended": false,
+            "url": {
+              "id": "dc92497c-978c-4093-98c7-0fa0b6103bfe",
+              "resource": "https://www.youtube.com/channel/UCSZigtTkGXQbh5PpZrDb8Dw"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "attribute-values": {},
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "attributes": [],
+            "type": "youtube",
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": ""
+          }
+        ],
+        "gender": null,
+        "begin-area": {
+          "name": "Los Angeles",
+          "sort-name": "Los Angeles",
+          "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+          "type": null,
+          "disambiguation": "",
+          "type-id": null
+        },
+        "isnis": [],
+        "ipis": [],
+        "disambiguation": "US psychedelic pop band",
+        "gender-id": null,
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "disambiguation": "",
+          "type": null,
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "sort-name": "United States",
+          "name": "United States"
+        },
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "end-area": null,
+        "life-span": {
+          "begin": null,
+          "ended": false,
+          "end": null
+        },
+        "id": "34c05add-ea89-4fdc-8f81-eae6ea08fc30",
+        "country": "US",
+        "type": "Group"
+      }
     }
   }
 }
