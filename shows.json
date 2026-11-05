@@ -1,155 +1,11 @@
 {
- "generated_at": "2026-11-02T21:07:14-08:00",
+ "generated_at": "2026-11-04T19:15:39-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 2, 2026"
+  "updated": "November 4, 2026"
  },
  "shows": [
-  {
-   "id": "house-of-blues:2026-11-02:the-haunt",
-   "date": "2026-11-02",
-   "venue": "House of Blues",
-   "city": "San Diego",
-   "performers": [
-    "The Haunt",
-    "8 Graves",
-    "Platinum Moon"
-   ],
-   "artists": [
-    {
-     "name": "The Haunt",
-     "mbid": "1fb05a49-58e6-4fa0-94ea-3f886be9e396",
-     "official_url": "https://thehauntband.com/"
-    },
-    {
-     "name": "8 Graves",
-     "mbid": "3ce8d3a9-4d23-47bf-af44-cf976c2a2aa5"
-    },
-    {
-     "name": "Platinum Moon",
-     "mbid": "4a73f239-0257-45d4-8074-4c3310e67559",
-     "official_url": "https://www.platinummoonband.com/"
-    }
-   ],
-   "venue_url": "https://www.houseofblues.com/sandiego"
-  },
-  {
-   "id": "the-observatory-north-park:2026-11-02:medium-build",
-   "date": "2026-11-02",
-   "venue": "The Observatory North Park",
-   "city": "San Diego",
-   "performers": [
-    "Medium Build",
-    "The Scratch"
-   ],
-   "artists": [
-    {
-     "name": "Medium Build",
-     "mbid": "fbce62fb-53e1-4fb7-8d5d-f77a1b72a4e7",
-     "official_url": "https://www.mediumbuildmusic.com/"
-    },
-    {
-     "name": "The Scratch",
-     "mbid": "2c1f9a60-55b6-4425-8519-54e910d29820",
-     "official_url": "https://thescratch.ie/"
-    }
-   ],
-   "venue_url": "https://www.observatorysd.com"
-  },
-  {
-   "id": "belly-up-tavern:2026-11-03:fitz-and-the-tantrums",
-   "date": "2026-11-03",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Fitz and The Tantrums"
-   ],
-   "artists": [
-    {
-     "name": "Fitz and The Tantrums",
-     "mbid": "8560d4e8-05e2-4c20-980b-ad2db445dd5d",
-     "official_url": "http://www.fitzandthetantrums.com/"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "casbah:2026-11-03:clay-street-unit",
-   "date": "2026-11-03",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "Clay Street Unit"
-   ],
-   "artists": [
-    {
-     "name": "Clay Street Unit",
-     "mbid": "7d5635a9-757c-4511-8cf4-e00fd2b135f8"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
-  },
-  {
-   "id": "music-box:2026-11-03:yuki-chiba",
-   "date": "2026-11-03",
-   "venue": "Music Box",
-   "city": "San Diego",
-   "performers": [
-    "Yuki Chiba",
-    "DRAM"
-   ],
-   "artists": [
-    {
-     "name": "Yuki Chiba"
-    },
-    {
-     "name": "DRAM",
-     "mbid": "6247d69d-426f-440f-97e0-74a9a0b00358",
-     "official_url": "https://web.archive.org/web/20160710125752/http://only1dram.com/"
-    }
-   ],
-   "venue_url": "https://www.musicboxsd.com/"
-  },
-  {
-   "id": "soma:2026-11-03:kurt-travis",
-   "date": "2026-11-03",
-   "venue": "SOMA",
-   "city": "San Diego",
-   "performers": [
-    "Kurt Travis"
-   ],
-   "artists": [
-    {
-     "name": "Kurt Travis",
-     "mbid": "1be7bc65-07e1-4df6-9546-304e5800293e"
-    }
-   ],
-   "venue_url": "https://www.somasandiego.com/"
-  },
-  {
-   "id": "the-tower-bar:2026-11-03:melts-mexico",
-   "date": "2026-11-03",
-   "venue": "The Tower Bar",
-   "city": "San Diego",
-   "performers": [
-    "MELTS (Mexico)",
-    "Werita",
-    "Headworm"
-   ],
-   "artists": [
-    {
-     "name": "MELTS (Mexico)"
-    },
-    {
-     "name": "Werita"
-    },
-    {
-     "name": "Headworm"
-    }
-   ],
-   "venue_url": null
-  },
   {
    "id": "belly-up-tavern:2026-11-04:fitz-and-the-tantrums",
    "date": "2026-11-04",
@@ -332,7 +188,8 @@
     "Prince Daddy & the Hyena",
     "Combat",
     "Walter Etc.",
-    "Eelke Kleijn"
+    "Eelke Kleijn",
+    "Nicole Bentley"
    ],
    "artists": [
     {
@@ -351,6 +208,9 @@
      "name": "Eelke Kleijn",
      "mbid": "9567a29f-cb0e-4880-8b23-beac15a2cf94",
      "official_url": "http://www.eelkekleijn.nl/"
+    },
+    {
+     "name": "Nicole Bentley"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -470,7 +330,7 @@
     },
     {
      "name": "The Back Alley",
-     "mbid": "4365c513-a0bc-4ec7-8f10-cf0a3407465b"
+     "mbid": "e5e4c4ca-5410-4a6d-a94b-ece1f65231c7"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -1188,20 +1048,18 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
-   "id": "the-holding-company:2026-11-08:bad-marriage",
+   "id": "the-holding-company:2026-11-08:bad-marriage-feat-tommy-skeoch-from-tesla",
    "date": "2026-11-08",
    "venue": "The Holding Company",
    "city": "San Diego",
    "performers": [
-    "Bad Marriage",
+    "Bad Marriage (feat TOMMY SKEOCH from TESLA)",
     "Sons of Kaos",
     "69 Revelation"
    ],
    "artists": [
     {
-     "name": "Bad Marriage",
-     "mbid": "b18fee77-5487-4e6d-adb3-768f830a3a8e",
-     "official_url": "http://badmarriagemusic.com/"
+     "name": "Bad Marriage (feat TOMMY SKEOCH from TESLA)"
     },
     {
      "name": "Sons of Kaos"
@@ -1548,6 +1406,21 @@
    "artists": [
     {
      "name": "Linda Berry Band"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "lou-lou-s:2026-11-12:jonathan-karrant",
+   "date": "2026-11-12",
+   "venue": "Lou Lou's",
+   "city": "San Diego",
+   "performers": [
+    "JONATHAN KARRANT"
+   ],
+   "artists": [
+    {
+     "name": "JONATHAN KARRANT"
     }
    ],
    "venue_url": null
@@ -2447,7 +2320,7 @@
    "performers": [
     "LAST",
     "Lvciferian Death Mechanism",
-    "Esteban Flores"
+    "Esteban I Flores"
    ],
    "artists": [
     {
@@ -2459,8 +2332,28 @@
      "name": "Lvciferian Death Mechanism"
     },
     {
-     "name": "Esteban Flores",
-     "mbid": "aec62039-1979-4fcf-9738-fd343319b845"
+     "name": "Esteban I Flores"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "viejas-arena:2026-11-15:nick-cannon-presents-wild-n-out-live",
+   "date": "2026-11-15",
+   "venue": "Viejas Arena",
+   "city": "San Diego",
+   "performers": [
+    "Nick Cannon Presents: Wild 'N Out Live",
+    "Soulja Boy"
+   ],
+   "artists": [
+    {
+     "name": "Nick Cannon Presents: Wild 'N Out Live"
+    },
+    {
+     "name": "Soulja Boy",
+     "mbid": "29eead4d-3793-4625-8727-c03edbb38b8b",
+     "official_url": "https://www.souljaboy.live/"
     }
    ],
    "venue_url": null
@@ -2488,13 +2381,19 @@
    "venue": "The Observatory North Park",
    "city": "San Diego",
    "performers": [
-    "Syd"
+    "Syd",
+    "Magnus Ferrell"
    ],
    "artists": [
     {
      "name": "Syd",
      "mbid": "12327d75-47d5-45d9-84c2-3760b9210c17",
      "official_url": "http://www.sydbarrett.com/"
+    },
+    {
+     "name": "Magnus Ferrell",
+     "mbid": "0d8d8a94-9865-44bf-b3af-2361bb1c321e",
+     "official_url": "https://www.magnusferrell.com/"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -3058,9 +2957,7 @@
      "official_url": "http://www.sonvolt.net/"
     },
     {
-     "name": "Kelly Willis",
-     "mbid": "1d10aad6-714a-40a5-8f6e-14be37ac3498",
-     "official_url": "http://www.kellywillis.com/"
+     "name": "Kelly Willis"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -3097,13 +2994,10 @@
      "official_url": "https://sensesfail.com/"
     },
     {
-     "name": "Koyo",
-     "mbid": "52f7e7ff-2e09-47e0-87f3-edcd69b327ae",
-     "official_url": "https://koyolihc.com/"
+     "name": "Koyo"
     },
     {
-     "name": "Initiate",
-     "mbid": "5c71fee2-fe75-4fb9-9b8f-e3a792d3bf35"
+     "name": "Initiate"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -3124,9 +3018,7 @@
      "official_url": "http://houndmouth.com/"
     },
     {
-     "name": "Dogpark",
-     "mbid": "8c8b7177-4c03-4cb4-858c-b071f5de013e",
-     "official_url": "https://www.dogparkofficial.com/"
+     "name": "Dogpark"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
@@ -3143,18 +3035,31 @@
    ],
    "artists": [
     {
-     "name": "The Loons",
-     "mbid": "f99ce775-875a-4dc0-9bd8-e7bc2a7aaf2a"
+     "name": "The Loons"
     },
     {
-     "name": "The Wyld Gooms",
-     "mbid": "adb66361-1033-4e92-b229-4afc78b0499e"
+     "name": "The Wyld Gooms"
     },
     {
      "name": "DJ Tony The Tyger"
     }
    ],
    "venue_url": null
+  },
+  {
+   "id": "belly-up-tavern:2026-11-22:andrew-mcmahon-and-his-piano-featuring-very-special-guest-ivory-layne",
+   "date": "2026-11-22",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "Andrew McMahon and his piano featuring very special guest Ivory Layne"
+   ],
+   "artists": [
+    {
+     "name": "Andrew McMahon and his piano featuring very special guest Ivory Layne"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
   },
   {
    "id": "house-of-blues:2026-11-22:eiv-r",
@@ -3167,13 +3072,10 @@
    ],
    "artists": [
     {
-     "name": "Eiv\u00f8r",
-     "mbid": "cdcc26ed-818f-4c95-b177-b56ac1410f8f",
-     "official_url": "https://www.eivor.com/"
+     "name": "Eiv\u00f8r"
     },
     {
-     "name": "midori jaeger",
-     "mbid": "06dccd80-5531-4349-ac0f-f826e58ff49a"
+     "name": "midori jaeger"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -3210,13 +3112,10 @@
      "official_url": "https://www.wearethewrecks.com/"
     },
     {
-     "name": "Worry Club",
-     "mbid": "f22bdda8-0cb0-4973-ae53-6a51c3b50e79",
-     "official_url": "https://www.worryclub.com/"
+     "name": "Worry Club"
     },
     {
-     "name": "Kid Sistr",
-     "mbid": "d16dcd17-340a-4e9a-b160-180469aeb4d7"
+     "name": "Kid Sistr"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -3233,12 +3132,10 @@
    ],
    "artists": [
     {
-     "name": "PillowTalk",
-     "mbid": "361740f2-9d50-4f2a-a52c-0d45749ad34b"
+     "name": "PillowTalk"
     },
     {
-     "name": "Andrew Wilkinson",
-     "mbid": "3a27b26e-2991-4beb-8f24-7b78078b813a"
+     "name": "Andrew Wilkinson"
     },
     {
      "name": "D\u00dcKANK"
@@ -3260,8 +3157,7 @@
      "name": "Surf Sunday"
     },
     {
-     "name": "Jimmy Dale",
-     "mbid": "1af2f7a8-5b8d-40bf-88f9-d60a2efb867c"
+     "name": "Jimmy Dale"
     }
    ],
    "venue_url": null
@@ -3281,8 +3177,7 @@
      "mbid": "56393a36-155f-4f50-adbe-45f4a26c40bf"
     },
     {
-     "name": "SAUSHA",
-     "mbid": "f65aeffe-5184-48f9-bb27-829c61e18a2e"
+     "name": "SAUSHA"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
@@ -3334,23 +3229,16 @@
    ],
    "artists": [
     {
-     "name": "Bodysnatcher",
-     "mbid": "70f5a84c-9b0e-4440-ad46-0bbb690c161b",
-     "official_url": "https://bodysnatcherofficial.com/"
+     "name": "Bodysnatcher"
     },
     {
-     "name": "Gideon",
-     "mbid": "cd7df2ab-c974-4438-b440-baf38332d7aa",
-     "official_url": "http://gideonal.com/"
+     "name": "Gideon"
     },
     {
-     "name": "Volatile Ways",
-     "mbid": "800b4846-6095-49db-8c55-c9e1748d00e7"
+     "name": "Volatile Ways"
     },
     {
-     "name": "Psycho-Frame",
-     "mbid": "2f834210-75a3-475c-9177-3c568cef133b",
-     "official_url": "https://psychoframe.com/"
+     "name": "Psycho-Frame"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -3371,8 +3259,7 @@
      "official_url": "https://prettysick.com/"
     },
     {
-     "name": "Sex Week",
-     "mbid": "48390dfc-0b93-4b8c-99a1-839181300ca0"
+     "name": "Sex Week"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -3420,13 +3307,10 @@
    ],
    "artists": [
     {
-     "name": "ezcodylee",
-     "mbid": "c63ab8a1-7eeb-4482-a609-e16fceac21c8",
-     "official_url": "https://ezcodylee.com/"
+     "name": "ezcodylee"
     },
     {
-     "name": "ninexteen",
-     "mbid": "07cb4a09-e729-4d3a-b0a3-0df633d52356"
+     "name": "ninexteen"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -3442,9 +3326,7 @@
    ],
    "artists": [
     {
-     "name": "Queen Nation",
-     "mbid": "317c1b67-d4f7-4aa3-a205-0781ca7ae7a8",
-     "official_url": "http://queennation.com/"
+     "name": "Queen Nation"
     },
     {
      "name": "DJ Organic Hispanic"
@@ -3464,20 +3346,31 @@
    ],
    "artists": [
     {
-     "name": "Fear Factory",
-     "mbid": "c17f08f4-2542-46fb-97f3-3202d60c225a",
-     "official_url": "https://fearfactory.com/"
+     "name": "Fear Factory"
     },
     {
-     "name": "Darkest Hour",
-     "mbid": "e0ededb4-6085-4f68-90f7-89bc560930a3"
+     "name": "Darkest Hour"
     },
     {
-     "name": "Brotality",
-     "mbid": "bc30f760-3043-48d0-81cf-5b7665eecece"
+     "name": "Brotality"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "humphreys-backstage-live:2026-11-25:jeff-ousley",
+   "date": "2026-11-25",
+   "venue": "Humphreys Backstage Live",
+   "city": "San Diego",
+   "performers": [
+    "Jeff Ousley"
+   ],
+   "artists": [
+    {
+     "name": "Jeff Ousley"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "soma:2026-11-25:george-clanton",
@@ -3507,14 +3400,10 @@
    ],
    "artists": [
     {
-     "name": "Gary Numan",
-     "mbid": "6cb79cb2-9087-44d4-828b-5c6fdff2c957",
-     "official_url": "https://garynuman.com/"
+     "name": "Gary Numan"
     },
     {
-     "name": "Tremours",
-     "mbid": "f20d5b68-ee44-404d-bf00-b34b95e2baf2",
-     "official_url": "https://www.tremoursmusic.com/"
+     "name": "Tremours"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -3534,12 +3423,10 @@
      "name": "Execution Wednesdays - Beta 7"
     },
     {
-     "name": "The Tramplers",
-     "mbid": "2dd206fe-92d4-4cc7-9578-6a18b2b20367"
+     "name": "The Tramplers"
     },
     {
-     "name": "Sex Panther",
-     "mbid": "f02cc6c6-d75a-4662-878d-ca0aeb68a4ed"
+     "name": "Sex Panther"
     }
    ],
    "venue_url": null
@@ -3579,14 +3466,10 @@
    ],
    "artists": [
     {
-     "name": "Brother Ali",
-     "mbid": "e0b267df-9e16-4fd3-abb2-b47e61e7a2aa",
-     "official_url": "http://brotherali.com/"
+     "name": "Brother Ali"
     },
     {
-     "name": "Lyrics Born",
-     "mbid": "3fafb3eb-bd69-4463-b6aa-bf88472b6089",
-     "official_url": "http://www.lyricsborn.com/"
+     "name": "Lyrics Born"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -3616,9 +3499,7 @@
    ],
    "artists": [
     {
-     "name": "Cristian Castro",
-     "mbid": "8cc00e45-94c9-40e0-882b-0e76dd5b472b",
-     "official_url": "http://www.cristiancastro.com/"
+     "name": "Cristian Castro"
     }
    ],
    "venue_url": "https://www.pechangaarenasd.com/"
@@ -3648,9 +3529,7 @@
    ],
    "artists": [
     {
-     "name": "The Good",
-     "mbid": "9d72ddd0-5028-42a4-a60c-cd4ba72b1981",
-     "official_url": "http://www.goodrats.com/"
+     "name": "The Good"
     }
    ],
    "venue_url": null
@@ -3665,9 +3544,7 @@
    ],
    "artists": [
     {
-     "name": "Dweezil Zappa",
-     "mbid": "7f83b479-2030-47c5-937e-d4a8f142f1b1",
-     "official_url": "http://www.dweezilzappaworld.com/"
+     "name": "Dweezil Zappa"
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
@@ -3726,9 +3603,7 @@
    ],
    "artists": [
     {
-     "name": "Big Bad Voodoo Daddy",
-     "mbid": "d3118da8-ff3f-4396-9ddd-06168c875d56",
-     "official_url": "http://www.bbvd.com/"
+     "name": "Big Bad Voodoo Daddy"
     }
    ],
    "venue_url": "https://www.balboatheatre.org/"
@@ -3743,9 +3618,7 @@
    ],
    "artists": [
     {
-     "name": "B Side Players",
-     "mbid": "aa08634d-d808-4b8f-920c-b2fb57ae3937",
-     "official_url": "http://www.bsideplayers.com/"
+     "name": "B Side Players"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -3761,12 +3634,10 @@
    ],
    "artists": [
     {
-     "name": "Bo Napoleon",
-     "mbid": "a8023c8a-a37c-4396-acec-8d35433abd6a"
+     "name": "Bo Napoleon"
     },
     {
-     "name": "Pau Hana",
-     "mbid": "d6a7a978-df0e-4c2d-9a9a-1f2251c7d076"
+     "name": "Pau Hana"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -3817,22 +3688,16 @@
    ],
    "artists": [
     {
-     "name": "El Potro de Sinaloa",
-     "mbid": "eb84987d-548b-4754-8475-2da1de23bee4"
+     "name": "El Potro de Sinaloa"
     },
     {
-     "name": "Roberto Tapia",
-     "mbid": "0694cc53-1aaf-44ac-bc7a-9a90e3e26fef",
-     "official_url": "https://www.mm-group.org/talent/roberto-tapia/"
+     "name": "Roberto Tapia"
     },
     {
-     "name": "Los Cadetes de Linares",
-     "mbid": "faf7ccd0-1c1a-4353-9729-f51f7c3cc8a4"
+     "name": "Los Cadetes de Linares"
     },
     {
-     "name": "Los Cuates De Sinaloa",
-     "mbid": "4371c010-c59c-4332-940a-56a904c7aec9",
-     "official_url": "http://loscuatesdesinaloa.net/"
+     "name": "Los Cuates De Sinaloa"
     },
     {
      "name": "El As de la Sierra"
@@ -3872,12 +3737,10 @@
      "official_url": "http://www.saosin.com/"
     },
     {
-     "name": "Silent Planet",
-     "mbid": "c62afc98-8596-4532-a1dd-bc1a595c927e"
+     "name": "Silent Planet"
     },
     {
-     "name": "Like Moths To Flames",
-     "mbid": "6f0777a9-50f2-4577-966d-de0943b0b766"
+     "name": "Like Moths To Flames"
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
@@ -3944,14 +3807,10 @@
      "name": "The Five Blind Boys of Alabama"
     },
     {
-     "name": "The Blind Boys of Alabama",
-     "mbid": "2f76bd85-ba19-4d80-9bb7-4555abe463c5",
-     "official_url": "http://www.blindboys.com/"
+     "name": "The Blind Boys of Alabama"
     },
     {
-     "name": "Shemekia Copeland",
-     "mbid": "ed241876-0c9e-4af9-b8d6-2dc41d3e438f",
-     "official_url": "https://shemekiacopeland.com/"
+     "name": "Shemekia Copeland"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -3973,6 +3832,21 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "the-holding-company:2026-11-29:the-function-vol-006",
+   "date": "2026-11-29",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "THE FUNCTION Vol. 006"
+   ],
+   "artists": [
+    {
+     "name": "THE FUNCTION Vol. 006"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2026-11-30:the-james-hunter-six",
    "date": "2026-11-30",
    "venue": "Belly Up Tavern",
@@ -3988,8 +3862,7 @@
      "official_url": "https://www.jameshuntermusic.com/"
     },
     {
-     "name": "Dove",
-     "mbid": "5b1f10ab-6180-4479-b5c9-4c12b0551d3e"
+     "name": "Dove"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -4006,9 +3879,7 @@
    ],
    "artists": [
     {
-     "name": "Jonas Brothers",
-     "mbid": "6e019bc6-5c23-4935-94f0-4a896631d846",
-     "official_url": "https://jonasbrothers.com/"
+     "name": "Jonas Brothers"
     },
     {
      "name": "Magnus Ferrell",
@@ -4016,9 +3887,7 @@
      "official_url": "https://www.magnusferrell.com/"
     },
     {
-     "name": "Deleasa",
-     "mbid": "2722be69-925d-4898-9ace-487238bc5f3e",
-     "official_url": "https://www.deleasa.com/"
+     "name": "Deleasa"
     }
    ],
    "venue_url": null
@@ -4052,17 +3921,13 @@
    ],
    "artists": [
     {
-     "name": "Babe Haven",
-     "mbid": "526c63a9-842c-4d6c-9aad-e9830fe521e0"
+     "name": "Babe Haven"
     },
     {
-     "name": "Spaced",
-     "mbid": "ff55ef7f-9a2d-492d-bdd8-e6566a72ab0a",
-     "official_url": "https://spacedhc.com/"
+     "name": "Spaced"
     },
     {
-     "name": "Scarlet Demore",
-     "mbid": "103252ea-cd18-4093-b1b7-8542c4bc7117"
+     "name": "Scarlet Demore"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -4111,14 +3976,10 @@
    ],
    "artists": [
     {
-     "name": "Glen Phillips",
-     "mbid": "fe0c9ff2-0fef-4f95-b0e1-c1d231d4a900",
-     "official_url": "http://www.glenphillips.com/"
+     "name": "Glen Phillips"
     },
     {
-     "name": "Matt the Electrician",
-     "mbid": "6905bc46-c70d-441f-afc9-fbbeae3b5f78",
-     "official_url": "http://www.matttheelectrician.com/"
+     "name": "Matt the Electrician"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -4133,9 +3994,7 @@
    ],
    "artists": [
     {
-     "name": "Drag the River",
-     "mbid": "e0d76079-f019-483b-8ebb-4e4a4607d41f",
-     "official_url": "http://www.dragtheriver.com/"
+     "name": "Drag the River"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -4184,18 +4043,13 @@
    ],
    "artists": [
     {
-     "name": "Alison's Halo",
-     "mbid": "623977a4-2525-4668-8966-f255dd19700e",
-     "official_url": "http://alisonshalo.com/"
+     "name": "Alison's Halo"
     },
     {
-     "name": "Cathedral Bells",
-     "mbid": "8af381c5-0322-48e3-bc75-00cc66c4440d"
+     "name": "Cathedral Bells"
     },
     {
-     "name": "Blossom",
-     "mbid": "6d3e8d4d-c0c9-4208-87d8-900ab1134b1b",
-     "official_url": "https://www.blossomdearie.com/"
+     "name": "Blossom"
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
@@ -4210,9 +4064,7 @@
    ],
    "artists": [
     {
-     "name": "The Doohickeys",
-     "mbid": "1b28165b-66d0-4f41-b31c-04e268c5c747",
-     "official_url": "https://www.thedoohickeysband.com/"
+     "name": "The Doohickeys"
     }
    ],
    "venue_url": null
@@ -4227,8 +4079,7 @@
    ],
    "artists": [
     {
-     "name": "Alicia Villarreal",
-     "mbid": "6f037627-9f60-4707-b166-7f3c0a75746e"
+     "name": "Alicia Villarreal"
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
@@ -4243,8 +4094,7 @@
    ],
    "artists": [
     {
-     "name": "Dagmar Zuniga",
-     "mbid": "9542584f-d6c4-4e8b-bb14-bba52bd15b32"
+     "name": "Dagmar Zuniga"
     }
    ],
    "venue_url": null
@@ -4260,8 +4110,7 @@
    ],
    "artists": [
     {
-     "name": "Couch Dog",
-     "mbid": "b7978266-d6c6-4251-a8a6-92730e31f437"
+     "name": "Couch Dog"
     },
     {
      "name": "Love in the Club - 2000's Hip Hop and R&B Party"
@@ -4286,12 +4135,10 @@
      "official_url": "http://www.emancipatormusic.com/"
     },
     {
-     "name": "Shrimpnose",
-     "mbid": "54f051b1-9023-407f-bc42-733c57777a98"
+     "name": "Shrimpnose"
     },
     {
-     "name": "Lapa",
-     "mbid": "014b0fb0-50ea-475c-aa83-cf671988dec2"
+     "name": "Lapa"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -4306,9 +4153,7 @@
    ],
    "artists": [
     {
-     "name": "Deathpact",
-     "mbid": "e931a3e9-483f-4b65-a277-fbf4153d884a",
-     "official_url": "https://www.death-pact.com/"
+     "name": "Deathpact"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -4329,9 +4174,7 @@
      "official_url": "https://www.bleedingthroughofficial.com/"
     },
     {
-     "name": "Eighteen Visions",
-     "mbid": "26cc84a4-a762-406a-b06a-2dc2e72523ce",
-     "official_url": "http://18vofficial.com/"
+     "name": "Eighteen Visions"
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
@@ -4346,9 +4189,7 @@
    ],
    "artists": [
     {
-     "name": "Bow Wow Wow",
-     "mbid": "2a81f398-647b-4580-b24c-d78b3103a27b",
-     "official_url": "https://web.archive.org/web/20140823134809/http://www.bowwowwow.org/"
+     "name": "Bow Wow Wow"
     }
    ],
    "venue_url": null
@@ -4383,13 +4224,10 @@
      "name": "Spike and the Gimme Gimmes"
     },
     {
-     "name": "Riverboat Gamblers",
-     "mbid": "32a69c22-6ed7-4489-88c7-2181e458abf3",
-     "official_url": "http://www.theriverboatgamblers.com/"
+     "name": "Riverboat Gamblers"
     },
     {
-     "name": "The Cineramas",
-     "mbid": "c2a5daa1-5bf5-40aa-9d98-a9318f21c393"
+     "name": "The Cineramas"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -4407,16 +4245,13 @@
    ],
    "artists": [
     {
-     "name": "Final Conflict",
-     "mbid": "dc6848f9-0eda-4981-b5ca-f113d9658c2e"
+     "name": "Final Conflict"
     },
     {
-     "name": "Vaxine",
-     "mbid": "612e7d29-d312-46ad-bf35-5950486a1998"
+     "name": "Vaxine"
     },
     {
-     "name": "Brazen Bull",
-     "mbid": "84119e08-b7cb-4226-99f5-0d6371f48834"
+     "name": "Brazen Bull"
     },
     {
      "name": "Moral Genocide"
@@ -4435,14 +4270,10 @@
    ],
    "artists": [
     {
-     "name": "Poncho Sanchez",
-     "mbid": "62da2ead-f055-4ad0-b939-3274bb2c54b2",
-     "official_url": "http://www.ponchosanchez.com/"
+     "name": "Poncho Sanchez"
     },
     {
-     "name": "The Sleepwalkers",
-     "mbid": "efcd045d-c29b-489e-86e9-24780a7b39a3",
-     "official_url": "http://sleepwalkers.fm/"
+     "name": "The Sleepwalkers"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -4457,9 +4288,7 @@
    ],
    "artists": [
     {
-     "name": "Pedro Fern\u00e1ndez",
-     "mbid": "ce0646e2-98a4-4698-a494-c45034a03192",
-     "official_url": "https://www.pedrofernandezoficial.com/"
+     "name": "Pedro Fern\u00e1ndez"
     }
    ],
    "venue_url": null
@@ -4474,8 +4303,7 @@
    ],
    "artists": [
     {
-     "name": "Deadbolt",
-     "mbid": "0d58956e-719d-470e-bac6-55c2f99e5d5c"
+     "name": "Deadbolt"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -4492,8 +4320,7 @@
    ],
    "artists": [
     {
-     "name": "Joshua White",
-     "mbid": "b07f9c94-9e63-4f29-8f39-80504f6187a3"
+     "name": "Joshua White"
     },
     {
      "name": "Luke Little"
@@ -4514,9 +4341,7 @@
    ],
    "artists": [
     {
-     "name": "Valentino Khan",
-     "mbid": "dc11d177-f625-40bc-95fa-972b20ae8149",
-     "official_url": "http://www.valentinokhan.com/"
+     "name": "Valentino Khan"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -4532,8 +4357,7 @@
    ],
    "artists": [
     {
-     "name": "Quoc Thien",
-     "mbid": "ec4f2546-af49-4a31-b451-6e9b6de54d35"
+     "name": "Quoc Thien"
     },
     {
      "name": "Nguyen Dinh Tuan Dung"
@@ -4591,20 +4415,16 @@
    ],
    "artists": [
     {
-     "name": "Total Massacre",
-     "mbid": "01d3ea3f-f544-4a8f-9c25-bd0fc42b36f8"
+     "name": "Total Massacre"
     },
     {
-     "name": "The Schitz",
-     "mbid": "c4daa345-b472-4d8f-b3ab-a26c613bf8cc"
+     "name": "The Schitz"
     },
     {
-     "name": "Infirmities",
-     "mbid": "c3627b04-7e4d-46d4-8f69-e8f660c93af6"
+     "name": "Infirmities"
     },
     {
-     "name": "One Square Mile",
-     "mbid": "c10164c3-4333-4dd7-9d05-07afbffae59b"
+     "name": "One Square Mile"
     },
     {
      "name": "Strychnine 99"
@@ -4637,9 +4457,7 @@
    ],
    "artists": [
     {
-     "name": "Victoria Mon\u00e9t",
-     "mbid": "28d83274-26ab-4a6a-b9ff-340f4784e7dd",
-     "official_url": "https://bio.to/.victoriamonet"
+     "name": "Victoria Mon\u00e9t"
     }
    ],
    "venue_url": null
@@ -4655,12 +4473,10 @@
    ],
    "artists": [
     {
-     "name": "Chrissy Chlapecka",
-     "mbid": "059c0fb4-cf3e-4f0a-839a-17ba6e1e2775"
+     "name": "Chrissy Chlapecka"
     },
     {
-     "name": "Sweet Pickles",
-     "mbid": "aa8a5f5f-d5bf-435e-8cf9-724524a91267"
+     "name": "Sweet Pickles"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -4698,9 +4514,7 @@
      "official_url": "https://www.desrocs.com/"
     },
     {
-     "name": "Goodbye June",
-     "mbid": "1b1e788c-0771-40c7-9620-7bed3c7d0258",
-     "official_url": "http://www.goodbyejune.com/"
+     "name": "Goodbye June"
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
@@ -4780,12 +4594,10 @@
    ],
    "artists": [
     {
-     "name": "Graham Hunt",
-     "mbid": "85940508-c168-4657-8788-e418cd4fcbde"
+     "name": "Graham Hunt"
     },
     {
-     "name": "9Million",
-     "mbid": "996467b9-8386-4f9b-a60d-8effa249bfe9"
+     "name": "9Million"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -4834,8 +4646,7 @@
    ],
    "artists": [
     {
-     "name": "Ruby Haunt",
-     "mbid": "835affab-1fe7-4696-b496-69ffc2831d65"
+     "name": "Ruby Haunt"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -4850,9 +4661,7 @@
    ],
    "artists": [
     {
-     "name": "the olllam",
-     "mbid": "b7380fd6-fa6f-47cb-8c20-41f4c801c357",
-     "official_url": "https://www.theolllam.com/"
+     "name": "the olllam"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -4890,9 +4699,7 @@
      "official_url": "http://www.jdmcpherson.com/"
     },
     {
-     "name": "Melissa Carper",
-     "mbid": "471c36a0-7543-43ef-9d5c-046f54ed4b77",
-     "official_url": "https://www.melissacarper.com/"
+     "name": "Melissa Carper"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -4907,9 +4714,7 @@
    ],
    "artists": [
     {
-     "name": "Buck Meek",
-     "mbid": "b8780175-4ff4-4d87-8e54-999f70dbb5ec",
-     "official_url": "https://www.buckmeekmusic.com/"
+     "name": "Buck Meek"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -4924,8 +4729,7 @@
    ],
    "artists": [
     {
-     "name": "Keenan TreVon",
-     "mbid": "5867f4ef-c539-4c87-b243-5e7a0f9d0e76"
+     "name": "Keenan TreVon"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -4955,9 +4759,7 @@
    ],
    "artists": [
     {
-     "name": "David Bisbal",
-     "mbid": "95c8b6b7-1e24-4987-804c-024f6b05cd91",
-     "official_url": "http://www.davidbisbal.com/"
+     "name": "David Bisbal"
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
@@ -5002,9 +4804,7 @@
      "official_url": "http://www.jayhawksofficial.com/"
     },
     {
-     "name": "Mary Gauthier",
-     "mbid": "1efadc05-01b5-4a39-9c6f-da5c975276dd",
-     "official_url": "http://www.marygauthier.com/"
+     "name": "Mary Gauthier"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -5019,9 +4819,7 @@
    ],
    "artists": [
     {
-     "name": "Swervedriver",
-     "mbid": "fa6c7999-ff65-486b-9e18-bcb59d6db2f0",
-     "official_url": "http://www.swervedriver.com/"
+     "name": "Swervedriver"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -5054,21 +4852,16 @@
    ],
    "artists": [
     {
-     "name": "Yung Gravy",
-     "mbid": "20b034b2-35a1-40be-908f-22d1b5681572"
+     "name": "Yung Gravy"
     },
     {
-     "name": "Terror Reid",
-     "mbid": "00447c0c-bc7e-4578-a206-31e95ac97571"
+     "name": "Terror Reid"
     },
     {
-     "name": "Niko Rubio",
-     "mbid": "9d2d3689-b803-4e03-8288-130ebbf13261",
-     "official_url": "https://www.nikorubio.com/"
+     "name": "Niko Rubio"
     },
     {
-     "name": "Olivia C. Dacal",
-     "mbid": "653c6168-1eaa-47b5-8f5f-9b64f3de078e"
+     "name": "Olivia C. Dacal"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -5084,13 +4877,10 @@
    ],
    "artists": [
     {
-     "name": "Marie Vaunt",
-     "mbid": "b60392c4-6c78-45d0-8f9d-7ef9b81fac47",
-     "official_url": "https://marievaunt.com/"
+     "name": "Marie Vaunt"
     },
     {
-     "name": "T78",
-     "mbid": "6259a169-891b-4276-8337-954aa835690c"
+     "name": "T78"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -5107,17 +4897,13 @@
    ],
    "artists": [
     {
-     "name": "The Happy Return",
-     "mbid": "dd8679ff-6756-4245-8e25-9608051aced7"
+     "name": "The Happy Return"
     },
     {
-     "name": "The Grinns",
-     "mbid": "b7aebf75-e3ba-4305-bcc8-2917a07af634",
-     "official_url": "https://www.thegrinns.com/"
+     "name": "The Grinns"
     },
     {
-     "name": "Jettee",
-     "mbid": "de398cb8-7567-422c-9bbc-4b5a24f67a5e"
+     "name": "Jettee"
     }
    ],
    "venue_url": "https://quartyardsd.com/"
@@ -5244,6 +5030,27 @@
    "venue_url": "https://www.magnoliasd.com/"
   },
   {
+   "id": "the-observatory-north-park:2026-12-12:emo-night-brooklyn",
+   "date": "2026-12-12",
+   "venue": "The Observatory North Park",
+   "city": "San Diego",
+   "performers": [
+    "Emo Night Brooklyn",
+    "VALID ID"
+   ],
+   "artists": [
+    {
+     "name": "Emo Night Brooklyn",
+     "mbid": "a384b738-ff9b-4f73-8e24-0134024f1344",
+     "official_url": "http://emonightbk.com/"
+    },
+    {
+     "name": "VALID ID"
+    }
+   ],
+   "venue_url": "https://www.observatorysd.com"
+  },
+  {
    "id": "the-sound:2026-12-12:the-string-cheese-incident",
    "date": "2026-12-12",
    "venue": "The Sound",
@@ -5272,17 +5079,13 @@
    ],
    "artists": [
     {
-     "name": "The Bobby Lees",
-     "mbid": "98151205-e4c6-467d-9e83-16d62e5050e7",
-     "official_url": "https://www.thebobbylees.com/"
+     "name": "The Bobby Lees"
     },
     {
-     "name": "MUTTLEE",
-     "mbid": "19aab4f5-f39b-44f7-b2d7-6da1a6ca4c01"
+     "name": "MUTTLEE"
     },
     {
-     "name": "Doc Hammer",
-     "mbid": "c7358e11-906d-438b-9338-f48a2562994f"
+     "name": "Doc Hammer"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -5347,12 +5150,10 @@
    ],
    "artists": [
     {
-     "name": "Bryan Andrews",
-     "mbid": "748def4d-d757-4b94-90ac-1439c03b1eaf"
+     "name": "Bryan Andrews"
     },
     {
-     "name": "Lou Ridley",
-     "mbid": "ca935f86-3c05-482e-a025-df11b5bfcea9"
+     "name": "Lou Ridley"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -5368,14 +5169,10 @@
    ],
    "artists": [
     {
-     "name": "Amigo The Devil",
-     "mbid": "70c19341-6d59-499f-b74d-fc9f99b5d0a9",
-     "official_url": "https://amigothedevil.com/"
+     "name": "Amigo The Devil"
     },
     {
-     "name": "Nate Bergman",
-     "mbid": "6263ca16-ed7f-4c23-8790-625380f40ea7",
-     "official_url": "https://www.natebergmansings.com/"
+     "name": "Nate Bergman"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -5396,9 +5193,7 @@
      "official_url": "https://www.feeblelittlehorse.com/"
     },
     {
-     "name": "MOP",
-     "mbid": "dbe35fab-1b3a-469b-87f0-6a54ef8de3c4",
-     "official_url": "https://web.archive.org/web/20060710034042/http://www.themashoutposse.com/"
+     "name": "MOP"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -5413,8 +5208,7 @@
    ],
    "artists": [
     {
-     "name": "Tyla",
-     "mbid": "2bf761c6-4bcf-4cfc-a388-8fcb2eea8cc8"
+     "name": "Tyla"
     }
    ],
    "venue_url": null
@@ -5429,9 +5223,7 @@
    ],
    "artists": [
     {
-     "name": "Venice",
-     "mbid": "3a884d9f-3fa7-4f49-87ae-74580c5cfcd0",
-     "official_url": "http://www.venicetheband.com/"
+     "name": "Venice"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -5451,8 +5243,7 @@
      "mbid": "c529a57c-bc28-48f2-bad2-cdacae48c4af"
     },
     {
-     "name": "Khal!l",
-     "mbid": "fc15300c-4de9-4abf-adbd-26aa217570ec"
+     "name": "Khal!l"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -5470,19 +5261,13 @@
    ],
    "artists": [
     {
-     "name": "Dave Koz",
-     "mbid": "461b7812-cc9c-4e30-ab22-1b42bdba15fd",
-     "official_url": "http://davekoz.com/"
+     "name": "Dave Koz"
     },
     {
-     "name": "Jonathan Butler",
-     "mbid": "68b8199b-eff2-45fb-be86-da8138d97067",
-     "official_url": "http://www.jonathanbutler.com/"
+     "name": "Jonathan Butler"
     },
     {
-     "name": "Haley Reinhart",
-     "mbid": "d774c8ff-2b2b-423d-94ba-a827b3554785",
-     "official_url": "http://www.haleyreinhart.com/"
+     "name": "Haley Reinhart"
     },
     {
      "name": "Dylan Chambers",
@@ -5507,9 +5292,7 @@
      "official_url": "http://themilkcartonkids.com/"
     },
     {
-     "name": "Rosi Golan",
-     "mbid": "406ff146-022c-4206-b753-bf480d3259b0",
-     "official_url": "http://www.rosigolan.com/"
+     "name": "Rosi Golan"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -5539,8 +5322,7 @@
    ],
    "artists": [
     {
-     "name": "Josie Edwards",
-     "mbid": "619e8c80-9d1a-479e-8cc2-a2ff3b45054c"
+     "name": "Josie Edwards"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -5559,6 +5341,21 @@
     }
    ],
    "venue_url": "https://novasandiego.com/"
+  },
+  {
+   "id": "the-holding-company:2026-12-17:roni-lee-rocks-christmas",
+   "date": "2026-12-17",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "Roni Lee Rocks Christmas!"
+   ],
+   "artists": [
+    {
+     "name": "Roni Lee Rocks Christmas!"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "belly-up-tavern:2026-12-18:gin-blossoms",
@@ -5602,8 +5399,7 @@
    ],
    "artists": [
     {
-     "name": "Funk All-Stars",
-     "mbid": "5d315a04-2b30-4916-9864-929d44c5ff4c"
+     "name": "Funk All-Stars"
     }
    ],
    "venue_url": null
@@ -5625,12 +5421,10 @@
      "official_url": "http://vandals.com/"
     },
     {
-     "name": "Bad Cop Bad Cop",
-     "mbid": "c24da87b-312a-4bb9-8dbc-1461af2788c9"
+     "name": "Bad Cop Bad Cop"
     },
     {
-     "name": "Sitting On Saturn",
-     "mbid": "d670b13c-6310-439b-a1b3-c9e5323f918b"
+     "name": "Sitting On Saturn"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -5651,8 +5445,7 @@
      "official_url": "http://www.ginblossoms.net/"
     },
     {
-     "name": "Honeygirl",
-     "mbid": "a59b6fd7-e38d-416e-b6f9-70cfad246f32"
+     "name": "Honeygirl"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -5667,12 +5460,25 @@
    ],
    "artists": [
     {
-     "name": "SVDDEN DEATH",
-     "mbid": "b8fe4acb-c28e-44be-aff9-ebf572f85d47",
-     "official_url": "http://www.svddendeath.com/"
+     "name": "SVDDEN DEATH"
     }
    ],
    "venue_url": "https://novasandiego.com/"
+  },
+  {
+   "id": "pechanga-resort-casino:2026-12-19:gigi-de-lana",
+   "date": "2026-12-19",
+   "venue": "Pechanga Resort & Casino",
+   "city": "Temecula",
+   "performers": [
+    "Gigi De Lana"
+   ],
+   "artists": [
+    {
+     "name": "Gigi De Lana"
+    }
+   ],
+   "venue_url": "https://www.pechanga.com/"
   },
   {
    "id": "quartyard:2026-12-19:mark-farina-mushroom-jazz",
@@ -5688,8 +5494,7 @@
      "name": "Mark Farina Mushroom Jazz"
     },
     {
-     "name": "Cris Herrera",
-     "mbid": "5ed79bb1-95e2-4873-b319-23d92fe2ab44"
+     "name": "Cris Herrera"
     }
    ],
    "venue_url": "https://quartyardsd.com/"
@@ -5705,12 +5510,10 @@
    ],
    "artists": [
     {
-     "name": "Faetooth",
-     "mbid": "4f554f8f-990b-4060-b407-0226fd5497d6"
+     "name": "Faetooth"
     },
     {
-     "name": "Glixen",
-     "mbid": "eed766e0-492f-44ab-a3f3-800eb5792de5"
+     "name": "Glixen"
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
@@ -5745,16 +5548,13 @@
    ],
    "artists": [
     {
-     "name": "Blood On The Saddle",
-     "mbid": "e85f9755-ae96-4272-a6f7-0d1fb8c5e8bc",
-     "official_url": "https://tonuprecords.com/artist/blood-on-the-saddle/"
+     "name": "Blood On The Saddle"
     },
     {
      "name": "The Tramplers matinee show"
     },
     {
-     "name": "Weird Angel",
-     "mbid": "f7345ede-dc51-43f5-bb09-9b1949b05a2e"
+     "name": "Weird Angel"
     },
     {
      "name": "Bestial Abyss"
@@ -5807,14 +5607,10 @@
    ],
    "artists": [
     {
-     "name": "Authority Zero",
-     "mbid": "d17dbc4c-7cd4-4a81-83cc-f49f786455f9",
-     "official_url": "https://authorityzero.com/"
+     "name": "Authority Zero"
     },
     {
-     "name": "Mercy Music",
-     "mbid": "858ca55a-a0c7-4111-9895-b34bbe28db43",
-     "official_url": "http://www.mercymusicforyou.com/"
+     "name": "Mercy Music"
     }
    ],
    "venue_url": null
@@ -5829,9 +5625,7 @@
    ],
    "artists": [
     {
-     "name": "Pentatonix",
-     "mbid": "79c67eb5-3851-4b28-bfe0-3adfcd6f58d7",
-     "official_url": "http://ptxofficial.com/"
+     "name": "Pentatonix"
     }
    ],
    "venue_url": null
@@ -5849,18 +5643,13 @@
    ],
    "artists": [
     {
-     "name": "Nancarrow",
-     "mbid": "ddccf620-f645-4e6c-872e-b659d823208c"
+     "name": "Nancarrow"
     },
     {
-     "name": "Brawley",
-     "mbid": "eb5a1e9e-4b5e-4548-be94-0178f2672745",
-     "official_url": "http://www.stuartbrawley.com/"
+     "name": "Brawley"
     },
     {
-     "name": "Matt Axton",
-     "mbid": "90bdc080-ee28-41c0-9930-08b2024e9b2e",
-     "official_url": "https://mattaxton.com/"
+     "name": "Matt Axton"
     },
     {
      "name": "Badmoon"
@@ -5925,9 +5714,7 @@
    ],
    "artists": [
     {
-     "name": "Tyga",
-     "mbid": "ce09ea31-3d4a-4487-a797-e315175457a0",
-     "official_url": "https://tyga.net/"
+     "name": "Tyga"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -5942,9 +5729,7 @@
    ],
    "artists": [
     {
-     "name": "Safety Orange",
-     "mbid": "a439938d-681b-404e-9c71-98f90c01901b",
-     "official_url": "http://www.safetyorange.com/"
+     "name": "Safety Orange"
     }
    ],
    "venue_url": null
@@ -6052,114 +5837,83 @@
      "name": "Bad Girl Bailey"
     },
     {
-     "name": "Connor Q",
-     "mbid": "3729a93f-74db-4b4b-a2d9-830e45b9684c"
+     "name": "Connor Q"
     },
     {
      "name": "Crankdat",
      "mbid": "00b21266-918d-434c-b31e-3f1a3e96cad5"
     },
     {
-     "name": "Distinct Motive",
-     "mbid": "826a3642-7a88-49c1-99de-c265ba8c043e"
+     "name": "Distinct Motive"
     },
     {
-     "name": "G Jones",
-     "mbid": "20bb2a85-e6ab-42e2-bfa8-ec048b60bbdb",
-     "official_url": "http://www.gjonesbass.com/"
+     "name": "G Jones"
     },
     {
-     "name": "Gaszia",
-     "mbid": "2410da2b-5eb6-4d89-ae29-8f79d1c24fcf",
-     "official_url": "https://gasziamusic.com/"
+     "name": "Gaszia"
     },
     {
-     "name": "Hellgnar",
-     "mbid": "df24052b-f2f0-4490-8d77-6cc1a51a8fd7"
+     "name": "Hellgnar"
     },
     {
-     "name": "Jordnmoody",
-     "mbid": "9cbdb2f5-2329-48a2-ab36-dc34c4ee2aad"
+     "name": "Jordnmoody"
     },
     {
      "name": "Jovella"
     },
     {
-     "name": "Julia Cooper",
-     "mbid": "c463569a-af11-49cf-8662-203b195c6844"
+     "name": "Julia Cooper"
     },
     {
-     "name": "Kurei",
-     "mbid": "aa662bad-f8d1-4125-8b87-3c656052da97"
+     "name": "Kurei"
     },
     {
-     "name": "Levity",
-     "mbid": "6d1df48e-7257-41d3-9c10-57aa139158d4"
+     "name": "Levity"
     },
     {
-     "name": "Madam X",
-     "mbid": "71db60e4-2647-416f-a036-5694ddd48220"
+     "name": "Madam X"
     },
     {
-     "name": "Mary Droppinz",
-     "mbid": "b4c107fa-8c7e-4d25-be36-1fac95a660c2",
-     "official_url": "https://www.marydroppinz.com/"
+     "name": "Mary Droppinz"
     },
     {
-     "name": "Mgna Crrrta",
-     "mbid": "dbf58ceb-2acc-439d-b431-867e9a94c46a",
-     "official_url": "https://icfuh.com/"
+     "name": "Mgna Crrrta"
     },
     {
-     "name": "Neumonic",
-     "mbid": "6e1ee5ea-86c8-45e7-b9a1-c55ce126f9b4"
+     "name": "Neumonic"
     },
     {
-     "name": "Ninajirachi",
-     "mbid": "6897b46a-9236-4480-9ed7-300f6b85d62f",
-     "official_url": "https://www.ninajirachi.com/"
+     "name": "Ninajirachi"
     },
     {
-     "name": "Ramonpang",
-     "mbid": "3f0f6d2b-c06c-4175-8acf-252a1902d2eb",
-     "official_url": "https://www.ramonpang.net/"
+     "name": "Ramonpang"
     },
     {
      "name": "Richard Finger"
     },
     {
-     "name": "Sara Landry",
-     "mbid": "e7891efe-8326-4b04-bbc4-1271da101932",
-     "official_url": "https://www.saralandry.com/"
+     "name": "Sara Landry"
     },
     {
      "name": "Seesooooo"
     },
     {
-     "name": "Snuffy",
-     "mbid": "f79a6390-442f-43e4-a543-4efc958e3be9"
+     "name": "Snuffy"
     },
     {
-     "name": "Starjunk 95",
-     "mbid": "18822272-d7dd-4619-bb3e-dd619b2cd179",
-     "official_url": "https://www.starjunk95.com/"
+     "name": "Starjunk 95"
     },
     {
-     "name": "Tiffany Day",
-     "mbid": "c9e3089c-a7bc-4df5-80f9-9161eaa74a02",
-     "official_url": "https://www.tiffdidwhat.com/"
+     "name": "Tiffany Day"
     },
     {
-     "name": "Whethan",
-     "mbid": "9dbb9d00-e2d3-484d-8049-10e5e125913c"
+     "name": "Whethan"
     },
     {
-     "name": "Zeds Dead",
-     "mbid": "f9fdca15-1bef-43a0-8213-758b6ee0aa91"
+     "name": "Zeds Dead"
     },
     {
-     "name": "Zorza",
-     "mbid": "577b2ada-8256-49d8-825c-9710da939fe8"
+     "name": "Zorza"
     }
    ],
    "venue_url": null
@@ -6191,9 +5945,7 @@
    ],
    "artists": [
     {
-     "name": "Timmy Trumpet",
-     "mbid": "07aceecf-0fa2-4d51-865f-273313cba931",
-     "official_url": "http://www.timmytrumpet.com/"
+     "name": "Timmy Trumpet"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -6209,13 +5961,10 @@
    ],
    "artists": [
     {
-     "name": "TRIBAL SEEDS",
-     "mbid": "dbf44fed-7445-4808-ae8a-c5c4cf5f529d"
+     "name": "TRIBAL SEEDS"
     },
     {
-     "name": "Eureka Sound",
-     "mbid": "b610ee30-3091-478c-8afb-daf6751d70e4",
-     "official_url": "https://www.eurekasound.band/"
+     "name": "Eureka Sound"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
@@ -6231,9 +5980,7 @@
    ],
    "artists": [
     {
-     "name": "No Duh",
-     "mbid": "0d5233ee-a11c-4a02-9224-56286b888d2e",
-     "official_url": "http://nodoubttribute.com/index.html"
+     "name": "No Duh"
     },
     {
      "name": "Fooz Fighters"
@@ -6251,8 +5998,7 @@
    ],
    "artists": [
     {
-     "name": "Desperado",
-     "mbid": "337e6739-fea5-4e73-ae82-6611a27d92a2"
+     "name": "Desperado"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -6300,9 +6046,7 @@
    ],
    "artists": [
     {
-     "name": "Mustard Plug",
-     "mbid": "70a692bb-dbd3-440a-af7b-c82e5e1389b2",
-     "official_url": "http://www.mustardplug.com/"
+     "name": "Mustard Plug"
     },
     {
      "name": "Special Guests The Planet Smashers and The Venomous Pinks"
@@ -6372,15 +6116,13 @@
    ],
    "artists": [
     {
-     "name": "The Jam Berries",
-     "mbid": "4fe3b0a9-9b56-4081-a011-861da5df4df4"
+     "name": "The Jam Berries"
     },
     {
      "name": "Band of Gringos"
     },
     {
-     "name": "Box Chevy",
-     "mbid": "874e067e-f226-4748-81cd-174d25d01c52"
+     "name": "Box Chevy"
     },
     {
      "name": "The Wide Eyed Kids"
@@ -6400,19 +6142,13 @@
    ],
    "artists": [
     {
-     "name": "Black Flag",
-     "mbid": "9941a936-196a-4a62-ae53-a69cbc33f20e",
-     "official_url": "http://blackflagofficial.com/"
+     "name": "Black Flag"
     },
     {
-     "name": "The Dickies",
-     "mbid": "82eeb914-c61b-4477-81c2-a0bf8604f2de",
-     "official_url": "http://www.thedickies.com/"
+     "name": "The Dickies"
     },
     {
-     "name": "Angry Samoans",
-     "mbid": "9975369b-6fc1-455e-91d4-d3c8b1772e57",
-     "official_url": "http://www.angrysamoans.com/"
+     "name": "Angry Samoans"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -6444,14 +6180,10 @@
    ],
    "artists": [
     {
-     "name": "Beth Hart",
-     "mbid": "3fe817fc-966e-4ece-b00a-76be43e7e73c",
-     "official_url": "https://bethhart.com/"
+     "name": "Beth Hart"
     },
     {
-     "name": "ROME",
-     "mbid": "9cc9a4f7-d11f-46c8-b97f-902b8a440cf4",
-     "official_url": "http://www.jeromereuter.com/"
+     "name": "ROME"
     }
    ],
    "venue_url": "https://www.balboatheatre.org/"
@@ -6514,14 +6246,10 @@
    ],
    "artists": [
     {
-     "name": "Home Grown",
-     "mbid": "8c6e9baa-ebe4-4ed6-b85f-bc9e9a0b155f",
-     "official_url": "http://www.homegrownonline.com/"
+     "name": "Home Grown"
     },
     {
-     "name": "Allister",
-     "mbid": "b67babbc-b126-4e6f-996d-d1b6162e16b1",
-     "official_url": "http://www.allisterbrimble.com/"
+     "name": "Allister"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -6542,9 +6270,7 @@
      "official_url": "http://www.greenskybluegrass.com/"
     },
     {
-     "name": "Magoo",
-     "mbid": "d8ab968a-af4e-4135-946a-990e4fd81174",
-     "official_url": "https://www.magootheband.com/"
+     "name": "Magoo"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
@@ -6560,14 +6286,10 @@
    ],
    "artists": [
     {
-     "name": "Tommy Castro and the Painkillers",
-     "mbid": "aef72125-35f8-4ce3-9400-88a8d1e5d78f",
-     "official_url": "https://www.tommycastro.com/"
+     "name": "Tommy Castro and the Painkillers"
     },
     {
-     "name": "Ana Popovic",
-     "mbid": "c736d2e3-b1d2-4ae7-8f83-63af4e1c1de1",
-     "official_url": "http://www.anapopovic.com/"
+     "name": "Ana Popovic"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -6582,12 +6304,45 @@
    ],
    "artists": [
     {
-     "name": "Kottonmouth Kings",
-     "mbid": "b2a92fa4-ba29-431f-a9ea-08a2956e9b25",
-     "official_url": "http://www.kottonmouthkings.com/"
+     "name": "Kottonmouth Kings"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "the-holding-company:2027-01-17:escape-from-the-zoo",
+   "date": "2027-01-17",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "Escape From The Zoo"
+   ],
+   "artists": [
+    {
+     "name": "Escape From The Zoo"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "the-sound:2027-01-17:pepper",
+   "date": "2027-01-17",
+   "venue": "The Sound",
+   "city": "Del Mar",
+   "performers": [
+    "Pepper",
+    "Bumpin Uglies"
+   ],
+   "artists": [
+    {
+     "name": "Pepper",
+     "mbid": "266b9126-4a40-4b9b-b21e-422d72e64254"
+    },
+    {
+     "name": "Bumpin Uglies"
+    }
+   ],
+   "venue_url": "https://thesoundsd.com/"
   },
   {
    "id": "harrah-s-resort-southern-california:2027-01-19:the-piano-guys",
@@ -6599,9 +6354,7 @@
    ],
    "artists": [
     {
-     "name": "The Piano Guys",
-     "mbid": "322d2e0e-7df2-4208-a46c-26cb6c60ba56",
-     "official_url": "http://thepianoguys.com/"
+     "name": "The Piano Guys"
     }
    ],
    "venue_url": null
@@ -6616,9 +6369,7 @@
    ],
    "artists": [
     {
-     "name": "The Piano Guys",
-     "mbid": "322d2e0e-7df2-4208-a46c-26cb6c60ba56",
-     "official_url": "http://thepianoguys.com/"
+     "name": "The Piano Guys"
     }
    ],
    "venue_url": "https://www.sandiegosymphony.org/"
@@ -6634,13 +6385,10 @@
    ],
    "artists": [
     {
-     "name": "Dogs In A Pile",
-     "mbid": "a05236ee-3fac-45d7-96f5-b2cd6d03fda9",
-     "official_url": "https://www.dogsinapileofficial.com/about"
+     "name": "Dogs In A Pile"
     },
     {
-     "name": "Three Legged Dog",
-     "mbid": "495b142a-ace5-4a1e-b46d-09171f16311b"
+     "name": "Three Legged Dog"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -6655,9 +6403,7 @@
    ],
    "artists": [
     {
-     "name": "Kool Keith",
-     "mbid": "4939695e-1f38-496f-978f-4ebf9ef13e9d",
-     "official_url": "http://www.koolkeith.co.uk/"
+     "name": "Kool Keith"
     }
    ],
    "venue_url": null
@@ -6673,9 +6419,7 @@
    ],
    "artists": [
     {
-     "name": "Dogs In A Pile",
-     "mbid": "a05236ee-3fac-45d7-96f5-b2cd6d03fda9",
-     "official_url": "https://www.dogsinapileofficial.com/about"
+     "name": "Dogs In A Pile"
     },
     {
      "name": "Audio Perdisco"
@@ -6695,18 +6439,13 @@
    ],
    "artists": [
     {
-     "name": "Missing Persons",
-     "mbid": "98eb6868-9f31-400e-90d8-9a46380c1bdd"
+     "name": "Missing Persons"
     },
     {
-     "name": "Gene Loves Jezebel",
-     "mbid": "d72c9ab4-0b73-44e3-8601-c4da02a43b25",
-     "official_url": "http://www.genelovesjezebel.com/"
+     "name": "Gene Loves Jezebel"
     },
     {
-     "name": "Bow Wow Wow",
-     "mbid": "2a81f398-647b-4580-b24c-d78b3103a27b",
-     "official_url": "https://web.archive.org/web/20140823134809/http://www.bowwowwow.org/"
+     "name": "Bow Wow Wow"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -6721,9 +6460,7 @@
    ],
    "artists": [
     {
-     "name": "Christian Nodal",
-     "mbid": "7f464f95-2410-4040-a88e-1dbe96f17fcd",
-     "official_url": "http://christiannodal.com/"
+     "name": "Christian Nodal"
     }
    ],
    "venue_url": "https://www.pechanga.com/"
@@ -6744,9 +6481,7 @@
      "official_url": "http://www.portugaltheman.net/"
     },
     {
-     "name": "Anthony Green",
-     "mbid": "eba4c290-2ce6-42c9-affd-5b1ffab84a8f",
-     "official_url": "http://anthonygreenschildren.com/"
+     "name": "Anthony Green"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
@@ -6767,6 +6502,21 @@
    "venue_url": null
   },
   {
+   "id": "pechanga-resort-casino:2027-01-23:jang-yoon-jeong",
+   "date": "2027-01-23",
+   "venue": "Pechanga Resort & Casino",
+   "city": "Temecula",
+   "performers": [
+    "Jang Yoon Jeong"
+   ],
+   "artists": [
+    {
+     "name": "Jang Yoon Jeong"
+    }
+   ],
+   "venue_url": "https://www.pechanga.com/"
+  },
+  {
    "id": "the-holding-company:2027-01-23:metalachi",
    "date": "2027-01-23",
    "venue": "The Holding Company",
@@ -6776,9 +6526,7 @@
    ],
    "artists": [
     {
-     "name": "Metalachi",
-     "mbid": "cbe5d8bd-bd44-49e1-a4e8-f8ae5caa552b",
-     "official_url": "http://metalachi.com/"
+     "name": "Metalachi"
     }
    ],
    "venue_url": null
@@ -6809,13 +6557,10 @@
    ],
    "artists": [
     {
-     "name": "Five for Fighting",
-     "mbid": "23eeaeaf-423d-4859-8c91-2175ece74287",
-     "official_url": "http://www.fiveforfighting.com/"
+     "name": "Five for Fighting"
     },
     {
-     "name": "Lace and Lee",
-     "mbid": "21c30cc3-5e89-4090-8ba0-7be12e09bca4"
+     "name": "Lace and Lee"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -6849,8 +6594,7 @@
      "name": "Fred Tackett & Scott Sharrard"
     },
     {
-     "name": "Dylan Salfer",
-     "mbid": "459588fd-9d9f-4fb1-a43a-198de5bcf4d9"
+     "name": "Dylan Salfer"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -6872,12 +6616,10 @@
      "official_url": "https://alleycvt.com/"
     },
     {
-     "name": "Smoakland",
-     "mbid": "3cb22cbd-65d1-463c-9dd2-352a369f2a5c"
+     "name": "Smoakland"
     },
     {
-     "name": "Machaki",
-     "mbid": "ca585a45-7029-47e4-b77d-da199c14a52b"
+     "name": "Machaki"
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
@@ -6893,13 +6635,10 @@
    ],
    "artists": [
     {
-     "name": "Five for Fighting",
-     "mbid": "23eeaeaf-423d-4859-8c91-2175ece74287",
-     "official_url": "http://www.fiveforfighting.com/"
+     "name": "Five for Fighting"
     },
     {
-     "name": "Lace and Lee",
-     "mbid": "21c30cc3-5e89-4090-8ba0-7be12e09bca4"
+     "name": "Lace and Lee"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -6914,9 +6653,7 @@
    ],
    "artists": [
     {
-     "name": "Merkules",
-     "mbid": "5e2cda01-baf0-42d9-9fdd-e65f2bc1ca82",
-     "official_url": "http://www.merkulesmusic.com/"
+     "name": "Merkules"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -6931,9 +6668,7 @@
    ],
    "artists": [
     {
-     "name": "Winona Fighter",
-     "mbid": "18696c37-c6b4-47c0-898b-5db77305b6a7",
-     "official_url": "https://winonafighter.com/"
+     "name": "Winona Fighter"
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
@@ -6948,9 +6683,7 @@
    ],
    "artists": [
     {
-     "name": "Jesse Cook",
-     "mbid": "6e5490ff-714c-4e8c-9e7c-89a9f37bf9df",
-     "official_url": "http://www.jessecook.com/"
+     "name": "Jesse Cook"
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
@@ -6965,9 +6698,7 @@
    ],
    "artists": [
     {
-     "name": "Ibeyi",
-     "mbid": "a4e3e7ca-87d7-4d5d-8a36-72e5f043e378",
-     "official_url": "http://www.ibeyi.fr/"
+     "name": "Ibeyi"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -6984,13 +6715,10 @@
    ],
    "artists": [
     {
-     "name": "Youth Fountain",
-     "mbid": "06aeaca5-c65b-46df-ac4d-fe8820ddcf8e",
-     "official_url": "http://youthfountainmusic.com/"
+     "name": "Youth Fountain"
     },
     {
-     "name": "Relate",
-     "mbid": "ef289a5a-96de-4d99-aea7-b86d2073877f"
+     "name": "Relate"
     },
     {
      "name": "R&B ONLY"
@@ -7005,7 +6733,7 @@
    "city": "San Diego",
    "performers": [
     "Ballyhoo!",
-    "Chad Tepper"
+    "Keep Flying"
    ],
    "artists": [
     {
@@ -7014,8 +6742,7 @@
      "official_url": "http://www.ballyhoorocks.com/"
     },
     {
-     "name": "Chad Tepper",
-     "mbid": "8d6a9ac0-3c59-467b-94e8-004bff4cc483"
+     "name": "Keep Flying"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -7047,9 +6774,7 @@
    ],
    "artists": [
     {
-     "name": "Mickey Avalon",
-     "mbid": "5879a47f-c54f-4ebe-8d63-cdc9c6310dd2",
-     "official_url": "http://www.mickeyavalon.com/"
+     "name": "Mickey Avalon"
     }
    ],
    "venue_url": null
@@ -7087,9 +6812,7 @@
    ],
    "artists": [
     {
-     "name": "Big Mountain",
-     "mbid": "bc6c4055-043d-4987-b6bd-4d4298284dff",
-     "official_url": "http://bigmountainband.com/"
+     "name": "Big Mountain"
     }
    ],
    "venue_url": null
@@ -7104,8 +6827,7 @@
    ],
    "artists": [
     {
-     "name": "The Neighbors",
-     "mbid": "a8f6f75e-1a80-4a2c-a285-aaaf1a5533e5"
+     "name": "The Neighbors"
     }
    ],
    "venue_url": null
@@ -7121,14 +6843,10 @@
    ],
    "artists": [
     {
-     "name": "Smith & Myers",
-     "mbid": "82019e6f-ca43-4585-8b84-bec1ff801493",
-     "official_url": "https://www.smithandmyersmusic.com/"
+     "name": "Smith & Myers"
     },
     {
-     "name": "Brian Dunne",
-     "mbid": "b12937a6-0668-4227-b035-6064196ad719",
-     "official_url": "http://www.briandunnemusic.net/"
+     "name": "Brian Dunne"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -7143,11 +6861,27 @@
    ],
    "artists": [
     {
-     "name": "Zach Seabaugh",
-     "mbid": "d8b01d75-edcf-413c-be0a-35ff3e82cc58"
+     "name": "Zach Seabaugh"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "belly-up-tavern:2027-02-03:orleans",
+   "date": "2027-02-03",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "Orleans"
+   ],
+   "artists": [
+    {
+     "name": "Orleans",
+     "mbid": "5049ad6c-5ca0-46cb-9416-4567597be83f",
+     "official_url": "http://orleansonline.com/"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
   },
   {
    "id": "balboa-theatre:2027-02-05:kodo",
@@ -7160,13 +6894,10 @@
    ],
    "artists": [
     {
-     "name": "Kodo",
-     "mbid": "5d8f2b23-4e8f-4320-b070-8f07323def78",
-     "official_url": "https://www.kodo.or.jp/en/"
+     "name": "Kodo"
     },
     {
-     "name": "La Jolla Music Society",
-     "mbid": "8a145cca-a95f-4127-a0b6-fbb77a533919"
+     "name": "La Jolla Music Society"
     }
    ],
    "venue_url": "https://www.balboatheatre.org/"
@@ -7215,16 +6946,13 @@
    ],
    "artists": [
     {
-     "name": "Heal The Hurt",
-     "mbid": "6098d0d1-e609-4a96-b7ce-3d11614a8638"
+     "name": "Heal The Hurt"
     },
     {
-     "name": "Cultist",
-     "mbid": "4545eb65-c958-4353-b81a-90040d2848ef"
+     "name": "Cultist"
     },
     {
-     "name": "Small Voice",
-     "mbid": "45e7d13e-c757-45aa-b4b3-b6fa47b20345"
+     "name": "Small Voice"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -7244,9 +6972,7 @@
      "mbid": "cea51d1f-273a-459f-b934-afe363e303de"
     },
     {
-     "name": "South Summit",
-     "mbid": "bf12f29e-dbf9-42f4-9f57-77ac02b242fc",
-     "official_url": "https://www.southsummitband.com/"
+     "name": "South Summit"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -7278,8 +7004,7 @@
    ],
    "artists": [
     {
-     "name": "Habstrakt",
-     "mbid": "0288aeff-5cf1-48b6-8a5a-b8709f0c9ef7"
+     "name": "Habstrakt"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -7311,8 +7036,7 @@
    ],
    "artists": [
     {
-     "name": "Puzzle",
-     "mbid": "4bdbc365-a6ed-4c92-835a-615355b04432"
+     "name": "Puzzle"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -7368,16 +7092,28 @@
      "official_url": "http://www.dropkickmurphys.com/"
     },
     {
-     "name": "Spiritual Cramp",
-     "mbid": "2e3cbfc3-62c7-40cb-84b5-e954d07107bb"
+     "name": "Spiritual Cramp"
     },
     {
-     "name": "Home Front",
-     "mbid": "61fe64d2-983d-487c-bcb8-1e2fe07a1c98",
-     "official_url": "https://www.homefrontband.com/"
+     "name": "Home Front"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
+  },
+  {
+   "id": "music-box:2027-02-08:rum-gold",
+   "date": "2027-02-08",
+   "venue": "Music Box",
+   "city": "San Diego",
+   "performers": [
+    "rum.gold"
+   ],
+   "artists": [
+    {
+     "name": "rum.gold"
+    }
+   ],
+   "venue_url": "https://www.musicboxsd.com/"
   },
   {
    "id": "belly-up-tavern:2027-02-10:ottmar-liebert-luna-negra",
@@ -7407,13 +7143,10 @@
    ],
    "artists": [
     {
-     "name": "Rare Americans",
-     "mbid": "78fcc713-214b-4f04-a84e-af800e2d34ba",
-     "official_url": "http://rareamericans.com/"
+     "name": "Rare Americans"
     },
     {
-     "name": "Naethan Apollo",
-     "mbid": "21ae9fbb-86ca-4815-9044-5ce2e73146b7"
+     "name": "Naethan Apollo"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -7428,9 +7161,7 @@
    ],
    "artists": [
     {
-     "name": "Don Omar",
-     "mbid": "afbdfac9-2955-4404-ae22-c08bf1c1b51e",
-     "official_url": "http://www.donomarmusic.net/"
+     "name": "Don Omar"
     }
    ],
    "venue_url": "https://www.pechangaarenasd.com/"
@@ -7478,14 +7209,10 @@
    ],
    "artists": [
     {
-     "name": "Rebirth Brass Band",
-     "mbid": "73701a01-07e2-44f7-8935-e094bdc22892",
-     "official_url": "http://www.rebirthbrassband.com/"
+     "name": "Rebirth Brass Band"
     },
     {
-     "name": "Nathan & The Zydeco Cha Chas",
-     "mbid": "ffb03a30-ba0b-4fa7-8b32-f4c5c5e8d34f",
-     "official_url": "http://www.zydecochachas.com/"
+     "name": "Nathan & The Zydeco Cha Chas"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -7500,9 +7227,7 @@
    ],
    "artists": [
     {
-     "name": "Rhiannon Giddens",
-     "mbid": "3f7574d9-94f3-46dc-8228-9d7358019d9f",
-     "official_url": "https://www.rhiannongiddens.com/"
+     "name": "Rhiannon Giddens"
     }
    ],
    "venue_url": null
@@ -7517,9 +7242,7 @@
    ],
    "artists": [
     {
-     "name": "Rhiannon Giddens",
-     "mbid": "3f7574d9-94f3-46dc-8228-9d7358019d9f",
-     "official_url": "https://www.rhiannongiddens.com/"
+     "name": "Rhiannon Giddens"
     }
    ],
    "venue_url": "https://www.sandiegosymphony.org/"
@@ -7534,8 +7257,7 @@
    ],
    "artists": [
     {
-     "name": "Mark Mackay",
-     "mbid": "5dfce9c0-4ec6-4511-a4ae-29f33b098e9c"
+     "name": "Mark Mackay"
     }
    ],
    "venue_url": null
@@ -7552,22 +7274,31 @@
    ],
    "artists": [
     {
-     "name": "The Bouncing Souls",
-     "mbid": "429d5f26-329c-41cc-bdff-17c29dbf1fb8",
-     "official_url": "http://www.bouncingsouls.com/"
+     "name": "The Bouncing Souls"
     },
     {
-     "name": "The Suicide Machines",
-     "mbid": "c6d2cbdf-30e7-4233-a1b4-e892f116ada1",
-     "official_url": "https://suicidemachinesdetroit.com/"
+     "name": "The Suicide Machines"
     },
     {
-     "name": "The Aggrolites",
-     "mbid": "ac241ded-3430-4f42-8451-f78667cc2f52",
-     "official_url": "http://aggroreggae.com/"
+     "name": "The Aggrolites"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
+  },
+  {
+   "id": "house-of-blues:2027-02-13:save-ferris",
+   "date": "2027-02-13",
+   "venue": "House of Blues",
+   "city": "San Diego",
+   "performers": [
+    "Save Ferris"
+   ],
+   "artists": [
+    {
+     "name": "Save Ferris"
+    }
+   ],
+   "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
    "id": "music-box:2027-02-13:the-taylor-party-taylor-swift-night",
@@ -7647,6 +7378,23 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "quartyard:2027-02-18:two-lanes",
+   "date": "2027-02-18",
+   "venue": "Quartyard",
+   "city": "San Diego",
+   "performers": [
+    "Two Lanes"
+   ],
+   "artists": [
+    {
+     "name": "Two Lanes",
+     "mbid": "3f808f31-4631-43f4-81b7-c98594744421",
+     "official_url": "https://www.twolanesmusic.com/"
+    }
+   ],
+   "venue_url": "https://quartyardsd.com/"
+  },
+  {
    "id": "the-magnolia:2027-02-18:the-mavericks",
    "date": "2027-02-18",
    "venue": "The Magnolia",
@@ -7656,9 +7404,7 @@
    ],
    "artists": [
     {
-     "name": "The Mavericks",
-     "mbid": "21e68cc5-1295-4b66-8f4d-6ba58d63f78c",
-     "official_url": "https://www.themavericksband.com/"
+     "name": "The Mavericks"
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
@@ -7722,9 +7468,7 @@
    ],
    "artists": [
     {
-     "name": "Mouse Powell",
-     "mbid": "92857035-dceb-4f1e-b184-fdf6c6099386",
-     "official_url": "http://www.mousepowell.com/"
+     "name": "Mouse Powell"
     },
     {
      "name": "Amp Melo"
@@ -7743,13 +7487,10 @@
    ],
    "artists": [
     {
-     "name": "BIG D AND THE KIDS TABLE",
-     "mbid": "acb31795-164b-49b5-b50e-1422bbf13898",
-     "official_url": "http://bigdandthekidstable.com/"
+     "name": "BIG D AND THE KIDS TABLE"
     },
     {
-     "name": "Hell Beach",
-     "mbid": "c5b24dc3-afd4-41f4-b810-ceff1245cec1"
+     "name": "Hell Beach"
     }
    ],
    "venue_url": null
@@ -7782,14 +7523,10 @@
    ],
    "artists": [
     {
-     "name": "Bad Suns",
-     "mbid": "95015b4c-1aef-4e28-9d36-c9546c194f0c",
-     "official_url": "https://badsuns.com/"
+     "name": "Bad Suns"
     },
     {
-     "name": "Brooke Alexx",
-     "mbid": "b17da827-9bb0-4975-91cf-fb7cb18cab2e",
-     "official_url": "https://www.brookealexx.com/"
+     "name": "Brooke Alexx"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -7804,9 +7541,7 @@
    ],
    "artists": [
     {
-     "name": "Hot Freaks",
-     "mbid": "c9fc1027-3fce-4d79-a634-5bde4344dce4",
-     "official_url": "https://hotfreaks.band/"
+     "name": "Hot Freaks"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -7822,14 +7557,10 @@
    ],
    "artists": [
     {
-     "name": "Good Boy Daisy",
-     "mbid": "bd19d928-fdab-4c46-b97c-9df9f5a2dde6",
-     "official_url": "https://goodboydaisy.com/"
+     "name": "Good Boy Daisy"
     },
     {
-     "name": "Lake Drive",
-     "mbid": "9a7fcb79-9a5f-4fc6-a872-17f49e666243",
-     "official_url": "https://lakedriveband.com/"
+     "name": "Lake Drive"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -7859,8 +7590,7 @@
    ],
    "artists": [
     {
-     "name": "L.A.B.",
-     "mbid": "b2ecfc7e-b61e-40eb-9fc5-4d29dfd59d20"
+     "name": "L.A.B."
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -7911,17 +7641,13 @@
    ],
    "artists": [
     {
-     "name": "North by North",
-     "mbid": "8248c907-4034-45bb-8652-5ec0724baaeb"
+     "name": "North by North"
     },
     {
-     "name": "The Martinis",
-     "mbid": "097524cf-ae0f-4ff8-9970-f406ac03b1e4",
-     "official_url": "http://www.themartinis.com/"
+     "name": "The Martinis"
     },
     {
-     "name": "The Erasers",
-     "mbid": "7e5d5521-cc66-4d8a-a40f-57b592ba2685"
+     "name": "The Erasers"
     }
    ],
    "venue_url": null
@@ -7937,13 +7663,10 @@
    ],
    "artists": [
     {
-     "name": "Emily Ann Roberts",
-     "mbid": "a3d61d68-13ce-47a5-a600-e86bc896b170",
-     "official_url": "https://www.emilyannroberts.com/"
+     "name": "Emily Ann Roberts"
     },
     {
-     "name": "Cole Goodwin",
-     "mbid": "d084ab60-4ff7-48a0-bc23-f2ca916b1669"
+     "name": "Cole Goodwin"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -7958,9 +7681,7 @@
    ],
    "artists": [
     {
-     "name": "Kenia Os",
-     "mbid": "f28b704b-38e2-4b01-b51a-5337d7e5ac2d",
-     "official_url": "https://keniaosshop.com/"
+     "name": "Kenia Os"
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
@@ -7995,6 +7716,23 @@
     }
    ],
    "venue_url": null
+  },
+  {
+   "id": "quartyard:2027-02-27:sh-heri",
+   "date": "2027-02-27",
+   "venue": "Quartyard",
+   "city": "San Diego",
+   "performers": [
+    "SH\u0100HERI"
+   ],
+   "artists": [
+    {
+     "name": "SH\u0100HERI",
+     "mbid": "e1052910-cae3-4b09-9bd5-1348ee89147e",
+     "official_url": "https://www.shaheri.com/"
+    }
+   ],
+   "venue_url": "https://quartyardsd.com/"
   },
   {
    "id": "the-holding-company:2027-02-27:alt-bloom-doublecamp",
@@ -8036,9 +7774,7 @@
    ],
    "artists": [
     {
-     "name": "Yuridia",
-     "mbid": "15ba83b7-d89a-4dd6-9695-1290fb567493",
-     "official_url": "http://yuridia.the-up.com/"
+     "name": "Yuridia"
     }
    ],
    "venue_url": null
@@ -8087,9 +7823,7 @@
    ],
    "artists": [
     {
-     "name": "Jack & Jack",
-     "mbid": "51f447ee-e5ba-4cc1-b27c-42ea5a6103ec",
-     "official_url": "http://jackandjackofficial.com/"
+     "name": "Jack & Jack"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -8122,17 +7856,13 @@
    ],
    "artists": [
     {
-     "name": "2hollis",
-     "mbid": "8bd5a8fb-4c25-401d-a597-2c24affdd5c5",
-     "official_url": "https://www.2hollis.life/"
+     "name": "2hollis"
     },
     {
-     "name": "Lucy Bedroque",
-     "mbid": "bb7959ac-84cc-45c4-8138-d80ee5f2bd9a"
+     "name": "Lucy Bedroque"
     },
     {
-     "name": "Conceal",
-     "mbid": "9e9e5467-33c2-40de-b394-52fbccbcd38c"
+     "name": "Conceal"
     }
    ],
    "venue_url": null
@@ -8148,14 +7878,10 @@
    ],
    "artists": [
     {
-     "name": "Rayland Baxter",
-     "mbid": "9dd9a2fb-891e-44d8-97ef-ca1d69aa2d7a",
-     "official_url": "http://www.raylandbaxter.com/"
+     "name": "Rayland Baxter"
     },
     {
-     "name": "Alex Amen",
-     "mbid": "b247c3c9-cacf-4a86-9007-d7ababe69576",
-     "official_url": "https://alexamen.com/"
+     "name": "Alex Amen"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -8188,14 +7914,10 @@
    ],
    "artists": [
     {
-     "name": "Braxton Keith",
-     "mbid": "fcd96c03-d107-4071-911d-62f78cd632bb",
-     "official_url": "https://www.braxtonkeithmusic.com/"
+     "name": "Braxton Keith"
     },
     {
-     "name": "Tyla Rodrigues",
-     "mbid": "0a026260-757d-4e7c-84cd-2536685c31e6",
-     "official_url": "https://tylarodriguesmusic.com/"
+     "name": "Tyla Rodrigues"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -8210,9 +7932,7 @@
    ],
    "artists": [
     {
-     "name": "Danielle Ponder",
-     "mbid": "e7765329-e8ed-4f84-a69b-394212b631dd",
-     "official_url": "https://danielleponder.com/"
+     "name": "Danielle Ponder"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -8248,8 +7968,7 @@
      "name": "Journey USA"
     },
     {
-     "name": "Hair Force One",
-     "mbid": "b4947fdd-3ae7-4399-bb74-5d94e842e588"
+     "name": "Hair Force One"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -8264,9 +7983,7 @@
    ],
    "artists": [
     {
-     "name": "Wasia Project",
-     "mbid": "145336bb-1faf-47f3-92aa-08471650edcc",
-     "official_url": "https://wasiaproject.com/"
+     "name": "Wasia Project"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -8281,8 +7998,7 @@
    ],
    "artists": [
     {
-     "name": "Ely Oaks",
-     "mbid": "7ed85dd7-124e-477b-9bdf-81f4b3237042"
+     "name": "Ely Oaks"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -8314,13 +8030,10 @@
    ],
    "artists": [
     {
-     "name": "Chelsea Cutler",
-     "mbid": "ae34b97a-83ae-423c-bc2d-9cc7c0e4244d",
-     "official_url": "https://www.chelseacutler.com/"
+     "name": "Chelsea Cutler"
     },
     {
-     "name": "googly eyes",
-     "mbid": "216e4623-7fdb-4000-89cd-552cc29ca768"
+     "name": "googly eyes"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -8337,17 +8050,13 @@
    ],
    "artists": [
     {
-     "name": "Elevation Worship",
-     "mbid": "f3bb45c8-dcb3-4358-ab21-645e6d0935e4",
-     "official_url": "https://elevationworship.com/"
+     "name": "Elevation Worship"
     },
     {
      "name": "Pastor Steven Furtick"
     },
     {
-     "name": "Elevation Rhythm",
-     "mbid": "821b331b-cdd9-4a0c-9ea8-05cfdefde9ba",
-     "official_url": "https://elevationworship.com/elevation-rhythm/"
+     "name": "Elevation Rhythm"
     }
    ],
    "venue_url": null
@@ -8383,8 +8092,7 @@
    ],
    "artists": [
     {
-     "name": "Marlon Asher",
-     "mbid": "7f043106-19d6-4be9-9d32-8b877c5c0b7e"
+     "name": "Marlon Asher"
     }
    ],
    "venue_url": null
@@ -8399,9 +8107,7 @@
    ],
    "artists": [
     {
-     "name": "Pete Yorn",
-     "mbid": "3533dea4-218c-4fc9-ab6e-2e3dc0ffde6e",
-     "official_url": "http://www.peteyorn.com/"
+     "name": "Pete Yorn"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -8417,14 +8123,10 @@
    ],
    "artists": [
     {
-     "name": "As I Lay Dying",
-     "mbid": "ba147ea0-60c4-4a40-9da6-0d5c2b2e7b03",
-     "official_url": "http://asilaydying.com/"
+     "name": "As I Lay Dying"
     },
     {
-     "name": "Immortal Disfigurement",
-     "mbid": "9c49742e-644a-4dc8-ad90-1d2c915a96c2",
-     "official_url": "https://immortaldisfigurement.com/"
+     "name": "Immortal Disfigurement"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -8519,8 +8221,7 @@
      "official_url": "http://philadelphonic.com/"
     },
     {
-     "name": "Todd Carey",
-     "mbid": "6b43356c-ab09-4dc4-893b-84fc18822eba"
+     "name": "Todd Carey"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -8536,9 +8237,7 @@
    ],
    "artists": [
     {
-     "name": "Wayward Sons",
-     "mbid": "6f90de3f-ab29-4427-aa29-8651d627e911",
-     "official_url": "http://www.waywardsonsband.com/"
+     "name": "Wayward Sons"
     },
     {
      "name": "DJ Mr. 80s"
@@ -8556,11 +8255,25 @@
    ],
    "artists": [
     {
-     "name": "2027",
-     "mbid": "a4b1bb8e-2db4-48c2-af87-4fd34ba0b847"
+     "name": "2027"
     }
    ],
    "venue_url": "https://quartyardsd.com/"
+  },
+  {
+   "id": "soma:2027-03-12:liquid-stranger",
+   "date": "2027-03-12",
+   "venue": "SOMA",
+   "city": "San Diego",
+   "performers": [
+    "Liquid Stranger"
+   ],
+   "artists": [
+    {
+     "name": "Liquid Stranger"
+    }
+   ],
+   "venue_url": "https://www.somasandiego.com/"
   },
   {
    "id": "san-diego-civic-theatre:2027-03-12:flans",
@@ -8572,8 +8285,7 @@
    ],
    "artists": [
     {
-     "name": "Flans",
-     "mbid": "401ece69-dba5-431d-a5bc-dd44a68cf8cd"
+     "name": "Flans"
     }
    ],
    "venue_url": "https://www.sdcivic.org/"
@@ -8588,8 +8300,7 @@
    ],
    "artists": [
     {
-     "name": "Buena Vista Orchestra",
-     "mbid": "4503137b-02fb-48a6-88a3-20a8278025bd"
+     "name": "Buena Vista Orchestra"
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
@@ -8604,9 +8315,7 @@
    ],
    "artists": [
     {
-     "name": "CHVRCHES",
-     "mbid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
-     "official_url": "https://chvrch.es/"
+     "name": "CHVRCHES"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -8621,9 +8330,7 @@
    ],
    "artists": [
     {
-     "name": "El\u00edas Medina",
-     "mbid": "6cf61675-52bc-4084-9239-20fc3aec5d41",
-     "official_url": "https://lasonrisachueca.com/"
+     "name": "El\u00edas Medina"
     }
    ],
    "venue_url": "https://www.balboatheatre.org/"
@@ -8721,8 +8428,7 @@
    ],
    "artists": [
     {
-     "name": "Crush 40",
-     "mbid": "b5404b0a-2f16-4926-ac87-a7af655ec54e"
+     "name": "Crush 40"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -8769,9 +8475,7 @@
    ],
    "artists": [
     {
-     "name": "Twin Temple",
-     "mbid": "6d399877-9629-4877-9c0d-14df79b11ea5",
-     "official_url": "https://www.twintemple.com/"
+     "name": "Twin Temple"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -8792,9 +8496,7 @@
      "official_url": "https://www.vacationsband.com/"
     },
     {
-     "name": "twen",
-     "mbid": "9987f4cb-15a4-492d-964b-7afb5bf05470",
-     "official_url": "https://www.twenband.com/"
+     "name": "twen"
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
@@ -8811,14 +8513,10 @@
    ],
    "artists": [
     {
-     "name": "Nile",
-     "mbid": "adc68a50-38ee-456d-927e-715cbf74c0d5",
-     "official_url": "https://www.nile-official.com/"
+     "name": "Nile"
     },
     {
-     "name": "Coroner",
-     "mbid": "509dc5b1-f264-43f3-9035-473e7020e77f",
-     "official_url": "https://coronerofficial.com/"
+     "name": "Coroner"
     },
     {
      "name": "Syn Absence"
@@ -8875,17 +8573,32 @@
      "name": "Frank Turner & the Sleeping Souls"
     },
     {
-     "name": "Skinny Lister",
-     "mbid": "02c9a5cc-f000-4887-80ae-dc7220632aba",
-     "official_url": "https://skinnylister.com/"
+     "name": "Skinny Lister"
     },
     {
-     "name": "Beans On Toast",
-     "mbid": "d60583e5-3bb9-4b00-acd6-26e7a6066f3a",
-     "official_url": "http://beansontoastmusic.com/"
+     "name": "Beans On Toast"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "belly-up-tavern:2027-03-26:pato-banton",
+   "date": "2027-03-26",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "Pato Banton",
+    "Common Sense"
+   ],
+   "artists": [
+    {
+     "name": "Pato Banton"
+    },
+    {
+     "name": "Common Sense"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
   },
   {
    "id": "harrah-s-resort-southern-california:2027-03-26:the-midtown-men",
@@ -8897,9 +8610,7 @@
    ],
    "artists": [
     {
-     "name": "The Midtown Men",
-     "mbid": "1c14a65c-3d8b-478c-9ae3-22752f8741be",
-     "official_url": "http://themidtownmen.com/"
+     "name": "The Midtown Men"
     }
    ],
    "venue_url": null
@@ -8914,9 +8625,7 @@
    ],
    "artists": [
     {
-     "name": "The Midtown Men",
-     "mbid": "1c14a65c-3d8b-478c-9ae3-22752f8741be",
-     "official_url": "http://themidtownmen.com/"
+     "name": "The Midtown Men"
     }
    ],
    "venue_url": "https://www.sandiegosymphony.org/"
@@ -8996,8 +8705,7 @@
    ],
    "artists": [
     {
-     "name": "Kash\u2019d Out",
-     "mbid": "25a4d3e5-2362-4ec0-9004-021db083da3a"
+     "name": "Kash\u2019d Out"
     }
    ],
    "venue_url": null
@@ -9012,8 +8720,7 @@
    ],
    "artists": [
     {
-     "name": "Valencia Grace",
-     "mbid": "a44d2071-eaf0-4b44-a0e2-56bfba10b778"
+     "name": "Valencia Grace"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -9048,25 +8755,34 @@
    ],
    "artists": [
     {
-     "name": "Four Year Strong",
-     "mbid": "c0a138e2-cef7-471b-8fbb-524e1076256a",
-     "official_url": "http://fouryearstrongmusic.com/"
+     "name": "Four Year Strong"
     },
     {
-     "name": "Drug Church",
-     "mbid": "32d2897c-4c91-46db-8161-f51d3f4f0d93"
+     "name": "Drug Church"
     },
     {
-     "name": "Heart Attack Man",
-     "mbid": "9f7a4907-9c6d-4e84-9a16-5bcaee2f8381",
-     "official_url": "http://official.heartattackman.com/"
+     "name": "Heart Attack Man"
     },
     {
-     "name": "Sunbloc",
-     "mbid": "4636a9ee-5f6c-463d-aa02-be2fa650c62b"
+     "name": "Sunbloc"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "the-holding-company:2027-04-09:babes-in-canyon",
+   "date": "2027-04-09",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "Babes In Canyon"
+   ],
+   "artists": [
+    {
+     "name": "Babes In Canyon"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "belly-up-tavern:2027-04-10:jerry-s-middle-finger",
@@ -9120,6 +8836,23 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "belly-up-tavern:2027-04-16:the-castellows",
+   "date": "2027-04-16",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "The Castellows"
+   ],
+   "artists": [
+    {
+     "name": "The Castellows",
+     "mbid": "1efc3e10-961b-4f24-bb51-2cc8692b85a6",
+     "official_url": "https://www.thecastellowsmusic.com/"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
+  },
+  {
    "id": "petco-park:2027-04-18:jesse-joy",
    "date": "2027-04-18",
    "venue": "Petco Park",
@@ -9129,9 +8862,7 @@
    ],
    "artists": [
     {
-     "name": "Jesse & Joy",
-     "mbid": "64b85e52-08db-4995-a6e3-d2a6acc5a058",
-     "official_url": "https://jesseyjoy.com/"
+     "name": "Jesse & Joy"
     }
    ],
    "venue_url": null
@@ -9147,14 +8878,10 @@
    ],
    "artists": [
     {
-     "name": "Yuri",
-     "mbid": "40bad6e2-77f9-47b7-b0da-ffe035a10f67",
-     "official_url": "http://www.yurioficial.com/"
+     "name": "Yuri"
     },
     {
-     "name": "Lucero",
-     "mbid": "1a681dad-cb15-43be-9d0f-4a807badff9f",
-     "official_url": "http://www.luceromusic.com/"
+     "name": "Lucero"
     }
    ],
    "venue_url": "https://theshell.org/"
@@ -9169,9 +8896,7 @@
    ],
    "artists": [
     {
-     "name": "Fonseca",
-     "mbid": "f84e0f7d-86b0-4957-8b17-6b46d6e47246",
-     "official_url": "https://fonseca.net/"
+     "name": "Fonseca"
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
@@ -9205,19 +8930,13 @@
    ],
    "artists": [
     {
-     "name": "Iron Maiden",
-     "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
-     "official_url": "http://www.ironmaiden.com/"
+     "name": "Iron Maiden"
     },
     {
-     "name": "Bullet for My Valentine",
-     "mbid": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
-     "official_url": "http://www.bulletformyvalentine.com/"
+     "name": "Bullet for My Valentine"
     },
     {
-     "name": "The Raven Age",
-     "mbid": "7004488a-6ddd-442e-9d62-7459aca24bee",
-     "official_url": "http://theravenage.org/"
+     "name": "The Raven Age"
     }
    ],
    "venue_url": null
@@ -9233,13 +8952,10 @@
    ],
    "artists": [
     {
-     "name": "Carly Rae Jepsen",
-     "mbid": "09887aa7-226e-4ecc-9a0c-02d2ae5777e1",
-     "official_url": "http://www.carlyraemusic.com/"
+     "name": "Carly Rae Jepsen"
     },
     {
-     "name": "Carol Ades",
-     "mbid": "5fe67b7e-2cfe-46a7-afe0-37018d579775"
+     "name": "Carol Ades"
     }
    ],
    "venue_url": null
@@ -9271,9 +8987,7 @@
    ],
    "artists": [
     {
-     "name": "Saint Levant",
-     "mbid": "015c8b7d-015b-4603-9792-18bb440178ac",
-     "official_url": "https://saintlevant.com/"
+     "name": "Saint Levant"
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
@@ -9303,9 +9017,7 @@
    ],
    "artists": [
     {
-     "name": "Terrian",
-     "mbid": "cb3909ac-ee5e-4e62-b986-0661c3d00e76",
-     "official_url": "https://www.iamterrian.com/"
+     "name": "Terrian"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -9335,9 +9047,7 @@
    ],
    "artists": [
     {
-     "name": "Josiah Queen",
-     "mbid": "a2c37c30-8945-49b8-9d35-128ba707f284",
-     "official_url": "https://www.josiahqueen.com/"
+     "name": "Josiah Queen"
     }
    ],
    "venue_url": null
@@ -9376,12 +9086,10 @@
      "official_url": "http://www.wearetheinterrupters.com/"
     },
     {
-     "name": "Doom Regulator",
-     "mbid": "2be0ea17-d7d4-4a1a-b932-6d0b1fe641ea"
+     "name": "Doom Regulator"
     },
     {
-     "name": "The Chin Chins",
-     "mbid": "8cd35d85-b8c1-4420-b7f1-bb5a4a718cca"
+     "name": "The Chin Chins"
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
@@ -9415,19 +9123,13 @@
    ],
    "artists": [
     {
-     "name": "Queens of the Stone Age",
-     "mbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
-     "official_url": "https://qotsa.com/"
+     "name": "Queens of the Stone Age"
     },
     {
-     "name": "Pixies",
-     "mbid": "b6b2bb8d-54a9-491f-9607-7b546023b433",
-     "official_url": "https://www.pixiesmusic.com/"
+     "name": "Pixies"
     },
     {
-     "name": "Wheelchair Sports Camp",
-     "mbid": "006563e0-f23c-4134-8813-85dd7f7d852b",
-     "official_url": "http://wheelchairsportscamp.co/"
+     "name": "Wheelchair Sports Camp"
     }
    ],
    "venue_url": null
@@ -9459,9 +9161,7 @@
    ],
    "artists": [
     {
-     "name": "Alaska Thunderfuck",
-     "mbid": "db2a4f7c-9c79-46fb-912a-e508fe97b864",
-     "official_url": "http://www.alaskathunderfuck.com/"
+     "name": "Alaska Thunderfuck"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -9476,9 +9176,7 @@
    ],
    "artists": [
     {
-     "name": "Cleopatrick",
-     "mbid": "69c8cacb-12a6-4cee-9221-02eb3c396c04",
-     "official_url": "https://cleopatrick.com/"
+     "name": "Cleopatrick"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -9510,9 +9208,7 @@
    ],
    "artists": [
     {
-     "name": "Luka Sulic",
-     "mbid": "0afe2d8d-2445-46e5-a165-7d7dda2b8330",
-     "official_url": "http://www.lukasulic.com/"
+     "name": "Luka Sulic"
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
@@ -9529,19 +9225,13 @@
    ],
    "artists": [
     {
-     "name": "Metallica",
-     "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
-     "official_url": "https://www.metallica.com/"
+     "name": "Metallica"
     },
     {
-     "name": "Limp Bizkit",
-     "mbid": "8f9d6bb2-dba4-4cca-9967-cc02b9f4820c",
-     "official_url": "http://www.limpbizkit.com/"
+     "name": "Limp Bizkit"
     },
     {
-     "name": "Avatar",
-     "mbid": "a8d77515-f7b7-4d71-9646-8446a3b2a341",
-     "official_url": "https://avatarmetal.com/"
+     "name": "Avatar"
     }
    ],
    "venue_url": "https://www.snapdragonstadium.com/"
@@ -9563,6 +9253,31 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "soma:2027-05-16:the-chats",
+   "date": "2027-05-16",
+   "venue": "SOMA",
+   "city": "San Diego",
+   "performers": [
+    "The Chats",
+    "Chain Whip",
+    "Gymshorts"
+   ],
+   "artists": [
+    {
+     "name": "The Chats",
+     "mbid": "aafe3816-2d68-4528-adda-d68514c940d4",
+     "official_url": "https://www.thechatslovebeer.com/"
+    },
+    {
+     "name": "Chain Whip"
+    },
+    {
+     "name": "Gymshorts"
+    }
+   ],
+   "venue_url": "https://www.somasandiego.com/"
+  },
+  {
    "id": "house-of-blues:2027-05-19:keo",
    "date": "2027-05-19",
    "venue": "House of Blues",
@@ -9572,9 +9287,7 @@
    ],
    "artists": [
     {
-     "name": "Keo",
-     "mbid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc",
-     "official_url": "https://keoband.co.uk/"
+     "name": "Keo"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -9590,14 +9303,10 @@
    ],
    "artists": [
     {
-     "name": "Powerman 5000",
-     "mbid": "0a41f86c-ced1-44e0-95a2-5c8b2368ab1d",
-     "official_url": "http://www.powerman5000.com/"
+     "name": "Powerman 5000"
     },
     {
-     "name": "Stone Whiskey",
-     "mbid": "982fe12e-b91c-43f3-a7fc-c96a8c3a8a5b",
-     "official_url": "https://stonewhiskeyband.com/"
+     "name": "Stone Whiskey"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -9628,13 +9337,10 @@
    ],
    "artists": [
     {
-     "name": "DIIV",
-     "mbid": "b5ff61dd-0154-4e80-b46b-c733f87db602",
-     "official_url": "https://diiv.net/"
+     "name": "DIIV"
     },
     {
-     "name": "she's green",
-     "mbid": "f23579e2-d625-4fca-a796-ec349d89c3a7"
+     "name": "she's green"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -9649,9 +9355,7 @@
    ],
    "artists": [
     {
-     "name": "Calvin Harris",
-     "mbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
-     "official_url": "https://calvinharris.com/"
+     "name": "Calvin Harris"
     }
    ],
    "venue_url": null
@@ -9682,9 +9386,7 @@
    ],
    "artists": [
     {
-     "name": "Calvin Harris",
-     "mbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
-     "official_url": "https://calvinharris.com/"
+     "name": "Calvin Harris"
     }
    ],
    "venue_url": null
@@ -9699,9 +9401,7 @@
    ],
    "artists": [
     {
-     "name": "Calvin Harris",
-     "mbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
-     "official_url": "https://calvinharris.com/"
+     "name": "Calvin Harris"
     }
    ],
    "venue_url": null
@@ -9722,9 +9422,7 @@
      "official_url": "http://twodoorcinemaclub.com/"
     },
     {
-     "name": "Friendly Fires",
-     "mbid": "ef656595-bbe8-4386-8953-be8df9f54472",
-     "official_url": "http://friendlyfires.co.uk/"
+     "name": "Friendly Fires"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
@@ -9735,13 +9433,17 @@
    "venue": "Music Box",
    "city": "San Diego",
    "performers": [
-    "Hazlett"
+    "Hazlett",
+    "Hunter Metts"
    ],
    "artists": [
     {
      "name": "Hazlett",
      "mbid": "09d13fa7-ce48-4300-be4c-0a8eff2cdb98",
      "official_url": "https://thisishazlett.com/"
+    },
+    {
+     "name": "Hunter Metts"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -9773,8 +9475,7 @@
    ],
    "artists": [
     {
-     "name": "NSQK",
-     "mbid": "ed5f6556-a20c-45e1-b743-89d2bb4141a3"
+     "name": "NSQK"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -9790,14 +9491,10 @@
    ],
    "artists": [
     {
-     "name": "A Perfect Circle",
-     "mbid": "078a9376-3c04-4280-b7d7-b20e158f345d",
-     "official_url": "http://aperfectcircle.com/"
+     "name": "A Perfect Circle"
     },
     {
-     "name": "The Cult",
-     "mbid": "8846e4ff-0c19-4af2-872b-7a8dc7497f68",
-     "official_url": "http://www.thecult.us/"
+     "name": "The Cult"
     }
    ],
    "venue_url": null
@@ -9812,8 +9509,7 @@
    ],
    "artists": [
     {
-     "name": "Summer Nights",
-     "mbid": "88ce498b-7512-4819-8596-95448d8d2e08"
+     "name": "Summer Nights"
     }
    ],
    "venue_url": null
@@ -9828,9 +9524,7 @@
    ],
    "artists": [
     {
-     "name": "Donny Osmond",
-     "mbid": "0caf9760-a755-4f14-a0ac-f669991527ab",
-     "official_url": "http://donny.com/"
+     "name": "Donny Osmond"
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
@@ -9902,14 +9596,10 @@
      "official_url": "https://lizzymcalpine.com/"
     },
     {
-     "name": "Searows",
-     "mbid": "c1401838-551f-4176-8594-86f0ce28d3c2",
-     "official_url": "https://www.searows.com/"
+     "name": "Searows"
     },
     {
-     "name": "Post Animal",
-     "mbid": "40c857d5-6ab0-41f4-aa1d-7614a79a0686",
-     "official_url": "https://www.postanimal.us/"
+     "name": "Post Animal"
     }
    ],
    "venue_url": "https://theshell.org/"
@@ -9926,19 +9616,13 @@
    ],
    "artists": [
     {
-     "name": "Stick Figure",
-     "mbid": "0c124600-18da-4087-be0d-d7fb6a2526c6",
-     "official_url": "http://www.stickfiguremusic.com/"
+     "name": "Stick Figure"
     },
     {
-     "name": "The Elovaters",
-     "mbid": "2f9db9dd-0733-411a-9dca-b88a2de9c086",
-     "official_url": "https://theelovaters.com/"
+     "name": "The Elovaters"
     },
     {
-     "name": "Harry Mack",
-     "mbid": "7195d59c-423c-4122-a2cb-404e2bf9c902",
-     "official_url": "https://www.harrymackofficial.com/"
+     "name": "Harry Mack"
     }
    ],
    "venue_url": null
@@ -9953,8 +9637,7 @@
    ],
    "artists": [
     {
-     "name": "Ciscaux",
-     "mbid": "d0935f00-6341-4c92-b462-4296a2f34345"
+     "name": "Ciscaux"
     }
    ],
    "venue_url": null
@@ -10003,19 +9686,13 @@
    ],
    "artists": [
     {
-     "name": "Stephen Bishop",
-     "mbid": "6cf4f18c-2455-47ed-9f6c-953e2f107406",
-     "official_url": "https://www.stephenbishop.com/"
+     "name": "Stephen Bishop"
     },
     {
-     "name": "David Wilcox",
-     "mbid": "694b6a5a-e984-47f4-9a21-1a1ee76044df",
-     "official_url": "http://davidwilcox.com/"
+     "name": "David Wilcox"
     },
     {
-     "name": "Jack Tempchin",
-     "mbid": "8d26171b-7911-4c04-88e6-ad0e9e9d65f2",
-     "official_url": "http://tempchin.com/"
+     "name": "Jack Tempchin"
     }
    ],
    "venue_url": "https://www.balboatheatre.org/"
@@ -10084,8 +9761,7 @@
      "name": "Apocalypse Dudes"
     },
     {
-     "name": "The Tramplers",
-     "mbid": "2dd206fe-92d4-4cc7-9578-6a18b2b20367"
+     "name": "The Tramplers"
     }
    ],
    "venue_url": null
