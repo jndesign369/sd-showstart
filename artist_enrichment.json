@@ -1,5 +1,0 @@
-{
-  "enabled": true,
-  "max_requests": 600,
-  "cache_days": 30
-}

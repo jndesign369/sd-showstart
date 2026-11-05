@@ -26,13 +26,21 @@ python -m unittest discover -s tests
 ## Twice-daily automatic updates (GitHub Pages)
 
 1. Push this folder to a GitHub repository.
-2. In the repository: Settings → Pages → Deploy from a branch → `main`, `/ (root)`.
-3. The included `.github/workflows/update.yml` runs at 7:30am and 7:30pm
-   Pacific, runs the tests, refreshes `shows.json`, and commits.
+2. In the repository: Settings → Pages → Source → GitHub Actions.
+3. The included `.github/workflows/update.yml` runs twice daily at 7:30am
+   and 7:30pm Pacific Standard Time (8:30am and 8:30pm during daylight
+   saving time). GitHub may delay scheduled runs.
+4. Each scheduled run tests, collects, links artists, saves the data, and
+   deploys the site. Pushes deploy the saved snapshot without scraping.
+5. For an immediate refresh: Actions → Update shows → Run workflow,
+   leaving “Collect fresh ConcertsSD listings before deploying” checked.
+
+Only `index.html`, `shows.json`, and `VERSION` are deployed. The lookup
+cache, Python scripts, and tests are not part of the public website.
 
 The workflow makes two requests to ConcertsSD per run (their robots.txt asks
 for a 10-second crawl delay, which the collector observes) and only queries
-MusicBrainz for artist names it has not seen before.
+MusicBrainz for new names or responses older than its 30-day cache lifetime.
 
 ## Keeping it accurate
 

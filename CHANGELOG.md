@@ -4,6 +4,21 @@ This file tracks downloadable kit releases, not daily listing refreshes on a
 running website. The first numbered release establishes a baseline for the
 previously unnumbered kit; no historical version numbers have been invented.
 
+## v0.4.1 (2026-11-04)
+
+- Complete deployment of the simplified v0.4.0 edition uploaded by the user.
+- Replace the old multi-venue workflow with ConcertsSD collection,
+  MusicBrainz enrichment, and explicit GitHub Pages deployment.
+- Run collection twice daily; keep the lookup cache out of the deployed site.
+- Restore the simple edition's fixtures and regression tests.
+- Remove superseded scrapers and configuration; earlier versions remain in git history.
+
+## v0.4.0 (2026-11-02)
+
+- Simplified edition: collect artist names, dates, and venues from ConcertsSD.
+- Link artists using MusicBrainz official-homepage results and venues using
+  an editable list of venue websites.
+
 ## v0.3.0 (2026-10-31)
 
 ### Changed at the user's request
