@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>San Diego Shows</title>
-<meta name="description" content="Upcoming live music shows in San Diego: times, venues, ticket links.">
+<meta name="description" content="Upcoming live music in San Diego: artists, dates, and venues.">
 <style>
   :root {
     --bg: #ffffff;
@@ -33,7 +33,7 @@
     color: var(--text);
     background: var(--bg);
   }
-  main { max-width: 980px; margin: 0 auto; padding: 24px 20px 60px; }
+  main { max-width: 860px; margin: 0 auto; padding: 24px 20px 60px; }
   h1 { font-size: 1.5rem; margin: 0 0 4px; }
   .sub { color: var(--muted); font-size: 0.9rem; margin: 0 0 20px; }
   .controls {
@@ -47,7 +47,7 @@
   .controls input[type="search"] { min-width: 220px; flex: 1; }
   .legend { font-size: 0.85rem; color: var(--muted); margin-left: auto; }
   .table-wrap { overflow-x: auto; }
-  table { border-collapse: collapse; width: 100%; min-width: 720px; font-size: 0.95rem; }
+  table { border-collapse: collapse; width: 100%; min-width: 560px; font-size: 0.95rem; }
   th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
   @media (max-width: 640px) {
     .table-wrap { overflow-x: visible; }
@@ -70,8 +70,7 @@
   thead th:hover { color: var(--text); }
   tbody tr:hover { background: var(--hover); }
   td.date { white-space: nowrap; }
-  td.time { white-space: nowrap; font-variant-numeric: tabular-nums; }
-  .doors { color: var(--muted); font-size: 0.85em; }
+  .muted { color: var(--muted); font-size: 0.85em; }
   a { color: var(--accent); text-decoration: none; }
   a:hover { text-decoration: underline; }
   .empty { padding: 30px 0; color: var(--muted); }
@@ -82,12 +81,11 @@
 <body>
 <main>
   <h1>San Diego Shows</h1>
-  <p class="sub">Upcoming live music, collected daily from venue websites. No graphics, just the facts.</p>
+  <p class="sub">Upcoming live music. No graphics, just the facts.</p>
 
   <div class="controls">
-    <input id="q" type="search" placeholder="Search band or venue..." aria-label="Search shows">
+    <input id="q" type="search" placeholder="Search artist or venue..." aria-label="Search shows">
     <select id="venue" aria-label="Filter by venue"><option value="">All venues</option></select>
-    <select id="source" aria-label="Filter by source"><option value="">All sources</option></select>
     <span class="legend" id="count"></span>
   </div>
 
@@ -96,10 +94,8 @@
     <thead>
       <tr>
         <th data-key="date">Date</th>
-        <th data-key="time">Time</th>
-        <th data-key="title">Artist / listing</th>
+        <th data-key="artist">Artist</th>
         <th data-key="venue">Venue</th>
-        <th data-key="ticket">Tickets</th>
       </tr>
     </thead>
     <tbody id="rows"></tbody>
@@ -108,8 +104,8 @@
   <p class="empty" id="empty" hidden>No shows found.</p>
 
   <footer>
-    <p>Data collected from venue websites; times are Pacific. Doors time shown in parentheses when published.</p>
-    <p>Artist names link automatically to <a href="https://musicbrainz.org/doc/MusicBrainz_API">MusicBrainz</a> “official homepage” results. No homepage returned means no artist link. Ticket links are separate; MusicBrainz matches are not independently verified.</p>
+    <p>Listing facts collected from <a href="https://concertssd.com/">The List: San Diego (ConcertsSD)</a>; check their site for times, prices, and tickets.</p>
+    <p>Artist names link automatically to <a href="https://musicbrainz.org/">MusicBrainz</a> "official homepage" results; no homepage means no link. Venue names link to official venue websites where known.</p>
     <p id="meta"></p>
   </footer>
 </main>
@@ -118,14 +114,7 @@
 (function () {
   "use strict";
 
-  var state = {
-    shows: [],
-    query: "",
-    venue: "",
-    source: "",
-    sortKey: "date",
-    sortDir: 1
-  };
+  var state = { shows: [], query: "", venue: "", sortKey: "date", sortDir: 1 };
 
   var MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
   var DAYS = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
@@ -138,18 +127,7 @@
     return s;
   }
 
-  function fmtTime(t) {
-    if (!t) return "";
-    var p = t.split(":");
-    var h = +p[0], m = +p[1];
-    var ap = h >= 12 ? "pm" : "am";
-    h = h % 12 || 12;
-    return h + (m ? ":" + p[1] : "") + ap;
-  }
-
   function todayISO() {
-    // Pacific time, so the list does not drop today's shows early for
-    // visitors in other timezones.
     return new Intl.DateTimeFormat("en-CA", {
       timeZone: "America/Los_Angeles"
     }).format(new Date());
@@ -169,41 +147,13 @@
     } catch (_) { return null; }
   }
 
-  function artistURL(artist, show) {
-    var url = safeURL(artist.official_url);
-    if (!url || artist.website_verified !== true || !safeURL(artist.evidence_url) ||
-        !/^\d{4}-\d{2}-\d{2}$/.test(artist.verified_at || "") ||
-        artist.verified_at > todayISO()) return null;
-    var host = new URL(url).hostname.toLowerCase().replace(/\.$/, "");
-    var blocked = ["ticketmaster.com", "ticketweb.com", "axs.com", "dice.fm",
-      "eventbrite.com", "seetickets.us", "seetickets.com", "showclix.com",
-      "etix.com", "tixr.com", "facebook.com", "instagram.com", "x.com",
-      "twitter.com", "tiktok.com", "youtube.com", "youtu.be", "spotify.com",
-      "linktr.ee", "bit.ly", "musicbrainz.org", "setlist.fm", "bandsintown.com", "songkick.com"];
-    if (artist.verification_method !== "musicbrainz_official_homepage" &&
-        blocked.some(function (h) { return host === h || host.endsWith("." + h); })) return null;
-    if ([show.ticket_url, show.event_url, show.venue_url].some(function (u) {
-      return safeURL(u) === url;
-    })) return null;
-    return url;
-  }
-
-  function artistText(show) {
-    var artists = Array.isArray(show.artists) ? show.artists : [];
-    return artists.map(function (a) { return a.name || ""; }).join(" ");
-  }
-
   function artistHTML(show) {
-    var artists = Array.isArray(show.artists) ? show.artists : [];
-    if (!artists.length) return esc(show.title);
-    var names = artists.map(function (a) {
-      var url = artistURL(a, show);
-      return url ? '<a href="' + esc(url) + '">' + esc(a.name) + '</a>' : esc(a.name);
+    var artists = Array.isArray(show.artists) && show.artists.length
+      ? show.artists : (show.performers || []).map(function (p) { return { name: p }; });
+    return artists.map(function (a) {
+      var url = safeURL(a.official_url);
+      return url ? '<a href="' + esc(url) + '">' + esc(a.name) + "</a>" : esc(a.name);
     }).join(", ");
-    // Keep source wording and context visible; never hyperlink a listing title.
-    var title = show.title.trim().toLowerCase();
-    var sameName = artists.length === 1 && artists[0].name.trim().toLowerCase() === title;
-    return names + (sameName ? "" : '<br><span class="doors">' + esc(show.title) + '</span>');
   }
 
   function filtered() {
@@ -212,21 +162,15 @@
     return state.shows.filter(function (s) {
       if (s.date < today) return false;
       if (state.venue && s.venue !== state.venue) return false;
-      if (state.source && s.source !== state.source) return false;
-      if (q && (s.title + " " + artistText(s)).toLowerCase().indexOf(q) === -1 &&
-          s.venue.toLowerCase().indexOf(q) === -1) return false;
+      if (q && ((s.performers || []).join(" ") + " " + s.venue).toLowerCase().indexOf(q) === -1) return false;
       return true;
     });
   }
 
   function sortVal(show, key) {
-    switch (key) {
-      case "date": return show.date + "|" + (show.show_time || "");
-      case "time": return (show.show_time || "99:99") + "|" + show.date;
-      case "title": return show.title.toLowerCase();
-      case "venue": return show.venue.toLowerCase();
-      case "ticket": return show.ticket_url ? 0 : 1;
-    }
+    if (key === "artist") return (show.performers || []).join(", ").toLowerCase();
+    if (key === "venue") return show.venue.toLowerCase();
+    return show.date;
   }
 
   function render() {
@@ -235,17 +179,14 @@
       return va < vb ? -state.sortDir : va > vb ? state.sortDir : 0;
     });
 
-    var tbody = document.getElementById("rows");
-    tbody.innerHTML = rows.map(function (s) {
-      var time = fmtTime(s.show_time);
-      if (s.doors_time) time += ' <span class="doors">(doors ' + fmtTime(s.doors_time) + ")</span>";
+    document.getElementById("rows").innerHTML = rows.map(function (s) {
+      var venue = safeURL(s.venue_url);
       return "<tr>" +
         '<td class="date" data-label="Date">' + esc(fmtDate(s.date)) + "</td>" +
-        '<td class="time" data-label="Time">' + time + "</td>" +
-        '<td data-label="Artist / listing">' + artistHTML(s) +
-        (s.age_limit ? ' <span class="doors">' + esc(s.age_limit) + "</span>" : "") + "</td>" +
-        '<td data-label="Venue">' + (safeURL(s.venue_url) ? '<a href="' + esc(safeURL(s.venue_url)) + '">' + esc(s.venue) + "</a>" : esc(s.venue)) + "</td>" +
-        '<td data-label="Tickets">' + (safeURL(s.ticket_url) ? '<a href="' + esc(safeURL(s.ticket_url)) + '">' + (s.ticket_kind === "event_page" ? "event page" : "buy tickets") + "</a>" : "") + (s.sold_out ? ' <span class="doors">sold out</span>' : (safeURL(s.ticket_url) ? "" : "—")) + "</td>" +
+        '<td data-label="Artist">' + artistHTML(s) + "</td>" +
+        '<td data-label="Venue">' + (venue
+          ? '<a href="' + esc(venue) + '">' + esc(s.venue) + "</a>"
+          : esc(s.venue) + ' <span class="muted">' + esc(s.city) + "</span>") + "</td>" +
         "</tr>";
     }).join("");
 
@@ -278,26 +219,23 @@
   document.getElementById("venue").addEventListener("change", function (e) {
     state.venue = e.target.value; render();
   });
-  document.getElementById("source").addEventListener("change", function (e) {
-    state.source = e.target.value; render();
-  });
 
   fetch("shows.json", { cache: "no-store" })
     .then(function (r) { return r.json(); })
     .then(function (data) {
       state.shows = data.shows || [];
       fillSelect("venue", [...new Set(state.shows.map(function (s) { return s.venue; }))].sort());
-      fillSelect("source", [...new Set(state.shows.map(function (s) { return s.source; }))].sort());
-      var gen = data.generated_at ? "Updated " + data.generated_at.replace("T", " ").slice(0, 16) + " PT" : "";
-      var stale = Object.keys(data.sources || {})
-        .filter(function (k) { return data.sources[k].status !== "ok"; });
-      if (stale.length) gen += " — stale data for: " + stale.join(", ");
-      document.getElementById("meta").textContent = gen;
+      var meta = data.source && data.source.updated
+        ? "Source last updated " + data.source.updated : "";
+      if (data.generated_at) {
+        meta += (meta ? " — " : "") + "Collected " + data.generated_at.slice(0, 16).replace("T", " ") + " PT";
+      }
+      document.getElementById("meta").textContent = meta;
       render();
     })
     .catch(function () {
       document.getElementById("meta").textContent =
-        "Could not load shows.json. If you are opening this file directly from disk, serve the folder over HTTP (see README).";
+        "Could not load shows.json. Serve this folder over HTTP (see README).";
     });
 })();
 </script>
