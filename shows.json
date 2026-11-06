@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-06T03:13:27-08:00",
+ "generated_at": "2026-11-06T12:57:41-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 5, 2026"
+  "updated": "November 6, 2026"
  },
  "shows": [
   {
@@ -557,6 +557,22 @@
     },
     {
      "name": "DJ DK Brown"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "3oz-dive-club:2026-11-08:night-shift",
+   "date": "2026-11-08",
+   "venue": "3OZ Dive Club",
+   "city": "San Diego",
+   "performers": [
+    "Night Shift"
+   ],
+   "artists": [
+    {
+     "name": "Night Shift",
+     "mbid": "5c09dab9-e91f-4510-ad17-3a41335be9a7"
     }
    ],
    "venue_url": null
@@ -3237,13 +3253,18 @@
    "venue": "Humphreys Backstage Live",
    "city": "San Diego",
    "performers": [
-    "Chris James & Patrick Rynn"
+    "Chris James & Patrick Rynn",
+    "Wildside"
    ],
    "artists": [
     {
      "name": "Chris James & Patrick Rynn",
      "mbid": "7569c166-5240-4ad8-9c22-db30331842ec",
      "official_url": "http://www.chrisjamesandpatrickrynn.com/"
+    },
+    {
+     "name": "Wildside",
+     "mbid": "b49f390d-7206-4040-b55d-57bc975fcb17"
     }
    ],
    "venue_url": null
@@ -5098,6 +5119,21 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
+   "id": "dizzy-s-jazz:2026-12-15:grossmont-college-jazz-ensemble-cadence-vocal-jazz",
+   "date": "2026-12-15",
+   "venue": "Dizzy's Jazz",
+   "city": "San Diego",
+   "performers": [
+    "Grossmont College Jazz Ensemble & Cadence Vocal Jazz"
+   ],
+   "artists": [
+    {
+     "name": "Grossmont College Jazz Ensemble & Cadence Vocal Jazz"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "house-of-blues:2026-12-15:amigo-the-devil",
    "date": "2026-12-15",
    "venue": "House of Blues",
@@ -5255,16 +5291,16 @@
    "venue_url": "https://bellyup.com/"
   },
   {
-   "id": "dizzy-s-jazz:2026-12-17:chas-cabrera-the-sdscpa-big-band",
+   "id": "dizzy-s-jazz:2026-12-17:sdscpa-jazz-ensembles-featuring-christopher-hollyday",
    "date": "2026-12-17",
    "venue": "Dizzy's Jazz",
    "city": "San Diego",
    "performers": [
-    "Chas Cabrera & the SDSCPA big band"
+    "SDSCPA Jazz Ensembles Featuring Christopher Hollyday"
    ],
    "artists": [
     {
-     "name": "Chas Cabrera & the SDSCPA big band"
+     "name": "SDSCPA Jazz Ensembles Featuring Christopher Hollyday"
     }
    ],
    "venue_url": null
@@ -5497,12 +5533,18 @@
    "venue": "The Sound",
    "city": "Del Mar",
    "performers": [
-    "nimino"
+    "nimino",
+    "Massane"
    ],
    "artists": [
     {
      "name": "nimino",
      "mbid": "e4f6a122-099e-4ced-9efe-f46da2a790fb"
+    },
+    {
+     "name": "Massane",
+     "mbid": "50889a89-c8d7-415d-b7bd-8603db6b4119",
+     "official_url": "https://www.massanemusic.com/"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
@@ -5946,13 +5988,17 @@
    "venue": "Belly Up Tavern",
    "city": "Solana Beach",
    "performers": [
-    "The Floozies"
+    "The Floozies",
+    "Kaipora | Bray Radbury"
    ],
    "artists": [
     {
      "name": "The Floozies",
      "mbid": "79488a20-bb2f-47ff-961e-85af2e517d08",
      "official_url": "http://flooziesduo.com/"
+    },
+    {
+     "name": "Kaipora | Bray Radbury"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -6377,6 +6423,21 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
+   "id": "the-tower-bar:2027-01-16:just-laughing",
+   "date": "2027-01-16",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "Just Laughing"
+   ],
+   "artists": [
+    {
+     "name": "Just Laughing"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "the-holding-company:2027-01-17:escape-from-the-zoo",
    "date": "2027-01-17",
    "venue": "The Holding Company",
@@ -6575,6 +6636,22 @@
     }
    ],
    "venue_url": "https://thesoundsd.com/"
+  },
+  {
+   "id": "the-tower-bar:2027-01-22:supersonic-dragon-wagon",
+   "date": "2027-01-22",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "Supersonic Dragon Wagon"
+   ],
+   "artists": [
+    {
+     "name": "Supersonic Dragon Wagon",
+     "mbid": "edebb57c-52aa-4b85-b1b8-5882662e3cac"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "dizzy-s-jazz:2027-01-23:young-sextet-spotlights-kenny-dorham",
@@ -7411,6 +7488,22 @@
     {
      "name": "Mark Mackay",
      "mbid": "5dfce9c0-4ec6-4511-a4ae-29f33b098e9c"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "the-holding-company:2027-02-12:the-transit-war",
+   "date": "2027-02-12",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "The Transit War"
+   ],
+   "artists": [
+    {
+     "name": "The Transit War",
+     "mbid": "aa537361-c0b1-4331-9c52-c8c8178a5801"
     }
    ],
    "venue_url": null
@@ -9287,6 +9380,22 @@
    "venue_url": null
   },
   {
+   "id": "pechanga-arena:2027-04-23:feid",
+   "date": "2027-04-23",
+   "venue": "Pechanga Arena",
+   "city": "San Diego",
+   "performers": [
+    "Feid"
+   ],
+   "artists": [
+    {
+     "name": "Feid",
+     "mbid": "eaee97f6-f2e4-414a-966c-f31a1fb4696a"
+    }
+   ],
+   "venue_url": "https://www.pechangaarenasd.com/"
+  },
+  {
    "id": "petco-park:2027-04-23:carly-rae-jepsen",
    "date": "2027-04-23",
    "venue": "Petco Park",
@@ -9591,7 +9700,8 @@
    "artists": [
     {
      "name": "Cleopatrick",
-     "mbid": "69c8cacb-12a6-4cee-9221-02eb3c396c04"
+     "mbid": "69c8cacb-12a6-4cee-9221-02eb3c396c04",
+     "official_url": "https://cleopatrick.com/"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -9623,7 +9733,9 @@
    ],
    "artists": [
     {
-     "name": "Luka Sulic"
+     "name": "Luka Sulic",
+     "mbid": "0afe2d8d-2445-46e5-a165-7d7dda2b8330",
+     "official_url": "http://www.lukasulic.com/"
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
@@ -9640,13 +9752,19 @@
    ],
    "artists": [
     {
-     "name": "Metallica"
+     "name": "Metallica",
+     "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+     "official_url": "https://www.metallica.com/"
     },
     {
-     "name": "Limp Bizkit"
+     "name": "Limp Bizkit",
+     "mbid": "8f9d6bb2-dba4-4cca-9967-cc02b9f4820c",
+     "official_url": "http://www.limpbizkit.com/"
     },
     {
-     "name": "Avatar"
+     "name": "Avatar",
+     "mbid": "a8d77515-f7b7-4d71-9646-8446a3b2a341",
+     "official_url": "https://avatarmetal.com/"
     }
    ],
    "venue_url": "https://www.snapdragonstadium.com/"
@@ -9684,10 +9802,12 @@
      "official_url": "https://www.thechatslovebeer.com/"
     },
     {
-     "name": "Chain Whip"
+     "name": "Chain Whip",
+     "mbid": "a9efd7bd-7d9a-4e21-94a1-02f3854fab1b"
     },
     {
-     "name": "Gymshorts"
+     "name": "Gymshorts",
+     "mbid": "f8c98984-e732-472a-8b55-63f79bf07ab4"
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
@@ -9702,7 +9822,9 @@
    ],
    "artists": [
     {
-     "name": "Keo"
+     "name": "Keo",
+     "mbid": "6984f569-8f76-4e1f-9e7c-ceeaf367c6fc",
+     "official_url": "https://keoband.co.uk/"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -9718,10 +9840,14 @@
    ],
    "artists": [
     {
-     "name": "Powerman 5000"
+     "name": "Powerman 5000",
+     "mbid": "0a41f86c-ced1-44e0-95a2-5c8b2368ab1d",
+     "official_url": "http://www.powerman5000.com/"
     },
     {
-     "name": "Stone Whiskey"
+     "name": "Stone Whiskey",
+     "mbid": "982fe12e-b91c-43f3-a7fc-c96a8c3a8a5b",
+     "official_url": "https://stonewhiskeyband.com/"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -9752,10 +9878,13 @@
    ],
    "artists": [
     {
-     "name": "DIIV"
+     "name": "DIIV",
+     "mbid": "b5ff61dd-0154-4e80-b46b-c733f87db602",
+     "official_url": "https://diiv.net/"
     },
     {
-     "name": "she's green"
+     "name": "she's green",
+     "mbid": "f23579e2-d625-4fca-a796-ec349d89c3a7"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -9770,7 +9899,9 @@
    ],
    "artists": [
     {
-     "name": "Calvin Harris"
+     "name": "Calvin Harris",
+     "mbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+     "official_url": "https://calvinharris.com/"
     }
    ],
    "venue_url": null
@@ -9792,6 +9923,23 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "the-observatory-north-park:2027-05-22:midnight-generation",
+   "date": "2027-05-22",
+   "venue": "The Observatory North Park",
+   "city": "San Diego",
+   "performers": [
+    "Midnight Generation"
+   ],
+   "artists": [
+    {
+     "name": "Midnight Generation",
+     "mbid": "57613605-bb93-444d-980a-6e107692b958",
+     "official_url": "https://www.midnightgeneration.com/"
+    }
+   ],
+   "venue_url": "https://www.observatorysd.com"
+  },
+  {
    "id": "viejas-arena:2027-05-22:calvin-harris",
    "date": "2027-05-22",
    "venue": "Viejas Arena",
@@ -9801,7 +9949,9 @@
    ],
    "artists": [
     {
-     "name": "Calvin Harris"
+     "name": "Calvin Harris",
+     "mbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+     "official_url": "https://calvinharris.com/"
     }
    ],
    "venue_url": null
@@ -9816,7 +9966,9 @@
    ],
    "artists": [
     {
-     "name": "Calvin Harris"
+     "name": "Calvin Harris",
+     "mbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+     "official_url": "https://calvinharris.com/"
     }
    ],
    "venue_url": null
@@ -9837,7 +9989,9 @@
      "official_url": "http://twodoorcinemaclub.com/"
     },
     {
-     "name": "Friendly Fires"
+     "name": "Friendly Fires",
+     "mbid": "ef656595-bbe8-4386-8953-be8df9f54472",
+     "official_url": "http://friendlyfires.co.uk/"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
@@ -9858,7 +10012,8 @@
      "official_url": "https://thisishazlett.com/"
     },
     {
-     "name": "Hunter Metts"
+     "name": "Hunter Metts",
+     "mbid": "3898da2b-634d-46f5-b12a-160276c357f3"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -9890,7 +10045,8 @@
    ],
    "artists": [
     {
-     "name": "NSQK"
+     "name": "NSQK",
+     "mbid": "ed5f6556-a20c-45e1-b743-89d2bb4141a3"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -9906,10 +10062,14 @@
    ],
    "artists": [
     {
-     "name": "A Perfect Circle"
+     "name": "A Perfect Circle",
+     "mbid": "078a9376-3c04-4280-b7d7-b20e158f345d",
+     "official_url": "https://www.aperfectcircle.com/"
     },
     {
-     "name": "The Cult"
+     "name": "The Cult",
+     "mbid": "8846e4ff-0c19-4af2-872b-7a8dc7497f68",
+     "official_url": "http://www.thecult.us/"
     }
    ],
    "venue_url": null
@@ -9924,7 +10084,8 @@
    ],
    "artists": [
     {
-     "name": "Summer Nights"
+     "name": "Summer Nights",
+     "mbid": "88ce498b-7512-4819-8596-95448d8d2e08"
     }
    ],
    "venue_url": null
@@ -9939,7 +10100,9 @@
    ],
    "artists": [
     {
-     "name": "Donny Osmond"
+     "name": "Donny Osmond",
+     "mbid": "0caf9760-a755-4f14-a0ac-f669991527ab",
+     "official_url": "http://donny.com/"
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
@@ -10011,10 +10174,14 @@
      "official_url": "https://lizzymcalpine.com/"
     },
     {
-     "name": "Searows"
+     "name": "Searows",
+     "mbid": "c1401838-551f-4176-8594-86f0ce28d3c2",
+     "official_url": "https://www.searows.com/"
     },
     {
-     "name": "Post Animal"
+     "name": "Post Animal",
+     "mbid": "40c857d5-6ab0-41f4-aa1d-7614a79a0686",
+     "official_url": "https://www.postanimal.us/"
     }
    ],
    "venue_url": "https://theshell.org/"
@@ -10031,13 +10198,19 @@
    ],
    "artists": [
     {
-     "name": "Stick Figure"
+     "name": "Stick Figure",
+     "mbid": "0c124600-18da-4087-be0d-d7fb6a2526c6",
+     "official_url": "http://www.stickfiguremusic.com/"
     },
     {
-     "name": "The Elovaters"
+     "name": "The Elovaters",
+     "mbid": "2f9db9dd-0733-411a-9dca-b88a2de9c086",
+     "official_url": "https://theelovaters.com/"
     },
     {
-     "name": "Harry Mack"
+     "name": "Harry Mack",
+     "mbid": "7195d59c-423c-4122-a2cb-404e2bf9c902",
+     "official_url": "https://www.harrymackofficial.com/"
     }
    ],
    "venue_url": null
@@ -10052,7 +10225,8 @@
    ],
    "artists": [
     {
-     "name": "Ciscaux"
+     "name": "Ciscaux",
+     "mbid": "d0935f00-6341-4c92-b462-4296a2f34345"
     }
    ],
    "venue_url": null
@@ -10101,13 +10275,19 @@
    ],
    "artists": [
     {
-     "name": "Stephen Bishop"
+     "name": "Stephen Bishop",
+     "mbid": "6cf4f18c-2455-47ed-9f6c-953e2f107406",
+     "official_url": "https://www.stephenbishop.com/"
     },
     {
-     "name": "David Wilcox"
+     "name": "David Wilcox",
+     "mbid": "694b6a5a-e984-47f4-9a21-1a1ee76044df",
+     "official_url": "http://davidwilcox.com/"
     },
     {
-     "name": "Jack Tempchin"
+     "name": "Jack Tempchin",
+     "mbid": "8d26171b-7911-4c04-88e6-ad0e9e9d65f2",
+     "official_url": "http://tempchin.com/"
     }
    ],
    "venue_url": "https://www.balboatheatre.org/"
