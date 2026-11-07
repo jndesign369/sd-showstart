@@ -315963,6 +315963,645 @@
         "offset": 0,
         "artists": []
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"FRIENDSGIVING\\\"\"}": {
+      "fetched_at": "2026-11-07T10:30:15.721106+00:00",
+      "data": {
+        "created": "2026-11-07T10:30:16.485Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Kaipora\\\"\"}": {
+      "fetched_at": "2026-11-07T10:30:15.721106+00:00",
+      "data": {
+        "created": "2026-11-07T10:30:17.428Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "c6e0fa45-93bb-4f66-a1f9-78a39cca6497",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Kaipora",
+            "sort-name": "Kaipora",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Rap Duo",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/c6e0fa45-93bb-4f66-a1f9-78a39cca6497?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-07T10:30:15.721106+00:00",
+      "data": {
+        "relations": [
+          {
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "direction": "forward",
+            "attribute-values": {},
+            "target-credit": "",
+            "url": {
+              "resource": "https://open.spotify.com/artist/3IXNmZ5mxr0M1BzOuLfFgY",
+              "id": "782b951b-7c8b-4cd7-b8cd-6a9d5b1cf073"
+            },
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attributes": [],
+            "type": "free streaming"
+          }
+        ],
+        "sort-name": "Kaipora",
+        "name": "Kaipora",
+        "isnis": [],
+        "disambiguation": "Rap Duo",
+        "ipis": [],
+        "gender": null,
+        "begin-area": null,
+        "area": {
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "name": "United States",
+          "sort-name": "United States",
+          "type": null,
+          "disambiguation": "",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type-id": null
+        },
+        "gender-id": null,
+        "country": "US",
+        "life-span": {
+          "ended": false,
+          "end": null,
+          "begin": null
+        },
+        "id": "c6e0fa45-93bb-4f66-a1f9-78a39cca6497",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "end-area": null
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Bray Radbury\\\"\"}": {
+      "fetched_at": "2026-11-07T10:30:15.721106+00:00",
+      "data": {
+        "created": "2026-11-07T10:30:19.505Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "ca13a6b6-8ced-495c-9a78-6e79921e338a",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Bray Radbury",
+            "sort-name": "Bray Radbury",
+            "disambiguation": "Mark Hill solo project",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/ca13a6b6-8ced-495c-9a78-6e79921e338a?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-07T10:30:15.721106+00:00",
+      "data": {
+        "sort-name": "Bray Radbury",
+        "type": "Group",
+        "disambiguation": "Mark Hill solo project",
+        "gender": null,
+        "country": null,
+        "isnis": [],
+        "ipis": [],
+        "id": "ca13a6b6-8ced-495c-9a78-6e79921e338a",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "relations": [
+          {
+            "url": {
+              "id": "890b89e6-d1c7-4f25-abe3-6c9a6478f675",
+              "resource": "https://www.facebook.com/flooziesduo/posts/our-very-own-mark-hill-just-dropped-his-new-ep-dandelion-under-his-solo-project-/1411394917015100"
+            },
+            "attributes": [],
+            "target-credit": "",
+            "source-credit": "",
+            "type": "social network",
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "end": null,
+            "attribute-values": {}
+          }
+        ],
+        "end-area": null,
+        "area": null,
+        "gender-id": null,
+        "name": "Bray Radbury",
+        "life-span": {
+          "begin": null,
+          "end": null,
+          "ended": false
+        },
+        "begin-area": null
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Scary Kids Scaring Kids\\\"\"}": {
+      "fetched_at": "2026-11-07T10:30:15.721106+00:00",
+      "data": {
+        "created": "2026-11-07T10:30:21.994Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "90cda7b7-9112-4ec7-9d6f-3f4675ef5130",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Scary Kids Scaring Kids",
+            "sort-name": "Scary Kids Scaring Kids",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "10475c13-637b-4a91-abe5-b2667999553b",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Gilbert",
+              "sort-name": "Gilbert",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "000000008518315X"
+            ],
+            "life-span": {
+              "begin": "2002",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "SKSK",
+                "name": "SKSK",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Scary Kids Scaring Kids",
+                "name": "Scary Kids Scaring Kids",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 1,
+                "name": "post-hardcore"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/90cda7b7-9112-4ec7-9d6f-3f4675ef5130?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-07T10:30:15.721106+00:00",
+      "data": {
+        "end-area": null,
+        "isnis": [
+          "000000008518315X"
+        ],
+        "ipis": [],
+        "gender": null,
+        "area": {
+          "sort-name": "United States",
+          "type": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "name": "United States",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "disambiguation": ""
+        },
+        "type": "Group",
+        "sort-name": "Scary Kids Scaring Kids",
+        "gender-id": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "",
+        "country": "US",
+        "relations": [
+          {
+            "url": {
+              "id": "9f1714ce-42cd-4aff-bc66-dd97f2d14221",
+              "resource": "https://www.allmusic.com/artist/mn0000821815"
+            },
+            "attribute-values": {},
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "target-type": "url",
+            "attribute-ids": {},
+            "target-credit": "",
+            "end": null,
+            "attributes": [],
+            "type": "allmusic",
+            "ended": false,
+            "begin": null,
+            "direction": "forward",
+            "source-credit": ""
+          },
+          {
+            "attribute-ids": {},
+            "target-type": "url",
+            "attribute-values": {},
+            "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+            "url": {
+              "resource": "https://www.bandsintown.com/a/323",
+              "id": "3a042112-c194-48f4-8ffb-82804b1f1e35"
+            },
+            "source-credit": "",
+            "direction": "forward",
+            "begin": null,
+            "ended": false,
+            "type": "bandsintown",
+            "attributes": [],
+            "end": null,
+            "target-credit": ""
+          },
+          {
+            "url": {
+              "id": "05745b8b-51da-4409-b258-ecf3579dcd16",
+              "resource": "https://www.discogs.com/artist/397041"
+            },
+            "attribute-ids": {},
+            "target-type": "url",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attribute-values": {},
+            "type": "discogs",
+            "attributes": [],
+            "end": null,
+            "target-credit": "",
+            "source-credit": "",
+            "direction": "forward",
+            "begin": null,
+            "ended": false
+          },
+          {
+            "attribute-ids": {},
+            "target-type": "url",
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "url": {
+              "resource": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9",
+              "id": "3f24e5bc-b4cf-495c-8985-211b3378972c"
+            },
+            "source-credit": "",
+            "direction": "forward",
+            "begin": null,
+            "ended": false,
+            "type": "free streaming",
+            "end": null,
+            "attributes": [],
+            "target-credit": ""
+          },
+          {
+            "url": {
+              "resource": "https://www.deezer.com/artist/70050",
+              "id": "74112169-af0e-41b3-86e6-b147bc8a51c1"
+            },
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "target-type": "url",
+            "attribute-ids": {},
+            "target-credit": "",
+            "attributes": [],
+            "end": null,
+            "type": "free streaming",
+            "ended": false,
+            "begin": null,
+            "direction": "forward",
+            "source-credit": ""
+          },
+          {
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "attribute-values": {},
+            "target-type": "url",
+            "attribute-ids": {},
+            "url": {
+              "id": "ed5a1a98-a86a-42a7-87d5-64d2991707f0",
+              "resource": "https://www.last.fm/music/Scary%20Kids%20Scaring%20Kids"
+            },
+            "ended": false,
+            "begin": null,
+            "direction": "forward",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null,
+            "attributes": [],
+            "type": "last.fm"
+          },
+          {
+            "attribute-ids": {},
+            "target-type": "url",
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "attribute-values": {},
+            "url": {
+              "id": "1bcc621a-71ef-40b6-8e61-f5a3d44da4e2",
+              "resource": "https://scarykidsscaringkids.com/"
+            },
+            "source-credit": "",
+            "direction": "forward",
+            "begin": null,
+            "ended": false,
+            "type": "official homepage",
+            "attributes": [],
+            "end": null,
+            "target-credit": ""
+          },
+          {
+            "ended": false,
+            "begin": null,
+            "direction": "forward",
+            "source-credit": "",
+            "target-credit": "",
+            "attributes": [],
+            "end": null,
+            "type": "other databases",
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "target-type": "url",
+            "attribute-ids": {},
+            "url": {
+              "resource": "https://rateyourmusic.com/artist/scary_kids_scaring_kids",
+              "id": "2ce6d715-7614-4253-bca1-362bd571b062"
+            }
+          },
+          {
+            "url": {
+              "id": "3564e0fb-61f2-47eb-b7cf-d26d1b65a0aa",
+              "resource": "https://www.beatport.com/artist/scary-kids-scaring-kids/1518891"
+            },
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-ids": {},
+            "target-type": "url",
+            "attributes": [],
+            "end": null,
+            "target-credit": "",
+            "type": "purchase for download",
+            "begin": null,
+            "ended": false,
+            "source-credit": "",
+            "direction": "forward"
+          },
+          {
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "target-type": "url",
+            "attribute-ids": {},
+            "url": {
+              "id": "c0e495fc-eee9-4e83-b20d-05ffd48653a5",
+              "resource": "https://twitter.com/skskofficial"
+            },
+            "ended": false,
+            "begin": null,
+            "direction": "forward",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null,
+            "attributes": [],
+            "type": "social network"
+          },
+          {
+            "url": {
+              "resource": "https://www.facebook.com/scarykidsscaringkids",
+              "id": "8ad63e6e-a946-41ca-aa13-e30e2e717bec"
+            },
+            "attribute-ids": {},
+            "target-type": "url",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "type": "social network",
+            "end": null,
+            "attributes": [],
+            "target-credit": "",
+            "source-credit": "",
+            "direction": "forward",
+            "begin": null,
+            "ended": false
+          },
+          {
+            "source-credit": "",
+            "direction": "forward",
+            "begin": null,
+            "ended": false,
+            "type": "social network",
+            "end": null,
+            "attributes": [],
+            "target-credit": "",
+            "attribute-ids": {},
+            "target-type": "url",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "url": {
+              "resource": "https://www.instagram.com/scarykidsscaringkids/",
+              "id": "288fc42c-c447-43ad-9653-178ed027812e"
+            }
+          },
+          {
+            "type": "songkick",
+            "end": null,
+            "attributes": [],
+            "target-credit": "",
+            "source-credit": "",
+            "direction": "forward",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "id": "4cec8ce5-931f-4843-a659-62a292431c21",
+              "resource": "https://www.songkick.com/artists/222551"
+            },
+            "attribute-ids": {},
+            "target-type": "url",
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "attribute-values": {}
+          },
+          {
+            "end": null,
+            "attributes": [],
+            "target-credit": "",
+            "type": "soundcloud",
+            "begin": null,
+            "ended": false,
+            "source-credit": "",
+            "direction": "forward",
+            "url": {
+              "id": "773701b0-5d13-43cd-bef1-293dd3800f49",
+              "resource": "https://soundcloud.com/scarykidsscaringkids"
+            },
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "target-type": "url"
+          },
+          {
+            "url": {
+              "resource": "https://music.apple.com/gb/artist/42130562",
+              "id": "dd121c0c-a63f-4516-9fbd-edcb7978aa70"
+            },
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-ids": {},
+            "target-type": "url",
+            "attributes": [],
+            "end": null,
+            "target-credit": "",
+            "type": "streaming",
+            "begin": null,
+            "ended": false,
+            "source-credit": "",
+            "direction": "forward"
+          },
+          {
+            "ended": false,
+            "begin": null,
+            "direction": "forward",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null,
+            "attributes": [],
+            "type": "streaming",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "target-type": "url",
+            "attribute-ids": {},
+            "url": {
+              "resource": "https://music.apple.com/us/artist/42130562",
+              "id": "3018df43-51ef-4628-a42e-af962e309b66"
+            }
+          },
+          {
+            "url": {
+              "id": "8fd68c54-ca28-4b85-974e-5bc923ae98d4",
+              "resource": "https://tidal.com/artist/3530253"
+            },
+            "target-type": "url",
+            "attribute-ids": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "type": "streaming",
+            "target-credit": "",
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "source-credit": "",
+            "ended": false,
+            "begin": null
+          },
+          {
+            "attribute-values": {},
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "target-type": "url",
+            "attribute-ids": {},
+            "url": {
+              "resource": "https://www.wikidata.org/wiki/Q1480406",
+              "id": "3bbc17d9-4752-4041-af8b-2b9127e60cf6"
+            },
+            "ended": false,
+            "begin": null,
+            "direction": "forward",
+            "source-credit": "",
+            "target-credit": "",
+            "attributes": [],
+            "end": null,
+            "type": "wikidata"
+          },
+          {
+            "type": "youtube",
+            "end": null,
+            "attributes": [],
+            "target-credit": "",
+            "source-credit": "",
+            "direction": "forward",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "resource": "https://www.youtube.com/channel/UCZKxpaM87Ja407curHHK0Gw",
+              "id": "8ababc33-5f9e-4347-8252-dc21fff727da"
+            },
+            "attribute-ids": {},
+            "target-type": "url",
+            "attribute-values": {},
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0"
+          },
+          {
+            "direction": "forward",
+            "source-credit": "",
+            "ended": false,
+            "begin": null,
+            "type": "youtube",
+            "target-credit": "",
+            "attributes": [],
+            "end": null,
+            "target-type": "url",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "url": {
+              "resource": "https://www.youtube.com/user/ScaryKidsScaringVEVO",
+              "id": "c6194742-a8ae-4a78-9194-7756b5c8d78f"
+            }
+          }
+        ],
+        "name": "Scary Kids Scaring Kids",
+        "id": "90cda7b7-9112-4ec7-9d6f-3f4675ef5130",
+        "life-span": {
+          "end": null,
+          "begin": "2002",
+          "ended": false
+        },
+        "begin-area": {
+          "name": "Gilbert",
+          "disambiguation": "",
+          "type-id": null,
+          "sort-name": "Gilbert",
+          "type": null,
+          "id": "10475c13-637b-4a91-abe5-b2667999553b"
+        }
+      }
     }
   }
 }

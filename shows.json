@@ -1,286 +1,11 @@
 {
- "generated_at": "2026-11-06T12:57:41-08:00",
+ "generated_at": "2026-11-07T02:30:15-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
   "updated": "November 6, 2026"
  },
  "shows": [
-  {
-   "id": "belly-up-tavern:2026-11-06:ozomatli",
-   "date": "2026-11-06",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Ozomatli",
-    "SeaPoodle"
-   ],
-   "artists": [
-    {
-     "name": "Ozomatli",
-     "mbid": "7e54639b-ee66-4452-a612-918d4c3c73c4",
-     "official_url": "http://ozomatli.com/"
-    },
-    {
-     "name": "SeaPoodle"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "casbah:2026-11-06:dice",
-   "date": "2026-11-06",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "DICE",
-    "The Back Alley"
-   ],
-   "artists": [
-    {
-     "name": "DICE",
-     "mbid": "13d69305-d1ac-4bdf-b27d-4ef8fddf18d4"
-    },
-    {
-     "name": "The Back Alley",
-     "mbid": "e5e4c4ca-5410-4a6d-a94b-ece1f65231c7"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
-  },
-  {
-   "id": "dizzy-s-jazz:2026-11-06:bravo-trio",
-   "date": "2026-11-06",
-   "venue": "Dizzy's Jazz",
-   "city": "San Diego",
-   "performers": [
-    "BRAVO TRIO",
-    "guest Raymond Bergstrom"
-   ],
-   "artists": [
-    {
-     "name": "BRAVO TRIO",
-     "mbid": "1d109d2e-8c15-4d81-9e71-9cf6fbcdc68e"
-    },
-    {
-     "name": "guest Raymond Bergstrom"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "house-of-blues:2026-11-06:taylor-bickett",
-   "date": "2026-11-06",
-   "venue": "House of Blues",
-   "city": "San Diego",
-   "performers": [
-    "Taylor Bickett",
-    "Mori",
-    "Mackenzie Day",
-    "R&B ONLY"
-   ],
-   "artists": [
-    {
-     "name": "Taylor Bickett",
-     "mbid": "916b2191-b81a-4e53-905d-eb91e77fd7dc",
-     "official_url": "http://www.taylorbickett.com/"
-    },
-    {
-     "name": "Mori",
-     "mbid": "8a9d0b90-951e-4ab8-b2dc-9d3618af3d28"
-    },
-    {
-     "name": "Mackenzie Day"
-    },
-    {
-     "name": "R&B ONLY"
-    }
-   ],
-   "venue_url": "https://www.houseofblues.com/sandiego"
-  },
-  {
-   "id": "humphreys-backstage-live:2026-11-06:mango-bay",
-   "date": "2026-11-06",
-   "venue": "Humphreys Backstage Live",
-   "city": "San Diego",
-   "performers": [
-    "Mango Bay",
-    "Maverick"
-   ],
-   "artists": [
-    {
-     "name": "Mango Bay"
-    },
-    {
-     "name": "Maverick",
-     "mbid": "1577f48a-dc2d-45f1-b7ac-64c25b44bca8",
-     "official_url": "http://www.kurdmaverick.com/"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "lou-lou-s:2026-11-06:anthony-cullins",
-   "date": "2026-11-06",
-   "venue": "Lou Lou's",
-   "city": "San Diego",
-   "performers": [
-    "ANTHONY CULLINS"
-   ],
-   "artists": [
-    {
-     "name": "ANTHONY CULLINS",
-     "mbid": "e2a22cdd-7138-4fe1-989c-2e51829a7d95",
-     "official_url": "https://www.fallbrookkid.com/"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "music-box:2026-11-06:paul-oakenfold",
-   "date": "2026-11-06",
-   "venue": "Music Box",
-   "city": "San Diego",
-   "performers": [
-    "Paul Oakenfold",
-    "Crystal Method"
-   ],
-   "artists": [
-    {
-     "name": "Paul Oakenfold",
-     "mbid": "7bf1f441-ccf1-4258-9797-07c8d16eb44c",
-     "official_url": "http://pauloakenfold.com/"
-    },
-    {
-     "name": "Crystal Method",
-     "mbid": "aaf09f31-bb5c-43e5-9f54-bb6554c33a71",
-     "official_url": "http://thecrystalmethod.com/"
-    }
-   ],
-   "venue_url": "https://www.musicboxsd.com/"
-  },
-  {
-   "id": "nova-sd:2026-11-06:space-laces",
-   "date": "2026-11-06",
-   "venue": "Nova SD",
-   "city": "San Diego",
-   "performers": [
-    "Space Laces",
-    "PHRVA"
-   ],
-   "artists": [
-    {
-     "name": "Space Laces",
-     "mbid": "5c2ece0c-880b-42bb-b696-df3e417c811c",
-     "official_url": "https://spacelaces.com/"
-    },
-    {
-     "name": "PHRVA",
-     "mbid": "049245e1-ad11-492e-86ff-003cbd548e8a"
-    }
-   ],
-   "venue_url": "https://novasandiego.com/"
-  },
-  {
-   "id": "soma:2026-11-06:the-story-so-far",
-   "date": "2026-11-06",
-   "venue": "SOMA",
-   "city": "San Diego",
-   "performers": [
-    "The Story So Far"
-   ],
-   "artists": [
-    {
-     "name": "The Story So Far",
-     "mbid": "bc303c9e-3ffb-49ca-acf1-088ef4d46ed7",
-     "official_url": "http://thestorysofarca.com/"
-    }
-   ],
-   "venue_url": "https://www.somasandiego.com/"
-  },
-  {
-   "id": "the-holding-company:2026-11-06:keller-williams",
-   "date": "2026-11-06",
-   "venue": "The Holding Company",
-   "city": "San Diego",
-   "performers": [
-    "Keller Williams"
-   ],
-   "artists": [
-    {
-     "name": "Keller Williams",
-     "mbid": "536a68e9-049b-4d9f-a0d1-2630c92acc4b",
-     "official_url": "http://kellerwilliams.net/"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "the-tower-bar:2026-11-06:gino-and-the-goons",
-   "date": "2026-11-06",
-   "venue": "The Tower Bar",
-   "city": "San Diego",
-   "performers": [
-    "Gino and the Goons",
-    "Xray Xeroxx",
-    "New Models",
-    "DJ Midnight to Six Man"
-   ],
-   "artists": [
-    {
-     "name": "Gino and the Goons",
-     "mbid": "eaa20564-aa58-4a1c-bf1e-639c68ace20a"
-    },
-    {
-     "name": "Xray Xeroxx",
-     "mbid": "55089775-75c8-471a-9065-971abd69b8c4"
-    },
-    {
-     "name": "New Models",
-     "mbid": "859df6a8-a336-48ec-9661-7bc8ee2150b2"
-    },
-    {
-     "name": "DJ Midnight to Six Man"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "whistle-stop:2026-11-06:silica-sun",
-   "date": "2026-11-06",
-   "venue": "Whistle Stop",
-   "city": "San Diego",
-   "performers": [
-    "Silica Sun",
-    "Glitch Love"
-   ],
-   "artists": [
-    {
-     "name": "Silica Sun"
-    },
-    {
-     "name": "Glitch Love"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "belly-up-tavern:2026-11-07:mustache-harbor",
-   "date": "2026-11-07",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Mustache Harbor"
-   ],
-   "artists": [
-    {
-     "name": "Mustache Harbor",
-     "mbid": "3fa77566-a4d0-4165-b5bb-b77b4da0c988",
-     "official_url": "https://www.mustacheharbor.com/"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
   {
    "id": "casbah:2026-11-07:born-without-bones",
    "date": "2026-11-07",
@@ -766,9 +491,14 @@
    "venue": "SOMA",
    "city": "San Diego",
    "performers": [
+    "Father of Peace",
     "Father of Peace"
    ],
    "artists": [
+    {
+     "name": "Father of Peace",
+     "mbid": "945725d3-e3ef-41bf-ab1b-58d8d53d032b"
+    },
     {
      "name": "Father of Peace",
      "mbid": "945725d3-e3ef-41bf-ab1b-58d8d53d032b"
@@ -861,27 +591,6 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "music-box:2026-11-09:thomas-dolby",
-   "date": "2026-11-09",
-   "venue": "Music Box",
-   "city": "San Diego",
-   "performers": [
-    "Thomas Dolby",
-    "DJ Vaughn Avakian"
-   ],
-   "artists": [
-    {
-     "name": "Thomas Dolby",
-     "mbid": "5a8cc407-7efb-4e94-9637-d5896395e754",
-     "official_url": "http://www.thomasdolby.com/"
-    },
-    {
-     "name": "DJ Vaughn Avakian"
-    }
-   ],
-   "venue_url": "https://www.musicboxsd.com/"
   },
   {
    "id": "san-diego-civic-theatre:2026-11-09:anne-wilson",
@@ -1178,16 +887,16 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
-   "id": "quartyard:2026-11-12:fic-studio-sessions",
+   "id": "quartyard:2026-11-12:friendsgiving",
    "date": "2026-11-12",
    "venue": "Quartyard",
    "city": "San Diego",
    "performers": [
-    "FIC STUDIO SESSIONS"
+    "FRIENDSGIVING"
    ],
    "artists": [
     {
-     "name": "FIC STUDIO SESSIONS"
+     "name": "FRIENDSGIVING"
     }
    ],
    "venue_url": "https://quartyardsd.com/"
@@ -1222,23 +931,6 @@
     }
    ],
    "venue_url": null
-  },
-  {
-   "id": "the-observatory-north-park:2026-11-12:ironmouse",
-   "date": "2026-11-12",
-   "venue": "The Observatory North Park",
-   "city": "San Diego",
-   "performers": [
-    "Ironmouse"
-   ],
-   "artists": [
-    {
-     "name": "Ironmouse",
-     "mbid": "86581355-8cc4-4cd6-99c0-9b7f768d1977",
-     "official_url": "https://ironmouse.com/"
-    }
-   ],
-   "venue_url": "https://www.observatorysd.com"
   },
   {
    "id": "the-tower-bar:2026-11-12:dj-chuck-terror",
@@ -1280,20 +972,15 @@
    "venue_url": null
   },
   {
-   "id": "belly-up-tavern:2026-11-13:atomic-groove",
+   "id": "belly-up-tavern:2026-11-13:donavon-frankenreiter",
    "date": "2026-11-13",
    "venue": "Belly Up Tavern",
    "city": "Solana Beach",
    "performers": [
-    "Atomic Groove",
     "Donavon Frankenreiter",
     "The Band of Heathens"
    ],
    "artists": [
-    {
-     "name": "Atomic Groove",
-     "mbid": "d1b6a688-3013-4d9b-98f5-58e1484af100"
-    },
     {
      "name": "Donavon Frankenreiter",
      "mbid": "cf66ee44-360b-445e-bfb8-e20e69325742",
@@ -1656,17 +1343,13 @@
    "venue": "Humphreys Backstage Live",
    "city": "San Diego",
    "performers": [
-    "Robin Henkel",
-    "Totally 80's"
+    "Robin Henkel"
    ],
    "artists": [
     {
      "name": "Robin Henkel",
      "mbid": "63e42d24-b39f-4185-ae78-9b26a8574c18",
      "official_url": "http://robinhenkel.com/"
-    },
-    {
-     "name": "Totally 80's"
     }
    ],
    "venue_url": null
@@ -2067,27 +1750,6 @@
    "venue_url": null
   },
   {
-   "id": "viejas-arena:2026-11-15:nick-cannon-presents-wild-n-out-live",
-   "date": "2026-11-15",
-   "venue": "Viejas Arena",
-   "city": "San Diego",
-   "performers": [
-    "Nick Cannon Presents: Wild 'N Out Live",
-    "Soulja Boy"
-   ],
-   "artists": [
-    {
-     "name": "Nick Cannon Presents: Wild 'N Out Live"
-    },
-    {
-     "name": "Soulja Boy",
-     "mbid": "29eead4d-3793-4625-8727-c03edbb38b8b",
-     "official_url": "https://www.souljaboy.live/"
-    }
-   ],
-   "venue_url": null
-  },
-  {
    "id": "casbah:2026-11-16:jon-spencer",
    "date": "2026-11-16",
    "venue": "Casbah",
@@ -2266,21 +1928,6 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
-   "id": "the-tower-bar:2026-11-18:execution-wednesdays",
-   "date": "2026-11-18",
-   "venue": "The Tower Bar",
-   "city": "San Diego",
-   "performers": [
-    "Execution Wednesdays"
-   ],
-   "artists": [
-    {
-     "name": "Execution Wednesdays"
-    }
-   ],
-   "venue_url": null
-  },
-  {
    "id": "whistle-stop:2026-11-18:lord-howler",
    "date": "2026-11-18",
    "venue": "Whistle Stop",
@@ -2295,23 +1942,6 @@
     }
    ],
    "venue_url": null
-  },
-  {
-   "id": "belly-up-tavern:2026-11-19:jammy-buffet",
-   "date": "2026-11-19",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Jammy Buffet"
-   ],
-   "artists": [
-    {
-     "name": "Jammy Buffet",
-     "mbid": "4e2d265c-ead0-4e2d-8225-e1d71b2a77df",
-     "official_url": "https://jammybuffet.com/"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
   },
   {
    "id": "house-of-blues:2026-11-19:yana",
@@ -2449,23 +2079,6 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "casbah:2026-11-20:emo-nite",
-   "date": "2026-11-20",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "Emo Nite"
-   ],
-   "artists": [
-    {
-     "name": "Emo Nite",
-     "mbid": "007e8389-614d-42e3-84ca-92f80e813aab",
-     "official_url": "https://emonite.com/"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "house-of-blues:2026-11-20:of-mice-and-men",
@@ -2716,21 +2329,6 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
-   "id": "nova-sd:2026-11-21:electrik-seoul",
-   "date": "2026-11-21",
-   "venue": "Nova SD",
-   "city": "San Diego",
-   "performers": [
-    "Electrik Seoul"
-   ],
-   "artists": [
-    {
-     "name": "Electrik Seoul"
-    }
-   ],
-   "venue_url": "https://novasandiego.com/"
-  },
-  {
    "id": "the-observatory-north-park:2026-11-21:senses-fail",
    "date": "2026-11-21",
    "venue": "The Observatory North Park",
@@ -2805,6 +2403,21 @@
     }
    ],
    "venue_url": null
+  },
+  {
+   "id": "belly-up-tavern:2026-11-22:andrew-mcmahon-and-his-piano-featuring-very-special-guest-ivory-layne",
+   "date": "2026-11-22",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "Andrew McMahon and his piano featuring very special guest Ivory Layne"
+   ],
+   "artists": [
+    {
+     "name": "Andrew McMahon and his piano featuring very special guest Ivory Layne"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
   },
   {
    "id": "house-of-blues:2026-11-22:eiv-r",
@@ -3040,21 +2653,6 @@
    "venue_url": "https://www.balboatheatre.org/"
   },
   {
-   "id": "belly-up-tavern:2026-11-24:jimi-hendrix-celebration-featuring-jeff-moore",
-   "date": "2026-11-24",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Jimi Hendrix Celebration featuring Jeff Moore"
-   ],
-   "artists": [
-    {
-     "name": "Jimi Hendrix Celebration featuring Jeff Moore"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
    "id": "house-of-blues:2026-11-24:ezcodylee",
    "date": "2026-11-24",
    "venue": "House of Blues",
@@ -3155,25 +2753,6 @@
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
-  },
-  {
-   "id": "the-holding-company:2026-11-25:a-cross-collab-party",
-   "date": "2026-11-25",
-   "venue": "The Holding Company",
-   "city": "San Diego",
-   "performers": [
-    "A Cross-Collab Party",
-    "Drink 182"
-   ],
-   "artists": [
-    {
-     "name": "A Cross-Collab Party"
-    },
-    {
-     "name": "Drink 182"
-    }
-   ],
-   "venue_url": null
   },
   {
    "id": "the-observatory-north-park:2026-11-25:gary-numan",
@@ -3621,21 +3200,6 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
-   "id": "balboa-theatre:2026-11-29:the-carpenters-songbook-a-live-celebration",
-   "date": "2026-11-29",
-   "venue": "Balboa Theatre",
-   "city": "San Diego",
-   "performers": [
-    "The Carpenters Songbook - A Live Celebration"
-   ],
-   "artists": [
-    {
-     "name": "The Carpenters Songbook - A Live Celebration"
-    }
-   ],
-   "venue_url": "https://www.balboatheatre.org/"
-  },
-  {
    "id": "belly-up-tavern:2026-11-29:the-five-blind-boys-of-alabama",
    "date": "2026-11-29",
    "venue": "Belly Up Tavern",
@@ -3976,16 +3540,12 @@
    "venue": "House of Blues",
    "city": "San Diego",
    "performers": [
-    "Couch Dog",
-    "Love in the Club - 2000's Hip Hop and R&B Party"
+    "Couch Dog"
    ],
    "artists": [
     {
      "name": "Couch Dog",
      "mbid": "b7978266-d6c6-4251-a8a6-92730e31f437"
-    },
-    {
-     "name": "Love in the Club - 2000's Hip Hop and R&B Party"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -4491,21 +4051,6 @@
    "venue_url": "https://bellyup.com/"
   },
   {
-   "id": "belly-up-tavern:2026-12-08:sand-dollar-foundation-annual-gala",
-   "date": "2026-12-08",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Sand Dollar Foundation Annual Gala"
-   ],
-   "artists": [
-    {
-     "name": "Sand Dollar Foundation Annual Gala"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
    "id": "house-of-blues:2026-12-08:graham-hunt",
    "date": "2026-12-08",
    "venue": "House of Blues",
@@ -4903,21 +4448,6 @@
    "venue_url": "https://thesoundsd.com/"
   },
   {
-   "id": "belly-up-tavern:2026-12-12:the-fabba-show-a-tribute-to-abba",
-   "date": "2026-12-12",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "The FABBA Show - A Tribute to ABBA"
-   ],
-   "artists": [
-    {
-     "name": "The FABBA Show - A Tribute to ABBA"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
    "id": "house-of-blues:2026-12-12:22gfay",
    "date": "2026-12-12",
    "venue": "House of Blues",
@@ -4982,27 +4512,6 @@
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
-  },
-  {
-   "id": "the-observatory-north-park:2026-12-12:emo-night-brooklyn",
-   "date": "2026-12-12",
-   "venue": "The Observatory North Park",
-   "city": "San Diego",
-   "performers": [
-    "Emo Night Brooklyn",
-    "VALID ID"
-   ],
-   "artists": [
-    {
-     "name": "Emo Night Brooklyn",
-     "mbid": "a384b738-ff9b-4f73-8e24-0134024f1344",
-     "official_url": "http://emonightbk.com/"
-    },
-    {
-     "name": "VALID ID"
-    }
-   ],
-   "venue_url": "https://www.observatorysd.com"
   },
   {
    "id": "the-sound:2026-12-12:the-string-cheese-incident",
@@ -5719,21 +5228,6 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
-   "id": "belly-up-tavern:2026-12-26:jimmy-s-buffet",
-   "date": "2026-12-26",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Jimmy's Buffet"
-   ],
-   "artists": [
-    {
-     "name": "Jimmy's Buffet"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
    "id": "nova-sd:2026-12-26:tyga",
    "date": "2026-12-26",
    "venue": "Nova SD",
@@ -5778,21 +5272,6 @@
    "artists": [
     {
      "name": "Easy Wind"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "belly-up-tavern:2026-12-28:the-steely-damned-2",
-   "date": "2026-12-28",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "The Steely Damned 2"
-   ],
-   "artists": [
-    {
-     "name": "The Steely Damned 2"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -5989,7 +5468,8 @@
    "city": "Solana Beach",
    "performers": [
     "The Floozies",
-    "Kaipora | Bray Radbury"
+    "Kaipora",
+    "Bray Radbury"
    ],
    "artists": [
     {
@@ -5998,7 +5478,12 @@
      "official_url": "http://flooziesduo.com/"
     },
     {
-     "name": "Kaipora | Bray Radbury"
+     "name": "Kaipora",
+     "mbid": "c6e0fa45-93bb-4f66-a1f9-78a39cca6497"
+    },
+    {
+     "name": "Bray Radbury",
+     "mbid": "ca13a6b6-8ced-495c-9a78-6e79921e338a"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -6048,17 +5533,13 @@
    "venue": "Belly Up Tavern",
    "city": "Solana Beach",
    "performers": [
-    "No Duh",
-    "Fooz Fighters"
+    "No Duh"
    ],
    "artists": [
     {
      "name": "No Duh",
      "mbid": "0d5233ee-a11c-4a02-9224-56286b888d2e",
      "official_url": "http://nodoubttribute.com/index.html"
-    },
-    {
-     "name": "Fooz Fighters"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -6738,6 +6219,23 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "soma:2027-01-26:scary-kids-scaring-kids",
+   "date": "2027-01-26",
+   "venue": "SOMA",
+   "city": "San Diego",
+   "performers": [
+    "Scary Kids Scaring Kids"
+   ],
+   "artists": [
+    {
+     "name": "Scary Kids Scaring Kids",
+     "mbid": "90cda7b7-9112-4ec7-9d6f-3f4675ef5130",
+     "official_url": "https://scarykidsscaringkids.com/"
+    }
+   ],
+   "venue_url": "https://www.somasandiego.com/"
+  },
+  {
    "id": "san-diego-civic-theatre:2027-01-26:the-legend-of-korra-in-concert",
    "date": "2027-01-26",
    "venue": "San Diego Civic Theatre",
@@ -6896,8 +6394,7 @@
    "city": "San Diego",
    "performers": [
     "Youth Fountain",
-    "Relate",
-    "R&B ONLY"
+    "Relate"
    ],
    "artists": [
     {
@@ -6908,9 +6405,6 @@
     {
      "name": "Relate",
      "mbid": "ef289a5a-96de-4d99-aea7-b86d2073877f"
-    },
-    {
-     "name": "R&B ONLY"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -7554,21 +7048,6 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
-   "id": "music-box:2027-02-13:the-taylor-party-taylor-swift-night",
-   "date": "2027-02-13",
-   "venue": "Music Box",
-   "city": "San Diego",
-   "performers": [
-    "The Taylor Party: Taylor Swift Night"
-   ],
-   "artists": [
-    {
-     "name": "The Taylor Party: Taylor Swift Night"
-    }
-   ],
-   "venue_url": "https://www.musicboxsd.com/"
-  },
-  {
    "id": "belly-up-tavern:2027-02-16:richard-thompson-band",
    "date": "2027-02-16",
    "venue": "Belly Up Tavern",
@@ -7597,21 +7076,6 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "the-magnolia:2027-02-17:baz-luhrmanns-romeo-juliet-nzl",
-   "date": "2027-02-17",
-   "venue": "The Magnolia",
-   "city": "El Cajon",
-   "performers": [
-    "Baz Luhrmanns Romeo & Juliet (NZL)"
-   ],
-   "artists": [
-    {
-     "name": "Baz Luhrmanns Romeo & Juliet (NZL)"
-    }
-   ],
-   "venue_url": "https://www.magnoliasd.com/"
   },
   {
    "id": "belly-up-tavern:2027-02-18:wade-bowen",
@@ -7983,21 +7447,6 @@
    "venue_url": "https://bellyup.com/"
   },
   {
-   "id": "dizzy-s-jazz:2027-02-27:remembering-george-harrison",
-   "date": "2027-02-27",
-   "venue": "Dizzy's Jazz",
-   "city": "San Diego",
-   "performers": [
-    "Remembering George Harrison"
-   ],
-   "artists": [
-    {
-     "name": "Remembering George Harrison"
-    }
-   ],
-   "venue_url": null
-  },
-  {
    "id": "quartyard:2027-02-27:sh-heri",
    "date": "2027-02-27",
    "venue": "Quartyard",
@@ -8344,33 +7793,6 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
-   "id": "viejas-arena:2027-03-05:elevation-worship",
-   "date": "2027-03-05",
-   "venue": "Viejas Arena",
-   "city": "San Diego",
-   "performers": [
-    "Elevation Worship",
-    "Pastor Steven Furtick",
-    "Elevation Rhythm"
-   ],
-   "artists": [
-    {
-     "name": "Elevation Worship",
-     "mbid": "f3bb45c8-dcb3-4358-ab21-645e6d0935e4",
-     "official_url": "https://elevationworship.com/"
-    },
-    {
-     "name": "Pastor Steven Furtick"
-    },
-    {
-     "name": "Elevation Rhythm",
-     "mbid": "821b331b-cdd9-4a0c-9ea8-05cfdefde9ba",
-     "official_url": "https://elevationworship.com/elevation-rhythm/"
-    }
-   ],
-   "venue_url": null
-  },
-  {
    "id": "belly-up-tavern:2027-03-06:49-winchester",
    "date": "2027-03-06",
    "venue": "Belly Up Tavern",
@@ -8542,43 +7964,6 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "belly-up-tavern:2027-03-12:wayward-sons",
-   "date": "2027-03-12",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Wayward Sons",
-    "DJ Mr. 80s"
-   ],
-   "artists": [
-    {
-     "name": "Wayward Sons",
-     "mbid": "6f90de3f-ab29-4427-aa29-8651d627e911",
-     "official_url": "http://www.waywardsonsband.com/"
-    },
-    {
-     "name": "DJ Mr. 80s"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "quartyard:2027-03-12:2027",
-   "date": "2027-03-12",
-   "venue": "Quartyard",
-   "city": "San Diego",
-   "performers": [
-    "2027"
-   ],
-   "artists": [
-    {
-     "name": "2027",
-     "mbid": "a4b1bb8e-2db4-48c2-af87-4fd34ba0b847"
-    }
-   ],
-   "venue_url": "https://quartyardsd.com/"
   },
   {
    "id": "soma:2027-03-12:liquid-stranger",
@@ -9466,23 +8851,6 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
-  },
-  {
-   "id": "the-sound:2027-04-27:the-simon-garfunkel-story",
-   "date": "2027-04-27",
-   "venue": "The Sound",
-   "city": "Del Mar",
-   "performers": [
-    "The Simon & Garfunkel Story"
-   ],
-   "artists": [
-    {
-     "name": "The Simon & Garfunkel Story",
-     "mbid": "af4767bc-9cd9-4117-9de4-a12acfec1c82",
-     "official_url": "https://www.thesimonandgarfunkelstory.com/welcome/"
-    }
-   ],
-   "venue_url": "https://thesoundsd.com/"
   },
   {
    "id": "soma:2027-04-28:saint-levant",
