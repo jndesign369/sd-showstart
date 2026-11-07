@@ -104,8 +104,8 @@
   <p class="empty" id="empty" hidden>No shows found.</p>
 
   <footer>
-    <p>Listing facts collected from <a href="https://concertssd.com/">The List: San Diego (ConcertsSD)</a>; check their site for times, prices, and tickets.</p>
-    <p>Artist names link automatically to <a href="https://musicbrainz.org/">MusicBrainz</a> "official homepage" results; no homepage means no link. Venue names link to official venue websites where known.</p>
+    <p>Listing facts collected from <a href="https://concertssd.com/" target="_blank" rel="noopener noreferrer">The List: San Diego (ConcertsSD)</a>; check their site for times, prices, and tickets.</p>
+    <p>Artist names link automatically to <a href="https://musicbrainz.org/" target="_blank" rel="noopener noreferrer">MusicBrainz</a> "official homepage" results; no homepage means no link. Venue names link to official venue websites where known.</p>
     <p id="meta"></p>
   </footer>
 </main>
@@ -152,7 +152,7 @@
       ? show.artists : (show.performers || []).map(function (p) { return { name: p }; });
     return artists.map(function (a) {
       var url = safeURL(a.official_url);
-      return url ? '<a href="' + esc(url) + '">' + esc(a.name) + "</a>" : esc(a.name);
+      return url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">' + esc(a.name) + "</a>" : esc(a.name);
     }).join(", ");
   }
 
@@ -185,7 +185,7 @@
         '<td class="date" data-label="Date">' + esc(fmtDate(s.date)) + "</td>" +
         '<td data-label="Artist">' + artistHTML(s) + "</td>" +
         '<td data-label="Venue">' + (venue
-          ? '<a href="' + esc(venue) + '">' + esc(s.venue) + "</a>"
+          ? '<a href="' + esc(venue) + '" target="_blank" rel="noopener noreferrer">' + esc(s.venue) + "</a>"
           : esc(s.venue) + ' <span class="muted">' + esc(s.city) + "</span>") + "</td>" +
         "</tr>";
     }).join("");
