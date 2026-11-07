@@ -316602,6 +316602,105 @@
           "id": "10475c13-637b-4a91-abe5-b2667999553b"
         }
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Operation Retro\\\"\"}": {
+      "fetched_at": "2026-11-07T19:30:08.244845+00:00",
+      "data": {
+        "created": "2026-11-07T19:30:08.843Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Detroit Underground\\\"\"}": {
+      "fetched_at": "2026-11-07T19:30:08.244845+00:00",
+      "data": {
+        "created": "2026-11-07T19:30:11.987Z",
+        "count": 2,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "5afecd6a-5de3-4358-a416-256adc9d6714",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "DETROIT UNDERGROUND",
+            "sort-name": "DETROIT UNDERGROUND",
+            "area": {
+              "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Detroit",
+              "sort-name": "Detroit",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Detroit",
+              "sort-name": "Detroit",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "begin": "1997",
+              "ended": null
+            }
+          },
+          {
+            "id": "dc4bbc9e-1156-4b58-9170-709c1ffd96c0",
+            "score": 88,
+            "name": "Ghosts of Detroit Underground",
+            "sort-name": "Ghosts of Detroit Underground",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/5afecd6a-5de3-4358-a416-256adc9d6714?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-07T19:30:08.244845+00:00",
+      "data": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "end-area": null,
+        "type": "Group",
+        "gender": null,
+        "area": {
+          "type": null,
+          "sort-name": "Detroit",
+          "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+          "name": "Detroit",
+          "type-id": null,
+          "disambiguation": ""
+        },
+        "country": "US",
+        "gender-id": null,
+        "relations": [],
+        "life-span": {
+          "end": null,
+          "begin": "1997",
+          "ended": false
+        },
+        "id": "5afecd6a-5de3-4358-a416-256adc9d6714",
+        "isnis": [],
+        "name": "DETROIT UNDERGROUND",
+        "ipis": [],
+        "sort-name": "DETROIT UNDERGROUND",
+        "disambiguation": "",
+        "begin-area": {
+          "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+          "name": "Detroit",
+          "type-id": null,
+          "disambiguation": "",
+          "type": null,
+          "sort-name": "Detroit"
+        }
+      }
     }
   }
 }

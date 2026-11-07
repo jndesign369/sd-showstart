@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-07T02:30:15-08:00",
+ "generated_at": "2026-11-07T11:30:07-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 6, 2026"
+  "updated": "November 7, 2026"
  },
  "shows": [
   {
@@ -3050,6 +3050,26 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "humphreys-backstage-live:2026-11-28:operation-retro",
+   "date": "2026-11-28",
+   "venue": "Humphreys Backstage Live",
+   "city": "San Diego",
+   "performers": [
+    "Operation Retro",
+    "Detroit Underground"
+   ],
+   "artists": [
+    {
+     "name": "Operation Retro"
+    },
+    {
+     "name": "Detroit Underground",
+     "mbid": "5afecd6a-5de3-4358-a416-256adc9d6714"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "music-box:2026-11-28:amtrac",
