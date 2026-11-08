@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-08T02:37:21-08:00",
+ "generated_at": "2026-11-08T11:49:32-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 7, 2026"
+  "updated": "November 8, 2026"
  },
  "shows": [
   {
@@ -1416,6 +1416,21 @@
      "name": "Robin Henkel",
      "mbid": "63e42d24-b39f-4185-ae78-9b26a8574c18",
      "official_url": "http://robinhenkel.com/"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "lou-lou-s:2026-11-14:western-standard-time-ska-orchestra-featuring-mara-kaye",
+   "date": "2026-11-14",
+   "venue": "Lou Lou's",
+   "city": "San Diego",
+   "performers": [
+    "WESTERN STANDARD TIME SKA ORCHESTRA featuring MARA KAYE"
+   ],
+   "artists": [
+    {
+     "name": "WESTERN STANDARD TIME SKA ORCHESTRA featuring MARA KAYE"
     }
    ],
    "venue_url": null
@@ -3860,6 +3875,21 @@
    "venue_url": "https://www.casbahmusic.com/"
   },
   {
+   "id": "humphreys-backstage-live:2026-11-29:still-thankful-jazz-festival",
+   "date": "2026-11-29",
+   "venue": "Humphreys Backstage Live",
+   "city": "San Diego",
+   "performers": [
+    "Still Thankful Jazz Festival"
+   ],
+   "artists": [
+    {
+     "name": "Still Thankful Jazz Festival"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "soma:2026-11-29:surely-tempo",
    "date": "2026-11-29",
    "venue": "SOMA",
@@ -3885,7 +3915,9 @@
    ],
    "artists": [
     {
-     "name": "Spanish Love Songs"
+     "name": "Spanish Love Songs",
+     "mbid": "5c9dd772-a38f-4873-baa8-4b5d9dff3990",
+     "official_url": "https://www.spanishlovesongs.com/"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -3902,7 +3934,9 @@
    ],
    "artists": [
     {
-     "name": "Cruelties"
+     "name": "Cruelties",
+     "mbid": "f9d440ca-fbf2-48cf-8b18-320cd0f60e46",
+     "official_url": "http://www.variouscruelties.com/"
     },
     {
      "name": "Volta Lust"
@@ -3985,7 +4019,9 @@
    ],
    "artists": [
     {
-     "name": "The Meteors"
+     "name": "The Meteors",
+     "mbid": "8df95482-901f-469f-a268-73b34e05dad9",
+     "official_url": "http://yendor71.com/"
     },
     {
      "name": "The Screamin' Yeehaws"
@@ -4077,10 +4113,13 @@
    ],
    "artists": [
     {
-     "name": "Mini Trees"
+     "name": "Mini Trees",
+     "mbid": "510ca9ea-0695-4d2b-ae7d-30645d9c5c66",
+     "official_url": "https://www.minitreesband.com/"
     },
     {
-     "name": "Just Penelope"
+     "name": "Just Penelope",
+     "mbid": "835f0511-fa9a-4664-acb5-d643bb043402"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -4263,7 +4302,8 @@
      "name": "KUMO 99 - CALI \u201826"
     },
     {
-     "name": "KUMO 99"
+     "name": "KUMO 99",
+     "mbid": "8236928d-9216-4294-af77-df8cd25a4a58"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -4331,7 +4371,8 @@
      "name": "Tuan Hung Nguyen"
     },
     {
-     "name": "Nhu Quynh"
+     "name": "Nhu Quynh",
+     "mbid": "97670b79-82cd-4427-95d2-b8e4d968ce1d"
     }
    ],
    "venue_url": null
@@ -4431,13 +4472,16 @@
    ],
    "artists": [
     {
-     "name": "The Kinison"
+     "name": "The Kinison",
+     "mbid": "212b32d3-90bf-4b8a-a758-53a069b4891c"
     },
     {
-     "name": "UGHH"
+     "name": "UGHH",
+     "mbid": "5ed6009b-c30e-4dd4-a403-b16111ffbe8a"
     },
     {
-     "name": "Stalemate"
+     "name": "Stalemate",
+     "mbid": "3a66d4fc-6dea-4238-a7c9-73ded259dbd7"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -4458,10 +4502,13 @@
      "mbid": "a61b39ea-ef3a-4140-8cc0-a82b7a87ba5f"
     },
     {
-     "name": "Redder Moon"
+     "name": "Redder Moon",
+     "mbid": "9992d7f6-8616-426b-a061-cade36ffcd51"
     },
     {
-     "name": "Cloud Types"
+     "name": "Cloud Types",
+     "mbid": "86cf8e5f-d6c5-4238-b2a2-170d601c3f88",
+     "official_url": "https://cloudtypesmusic.com/"
     }
    ],
    "venue_url": null
@@ -4703,6 +4750,37 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "soda-bar:2026-12-05:weatherbox",
+   "date": "2026-12-05",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Weatherbox",
+    "Townies",
+    "WEAREOKAY",
+    "Collars"
+   ],
+   "artists": [
+    {
+     "name": "Weatherbox",
+     "mbid": "b0956e66-81f2-4fad-940b-73900818ff42"
+    },
+    {
+     "name": "Townies",
+     "mbid": "e0c2f4b1-1cca-4c4f-9278-325b0e6ba041"
+    },
+    {
+     "name": "WEAREOKAY"
+    },
+    {
+     "name": "Collars",
+     "mbid": "828a8d00-4106-49fd-ae78-3c5ec1085960",
+     "official_url": "https://www.collarstheband.com/"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-observatory-north-park:2026-12-05:eres-emo",
    "date": "2026-12-05",
    "venue": "The Observatory North Park",
@@ -4851,6 +4929,26 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "soda-bar:2026-12-06:fraxiom",
+   "date": "2026-12-06",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Fraxiom",
+    "Saint Misty"
+   ],
+   "artists": [
+    {
+     "name": "Fraxiom",
+     "mbid": "cfb4ae4f-e281-43bb-a6d2-fcfff15e00db"
+    },
+    {
+     "name": "Saint Misty"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-banshee:2026-12-06:cool-heat",
    "date": "2026-12-06",
    "venue": "The Banshee",
@@ -4862,13 +4960,16 @@
    ],
    "artists": [
     {
-     "name": "Cool Heat"
+     "name": "Cool Heat",
+     "mbid": "8bf0fd4e-c311-4d0a-9e94-2eff7762522e"
     },
     {
-     "name": "Sunder"
+     "name": "Sunder",
+     "mbid": "0254b93c-3717-48ed-8648-e82df0f60840"
     },
     {
-     "name": "Sparkler"
+     "name": "Sparkler",
+     "mbid": "2eebc2f1-af2f-4199-8724-76d6390904e9"
     }
    ],
    "venue_url": null
@@ -4904,7 +5005,8 @@
      "name": "Sister Psycho"
     },
     {
-     "name": "Dale Crover"
+     "name": "Dale Crover",
+     "mbid": "9b93a71b-1484-4bea-b096-f660c1161f8a"
     }
    ],
    "venue_url": null
@@ -4950,6 +5052,22 @@
    "venue_url": "https://www.casbahmusic.com/"
   },
   {
+   "id": "soda-bar:2026-12-07:beat-music",
+   "date": "2026-12-07",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Beat Music"
+   ],
+   "artists": [
+    {
+     "name": "Beat Music",
+     "mbid": "5262a717-275e-4793-8646-ac377700ea4e"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "casbah:2026-12-08:moon-panda",
    "date": "2026-12-08",
    "venue": "Casbah",
@@ -4960,10 +5078,13 @@
    ],
    "artists": [
     {
-     "name": "Moon Panda"
+     "name": "Moon Panda",
+     "mbid": "516ac132-ad0e-4185-b21e-ed03a5a2955f",
+     "official_url": "http://moon-panda.com/"
     },
     {
-     "name": "moondaddy"
+     "name": "moondaddy",
+     "mbid": "d383ca7c-3632-44e9-aeca-e95c89966d6a"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -5009,6 +5130,38 @@
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
+  },
+  {
+   "id": "soda-bar:2026-12-08:caspia",
+   "date": "2026-12-08",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Caspia",
+    "small talk.",
+    "Just Let Me Go",
+    "Year Of The Dead Bird"
+   ],
+   "artists": [
+    {
+     "name": "Caspia",
+     "mbid": "4fa2cece-12da-4e0f-86a0-543281ba54b0",
+     "official_url": "https://eroticism.neocities.org/"
+    },
+    {
+     "name": "small talk.",
+     "mbid": "52594088-69af-4256-b343-ce118244b4c0"
+    },
+    {
+     "name": "Just Let Me Go",
+     "mbid": "818ac9fb-079d-4aed-9b31-b1db4be63d14"
+    },
+    {
+     "name": "Year Of The Dead Bird",
+     "mbid": "4ba9ef17-10b8-466c-94b1-f9c3c43c96b5"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-sound:2026-12-08:young-the-giant",
@@ -5178,6 +5331,29 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "soda-bar:2026-12-10:fat",
+   "date": "2026-12-10",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Fat",
+    "Evil Children",
+    "Cut Loose"
+   ],
+   "artists": [
+    {
+     "name": "Fat"
+    },
+    {
+     "name": "Evil Children"
+    },
+    {
+     "name": "Cut Loose"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-banshee:2026-12-10:burbank-police-department",
@@ -5428,6 +5604,29 @@
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
+  },
+  {
+   "id": "soda-bar:2026-12-11:magenta-wave",
+   "date": "2026-12-11",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Magenta Wave",
+    "Sleeping",
+    "Socks On"
+   ],
+   "artists": [
+    {
+     "name": "Magenta Wave"
+    },
+    {
+     "name": "Sleeping"
+    },
+    {
+     "name": "Socks On"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-banshee:2026-12-11:comfort-club",
@@ -5694,6 +5893,25 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "soda-bar:2026-12-14:the-heeters",
+   "date": "2026-12-14",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "The Heeters",
+    "Hailey Marea"
+   ],
+   "artists": [
+    {
+     "name": "The Heeters"
+    },
+    {
+     "name": "Hailey Marea"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "dizzy-s-jazz:2026-12-15:grossmont-college-jazz-ensemble-cadence-vocal-jazz",
@@ -5994,6 +6212,21 @@
    "venue_url": "https://novasandiego.com/"
   },
   {
+   "id": "soda-bar:2026-12-18:willi-carlisle",
+   "date": "2026-12-18",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Willi Carlisle"
+   ],
+   "artists": [
+    {
+     "name": "Willi Carlisle"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-holding-company:2026-12-18:funk-all-stars",
    "date": "2026-12-18",
    "venue": "The Holding Company",
@@ -6133,6 +6366,29 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "soda-bar:2026-12-19:well-well",
+   "date": "2026-12-19",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Well Well",
+    "MOANS",
+    "BRUIN"
+   ],
+   "artists": [
+    {
+     "name": "Well Well"
+    },
+    {
+     "name": "MOANS"
+    },
+    {
+     "name": "BRUIN"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-banshee:2026-12-19:free-show",
    "date": "2026-12-19",
    "venue": "The Banshee",
@@ -6237,6 +6493,25 @@
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
+  },
+  {
+   "id": "soda-bar:2026-12-20:milk-bone",
+   "date": "2026-12-20",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Milk & Bone",
+    "Chloe Saavedra"
+   ],
+   "artists": [
+    {
+     "name": "Milk & Bone"
+    },
+    {
+     "name": "Chloe Saavedra"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-holding-company:2026-12-20:authority-zero",
@@ -6443,6 +6718,21 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "soda-bar:2026-12-30:thee-heart-tones-x-the-mccharmlys",
+   "date": "2026-12-30",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Thee Heart Tones x The McCharmlys"
+   ],
+   "artists": [
+    {
+     "name": "Thee Heart Tones x The McCharmlys"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "temper-fest-petco-park:2026-12-30:bad-girl-bailey",
@@ -6659,6 +6949,21 @@
    "venue_url": "https://novasandiego.com/"
   },
   {
+   "id": "soda-bar:2026-12-31:the-mccharmlys-x-thee-heart-tones",
+   "date": "2026-12-31",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "The McCharmlys x Thee Heart Tones"
+   ],
+   "artists": [
+    {
+     "name": "The McCharmlys x Thee Heart Tones"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-sound:2026-12-31:tribal-seeds",
    "date": "2026-12-31",
    "venue": "The Sound",
@@ -6824,6 +7129,21 @@
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
+   "id": "soda-bar:2027-01-07:dan-kelly-fortunate-youth",
+   "date": "2027-01-07",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Dan Kelly (Fortunate Youth)"
+   ],
+   "artists": [
+    {
+     "name": "Dan Kelly (Fortunate Youth)"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-holding-company:2027-01-07:mustard-plug",
@@ -7065,6 +7385,21 @@
    "venue_url": null
   },
   {
+   "id": "soda-bar:2027-01-14:taper-s-choice",
+   "date": "2027-01-14",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Taper\u2019s Choice"
+   ],
+   "artists": [
+    {
+     "name": "Taper\u2019s Choice"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "belly-up-tavern:2027-01-15:the-record-company",
    "date": "2027-01-15",
    "venue": "Belly Up Tavern",
@@ -7080,6 +7415,21 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "soda-bar:2027-01-15:tara-clerkin-trio",
+   "date": "2027-01-15",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Tara Clerkin Trio"
+   ],
+   "artists": [
+    {
+     "name": "Tara Clerkin Trio"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-observatory-north-park:2027-01-15:home-grown",
@@ -7168,6 +7518,29 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
+   "id": "soda-bar:2027-01-16:jeffrey-silverstein",
+   "date": "2027-01-16",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Jeffrey Silverstein",
+    "Nighttime",
+    "San Diego Freak Out DJs"
+   ],
+   "artists": [
+    {
+     "name": "Jeffrey Silverstein"
+    },
+    {
+     "name": "Nighttime"
+    },
+    {
+     "name": "San Diego Freak Out DJs"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-tower-bar:2027-01-16:just-laughing",
    "date": "2027-01-16",
    "venue": "The Tower Bar",
@@ -7181,6 +7554,29 @@
     }
    ],
    "venue_url": null
+  },
+  {
+   "id": "soda-bar:2027-01-17:dopethrone",
+   "date": "2027-01-17",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Dopethrone",
+    "-(16)-",
+    "Armed for Apocalypse"
+   ],
+   "artists": [
+    {
+     "name": "Dopethrone"
+    },
+    {
+     "name": "-(16)-"
+    },
+    {
+     "name": "Armed for Apocalypse"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-holding-company:2027-01-17:escape-from-the-zoo",
@@ -7616,6 +8012,25 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "soda-bar:2027-01-28:elephant-stone",
+   "date": "2027-01-28",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Elephant Stone",
+    "Stevenson Ranch Davidians"
+   ],
+   "artists": [
+    {
+     "name": "Elephant Stone"
+    },
+    {
+     "name": "Stevenson Ranch Davidians"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-magnolia:2027-01-28:jesse-cook",
    "date": "2027-01-28",
    "venue": "The Magnolia",
@@ -7712,6 +8127,21 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "soda-bar:2027-01-29:satsang",
+   "date": "2027-01-29",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Satsang"
+   ],
+   "artists": [
+    {
+     "name": "Satsang"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-holding-company:2027-01-29:mickey-avalon",
    "date": "2027-01-29",
    "venue": "The Holding Company",
@@ -7747,6 +8177,33 @@
     },
     {
      "name": "T.K.& the Deadlist"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "the-banshee:2027-01-30:pigeon-john",
+   "date": "2027-01-30",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Pigeon John",
+    "MC Homeless",
+    "Coolzey",
+    "Cotton Brain"
+   ],
+   "artists": [
+    {
+     "name": "Pigeon John"
+    },
+    {
+     "name": "MC Homeless"
+    },
+    {
+     "name": "Coolzey"
+    },
+    {
+     "name": "Cotton Brain"
     }
    ],
    "venue_url": null
@@ -8116,6 +8573,23 @@
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
+  },
+  {
+   "id": "soda-bar:2027-02-09:eddie-9v",
+   "date": "2027-02-09",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Eddie 9V"
+   ],
+   "artists": [
+    {
+     "name": "Eddie 9V",
+     "mbid": "bf530a68-5477-4e06-a4d7-4151e6ef6a52",
+     "official_url": "https://www.eddie9volt.com/"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "belly-up-tavern:2027-02-10:ottmar-liebert-luna-negra",
@@ -8598,9 +9072,13 @@
    "city": "San Diego",
    "performers": [
     "Small Brown Bike",
+    "Small Brown Bike",
     "Suzzallo"
    ],
    "artists": [
+    {
+     "name": "Small Brown Bike"
+    },
     {
      "name": "Small Brown Bike"
     },
@@ -8780,6 +9258,21 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
+   "id": "soda-bar:2027-02-26:starbenders",
+   "date": "2027-02-26",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Starbenders"
+   ],
+   "artists": [
+    {
+     "name": "Starbenders"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-magnolia:2027-02-26:kenia-os",
    "date": "2027-02-26",
    "venue": "The Magnolia",
@@ -8954,7 +9447,9 @@
    ],
    "artists": [
     {
-     "name": "Cloud Types"
+     "name": "Cloud Types",
+     "mbid": "86cf8e5f-d6c5-4238-b2a2-170d601c3f88",
+     "official_url": "https://cloudtypesmusic.com/"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -9018,6 +9513,21 @@
     }
    ],
    "venue_url": null
+  },
+  {
+   "id": "soda-bar:2027-03-02:cloud-nothings",
+   "date": "2027-03-02",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Cloud Nothings"
+   ],
+   "artists": [
+    {
+     "name": "Cloud Nothings"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-observatory-north-park:2027-03-02:rayland-baxter",
@@ -9334,6 +9844,21 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "soda-bar:2027-03-09:goes-poppunk",
+   "date": "2027-03-09",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Goes Poppunk"
+   ],
+   "artists": [
+    {
+     "name": "Goes Poppunk"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "belly-up-tavern:2027-03-10:they-might-be-giants",
@@ -9655,15 +10180,19 @@
    "venue_url": "https://www.magnoliasd.com/"
   },
   {
-   "id": "soda-bar:2027-03-19:noah-gundersen",
+   "id": "soda-bar:2027-03-19:spring-2027",
    "date": "2027-03-19",
    "venue": "Soda Bar",
    "city": "San Diego",
    "performers": [
+    "Spring 2027",
     "Noah Gundersen",
     "Nathan Evans Fox"
    ],
    "artists": [
+    {
+     "name": "Spring 2027"
+    },
     {
      "name": "Noah Gundersen"
     },
@@ -9834,6 +10363,21 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "soda-bar:2027-03-25:world-news",
+   "date": "2027-03-25",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "World News"
+   ],
+   "artists": [
+    {
+     "name": "World News"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "belly-up-tavern:2027-03-26:pato-banton",
@@ -10959,6 +11503,21 @@
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
+  },
+  {
+   "id": "soda-bar:2027-06-26:vlad-holiday",
+   "date": "2027-06-26",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Vlad Holiday"
+   ],
+   "artists": [
+    {
+     "name": "Vlad Holiday"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "humphreys-concerts-by-the-bay:2027-06-27:chicago",
