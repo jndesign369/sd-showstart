@@ -1,291 +1,11 @@
 {
- "generated_at": "2026-11-07T11:30:07-08:00",
+ "generated_at": "2026-11-08T02:37:21-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
   "updated": "November 7, 2026"
  },
  "shows": [
-  {
-   "id": "casbah:2026-11-07:born-without-bones",
-   "date": "2026-11-07",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "Born Without Bones"
-   ],
-   "artists": [
-    {
-     "name": "Born Without Bones",
-     "mbid": "756d7448-75e0-4ab4-80a3-3aaed8c32929",
-     "official_url": "https://www.bornwithoutbones.com/"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
-  },
-  {
-   "id": "dia-de-los-deftones-petco-park:2026-11-07:deftones",
-   "date": "2026-11-07",
-   "venue": "Dia De Los Deftones, Petco Park",
-   "city": "San Diego",
-   "performers": [
-    "Deftones",
-    "The Neighbourhood",
-    "Afi",
-    "Bktherula",
-    "Converge",
-    "Jehnny Beth",
-    "Ladrones",
-    "Lip Critic",
-    "Lustsickpuppy"
-   ],
-   "artists": [
-    {
-     "name": "Deftones",
-     "mbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
-     "official_url": "https://www.deftones.com/"
-    },
-    {
-     "name": "The Neighbourhood",
-     "mbid": "97b8d224-5660-419c-8dff-4b3bf0c33983",
-     "official_url": "http://thenbhd.com/"
-    },
-    {
-     "name": "Afi",
-     "mbid": "1c3919b2-43ca-4a4a-935d-9d50135ec0ef",
-     "official_url": "http://afireinside.net/"
-    },
-    {
-     "name": "Bktherula",
-     "mbid": "4b62f375-7bff-49c2-ae7e-24b8de579ba8"
-    },
-    {
-     "name": "Converge",
-     "mbid": "fa31e7d4-a03a-4110-98fc-f8826e95ec25",
-     "official_url": "https://www.convergecult.com/"
-    },
-    {
-     "name": "Jehnny Beth",
-     "mbid": "fdac609a-63d0-49b9-823a-daec52a0db97",
-     "official_url": "https://www.jehnnybeth.com/"
-    },
-    {
-     "name": "Ladrones",
-     "mbid": "858efc10-9a72-410c-af11-ebc712775e2f",
-     "official_url": "https://www.ladrones.mx/"
-    },
-    {
-     "name": "Lip Critic",
-     "mbid": "65337aaf-a187-43ff-a195-8ef83b7384a2",
-     "official_url": "https://artists.teamwass.com/music/lip-critic/"
-    },
-    {
-     "name": "Lustsickpuppy",
-     "mbid": "842cfb88-786e-405f-8351-c5c80644caff",
-     "official_url": "https://www.lustsickpuppy.com/"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "dizzy-s-jazz:2026-11-07:helen-sung-trio",
-   "date": "2026-11-07",
-   "venue": "Dizzy's Jazz",
-   "city": "San Diego",
-   "performers": [
-    "Helen Sung Trio"
-   ],
-   "artists": [
-    {
-     "name": "Helen Sung Trio"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "house-of-blues:2026-11-07:josh-garrels",
-   "date": "2026-11-07",
-   "venue": "House of Blues",
-   "city": "San Diego",
-   "performers": [
-    "Josh Garrels",
-    "Taylor Armstrong",
-    "Greg Freeman",
-    "Trinity Ace"
-   ],
-   "artists": [
-    {
-     "name": "Josh Garrels",
-     "mbid": "0e762f40-9bfb-4998-b4c3-810d68ab43f2",
-     "official_url": "http://www.joshgarrels.com/"
-    },
-    {
-     "name": "Taylor Armstrong",
-     "mbid": "48e90220-0793-444a-9779-9c95d6685ab0",
-     "official_url": "https://taylorarmstrongmusic.com/"
-    },
-    {
-     "name": "Greg Freeman",
-     "mbid": "d0abfd67-483b-4a2a-bf31-b525036d9401",
-     "official_url": "https://greg-freeman.net/"
-    },
-    {
-     "name": "Trinity Ace",
-     "mbid": "cac12a05-9f0d-4fdd-8f5b-25fb8e31b8b6"
-    }
-   ],
-   "venue_url": "https://www.houseofblues.com/sandiego"
-  },
-  {
-   "id": "humphreys-backstage-live:2026-11-07:fmera",
-   "date": "2026-11-07",
-   "venue": "Humphreys Backstage Live",
-   "city": "San Diego",
-   "performers": [
-    "FMera"
-   ],
-   "artists": [
-    {
-     "name": "FMera"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "lou-lou-s:2026-11-07:boogaloo-assassins",
-   "date": "2026-11-07",
-   "venue": "Lou Lou's",
-   "city": "San Diego",
-   "performers": [
-    "BOOGALOO ASSASSINS"
-   ],
-   "artists": [
-    {
-     "name": "BOOGALOO ASSASSINS",
-     "mbid": "f7b7126f-5145-4910-b00d-e610eb7c2345"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "nova-sd:2026-11-07:pedro-sampaio",
-   "date": "2026-11-07",
-   "venue": "Nova SD",
-   "city": "San Diego",
-   "performers": [
-    "Pedro Sampaio"
-   ],
-   "artists": [
-    {
-     "name": "Pedro Sampaio",
-     "mbid": "796bc8a9-efd1-43e8-bacf-5eba68835928"
-    }
-   ],
-   "venue_url": "https://novasandiego.com/"
-  },
-  {
-   "id": "pechanga-resort-casino:2026-11-07:sohyang",
-   "date": "2026-11-07",
-   "venue": "Pechanga Resort & Casino",
-   "city": "Temecula",
-   "performers": [
-    "Sohyang",
-    "Kim Kitae"
-   ],
-   "artists": [
-    {
-     "name": "Sohyang"
-    },
-    {
-     "name": "Kim Kitae"
-    }
-   ],
-   "venue_url": "https://www.pechanga.com/"
-  },
-  {
-   "id": "the-holding-company:2026-11-07:cero-viejo",
-   "date": "2026-11-07",
-   "venue": "The Holding Company",
-   "city": "San Diego",
-   "performers": [
-    "Cero Viejo",
-    "1967",
-    "Fight Naked",
-    "Island Heart",
-    "Incomplete Elements",
-    "The Sound Rejects",
-    "Tumbleweeds"
-   ],
-   "artists": [
-    {
-     "name": "Cero Viejo"
-    },
-    {
-     "name": "1967",
-     "mbid": "34df4fd7-86de-4e0a-89da-43e252707cad"
-    },
-    {
-     "name": "Fight Naked"
-    },
-    {
-     "name": "Island Heart"
-    },
-    {
-     "name": "Incomplete Elements"
-    },
-    {
-     "name": "The Sound Rejects"
-    },
-    {
-     "name": "Tumbleweeds",
-     "mbid": "824aa925-2c80-4f52-a52a-12694ba50b7c"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "the-kensington-club:2026-11-07:soul-buzz",
-   "date": "2026-11-07",
-   "venue": "The Kensington Club",
-   "city": "San Diego",
-   "performers": [
-    "Soul Buzz"
-   ],
-   "artists": [
-    {
-     "name": "Soul Buzz"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "the-tower-bar:2026-11-07:mad-marge",
-   "date": "2026-11-07",
-   "venue": "The Tower Bar",
-   "city": "San Diego",
-   "performers": [
-    "Mad Marge",
-    "Under Shakers",
-    "DJ Dirt Chylde",
-    "DJ DK Brown"
-   ],
-   "artists": [
-    {
-     "name": "Mad Marge",
-     "mbid": "1c2513d4-69fb-4eba-971a-5ace14f9554e"
-    },
-    {
-     "name": "Under Shakers"
-    },
-    {
-     "name": "DJ Dirt Chylde"
-    },
-    {
-     "name": "DJ DK Brown"
-    }
-   ],
-   "venue_url": null
-  },
   {
    "id": "3oz-dive-club:2026-11-08:night-shift",
    "date": "2026-11-08",
@@ -507,18 +227,74 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
-   "id": "the-holding-company:2026-11-08:bad-marriage-feat-tommy-skeoch-from-tesla",
+   "id": "soda-bar:2026-11-08:holy-wave",
+   "date": "2026-11-08",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Holy Wave",
+    "Queen Serene",
+    "San Diego Freak Out DJs"
+   ],
+   "artists": [
+    {
+     "name": "Holy Wave",
+     "mbid": "715b9af4-36c8-4ae7-bc7a-b1ff147fc110"
+    },
+    {
+     "name": "Queen Serene",
+     "mbid": "39e0fbce-23dd-4b35-a9cd-f4c0468dac5c"
+    },
+    {
+     "name": "San Diego Freak Out DJs"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-banshee:2026-11-08:in-mazes",
+   "date": "2026-11-08",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "In Mazes",
+    "Muzak",
+    "Blue Park Suites",
+    "Brainwash*"
+   ],
+   "artists": [
+    {
+     "name": "In Mazes"
+    },
+    {
+     "name": "Muzak",
+     "mbid": "ede3f6d1-98d5-4ace-bd6d-b5101cf2ea58"
+    },
+    {
+     "name": "Blue Park Suites"
+    },
+    {
+     "name": "Brainwash*",
+     "mbid": "d8f742ed-8c25-4808-9c7a-891475f73344"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "the-holding-company:2026-11-08:bad-marriage",
    "date": "2026-11-08",
    "venue": "The Holding Company",
    "city": "San Diego",
    "performers": [
-    "Bad Marriage (feat TOMMY SKEOCH from TESLA)",
+    "Bad Marriage",
     "Sons of Kaos",
     "69 Revelation"
    ],
    "artists": [
     {
-     "name": "Bad Marriage (feat TOMMY SKEOCH from TESLA)"
+     "name": "Bad Marriage",
+     "mbid": "b18fee77-5487-4e6d-adb3-768f830a3a8e",
+     "official_url": "http://badmarriagemusic.com/"
     },
     {
      "name": "Sons of Kaos"
@@ -593,6 +369,26 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "casbah:2026-11-09:show-has-been-postponed-to-nov-9-tickets-will-be-honored-bebe-stockwell",
+   "date": "2026-11-09",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Show has been postponed to Nov 9 - tickets will be honored. Bebe Stockwell",
+    "Khatumu"
+   ],
+   "artists": [
+    {
+     "name": "Show has been postponed to Nov 9 - tickets will be honored. Bebe Stockwell"
+    },
+    {
+     "name": "Khatumu",
+     "mbid": "c7535a2b-bf80-447d-8e2b-831edfeb31b1"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "san-diego-civic-theatre:2026-11-09:anne-wilson",
    "date": "2026-11-09",
    "venue": "San Diego Civic Theatre",
@@ -614,6 +410,51 @@
     }
    ],
    "venue_url": "https://www.sdcivic.org/"
+  },
+  {
+   "id": "soda-bar:2026-11-09:jady",
+   "date": "2026-11-09",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Jady",
+    "colby!",
+    "TJ Minor"
+   ],
+   "artists": [
+    {
+     "name": "Jady",
+     "mbid": "a394d2ad-7458-4dbb-88d7-ac0bbb5cb679",
+     "official_url": "https://jadymusic.net/"
+    },
+    {
+     "name": "colby!",
+     "mbid": "d71c2b20-616a-4bb8-a848-e6edac412c3b",
+     "official_url": "http://colbyodonis.com/"
+    },
+    {
+     "name": "TJ Minor",
+     "mbid": "c15314df-212c-4066-b634-9dfdfcf60005"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "casbah:2026-11-10:sun-room",
+   "date": "2026-11-10",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Sun Room"
+   ],
+   "artists": [
+    {
+     "name": "Sun Room",
+     "mbid": "4ef0f37a-c8bd-43a1-a6b6-8e1218fd6d6c",
+     "official_url": "http://sunroomtheband.com/"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "humphreys-concerts-by-the-bay:2026-11-10:rodrigo-y-gabriela",
@@ -660,6 +501,45 @@
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
+  },
+  {
+   "id": "soda-bar:2026-11-10:voice-of-san-diego-brews-news-live-podcast",
+   "date": "2026-11-10",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Voice of San Diego: Brews & News Live Podcast"
+   ],
+   "artists": [
+    {
+     "name": "Voice of San Diego: Brews & News Live Podcast"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-banshee:2026-11-10:hypno-toads",
+   "date": "2026-11-10",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Hypno Toads",
+    "The Valves",
+    "Calabio Twins"
+   ],
+   "artists": [
+    {
+     "name": "Hypno Toads"
+    },
+    {
+     "name": "The Valves",
+     "mbid": "fc45de43-7517-4007-940d-f5b5b920cfab"
+    },
+    {
+     "name": "Calabio Twins"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "the-tower-bar:2026-11-10:morbikon",
@@ -709,6 +589,23 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "casbah:2026-11-11:oh-he-dead",
+   "date": "2026-11-11",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Oh He Dead"
+   ],
+   "artists": [
+    {
+     "name": "Oh He Dead",
+     "mbid": "56733b71-0696-4828-a1f0-f40cddafea92",
+     "official_url": "https://www.ohhedead.com/"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "house-of-blues:2026-11-11:bombargo",
    "date": "2026-11-11",
    "venue": "House of Blues",
@@ -745,19 +642,47 @@
    "venue_url": null
   },
   {
-   "id": "lou-lou-s:2026-11-11:sasha-marie-radio-live-recording",
+   "id": "lou-lou-s:2026-11-11:sasha-marie",
    "date": "2026-11-11",
    "venue": "Lou Lou's",
    "city": "San Diego",
    "performers": [
-    "SASHA MARIE RADIO - Live Recording"
+    "Sasha Marie"
    ],
    "artists": [
     {
-     "name": "SASHA MARIE RADIO - Live Recording"
+     "name": "Sasha Marie",
+     "mbid": "485b2e9d-bb1c-409e-ad62-cf4b852c5452"
     }
    ],
    "venue_url": null
+  },
+  {
+   "id": "soda-bar:2026-11-11:todd-day-wait",
+   "date": "2026-11-11",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Todd Day Wait",
+    "Zack Oakley",
+    "ZB Savoy"
+   ],
+   "artists": [
+    {
+     "name": "Todd Day Wait",
+     "mbid": "3438e2a4-c221-4486-861a-41bb69c9db42",
+     "official_url": "http://tdwpigpen.com/"
+    },
+    {
+     "name": "Zack Oakley",
+     "mbid": "7f57f818-a6c3-4894-964d-0d178494f740",
+     "official_url": "https://zackoakley.com/"
+    },
+    {
+     "name": "ZB Savoy"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-holding-company:2026-11-11:atlantis-rizing",
@@ -792,18 +717,18 @@
    "venue_url": "https://www.magnoliasd.com/"
   },
   {
-   "id": "the-tower-bar:2026-11-11:execution-wednesdays-hector-penalosa-band",
+   "id": "the-tower-bar:2026-11-11:hector-penalosa-band",
    "date": "2026-11-11",
    "venue": "The Tower Bar",
    "city": "San Diego",
    "performers": [
-    "Execution Wednesdays - Hector Penalosa Band",
+    "Hector Penalosa Band",
     "Loudmouth",
     "Overdrives"
    ],
    "artists": [
     {
-     "name": "Execution Wednesdays - Hector Penalosa Band"
+     "name": "Hector Penalosa Band"
     },
     {
      "name": "Loudmouth",
@@ -902,6 +827,30 @@
    "venue_url": "https://quartyardsd.com/"
   },
   {
+   "id": "soda-bar:2026-11-12:val",
+   "date": "2026-11-12",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "VAL\u00c9",
+    "Kate Delos Santos",
+    "Vivi Nubes"
+   ],
+   "artists": [
+    {
+     "name": "VAL\u00c9",
+     "mbid": "3a49bb49-0e7b-4381-94b3-fab8069dcf10"
+    },
+    {
+     "name": "Kate Delos Santos"
+    },
+    {
+     "name": "Vivi Nubes"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-holding-company:2026-11-12:deceits",
    "date": "2026-11-12",
    "venue": "The Holding Company",
@@ -993,6 +942,53 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "casbah:2026-11-13:radolescents",
+   "date": "2026-11-13",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Radolescents",
+    "Spice Pistols",
+    "Cryptid Hour",
+    "Go Scarlet"
+   ],
+   "artists": [
+    {
+     "name": "Radolescents",
+     "mbid": "873c90e8-13f9-40cd-b512-bca02783f16f"
+    },
+    {
+     "name": "Spice Pistols",
+     "mbid": "c5a35827-291f-4daa-9def-a15524f3e890",
+     "official_url": "http://www.spicepistols.com/"
+    },
+    {
+     "name": "Cryptid Hour"
+    },
+    {
+     "name": "Go Scarlet"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
+   "id": "harrah-s-resort-southern-california:2026-11-13:kc-the-sunshine-band",
+   "date": "2026-11-13",
+   "venue": "Harrah's Resort Southern California",
+   "city": "Valley Center",
+   "performers": [
+    "KC & the Sunshine Band"
+   ],
+   "artists": [
+    {
+     "name": "KC & the Sunshine Band",
+     "mbid": "76a5a114-ed6a-4eb6-8a81-ad5768d4b41c",
+     "official_url": "http://www.heykcsb.com/"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "house-of-blues:2026-11-13:the-damned",
@@ -1108,6 +1104,58 @@
    "venue_url": null
   },
   {
+   "id": "soda-bar:2026-11-13:sparta",
+   "date": "2026-11-13",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Sparta",
+    "Public Opinion"
+   ],
+   "artists": [
+    {
+     "name": "Sparta",
+     "mbid": "9bbbca84-c6a4-44ac-87b6-d7e8e7930bb1",
+     "official_url": "https://www.sparta.band/"
+    },
+    {
+     "name": "Public Opinion",
+     "mbid": "059c372a-ef99-4559-94b0-000798f5c874",
+     "official_url": "http://convulserecords.com/"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-banshee:2026-11-13:borg",
+   "date": "2026-11-13",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Borg",
+    "Pet Mammoth",
+    "Little Heroine",
+    "Killer Trees"
+   ],
+   "artists": [
+    {
+     "name": "Borg",
+     "mbid": "02b21439-02f9-4d46-9938-27da30088ef4",
+     "official_url": "http://www.andy-borg.de/"
+    },
+    {
+     "name": "Pet Mammoth"
+    },
+    {
+     "name": "Little Heroine"
+    },
+    {
+     "name": "Killer Trees"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "the-holding-company:2026-11-13:supercool",
    "date": "2026-11-13",
    "venue": "The Holding Company",
@@ -1212,25 +1260,26 @@
    "venue_url": null
   },
   {
-   "id": "whistle-stop:2026-11-13:comedown-lounge-ep-release",
+   "id": "whistle-stop:2026-11-13:jordan-krimston",
    "date": "2026-11-13",
    "venue": "Whistle Stop",
    "city": "San Diego",
    "performers": [
-    "Comedown Lounge (Ep Release)",
     "Jordan Krimston",
-    "Petal Pusher"
+    "Petal Pusher",
+    "RKM"
    ],
    "artists": [
-    {
-     "name": "Comedown Lounge (Ep Release)"
-    },
     {
      "name": "Jordan Krimston",
      "mbid": "49e4b4bb-94e3-4679-8c19-48986a19cf4e"
     },
     {
      "name": "Petal Pusher"
+    },
+    {
+     "name": "RKM",
+     "mbid": "862e1200-fd1b-4a84-b90e-0fe5422ab461"
     }
    ],
    "venue_url": null
@@ -1301,6 +1350,23 @@
    "artists": [
     {
      "name": "Rob Thorsen & Kahlil Childs"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "harrah-s-resort-southern-california:2026-11-14:straight-no-chaser",
+   "date": "2026-11-14",
+   "venue": "Harrah's Resort Southern California",
+   "city": "Valley Center",
+   "performers": [
+    "Straight No Chaser"
+   ],
+   "artists": [
+    {
+     "name": "Straight No Chaser",
+     "mbid": "ea6c62ec-701e-4f01-bbcc-adfad2d3be70",
+     "official_url": "http://www.sncproductions.com/"
     }
    ],
    "venue_url": null
@@ -1553,14 +1619,19 @@
    "city": "San Diego",
    "performers": [
     "Signal For Pilot",
-    "Velvet Dinner Party & Slum Summer"
+    "Velvet Dinner Party",
+    "Slum Summer"
    ],
    "artists": [
     {
      "name": "Signal For Pilot"
     },
     {
-     "name": "Velvet Dinner Party & Slum Summer"
+     "name": "Velvet Dinner Party"
+    },
+    {
+     "name": "Slum Summer",
+     "mbid": "18740f56-6786-4e2d-94a2-6ec7436eb2a4"
     }
    ],
    "venue_url": null
@@ -1587,28 +1658,6 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "casbah:2026-11-15:slothrust",
-   "date": "2026-11-15",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "Slothrust",
-    "Um, Jennifer?"
-   ],
-   "artists": [
-    {
-     "name": "Slothrust",
-     "mbid": "86c80cc3-13b0-4ca7-ae5a-d16f00c11a59",
-     "official_url": "http://slothrust.com/"
-    },
-    {
-     "name": "Um, Jennifer?",
-     "mbid": "ca03d4d3-de77-4b50-9008-681a6e043142"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "house-of-blues:2026-11-15:jake-minch",
@@ -1692,6 +1741,53 @@
    "venue_url": "https://quartyardsd.com/"
   },
   {
+   "id": "soda-bar:2026-11-15:two-runner",
+   "date": "2026-11-15",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Two Runner",
+    "Kimmi Bitter"
+   ],
+   "artists": [
+    {
+     "name": "Two Runner",
+     "mbid": "a475b03f-2074-41e3-a8f0-8ec007414289",
+     "official_url": "https://tworunnermusic.com/"
+    },
+    {
+     "name": "Kimmi Bitter",
+     "mbid": "2120efd5-e410-4cd9-abad-be594a8fa346",
+     "official_url": "https://www.kimmibitter.com/"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-banshee:2026-11-15:cherokee-social",
+   "date": "2026-11-15",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Cherokee Social",
+    "Peach Cooler",
+    "Stovetop Gemini"
+   ],
+   "artists": [
+    {
+     "name": "Cherokee Social",
+     "mbid": "9aecce3e-9c87-44c7-a17c-088f11440bbb"
+    },
+    {
+     "name": "Peach Cooler"
+    },
+    {
+     "name": "Stovetop Gemini"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "the-holding-company:2026-11-15:cascade-effect",
    "date": "2026-11-15",
    "venue": "The Holding Company",
@@ -1755,16 +1851,53 @@
    "venue": "Casbah",
    "city": "San Diego",
    "performers": [
-    "Jon Spencer"
+    "Jon Spencer",
+    "Genre is death"
    ],
    "artists": [
     {
      "name": "Jon Spencer",
      "mbid": "d1ab8ca8-fb9f-4e78-a422-3cd5406dc0b1",
      "official_url": "http://thejonspencerbluesexplosion.com/"
+    },
+    {
+     "name": "Genre is death",
+     "mbid": "313bea7f-ebf5-4e8c-a317-45a4621597d7"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
+   "id": "soda-bar:2026-11-16:oso",
+   "date": "2026-11-16",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Oso",
+    "Liquid Mike",
+    "bugsy",
+    "Jordan Krimston"
+   ],
+   "artists": [
+    {
+     "name": "Oso",
+     "mbid": "a8c4f4c9-b18a-4edf-a7d1-f5b657a9503b",
+     "official_url": "https://osooso.band/"
+    },
+    {
+     "name": "Liquid Mike",
+     "mbid": "56a6f0a7-cb01-4f57-8049-4dc79b919134"
+    },
+    {
+     "name": "bugsy",
+     "mbid": "d1cd726e-beab-4b11-bbe9-f2609e71436d"
+    },
+    {
+     "name": "Jordan Krimston",
+     "mbid": "49e4b4bb-94e3-4679-8c19-48986a19cf4e"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-observatory-north-park:2026-11-16:syd",
@@ -1880,6 +2013,50 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "soda-bar:2026-11-17:sofie-royer",
+   "date": "2026-11-17",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Sofie Royer",
+    "Rebounder"
+   ],
+   "artists": [
+    {
+     "name": "Sofie Royer",
+     "mbid": "82392a3e-a389-4fd2-93cc-9a5796206648",
+     "official_url": "https://www.sofie.info/"
+    },
+    {
+     "name": "Rebounder",
+     "mbid": "7c2b6fde-7d0f-4ff6-ae1b-ba1693a2c3b5"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "casbah:2026-11-18:dame",
+   "date": "2026-11-18",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "DAME",
+    "The Erasers"
+   ],
+   "artists": [
+    {
+     "name": "DAME",
+     "mbid": "8cadbec0-2742-4989-aba9-62aaee9c3bcc",
+     "official_url": "https://damestream.at/biografie"
+    },
+    {
+     "name": "The Erasers",
+     "mbid": "7e5d5521-cc66-4d8a-a40f-57b592ba2685"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "house-of-blues:2026-11-18:gavn",
    "date": "2026-11-18",
    "venue": "House of Blues",
@@ -1906,6 +2083,44 @@
    "artists": [
     {
      "name": "Bo & The Hobos"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "soda-bar:2026-11-18:paul-blasko",
+   "date": "2026-11-18",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Paul Blasko",
+    "Prizecard",
+    "Zach Blanchet"
+   ],
+   "artists": [
+    {
+     "name": "Paul Blasko"
+    },
+    {
+     "name": "Prizecard"
+    },
+    {
+     "name": "Zach Blanchet"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-banshee:2026-11-18:beers-and-breaks-pool-tournament",
+   "date": "2026-11-18",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Beers and Breaks Pool Tournament"
+   ],
+   "artists": [
+    {
+     "name": "Beers and Breaks Pool Tournament"
     }
    ],
    "venue_url": null
@@ -1942,6 +2157,32 @@
     }
    ],
    "venue_url": null
+  },
+  {
+   "id": "casbah:2026-11-19:sam-ritchie",
+   "date": "2026-11-19",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Sam Ritchie",
+    "Leavers",
+    "spacewizardinspace"
+   ],
+   "artists": [
+    {
+     "name": "Sam Ritchie",
+     "mbid": "f5ac05e2-25c9-415b-9dfd-fa6a30134253"
+    },
+    {
+     "name": "Leavers",
+     "mbid": "a61b39ea-ef3a-4140-8cc0-a82b7a87ba5f"
+    },
+    {
+     "name": "spacewizardinspace",
+     "mbid": "b97075d0-63b0-4e0b-a23e-57e64dae4f48"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "house-of-blues:2026-11-19:yana",
@@ -2012,6 +2253,58 @@
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
+  },
+  {
+   "id": "soda-bar:2026-11-19:mark-william-lewis",
+   "date": "2026-11-19",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Mark William Lewis",
+    "claire rousay"
+   ],
+   "artists": [
+    {
+     "name": "Mark William Lewis",
+     "mbid": "bba25c2a-a43a-4774-9bfa-306b6c4fb6b3",
+     "official_url": "https://markwilliamlewis.net/"
+    },
+    {
+     "name": "claire rousay",
+     "mbid": "cc94a0fe-e3f0-4217-a5f8-a70d4ccf39e7",
+     "official_url": "https://clairerousay.com/"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-banshee:2026-11-19:sky-is-alright",
+   "date": "2026-11-19",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Sky is Alright",
+    "Sleeplike",
+    "Suzies Casket",
+    "Brainwash*"
+   ],
+   "artists": [
+    {
+     "name": "Sky is Alright"
+    },
+    {
+     "name": "Sleeplike",
+     "mbid": "3b2b1756-cc21-40a1-9c4f-76557004063a"
+    },
+    {
+     "name": "Suzies Casket"
+    },
+    {
+     "name": "Brainwash*",
+     "mbid": "d8f742ed-8c25-4808-9c7a-891475f73344"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "the-observatory-north-park:2026-11-19:manic-street-preachers",
@@ -2166,6 +2459,32 @@
    "venue_url": "https://www.pechanga.com/"
   },
   {
+   "id": "soda-bar:2026-11-20:lesser-works",
+   "date": "2026-11-20",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Lesser Works",
+    "The Sines",
+    "Naked West"
+   ],
+   "artists": [
+    {
+     "name": "Lesser Works",
+     "mbid": "89709a9c-ea7d-4eac-90ee-20d380e67830",
+     "official_url": "https://www.lesserworksmusic.com/"
+    },
+    {
+     "name": "The Sines",
+     "mbid": "6022c771-de8f-46b8-8cb6-3fff211b6433"
+    },
+    {
+     "name": "Naked West"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-observatory-north-park:2026-11-20:armored-saint",
    "date": "2026-11-20",
    "venue": "The Observatory North Park",
@@ -2259,6 +2578,27 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "casbah:2026-11-21:sure-fire-soul-ensemble",
+   "date": "2026-11-21",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Sure Fire Soul Ensemble",
+    "The Styletones"
+   ],
+   "artists": [
+    {
+     "name": "Sure Fire Soul Ensemble",
+     "mbid": "b085ad5c-a13a-434b-9168-a46faf54902c"
+    },
+    {
+     "name": "The Styletones",
+     "mbid": "e647d839-35ef-4cf3-96e7-69d7eebf8ec3"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "house-of-blues:2026-11-21:mr-fantasy",
    "date": "2026-11-21",
    "venue": "House of Blues",
@@ -2327,6 +2667,45 @@
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
+  },
+  {
+   "id": "the-banshee:2026-11-21:animated-violence",
+   "date": "2026-11-21",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Animated Violence",
+    "Cobarde",
+    "Gruntwork",
+    "Recvrse",
+    "Bone Splitter",
+    "Ghee"
+   ],
+   "artists": [
+    {
+     "name": "Animated Violence"
+    },
+    {
+     "name": "Cobarde",
+     "mbid": "3a7add24-0291-4619-8fdd-052b5d1a686c",
+     "official_url": "http://capitancobarde.com/"
+    },
+    {
+     "name": "Gruntwork"
+    },
+    {
+     "name": "Recvrse"
+    },
+    {
+     "name": "Bone Splitter",
+     "mbid": "f837db70-38b4-442f-af95-e2e465ffd5a2"
+    },
+    {
+     "name": "Ghee",
+     "mbid": "a2e3ac7b-4185-43ee-a3d5-13ceb45897f3"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "the-observatory-north-park:2026-11-21:senses-fail",
@@ -2420,6 +2799,23 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "casbah:2026-11-22:flor-de-toloache",
+   "date": "2026-11-22",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Flor de Toloache"
+   ],
+   "artists": [
+    {
+     "name": "Flor de Toloache",
+     "mbid": "01ecc7a3-2f46-4205-908e-11b1492c2245",
+     "official_url": "http://mariachinyc.com/"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "house-of-blues:2026-11-22:eiv-r",
    "date": "2026-11-22",
    "venue": "House of Blues",
@@ -2505,6 +2901,51 @@
    "venue_url": "https://quartyardsd.com/"
   },
   {
+   "id": "soda-bar:2026-11-22:the-goddamn-gallows",
+   "date": "2026-11-22",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "The Goddamn Gallows",
+    "King Sickabilly"
+   ],
+   "artists": [
+    {
+     "name": "The Goddamn Gallows",
+     "mbid": "89eb8924-fad2-401d-b812-c6c1b3ccba23",
+     "official_url": "http://www.thegoddamngallows.com/"
+    },
+    {
+     "name": "King Sickabilly"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-banshee:2026-11-22:tristan-brooks",
+   "date": "2026-11-22",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Tristan Brooks",
+    "Randall Edwards",
+    "Shyah Preis"
+   ],
+   "artists": [
+    {
+     "name": "Tristan Brooks"
+    },
+    {
+     "name": "Randall Edwards",
+     "mbid": "e2647325-6b58-4401-8093-b8e0b73e1d52"
+    },
+    {
+     "name": "Shyah Preis"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "the-holding-company:2026-11-22:surf-sunday",
    "date": "2026-11-22",
    "venue": "The Holding Company",
@@ -2580,6 +3021,30 @@
    "venue_url": null
   },
   {
+   "id": "casbah:2026-11-23:city-mouse",
+   "date": "2026-11-23",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "City Mouse",
+    "Pretty Mid",
+    "Substitute Gym Teacher"
+   ],
+   "artists": [
+    {
+     "name": "City Mouse",
+     "mbid": "561275e8-6914-4ec0-82cb-248a6dad88d7"
+    },
+    {
+     "name": "Pretty Mid"
+    },
+    {
+     "name": "Substitute Gym Teacher"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "house-of-blues:2026-11-23:bodysnatcher",
    "date": "2026-11-23",
    "venue": "House of Blues",
@@ -2653,6 +3118,21 @@
    "venue_url": "https://www.balboatheatre.org/"
   },
   {
+   "id": "casbah:2026-11-24:open-oscillator-60",
+   "date": "2026-11-24",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Open Oscillator #60"
+   ],
+   "artists": [
+    {
+     "name": "Open Oscillator #60"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "house-of-blues:2026-11-24:ezcodylee",
    "date": "2026-11-24",
    "venue": "House of Blues",
@@ -2673,6 +3153,30 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "soda-bar:2026-11-24:elixir",
+   "date": "2026-11-24",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Elixir",
+    "Minor Gems",
+    "Viv\u00ed Nubes"
+   ],
+   "artists": [
+    {
+     "name": "Elixir",
+     "mbid": "42071407-d57c-4e51-bc9e-546b010c32b0"
+    },
+    {
+     "name": "Minor Gems"
+    },
+    {
+     "name": "Viv\u00ed Nubes"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "belly-up-tavern:2026-11-25:queen-nation",
@@ -2755,6 +3259,35 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "soda-bar:2026-11-25:the-amalgamated",
+   "date": "2026-11-25",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "The Amalgamated",
+    "Rough Riders",
+    "Sugar Brown"
+   ],
+   "artists": [
+    {
+     "name": "The Amalgamated",
+     "mbid": "d0335812-175a-4379-ac76-1918e9bdec64",
+     "official_url": "https://www.theamalgamated.com/"
+    },
+    {
+     "name": "Rough Riders",
+     "mbid": "f1b39347-1dfd-48d0-8bf4-051e4862c351",
+     "official_url": "http://www.cosmicroughriders.com/"
+    },
+    {
+     "name": "Sugar Brown",
+     "mbid": "b16e61b7-c7fa-43ed-9f71-1ac8523cd680",
+     "official_url": "http://sugarbrownmusic.com/"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-observatory-north-park:2026-11-25:gary-numan",
    "date": "2026-11-25",
    "venue": "The Observatory North Park",
@@ -2778,18 +3311,18 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
-   "id": "the-tower-bar:2026-11-25:execution-wednesdays-beta-7",
+   "id": "the-tower-bar:2026-11-25:beta-7",
    "date": "2026-11-25",
    "venue": "The Tower Bar",
    "city": "San Diego",
    "performers": [
-    "Execution Wednesdays - Beta 7",
+    "Beta 7",
     "The Tramplers",
     "Sex Panther"
    ],
    "artists": [
     {
-     "name": "Execution Wednesdays - Beta 7"
+     "name": "Beta 7"
     },
     {
      "name": "The Tramplers",
@@ -2919,6 +3452,28 @@
    "venue_url": "https://quartyardsd.com/"
   },
   {
+   "id": "soda-bar:2026-11-27:hippie-death-cult",
+   "date": "2026-11-27",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Hippie Death Cult",
+    "Monarch"
+   ],
+   "artists": [
+    {
+     "name": "Hippie Death Cult",
+     "mbid": "3a020ae9-62e2-4d4f-bc28-fc0965a02f7f",
+     "official_url": "https://www.hippiedeathcultband.com/"
+    },
+    {
+     "name": "Monarch",
+     "mbid": "fce73a93-bd0b-4449-b275-eade0625f2c4"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-holding-company:2026-11-27:the-good",
    "date": "2026-11-27",
    "venue": "The Holding Company",
@@ -2974,24 +3529,25 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
-   "id": "the-tower-bar:2026-11-27:metal-c-mmand-sargent-j-s-final-command-dj-sargent-j",
+   "id": "the-tower-bar:2026-11-27:dj-sargent-j",
    "date": "2026-11-27",
    "venue": "The Tower Bar",
    "city": "San Diego",
    "performers": [
-    "Metal C\u00f6mmand - Sargent J's Final Command - DJ Sargent J",
-    "DJ Auranor and DJ Bones - All Metal",
-    "All Vinyl"
+    "DJ Sargent J",
+    "DJ Auranor",
+    "DJ Bones"
    ],
    "artists": [
     {
-     "name": "Metal C\u00f6mmand - Sargent J's Final Command - DJ Sargent J"
+     "name": "DJ Sargent J"
     },
     {
-     "name": "DJ Auranor and DJ Bones - All Metal"
+     "name": "DJ Auranor"
     },
     {
-     "name": "All Vinyl"
+     "name": "DJ Bones",
+     "mbid": "3cddc5bb-ee10-48f2-a6e3-8d5aae60bc58"
     }
    ],
    "venue_url": null
@@ -3188,6 +3744,38 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "soda-bar:2026-11-28:deap-vally",
+   "date": "2026-11-28",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Deap Vally"
+   ],
+   "artists": [
+    {
+     "name": "Deap Vally",
+     "mbid": "6f794982-c5f3-462c-ad0e-9319f43c7a8e",
+     "official_url": "http://deapvally.com/"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-banshee:2026-11-28:other-voices-dark-dance-night",
+   "date": "2026-11-28",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Other Voices: Dark Dance Night"
+   ],
+   "artists": [
+    {
+     "name": "Other Voices: Dark Dance Night"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "the-holding-company:2026-11-28:band-overboard",
    "date": "2026-11-28",
    "venue": "The Holding Company",
@@ -3247,6 +3835,31 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "casbah:2026-11-29:dwarves",
+   "date": "2026-11-29",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Dwarves",
+    "Big Attitude",
+    "Drunkin Punkin Idiots"
+   ],
+   "artists": [
+    {
+     "name": "Dwarves",
+     "mbid": "762e1e6d-ba12-4946-b8ee-dfa0cf9a2655",
+     "official_url": "http://thedwarves.com/"
+    },
+    {
+     "name": "Big Attitude"
+    },
+    {
+     "name": "Drunkin Punkin Idiots"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "soma:2026-11-29:surely-tempo",
    "date": "2026-11-29",
    "venue": "SOMA",
@@ -3261,6 +3874,44 @@
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
+  },
+  {
+   "id": "soda-bar:2026-11-29:spanish-love-songs",
+   "date": "2026-11-29",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Spanish Love Songs"
+   ],
+   "artists": [
+    {
+     "name": "Spanish Love Songs"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-banshee:2026-11-29:cruelties",
+   "date": "2026-11-29",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Cruelties",
+    "Volta Lust",
+    "VCR Monster"
+   ],
+   "artists": [
+    {
+     "name": "Cruelties"
+    },
+    {
+     "name": "Volta Lust"
+    },
+    {
+     "name": "VCR Monster"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "the-holding-company:2026-11-29:the-function-vol-006",
@@ -3300,6 +3951,52 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "casbah:2026-11-30:fancy-faces",
+   "date": "2026-11-30",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Fancy Faces",
+    "Desire 4",
+    "Julia Bhatt"
+   ],
+   "artists": [
+    {
+     "name": "Fancy Faces"
+    },
+    {
+     "name": "Desire 4"
+    },
+    {
+     "name": "Julia Bhatt"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
+   "id": "soda-bar:2026-11-30:the-meteors",
+   "date": "2026-11-30",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "The Meteors",
+    "The Screamin' Yeehaws",
+    "Rip Carson and the Carcinogenics"
+   ],
+   "artists": [
+    {
+     "name": "The Meteors"
+    },
+    {
+     "name": "The Screamin' Yeehaws"
+    },
+    {
+     "name": "Rip Carson and the Carcinogenics"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "viejas-arena:2026-11-30:jonas-brothers",
    "date": "2026-11-30",
    "venue": "Viejas Arena",
@@ -3329,6 +4026,30 @@
    "venue_url": null
   },
   {
+   "id": "soda-bar:2026-12-01:doc-hammer",
+   "date": "2026-12-01",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Doc Hammer",
+    "Once Loved",
+    "The Brothers Grim"
+   ],
+   "artists": [
+    {
+     "name": "Doc Hammer",
+     "mbid": "c7358e11-906d-438b-9338-f48a2562994f"
+    },
+    {
+     "name": "Once Loved"
+    },
+    {
+     "name": "The Brothers Grim"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "belly-up-tavern:2026-12-02:squirrel-nut-zippers",
    "date": "2026-12-02",
    "venue": "Belly Up Tavern",
@@ -3344,6 +4065,25 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "casbah:2026-12-02:mini-trees",
+   "date": "2026-12-02",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Mini Trees",
+    "Just Penelope"
+   ],
+   "artists": [
+    {
+     "name": "Mini Trees"
+    },
+    {
+     "name": "Just Penelope"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "house-of-blues:2026-12-02:babe-haven",
@@ -3434,13 +4174,17 @@
    "venue": "Casbah",
    "city": "San Diego",
    "performers": [
-    "Drag the River"
+    "Drag the River",
+    "Ypsitucky"
    ],
    "artists": [
     {
      "name": "Drag the River",
      "mbid": "e0d76079-f019-483b-8ebb-4e4a4607d41f",
      "official_url": "http://www.dragtheriver.com/"
+    },
+    {
+     "name": "Ypsitucky"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -3506,6 +4250,25 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "soda-bar:2026-12-03:kumo-99-cali-26",
+   "date": "2026-12-03",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "KUMO 99 - CALI \u201826",
+    "KUMO 99"
+   ],
+   "artists": [
+    {
+     "name": "KUMO 99 - CALI \u201826"
+    },
+    {
+     "name": "KUMO 99"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-holding-company:2026-12-03:the-doohickeys",
    "date": "2026-12-03",
    "venue": "The Holding Company",
@@ -3550,6 +4313,25 @@
     {
      "name": "Dagmar Zuniga",
      "mbid": "9542584f-d6c4-4e8b-bb14-bba52bd15b32"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "harrah-s-resort-southern-california:2026-12-04:tuan-hung-nguyen",
+   "date": "2026-12-04",
+   "venue": "Harrah's Resort Southern California",
+   "city": "Valley Center",
+   "performers": [
+    "Tuan Hung Nguyen",
+    "Nhu Quynh"
+   ],
+   "artists": [
+    {
+     "name": "Tuan Hung Nguyen"
+    },
+    {
+     "name": "Nhu Quynh"
     }
    ],
    "venue_url": null
@@ -3636,6 +4418,53 @@
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
+  },
+  {
+   "id": "soda-bar:2026-12-04:the-kinison",
+   "date": "2026-12-04",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "The Kinison",
+    "UGHH",
+    "Stalemate"
+   ],
+   "artists": [
+    {
+     "name": "The Kinison"
+    },
+    {
+     "name": "UGHH"
+    },
+    {
+     "name": "Stalemate"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-banshee:2026-12-04:leavers",
+   "date": "2026-12-04",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Leavers",
+    "Redder Moon",
+    "Cloud Types"
+   ],
+   "artists": [
+    {
+     "name": "Leavers",
+     "mbid": "a61b39ea-ef3a-4140-8cc0-a82b7a87ba5f"
+    },
+    {
+     "name": "Redder Moon"
+    },
+    {
+     "name": "Cloud Types"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "the-holding-company:2026-12-04:bow-wow-wow",
@@ -4022,6 +4851,29 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "the-banshee:2026-12-06:cool-heat",
+   "date": "2026-12-06",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Cool Heat",
+    "Sunder",
+    "Sparkler"
+   ],
+   "artists": [
+    {
+     "name": "Cool Heat"
+    },
+    {
+     "name": "Sunder"
+    },
+    {
+     "name": "Sparkler"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "the-observatory-north-park:2026-12-06:the-pineapple-thief",
    "date": "2026-12-06",
    "venue": "The Observatory North Park",
@@ -4039,16 +4891,20 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
-   "id": "whistle-stop:2026-12-06:sister-psycho-dale-crover",
+   "id": "whistle-stop:2026-12-06:sister-psycho",
    "date": "2026-12-06",
    "venue": "Whistle Stop",
    "city": "San Diego",
    "performers": [
-    "Sister Psycho & Dale Crover"
+    "Sister Psycho",
+    "Dale Crover"
    ],
    "artists": [
     {
-     "name": "Sister Psycho & Dale Crover"
+     "name": "Sister Psycho"
+    },
+    {
+     "name": "Dale Crover"
     }
    ],
    "venue_url": null
@@ -4069,6 +4925,48 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "casbah:2026-12-07:hot-coals-only",
+   "date": "2026-12-07",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Hot Coals Only",
+    "The Silver Mean",
+    "Vermin Class"
+   ],
+   "artists": [
+    {
+     "name": "Hot Coals Only"
+    },
+    {
+     "name": "The Silver Mean"
+    },
+    {
+     "name": "Vermin Class"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
+   "id": "casbah:2026-12-08:moon-panda",
+   "date": "2026-12-08",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Moon Panda",
+    "moondaddy"
+   ],
+   "artists": [
+    {
+     "name": "Moon Panda"
+    },
+    {
+     "name": "moondaddy"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "house-of-blues:2026-12-08:graham-hunt",
@@ -4135,12 +5033,16 @@
    "venue": "Casbah",
    "city": "San Diego",
    "performers": [
-    "Ruby Haunt"
+    "Ruby Haunt",
+    "Dream Crease"
    ],
    "artists": [
     {
      "name": "Ruby Haunt",
      "mbid": "835affab-1fe7-4696-b496-69ffc2831d65"
+    },
+    {
+     "name": "Dream Crease"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -4161,6 +5063,44 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "soda-bar:2026-12-09:sleepwalk",
+   "date": "2026-12-09",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Sleepwalk"
+   ],
+   "artists": [
+    {
+     "name": "Sleepwalk"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-banshee:2026-12-09:mercury-girl",
+   "date": "2026-12-09",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Mercury Girl",
+    "The Night Blooms",
+    "A Subtle Control"
+   ],
+   "artists": [
+    {
+     "name": "Mercury Girl"
+    },
+    {
+     "name": "The Night Blooms"
+    },
+    {
+     "name": "A Subtle Control"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "the-sound:2026-12-09:cannons",
@@ -4208,13 +5148,17 @@
    "venue": "Casbah",
    "city": "San Diego",
    "performers": [
-    "Buck Meek"
+    "Buck Meek",
+    "Kisser"
    ],
    "artists": [
     {
      "name": "Buck Meek",
      "mbid": "b8780175-4ff4-4d87-8e54-999f70dbb5ec",
      "official_url": "https://www.buckmeekmusic.com/"
+    },
+    {
+     "name": "Kisser"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -4234,6 +5178,33 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "the-banshee:2026-12-10:burbank-police-department",
+   "date": "2026-12-10",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Burbank Police Department",
+    "Angstentine",
+    "Werita",
+    "Zinn Trevelyn"
+   ],
+   "artists": [
+    {
+     "name": "Burbank Police Department"
+    },
+    {
+     "name": "Angstentine"
+    },
+    {
+     "name": "Werita"
+    },
+    {
+     "name": "Zinn Trevelyn"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "the-holding-company:2026-12-10:long-beach-dub-all-stars",
@@ -4315,18 +5286,32 @@
    "venue_url": "https://bellyup.com/"
   },
   {
-   "id": "casbah:2026-12-11:swervedriver",
+   "id": "casbah:2026-12-11:brooklyn-vegan-presents-swervedriver",
    "date": "2026-12-11",
    "venue": "Casbah",
    "city": "San Diego",
    "performers": [
-    "Swervedriver"
+    "Brooklyn Vegan Presents Swervedriver",
+    "Bleary Eyed",
+    "DJ Ian Utero Swervedriver",
+    "Bleary Eyed",
+    "DJ Ian Utero raise at 35"
    ],
    "artists": [
     {
-     "name": "Swervedriver",
-     "mbid": "fa6c7999-ff65-486b-9e18-bcb59d6db2f0",
-     "official_url": "http://www.swervedriver.com/"
+     "name": "Brooklyn Vegan Presents Swervedriver"
+    },
+    {
+     "name": "Bleary Eyed"
+    },
+    {
+     "name": "DJ Ian Utero Swervedriver"
+    },
+    {
+     "name": "Bleary Eyed"
+    },
+    {
+     "name": "DJ Ian Utero raise at 35"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -4445,12 +5430,30 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "the-banshee:2026-12-11:comfort-club",
+   "date": "2026-12-11",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Comfort Club",
+    "Winnabego"
+   ],
+   "artists": [
+    {
+     "name": "Comfort Club"
+    },
+    {
+     "name": "Winnabego"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "the-sound:2026-12-11:the-string-cheese-incident",
    "date": "2026-12-11",
    "venue": "The Sound",
    "city": "Del Mar",
    "performers": [
-    "The String Cheese Incident",
     "The String Cheese Incident"
    ],
    "artists": [
@@ -4458,14 +5461,28 @@
      "name": "The String Cheese Incident",
      "mbid": "cff95140-6d57-498a-8834-10eb72865b29",
      "official_url": "https://www.stringcheeseincident.com/"
-    },
-    {
-     "name": "The String Cheese Incident",
-     "mbid": "cff95140-6d57-498a-8834-10eb72865b29",
-     "official_url": "https://www.stringcheeseincident.com/"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
+  },
+  {
+   "id": "casbah:2026-12-12:ramonesx",
+   "date": "2026-12-12",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Ramonesx",
+    "Living Eyes"
+   ],
+   "artists": [
+    {
+     "name": "Ramonesx"
+    },
+    {
+     "name": "Living Eyes"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "house-of-blues:2026-12-12:22gfay",
@@ -4578,6 +5595,29 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "casbah:2026-12-13:evil-island",
+   "date": "2026-12-13",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Evil Island",
+    "Antioch Arrow",
+    "Lord Friday the 13th"
+   ],
+   "artists": [
+    {
+     "name": "Evil Island"
+    },
+    {
+     "name": "Antioch Arrow"
+    },
+    {
+     "name": "Lord Friday the 13th"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "music-box:2026-12-13:the-linda-lindas",
    "date": "2026-12-13",
    "venue": "Music Box",
@@ -4595,21 +5635,6 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
-   "id": "quartyard:2026-12-13:que-rico-es-ser-latino",
-   "date": "2026-12-13",
-   "venue": "Quartyard",
-   "city": "San Diego",
-   "performers": [
-    "QUE RICO ES SER LATINO"
-   ],
-   "artists": [
-    {
-     "name": "QUE RICO ES SER LATINO"
-    }
-   ],
-   "venue_url": "https://quartyardsd.com/"
-  },
-  {
    "id": "soma:2026-12-13:trippie-redd",
    "date": "2026-12-13",
    "venue": "SOMA",
@@ -4625,6 +5650,29 @@
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
+  },
+  {
+   "id": "casbah:2026-12-14:golden-lion",
+   "date": "2026-12-14",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Golden Lion",
+    "A Lens To The Sun",
+    "Suzie\u2019s Casket"
+   ],
+   "artists": [
+    {
+     "name": "Golden Lion"
+    },
+    {
+     "name": "A Lens To The Sun"
+    },
+    {
+     "name": "Suzie\u2019s Casket"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "house-of-blues:2026-12-14:bryan-andrews",
@@ -4742,6 +5790,29 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "casbah:2026-12-16:lion-cut-friends",
+   "date": "2026-12-16",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Lion Cut & Friends",
+    "The Dimes",
+    "DJ Krys Da Cat"
+   ],
+   "artists": [
+    {
+     "name": "Lion Cut & Friends"
+    },
+    {
+     "name": "The Dimes"
+    },
+    {
+     "name": "DJ Krys Da Cat"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "music-box:2026-12-16:venna",
    "date": "2026-12-16",
    "venue": "Music Box",
@@ -4820,16 +5891,20 @@
    "venue_url": "https://bellyup.com/"
   },
   {
-   "id": "dizzy-s-jazz:2026-12-17:sdscpa-jazz-ensembles-featuring-christopher-hollyday",
+   "id": "dizzy-s-jazz:2026-12-17:sdscpa-jazz-ensembles",
    "date": "2026-12-17",
    "venue": "Dizzy's Jazz",
    "city": "San Diego",
    "performers": [
-    "SDSCPA Jazz Ensembles Featuring Christopher Hollyday"
+    "SDSCPA Jazz Ensembles",
+    "Christopher Hollyday"
    ],
    "artists": [
     {
-     "name": "SDSCPA Jazz Ensembles Featuring Christopher Hollyday"
+     "name": "SDSCPA Jazz Ensembles"
+    },
+    {
+     "name": "Christopher Hollyday"
     }
    ],
    "venue_url": null
@@ -4856,34 +5931,27 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
-   "id": "nova-sd:2026-12-17:bryce-alakai-toney-handsome-negus",
+   "id": "nova-sd:2026-12-17:bryce-alakai",
    "date": "2026-12-17",
    "venue": "Nova SD",
    "city": "San Diego",
    "performers": [
-    "Bryce Alakai Toney Handsome | Negus"
+    "Bryce Alakai",
+    "Toney Handsome",
+    "Negus"
    ],
    "artists": [
     {
-     "name": "Bryce Alakai Toney Handsome | Negus"
+     "name": "Bryce Alakai"
+    },
+    {
+     "name": "Toney Handsome"
+    },
+    {
+     "name": "Negus"
     }
    ],
    "venue_url": "https://novasandiego.com/"
-  },
-  {
-   "id": "the-holding-company:2026-12-17:roni-lee-rocks-christmas",
-   "date": "2026-12-17",
-   "venue": "The Holding Company",
-   "city": "San Diego",
-   "performers": [
-    "Roni Lee Rocks Christmas!"
-   ],
-   "artists": [
-    {
-     "name": "Roni Lee Rocks Christmas!"
-    }
-   ],
-   "venue_url": null
   },
   {
    "id": "belly-up-tavern:2026-12-18:gin-blossoms",
@@ -4903,16 +5971,24 @@
    "venue_url": "https://bellyup.com/"
   },
   {
-   "id": "nova-sd:2026-12-18:bryce-alakai-nina-nevra-shesayise",
+   "id": "nova-sd:2026-12-18:bryce-alakai",
    "date": "2026-12-18",
    "venue": "Nova SD",
    "city": "San Diego",
    "performers": [
-    "Bryce Alakai Nina Nevra | SHESAYISE"
+    "Bryce Alakai",
+    "Nina Nevra",
+    "SHESAYISE"
    ],
    "artists": [
     {
-     "name": "Bryce Alakai Nina Nevra | SHESAYISE"
+     "name": "Bryce Alakai"
+    },
+    {
+     "name": "Nina Nevra"
+    },
+    {
+     "name": "SHESAYISE"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -5055,6 +6131,25 @@
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
+  },
+  {
+   "id": "the-banshee:2026-12-19:free-show",
+   "date": "2026-12-19",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "FREE SHOW",
+    "21+ with Valid ID"
+   ],
+   "artists": [
+    {
+     "name": "FREE SHOW"
+    },
+    {
+     "name": "21+ with Valid ID"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "the-sound:2026-12-19:nimino",
@@ -5297,6 +6392,25 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "the-banshee:2026-12-27:horse-rider",
+   "date": "2026-12-27",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Horse Rider",
+    "Child Eater"
+   ],
+   "artists": [
+    {
+     "name": "Horse Rider"
+    },
+    {
+     "name": "Child Eater"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2026-12-29:steel-pulse",
    "date": "2026-12-29",
    "venue": "Belly Up Tavern",
@@ -5509,6 +6623,25 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "casbah:2026-12-31:casbah-and-borgcube-productions-present-starcrawler",
+   "date": "2026-12-31",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Casbah and Borgcube Productions present Starcrawler",
+    "Plague Vendor"
+   ],
+   "artists": [
+    {
+     "name": "Casbah and Borgcube Productions present Starcrawler"
+    },
+    {
+     "name": "Plague Vendor"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "nova-sd:2026-12-31:timmy-trumpet",
    "date": "2026-12-31",
    "venue": "Nova SD",
@@ -5565,6 +6698,25 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "casbah:2027-01-01:casbah-and-borgcube-productions-present-starcrawler",
+   "date": "2027-01-01",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Casbah and Borgcube Productions present Starcrawler",
+    "Plague Vendor"
+   ],
+   "artists": [
+    {
+     "name": "Casbah and Borgcube Productions present Starcrawler"
+    },
+    {
+     "name": "Plague Vendor"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "belly-up-tavern:2027-01-02:desperado",
    "date": "2027-01-02",
    "venue": "Belly Up Tavern",
@@ -5581,16 +6733,43 @@
    "venue_url": "https://bellyup.com/"
   },
   {
-   "id": "nova-sd:2027-01-02:nghtmre-crshout-tutworth",
+   "id": "casbah:2027-01-02:casbah-and-borgcube-productions-present-starcrawler",
+   "date": "2027-01-02",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Casbah and Borgcube Productions present Starcrawler",
+    "Plague Vendor"
+   ],
+   "artists": [
+    {
+     "name": "Casbah and Borgcube Productions present Starcrawler"
+    },
+    {
+     "name": "Plague Vendor"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
+   "id": "nova-sd:2027-01-02:nghtmre",
    "date": "2027-01-02",
    "venue": "Nova SD",
    "city": "San Diego",
    "performers": [
-    "NGHTMRE CRSHOUT | TUTWORTH"
+    "NGHTMRE",
+    "CRSHOUT",
+    "TUTWORTH"
    ],
    "artists": [
     {
-     "name": "NGHTMRE CRSHOUT | TUTWORTH"
+     "name": "NGHTMRE"
+    },
+    {
+     "name": "CRSHOUT"
+    },
+    {
+     "name": "TUTWORTH"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -5613,13 +6792,48 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
+   "id": "the-banshee:2027-01-06:perennial",
+   "date": "2027-01-06",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Perennial"
+   ],
+   "artists": [
+    {
+     "name": "Perennial"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "casbah:2027-01-07:swirlies",
+   "date": "2027-01-07",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Swirlies",
+    "Seko"
+   ],
+   "artists": [
+    {
+     "name": "Swirlies"
+    },
+    {
+     "name": "Seko"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "the-holding-company:2027-01-07:mustard-plug",
    "date": "2027-01-07",
    "venue": "The Holding Company",
    "city": "San Diego",
    "performers": [
     "Mustard Plug",
-    "Special Guests The Planet Smashers and The Venomous Pinks"
+    "The Planet Smashers",
+    "The Venomous Pinks"
    ],
    "artists": [
     {
@@ -5628,7 +6842,10 @@
      "official_url": "http://www.mustardplug.com/"
     },
     {
-     "name": "Special Guests The Planet Smashers and The Venomous Pinks"
+     "name": "The Planet Smashers"
+    },
+    {
+     "name": "The Venomous Pinks"
     }
    ],
    "venue_url": null
@@ -5791,16 +7008,43 @@
    "venue_url": "https://www.balboatheatre.org/"
   },
   {
-   "id": "belly-up-tavern:2027-01-13:drumtastic-feat-sol-e-mar-kainga-music-antonio-econom-friends",
+   "id": "casbah:2027-01-12:colin-newman",
+   "date": "2027-01-12",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Colin Newman",
+    "Malka Spigel"
+   ],
+   "artists": [
+    {
+     "name": "Colin Newman"
+    },
+    {
+     "name": "Malka Spigel"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
+   "id": "belly-up-tavern:2027-01-13:sol-e-mar",
    "date": "2027-01-13",
    "venue": "Belly Up Tavern",
    "city": "Solana Beach",
    "performers": [
-    "Drumtastic! Feat. Sol e Mar | Kainga Music | Antonio Econom & Friends"
+    "Sol e Mar",
+    "Kainga Music",
+    "Antonio Econom & Friends"
    ],
    "artists": [
     {
-     "name": "Drumtastic! Feat. Sol e Mar | Kainga Music | Antonio Econom & Friends"
+     "name": "Sol e Mar"
+    },
+    {
+     "name": "Kainga Music"
+    },
+    {
+     "name": "Antonio Econom & Friends"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -5977,23 +7221,6 @@
    "venue_url": "https://thesoundsd.com/"
   },
   {
-   "id": "harrah-s-resort-southern-california:2027-01-19:the-piano-guys",
-   "date": "2027-01-19",
-   "venue": "Harrah's Resort Southern California",
-   "city": "Valley Center",
-   "performers": [
-    "The Piano Guys"
-   ],
-   "artists": [
-    {
-     "name": "The Piano Guys",
-     "mbid": "322d2e0e-7df2-4208-a46c-26cb6c60ba56",
-     "official_url": "http://thepianoguys.com/"
-    }
-   ],
-   "venue_url": null
-  },
-  {
    "id": "jacobs-music-center:2027-01-19:the-piano-guys",
    "date": "2027-01-19",
    "venue": "Jacobs Music Center",
@@ -6155,19 +7382,19 @@
    "venue_url": null
   },
   {
-   "id": "dizzy-s-jazz:2027-01-23:young-sextet-spotlights-kenny-dorham",
+   "id": "casbah:2027-01-23:cold-world-goes-west-the-flatliners",
    "date": "2027-01-23",
-   "venue": "Dizzy's Jazz",
+   "venue": "Casbah",
    "city": "San Diego",
    "performers": [
-    "Young  sextet spotlights Kenny Dorham"
+    "Cold World Goes West The Flatliners"
    ],
    "artists": [
     {
-     "name": "Young  sextet spotlights Kenny Dorham"
+     "name": "Cold World Goes West The Flatliners"
     }
    ],
-   "venue_url": null
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "pechanga-resort-casino:2027-01-23:jang-yoon-jeong",
@@ -6202,19 +7429,19 @@
    "venue_url": null
   },
   {
-   "id": "belly-up-tavern:2027-01-24:billy-joel-2-elton-john-featuring-adam-shapiro-of-billy-nation-and-kenny-metcalf",
+   "id": "casbah:2027-01-24:44phantom",
    "date": "2027-01-24",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
+   "venue": "Casbah",
+   "city": "San Diego",
    "performers": [
-    "Billy Joel 2 Elton John Featuring Adam Shapiro of Billy Nation and Kenny Metcalf"
+    "44phantom"
    ],
    "artists": [
     {
-     "name": "Billy Joel 2 Elton John Featuring Adam Shapiro of Billy Nation and Kenny Metcalf"
+     "name": "44phantom"
     }
    ],
-   "venue_url": "https://bellyup.com/"
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "belly-up-tavern:2027-01-26:five-for-fighting",
@@ -6338,6 +7565,21 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "casbah:2027-01-28:pratt-moody",
+   "date": "2027-01-28",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Pratt & Moody"
+   ],
+   "artists": [
+    {
+     "name": "Pratt & Moody"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "house-of-blues:2027-01-28:merkules",
@@ -6564,6 +7806,36 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "casbah:2027-02-01:new-date-previous-tickets-will-be-honored-city-of-the-sun",
+   "date": "2027-02-01",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "NEW DATE - PREVIOUS TICKETS WILL BE HONORED. City of the Sun"
+   ],
+   "artists": [
+    {
+     "name": "NEW DATE - PREVIOUS TICKETS WILL BE HONORED. City of the Sun"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
+   "id": "casbah:2027-02-02:the-sways",
+   "date": "2027-02-02",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "The Sways"
+   ],
+   "artists": [
+    {
+     "name": "The Sways"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "house-of-blues:2027-02-02:zach-seabaugh",
@@ -6863,6 +8135,21 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "casbah:2027-02-10:the-sheepdogs",
+   "date": "2027-02-10",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "The Sheepdogs"
+   ],
+   "artists": [
+    {
+     "name": "The Sheepdogs"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "house-of-blues:2027-02-10:rare-americans",
    "date": "2027-02-10",
    "venue": "House of Blues",
@@ -6957,18 +8244,16 @@
    "venue_url": "https://bellyup.com/"
   },
   {
-   "id": "harrah-s-resort-southern-california:2027-02-11:rhiannon-giddens",
+   "id": "harrah-s-resort-southern-california:2027-02-11:blue-october",
    "date": "2027-02-11",
    "venue": "Harrah's Resort Southern California",
    "city": "Valley Center",
    "performers": [
-    "Rhiannon Giddens"
+    "Blue October"
    ],
    "artists": [
     {
-     "name": "Rhiannon Giddens",
-     "mbid": "3f7574d9-94f3-46dc-8228-9d7358019d9f",
-     "official_url": "https://www.rhiannongiddens.com/"
+     "name": "Blue October"
     }
    ],
    "venue_url": null
@@ -7113,6 +8398,33 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "casbah:2027-02-18:dropdead",
+   "date": "2027-02-18",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Dropdead",
+    "Agonista",
+    "Bayonet",
+    "All Beat Up"
+   ],
+   "artists": [
+    {
+     "name": "Dropdead"
+    },
+    {
+     "name": "Agonista"
+    },
+    {
+     "name": "Bayonet"
+    },
+    {
+     "name": "All Beat Up"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "quartyard:2027-02-18:two-lanes",
@@ -7280,6 +8592,25 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
+   "id": "soda-bar:2027-02-21:small-brown-bike",
+   "date": "2027-02-21",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Small Brown Bike",
+    "Suzzallo"
+   ],
+   "artists": [
+    {
+     "name": "Small Brown Bike"
+    },
+    {
+     "name": "Suzzallo"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "house-of-blues:2027-02-22:hot-freaks",
    "date": "2027-02-22",
    "venue": "House of Blues",
@@ -7385,6 +8716,21 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "casbah:2027-02-25:where-s-west",
+   "date": "2027-02-25",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Where\u2019s West?"
+   ],
+   "artists": [
+    {
+     "name": "Where\u2019s West?"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "the-holding-company:2027-02-25:north-by-north",
    "date": "2027-02-25",
    "venue": "The Holding Company",
@@ -7467,6 +8813,25 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "casbah:2027-02-27:deerhoof",
+   "date": "2027-02-27",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Deerhoof",
+    "Earthball"
+   ],
+   "artists": [
+    {
+     "name": "Deerhoof"
+    },
+    {
+     "name": "Earthball"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "quartyard:2027-02-27:sh-heri",
    "date": "2027-02-27",
    "venue": "Quartyard",
@@ -7531,6 +8896,21 @@
    "venue_url": null
   },
   {
+   "id": "casbah:2027-03-01:way-dynamic",
+   "date": "2027-03-01",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Way Dynamic"
+   ],
+   "artists": [
+    {
+     "name": "Way Dynamic"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "the-sound:2027-03-01:sylvan-esso",
    "date": "2027-03-01",
    "venue": "The Sound",
@@ -7563,6 +8943,21 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "casbah:2027-03-02:cloud-types",
+   "date": "2027-03-02",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Cloud Types"
+   ],
+   "artists": [
+    {
+     "name": "Cloud Types"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "house-of-blues:2027-03-02:jack-jack",
@@ -7686,6 +9081,40 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "soda-bar:2027-03-03:sparklmami",
+   "date": "2027-03-03",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Sparklmami"
+   ],
+   "artists": [
+    {
+     "name": "Sparklmami"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "casbah:2027-03-04:crooked-fingers",
+   "date": "2027-03-04",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Crooked Fingers",
+    "Jim Ward"
+   ],
+   "artists": [
+    {
+     "name": "Crooked Fingers"
+    },
+    {
+     "name": "Jim Ward"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "house-of-blues:2027-03-04:danielle-ponder",
@@ -7907,20 +9336,14 @@
    "venue_url": "https://bellyup.com/"
   },
   {
-   "id": "belly-up-tavern:2027-03-10:lunasa",
+   "id": "belly-up-tavern:2027-03-10:they-might-be-giants",
    "date": "2027-03-10",
    "venue": "Belly Up Tavern",
    "city": "Solana Beach",
    "performers": [
-    "Lunasa",
     "They Might Be Giants"
    ],
    "artists": [
-    {
-     "name": "Lunasa",
-     "mbid": "f27ab860-84e3-43c4-872a-a8181192d24a",
-     "official_url": "https://www.lunasamusic.com/"
-    },
     {
      "name": "They Might Be Giants",
      "mbid": "183d6ef6-e161-47ff-9085-063c8b897e97",
@@ -8232,6 +9655,25 @@
    "venue_url": "https://www.magnoliasd.com/"
   },
   {
+   "id": "soda-bar:2027-03-19:noah-gundersen",
+   "date": "2027-03-19",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Noah Gundersen",
+    "Nathan Evans Fox"
+   ],
+   "artists": [
+    {
+     "name": "Noah Gundersen"
+    },
+    {
+     "name": "Nathan Evans Fox"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-observatory-north-park:2027-03-19:twin-temple",
    "date": "2027-03-19",
    "venue": "The Observatory North Park",
@@ -8247,6 +9689,21 @@
     }
    ],
    "venue_url": "https://www.observatorysd.com"
+  },
+  {
+   "id": "casbah:2027-03-20:caiola",
+   "date": "2027-03-20",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Caiola"
+   ],
+   "artists": [
+    {
+     "name": "Caiola"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "soma:2027-03-20:vacations",
@@ -8333,6 +9790,25 @@
    "venue_url": "https://quartyardsd.com/"
   },
   {
+   "id": "casbah:2027-03-25:is-doomed-hudson-freeman",
+   "date": "2027-03-25",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "is Doomed Hudson Freeman",
+    "Sean Solomon"
+   ],
+   "artists": [
+    {
+     "name": "is Doomed Hudson Freeman"
+    },
+    {
+     "name": "Sean Solomon"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "house-of-blues:2027-03-25:frank-turner-the-sleeping-souls",
    "date": "2027-03-25",
    "venue": "House of Blues",
@@ -8383,21 +9859,19 @@
    "venue_url": "https://bellyup.com/"
   },
   {
-   "id": "harrah-s-resort-southern-california:2027-03-26:the-midtown-men",
+   "id": "casbah:2027-03-26:worldpeace-dmt",
    "date": "2027-03-26",
-   "venue": "Harrah's Resort Southern California",
-   "city": "Valley Center",
+   "venue": "Casbah",
+   "city": "San Diego",
    "performers": [
-    "The Midtown Men"
+    "Worldpeace DMT"
    ],
    "artists": [
     {
-     "name": "The Midtown Men",
-     "mbid": "1c14a65c-3d8b-478c-9ae3-22752f8741be",
-     "official_url": "http://themidtownmen.com/"
+     "name": "Worldpeace DMT"
     }
    ],
-   "venue_url": null
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "jacobs-music-center:2027-03-26:the-midtown-men",
@@ -8465,21 +9939,6 @@
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
-  },
-  {
-   "id": "viejas-arena:2027-03-31:dancing-with-the-stars",
-   "date": "2027-03-31",
-   "venue": "Viejas Arena",
-   "city": "San Diego",
-   "performers": [
-    "Dancing with the Stars"
-   ],
-   "artists": [
-    {
-     "name": "Dancing with the Stars"
-    }
-   ],
-   "venue_url": null
   },
   {
    "id": "house-of-blues:2027-04-02:ricky-montgomery",
@@ -8890,16 +10349,20 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
-   "id": "the-sound:2027-04-29:slash-feat-myles-kennedy-and-the-conspirators",
+   "id": "the-sound:2027-04-29:slash",
    "date": "2027-04-29",
    "venue": "The Sound",
    "city": "Del Mar",
    "performers": [
-    "Slash Feat. Myles Kennedy And The Conspirators"
+    "Slash",
+    "Myles Kennedy and the Conspirators"
    ],
    "artists": [
     {
-     "name": "Slash Feat. Myles Kennedy And The Conspirators"
+     "name": "Slash"
+    },
+    {
+     "name": "Myles Kennedy and the Conspirators"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
@@ -8952,23 +10415,6 @@
     }
    ],
    "venue_url": null
-  },
-  {
-   "id": "belly-up-tavern:2027-05-01:tally-hall",
-   "date": "2027-05-01",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Tally Hall"
-   ],
-   "artists": [
-    {
-     "name": "Tally Hall",
-     "mbid": "407d7ae0-c297-491c-bd19-4185e2b12ef2",
-     "official_url": "http://tallyhall.com/"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
   },
   {
    "id": "soma:2027-05-01:the-interrupters",
@@ -9127,6 +10573,25 @@
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
+  },
+  {
+   "id": "casbah:2027-05-12:the-chameleons",
+   "date": "2027-05-12",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "The Chameleons",
+    "Rosegarden Funeral Party"
+   ],
+   "artists": [
+    {
+     "name": "The Chameleons"
+    },
+    {
+     "name": "Rosegarden Funeral Party"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "snapdragon-stadium:2027-05-13:metallica",
