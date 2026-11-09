@@ -1,351 +1,11 @@
 {
- "generated_at": "2026-11-08T11:49:32-08:00",
+ "generated_at": "2026-11-09T03:53:10-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
   "updated": "November 8, 2026"
  },
  "shows": [
-  {
-   "id": "3oz-dive-club:2026-11-08:night-shift",
-   "date": "2026-11-08",
-   "venue": "3OZ Dive Club",
-   "city": "San Diego",
-   "performers": [
-    "Night Shift"
-   ],
-   "artists": [
-    {
-     "name": "Night Shift",
-     "mbid": "5c09dab9-e91f-4510-ad17-3a41335be9a7"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "belly-up-tavern:2026-11-08:bahamas",
-   "date": "2026-11-08",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Bahamas",
-    "Sister Ray"
-   ],
-   "artists": [
-    {
-     "name": "Bahamas",
-     "mbid": "294d06f7-fd1f-4cbe-a433-bb9cd6ac937b",
-     "official_url": "http://afiesongs.tripod.com/"
-    },
-    {
-     "name": "Sister Ray",
-     "mbid": "545e9f13-93a3-46c3-8ab0-1ce7cf84ada3"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "cal-coast-credit-union-open-air-theatre:2026-11-08:jessie-reyez",
-   "date": "2026-11-08",
-   "venue": "Cal Coast Credit Union Open Air Theatre",
-   "city": "San Diego",
-   "performers": [
-    "Jessie Reyez"
-   ],
-   "artists": [
-    {
-     "name": "Jessie Reyez",
-     "mbid": "18f56081-ccd7-4e07-981a-558c20951ccd",
-     "official_url": "http://jessiereyez.com/"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "casbah:2026-11-08:dave-hause-the-mermaid",
-   "date": "2026-11-08",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "Dave Hause & The Mermaid"
-   ],
-   "artists": [
-    {
-     "name": "Dave Hause & The Mermaid"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
-  },
-  {
-   "id": "house-of-blues:2026-11-08:sob-x-rbe",
-   "date": "2026-11-08",
-   "venue": "House of Blues",
-   "city": "San Diego",
-   "performers": [
-    "SOB X RBE",
-    "Kingston Rossdale",
-    "Eternal Wave"
-   ],
-   "artists": [
-    {
-     "name": "SOB X RBE",
-     "mbid": "4072e225-336f-49f9-bac1-c94be913cb65",
-     "official_url": "https://www.sobxrbe.com/"
-    },
-    {
-     "name": "Kingston Rossdale",
-     "mbid": "0cb4934b-f0ea-479f-9b0b-6bc95b44ab7d"
-    },
-    {
-     "name": "Eternal Wave"
-    }
-   ],
-   "venue_url": "https://www.houseofblues.com/sandiego"
-  },
-  {
-   "id": "humphreys-backstage-live:2026-11-08:will-donato",
-   "date": "2026-11-08",
-   "venue": "Humphreys Backstage Live",
-   "city": "San Diego",
-   "performers": [
-    "Will Donato"
-   ],
-   "artists": [
-    {
-     "name": "Will Donato",
-     "mbid": "6907394a-88ef-4c1c-b7bc-9e443f6e17c1",
-     "official_url": "https://www.willdonato.com/"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "lou-lou-s:2026-11-08:sunday-sermon",
-   "date": "2026-11-08",
-   "venue": "Lou Lou's",
-   "city": "San Diego",
-   "performers": [
-    "SUNDAY SERMON"
-   ],
-   "artists": [
-    {
-     "name": "SUNDAY SERMON"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "music-box:2026-11-08:stephen-day",
-   "date": "2026-11-08",
-   "venue": "Music Box",
-   "city": "San Diego",
-   "performers": [
-    "Stephen Day",
-    "Emily Brimlow"
-   ],
-   "artists": [
-    {
-     "name": "Stephen Day",
-     "mbid": "34f2a859-2e97-4efe-852e-c6e5e98ddb8b",
-     "official_url": "https://stephenday.org/"
-    },
-    {
-     "name": "Emily Brimlow",
-     "mbid": "2dc1b5f3-4698-4908-ae32-6e0d7cb347fa"
-    }
-   ],
-   "venue_url": "https://www.musicboxsd.com/"
-  },
-  {
-   "id": "nova-sd:2026-11-08:up-to-no-good",
-   "date": "2026-11-08",
-   "venue": "Nova SD",
-   "city": "San Diego",
-   "performers": [
-    "Up to No Good"
-   ],
-   "artists": [
-    {
-     "name": "Up to No Good"
-    }
-   ],
-   "venue_url": "https://novasandiego.com/"
-  },
-  {
-   "id": "pechanga-resort-casino:2026-11-08:ricky-martin",
-   "date": "2026-11-08",
-   "venue": "Pechanga Resort & Casino",
-   "city": "Temecula",
-   "performers": [
-    "Ricky Martin"
-   ],
-   "artists": [
-    {
-     "name": "Ricky Martin",
-     "mbid": "70ea63ea-70dc-4b63-951a-2c249d2b3b0a",
-     "official_url": "https://rickymartinmusic.com/"
-    }
-   ],
-   "venue_url": "https://www.pechanga.com/"
-  },
-  {
-   "id": "quartyard:2026-11-08:bag-raiders",
-   "date": "2026-11-08",
-   "venue": "Quartyard",
-   "city": "San Diego",
-   "performers": [
-    "Bag Raiders"
-   ],
-   "artists": [
-    {
-     "name": "Bag Raiders",
-     "mbid": "6a3d87ad-dd71-4e8f-b8dd-78b61e0e7fe6",
-     "official_url": "http://www.bagraiders.com/"
-    }
-   ],
-   "venue_url": "https://quartyardsd.com/"
-  },
-  {
-   "id": "soma:2026-11-08:father-of-peace",
-   "date": "2026-11-08",
-   "venue": "SOMA",
-   "city": "San Diego",
-   "performers": [
-    "Father of Peace",
-    "Father of Peace"
-   ],
-   "artists": [
-    {
-     "name": "Father of Peace",
-     "mbid": "945725d3-e3ef-41bf-ab1b-58d8d53d032b"
-    },
-    {
-     "name": "Father of Peace",
-     "mbid": "945725d3-e3ef-41bf-ab1b-58d8d53d032b"
-    }
-   ],
-   "venue_url": "https://www.somasandiego.com/"
-  },
-  {
-   "id": "soda-bar:2026-11-08:holy-wave",
-   "date": "2026-11-08",
-   "venue": "Soda Bar",
-   "city": "San Diego",
-   "performers": [
-    "Holy Wave",
-    "Queen Serene",
-    "San Diego Freak Out DJs"
-   ],
-   "artists": [
-    {
-     "name": "Holy Wave",
-     "mbid": "715b9af4-36c8-4ae7-bc7a-b1ff147fc110"
-    },
-    {
-     "name": "Queen Serene",
-     "mbid": "39e0fbce-23dd-4b35-a9cd-f4c0468dac5c"
-    },
-    {
-     "name": "San Diego Freak Out DJs"
-    }
-   ],
-   "venue_url": "https://sodabarmusic.com/"
-  },
-  {
-   "id": "the-banshee:2026-11-08:in-mazes",
-   "date": "2026-11-08",
-   "venue": "The Banshee",
-   "city": "San Diego",
-   "performers": [
-    "In Mazes",
-    "Muzak",
-    "Blue Park Suites",
-    "Brainwash*"
-   ],
-   "artists": [
-    {
-     "name": "In Mazes"
-    },
-    {
-     "name": "Muzak",
-     "mbid": "ede3f6d1-98d5-4ace-bd6d-b5101cf2ea58"
-    },
-    {
-     "name": "Blue Park Suites"
-    },
-    {
-     "name": "Brainwash*",
-     "mbid": "d8f742ed-8c25-4808-9c7a-891475f73344"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "the-holding-company:2026-11-08:bad-marriage",
-   "date": "2026-11-08",
-   "venue": "The Holding Company",
-   "city": "San Diego",
-   "performers": [
-    "Bad Marriage",
-    "Sons of Kaos",
-    "69 Revelation"
-   ],
-   "artists": [
-    {
-     "name": "Bad Marriage",
-     "mbid": "b18fee77-5487-4e6d-adb3-768f830a3a8e",
-     "official_url": "http://badmarriagemusic.com/"
-    },
-    {
-     "name": "Sons of Kaos"
-    },
-    {
-     "name": "69 Revelation"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "the-magnolia:2026-11-08:soft-cell",
-   "date": "2026-11-08",
-   "venue": "The Magnolia",
-   "city": "El Cajon",
-   "performers": [
-    "Soft Cell"
-   ],
-   "artists": [
-    {
-     "name": "Soft Cell",
-     "mbid": "7fb50287-029d-47cc-825a-235ca28024b2",
-     "official_url": "https://www.softcell.co.uk/"
-    }
-   ],
-   "venue_url": "https://www.magnoliasd.com/"
-  },
-  {
-   "id": "whistle-stop:2026-11-08:jeremy-field",
-   "date": "2026-11-08",
-   "venue": "Whistle Stop",
-   "city": "San Diego",
-   "performers": [
-    "Jeremy Field",
-    "Jumpy",
-    "Double Libra"
-   ],
-   "artists": [
-    {
-     "name": "Jeremy Field"
-    },
-    {
-     "name": "Jumpy",
-     "mbid": "60c9d69a-e686-4173-a8c2-1a505e567eba"
-    },
-    {
-     "name": "Double Libra"
-    }
-   ],
-   "venue_url": null
-  },
   {
    "id": "belly-up-tavern:2026-11-09:king-buffalo",
    "date": "2026-11-09",
@@ -5195,7 +4855,8 @@
      "mbid": "835affab-1fe7-4696-b496-69ffc2831d65"
     },
     {
-     "name": "Dream Crease"
+     "name": "Dream Crease",
+     "mbid": "1fa508e8-55a9-4633-af01-beeadbea9006"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -5227,7 +4888,9 @@
    ],
    "artists": [
     {
-     "name": "Sleepwalk"
+     "name": "Sleepwalk",
+     "mbid": "d44c0826-9a59-4da5-afa8-733bd9b5091d",
+     "official_url": "http://www.sleepwalk-music.com/"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -5247,7 +4910,8 @@
      "name": "Mercury Girl"
     },
     {
-     "name": "The Night Blooms"
+     "name": "The Night Blooms",
+     "mbid": "3a475042-0b90-478b-b988-22ddbdee1a1b"
     },
     {
      "name": "A Subtle Control"
@@ -5311,7 +4975,8 @@
      "official_url": "https://www.buckmeekmusic.com/"
     },
     {
-     "name": "Kisser"
+     "name": "Kisser",
+     "mbid": "4d1a313a-a76c-46d1-9f20-7f50742627ce"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -5344,13 +5009,17 @@
    ],
    "artists": [
     {
-     "name": "Fat"
+     "name": "Fat",
+     "mbid": "a6a4c910-2b22-4a6f-aebe-805b176c47b8",
+     "official_url": "http://www.fat-joe.com/"
     },
     {
-     "name": "Evil Children"
+     "name": "Evil Children",
+     "mbid": "39a4993d-818a-4aff-a189-bc47a425a95a"
     },
     {
-     "name": "Cut Loose"
+     "name": "Cut Loose",
+     "mbid": "eefef530-b21a-455f-a6ba-bddb37ffc732"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -5478,13 +5147,15 @@
      "name": "Brooklyn Vegan Presents Swervedriver"
     },
     {
-     "name": "Bleary Eyed"
+     "name": "Bleary Eyed",
+     "mbid": "005824da-bc84-4bce-a955-f579a4d83c29"
     },
     {
      "name": "DJ Ian Utero Swervedriver"
     },
     {
-     "name": "Bleary Eyed"
+     "name": "Bleary Eyed",
+     "mbid": "005824da-bc84-4bce-a955-f579a4d83c29"
     },
     {
      "name": "DJ Ian Utero raise at 35"
@@ -5617,13 +5288,17 @@
    ],
    "artists": [
     {
-     "name": "Magenta Wave"
+     "name": "Magenta Wave",
+     "mbid": "1d6a08d8-6bc1-496d-ab1e-ab702b3b12aa"
     },
     {
-     "name": "Sleeping"
+     "name": "Sleeping",
+     "mbid": "72e8351a-3410-4fdb-898e-796c1ac4cb53",
+     "official_url": "http://sleepingatlast.com/"
     },
     {
-     "name": "Socks On"
+     "name": "Socks On",
+     "mbid": "35977669-fa0b-4e1c-a3dc-336635f51fb3"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -5639,7 +5314,8 @@
    ],
    "artists": [
     {
-     "name": "Comfort Club"
+     "name": "Comfort Club",
+     "mbid": "889d30c2-9faf-4668-8462-b52be5cc7a90"
     },
     {
      "name": "Winnabego"
@@ -5678,7 +5354,8 @@
      "name": "Ramonesx"
     },
     {
-     "name": "Living Eyes"
+     "name": "Living Eyes",
+     "mbid": "21ab4acc-3b6c-4c0e-b4e8-7f15963a1d76"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -5805,13 +5482,17 @@
    ],
    "artists": [
     {
-     "name": "Evil Island"
+     "name": "Evil Island",
+     "mbid": "c34979bd-768b-4317-81e4-30eb3e2710a7"
     },
     {
-     "name": "Antioch Arrow"
+     "name": "Antioch Arrow",
+     "mbid": "ce71c979-a6bf-4977-a597-df6ed0c4fdf4"
     },
     {
-     "name": "Lord Friday the 13th"
+     "name": "Lord Friday the 13th",
+     "mbid": "e80fd022-49b1-4b25-a7ac-0d5b63f60847",
+     "official_url": "https://lordfridaythe13th.wixsite.com/"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -5862,7 +5543,8 @@
    ],
    "artists": [
     {
-     "name": "Golden Lion"
+     "name": "Golden Lion",
+     "mbid": "3be73206-7a94-4222-bff5-ae82ce73638b"
     },
     {
      "name": "A Lens To The Sun"
@@ -5905,7 +5587,8 @@
    ],
    "artists": [
     {
-     "name": "The Heeters"
+     "name": "The Heeters",
+     "mbid": "39ba70c9-f8a1-4d77-86e0-fa2edf34ac17"
     },
     {
      "name": "Hailey Marea"
@@ -6022,7 +5705,9 @@
      "name": "Lion Cut & Friends"
     },
     {
-     "name": "The Dimes"
+     "name": "The Dimes",
+     "mbid": "909d5dfc-7d01-4664-a8cf-6a8f18837bd5",
+     "official_url": "http://www.thedimes.com/"
     },
     {
      "name": "DJ Krys Da Cat"
@@ -6122,7 +5807,8 @@
      "name": "SDSCPA Jazz Ensembles"
     },
     {
-     "name": "Christopher Hollyday"
+     "name": "Christopher Hollyday",
+     "mbid": "140b5adf-91fd-4cdb-94ca-ecc8b2ec714c"
     }
    ],
    "venue_url": null
@@ -6160,13 +5846,15 @@
    ],
    "artists": [
     {
-     "name": "Bryce Alakai"
+     "name": "Bryce Alakai",
+     "mbid": "00b10e44-c713-4287-9532-99198c4e79ac"
     },
     {
      "name": "Toney Handsome"
     },
     {
-     "name": "Negus"
+     "name": "Negus",
+     "mbid": "8abeec8d-d695-4fed-965b-962e48368c61"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -6200,10 +5888,12 @@
    ],
    "artists": [
     {
-     "name": "Bryce Alakai"
+     "name": "Bryce Alakai",
+     "mbid": "00b10e44-c713-4287-9532-99198c4e79ac"
     },
     {
-     "name": "Nina Nevra"
+     "name": "Nina Nevra",
+     "mbid": "5a88dd1e-4aeb-4059-a433-7da4aface1ea"
     },
     {
      "name": "SHESAYISE"
@@ -6221,7 +5911,9 @@
    ],
    "artists": [
     {
-     "name": "Willi Carlisle"
+     "name": "Willi Carlisle",
+     "mbid": "2edad2c2-cff9-4a69-96f6-8a53616051b5",
+     "official_url": "https://www.willicarlisle.com/"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -6377,13 +6069,16 @@
    ],
    "artists": [
     {
-     "name": "Well Well"
+     "name": "Well Well",
+     "mbid": "e2da30e1-04d1-4b6d-81e9-56719ae3a47e"
     },
     {
-     "name": "MOANS"
+     "name": "MOANS",
+     "mbid": "38cc6f1d-bb1e-4a80-bec2-d2cf4ae07786"
     },
     {
-     "name": "BRUIN"
+     "name": "BRUIN",
+     "mbid": "f22287f0-4949-4cd8-917b-f52c762b60b7"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -6505,10 +6200,13 @@
    ],
    "artists": [
     {
-     "name": "Milk & Bone"
+     "name": "Milk & Bone",
+     "mbid": "e0b5ecf3-3860-4080-8dc0-165224157c92",
+     "official_url": "http://www.milknbone.com/"
     },
     {
-     "name": "Chloe Saavedra"
+     "name": "Chloe Saavedra",
+     "mbid": "0135d2f8-fb95-403d-a5cb-66a50865140d"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -6926,7 +6624,9 @@
      "name": "Casbah and Borgcube Productions present Starcrawler"
     },
     {
-     "name": "Plague Vendor"
+     "name": "Plague Vendor",
+     "mbid": "0647615c-474d-411d-af43-b3089e39a3fc",
+     "official_url": "http://www.plaguevendor.com/"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -7016,7 +6716,9 @@
      "name": "Casbah and Borgcube Productions present Starcrawler"
     },
     {
-     "name": "Plague Vendor"
+     "name": "Plague Vendor",
+     "mbid": "0647615c-474d-411d-af43-b3089e39a3fc",
+     "official_url": "http://www.plaguevendor.com/"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -7051,7 +6753,9 @@
      "name": "Casbah and Borgcube Productions present Starcrawler"
     },
     {
-     "name": "Plague Vendor"
+     "name": "Plague Vendor",
+     "mbid": "0647615c-474d-411d-af43-b3089e39a3fc",
+     "official_url": "http://www.plaguevendor.com/"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -7068,7 +6772,8 @@
    ],
    "artists": [
     {
-     "name": "NGHTMRE"
+     "name": "NGHTMRE",
+     "mbid": "f72e0c57-94fd-447d-afdb-868e70d356d7"
     },
     {
      "name": "CRSHOUT"
@@ -7106,7 +6811,8 @@
    ],
    "artists": [
     {
-     "name": "Perennial"
+     "name": "Perennial",
+     "mbid": "ab88030c-19bf-4059-9349-16f21ae63f80"
     }
    ],
    "venue_url": null
@@ -7122,10 +6828,13 @@
    ],
    "artists": [
     {
-     "name": "Swirlies"
+     "name": "Swirlies",
+     "mbid": "4ec4a033-ba44-41ca-8e09-3bf94fc08523",
+     "official_url": "http://rcarchives.com/swirlies/"
     },
     {
-     "name": "Seko"
+     "name": "Seko",
+     "mbid": "f3aa1099-0cab-4f73-8504-270a34e554a8"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -7162,10 +6871,13 @@
      "official_url": "http://www.mustardplug.com/"
     },
     {
-     "name": "The Planet Smashers"
+     "name": "The Planet Smashers",
+     "mbid": "7ade0ac8-bb60-4429-9623-30e2fe515b4d",
+     "official_url": "http://www.planetsmashers.net/"
     },
     {
-     "name": "The Venomous Pinks"
+     "name": "The Venomous Pinks",
+     "mbid": "f6375b3f-c4f7-46a1-a474-23071e696a3d"
     }
    ],
    "venue_url": null
@@ -7338,10 +7050,13 @@
    ],
    "artists": [
     {
-     "name": "Colin Newman"
+     "name": "Colin Newman",
+     "mbid": "7178b24a-4ec0-48bb-b740-deef07deafd8",
+     "official_url": "http://www.colinewman.com/"
     },
     {
-     "name": "Malka Spigel"
+     "name": "Malka Spigel",
+     "mbid": "e684bd71-9830-4fcd-8f0b-ea0d2d49adc9"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -7394,7 +7109,8 @@
    ],
    "artists": [
     {
-     "name": "Taper\u2019s Choice"
+     "name": "Taper\u2019s Choice",
+     "mbid": "2f21ae90-e892-48a1-9ab8-f1e476d8cfd8"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -7426,7 +7142,8 @@
    ],
    "artists": [
     {
-     "name": "Tara Clerkin Trio"
+     "name": "Tara Clerkin Trio",
+     "mbid": "b0e0db41-c292-40a1-b5d9-71f587bdabc4"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -7529,10 +7246,14 @@
    ],
    "artists": [
     {
-     "name": "Jeffrey Silverstein"
+     "name": "Jeffrey Silverstein",
+     "mbid": "8f47b610-daa0-47ac-a02e-bb9fbf021945",
+     "official_url": "https://www.jeffreylewissilverstein.com/"
     },
     {
-     "name": "Nighttime"
+     "name": "Nighttime",
+     "mbid": "88d549d9-7855-4735-a994-fd80dc1884da",
+     "official_url": "http://nighttime.band/"
     },
     {
      "name": "San Diego Freak Out DJs"
@@ -7567,13 +7288,17 @@
    ],
    "artists": [
     {
-     "name": "Dopethrone"
+     "name": "Dopethrone",
+     "mbid": "1b8f6fd4-afcf-4a16-935d-ff80c2bc6bf4"
     },
     {
-     "name": "-(16)-"
+     "name": "-(16)-",
+     "mbid": "b5051686-e0d2-4eb9-a38a-176899860752"
     },
     {
-     "name": "Armed for Apocalypse"
+     "name": "Armed for Apocalypse",
+     "mbid": "dacac911-b20d-4af1-afb8-df2c285e1388",
+     "official_url": "http://www.a4aband.com/"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -7834,7 +7559,9 @@
    ],
    "artists": [
     {
-     "name": "44phantom"
+     "name": "44phantom",
+     "mbid": "a6d3c7d2-ee40-43cc-afaa-dced832a3fc0",
+     "official_url": "https://www.44phantom.com/"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -7972,7 +7699,8 @@
    ],
    "artists": [
     {
-     "name": "Pratt & Moody"
+     "name": "Pratt & Moody",
+     "mbid": "38d9dcd9-9f4a-40f9-ba8a-39a8493468b9"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -8022,10 +7750,14 @@
    ],
    "artists": [
     {
-     "name": "Elephant Stone"
+     "name": "Elephant Stone",
+     "mbid": "3cc33cc1-17bc-4859-bac3-41ccd0e53f79",
+     "official_url": "http://www.elephantstonemusic.com/"
     },
     {
-     "name": "Stevenson Ranch Davidians"
+     "name": "Stevenson Ranch Davidians",
+     "mbid": "66971595-26d0-43ea-8d36-7961b1f26992",
+     "official_url": "https://www.thestevensonranchdavidians.com/"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -8136,7 +7868,9 @@
    ],
    "artists": [
     {
-     "name": "Satsang"
+     "name": "Satsang",
+     "mbid": "e9723df9-8fe5-4583-8be4-10b34c8b0aa3",
+     "official_url": "http://www.satsangmovement.com/"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -8194,13 +7928,18 @@
    ],
    "artists": [
     {
-     "name": "Pigeon John"
+     "name": "Pigeon John",
+     "mbid": "31824f36-753f-41a2-b191-8b38b7dca273",
+     "official_url": "http://www.pigeonjohn.com/"
     },
     {
-     "name": "MC Homeless"
+     "name": "MC Homeless",
+     "mbid": "f1b2cc38-592d-461b-972f-97e6d8fdcfc2"
     },
     {
-     "name": "Coolzey"
+     "name": "Coolzey",
+     "mbid": "ecf72b9c-57c4-419a-9f49-3d1e63d0711c",
+     "official_url": "http://coolzey.net/"
     },
     {
      "name": "Cotton Brain"
@@ -8289,7 +8028,9 @@
    ],
    "artists": [
     {
-     "name": "The Sways"
+     "name": "The Sways",
+     "mbid": "48bbdd7c-2a07-4b86-a844-abc2b3b37c0d",
+     "official_url": "http://www.thesways.co.uk/"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -8618,7 +8359,9 @@
    ],
    "artists": [
     {
-     "name": "The Sheepdogs"
+     "name": "The Sheepdogs",
+     "mbid": "5b03776b-6987-4ccb-81ed-1c5fe00f9dfa",
+     "official_url": "https://thesheepdogs.com/"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -8727,7 +8470,9 @@
    ],
    "artists": [
     {
-     "name": "Blue October"
+     "name": "Blue October",
+     "mbid": "d6a3eeec-cde0-4c10-89b2-93e0bd5f34e6",
+     "official_url": "https://www.blueoctober.com/"
     }
    ],
    "venue_url": null
@@ -8886,16 +8631,21 @@
    ],
    "artists": [
     {
-     "name": "Dropdead"
+     "name": "Dropdead",
+     "mbid": "db38d04d-d13f-49b5-995f-566541cc6b9a",
+     "official_url": "https://www.dropdeadhc.com/"
     },
     {
-     "name": "Agonista"
+     "name": "Agonista",
+     "mbid": "82745351-c408-4b84-be84-41584e7753b0"
     },
     {
-     "name": "Bayonet"
+     "name": "Bayonet",
+     "mbid": "81658b7c-96ce-4304-84c5-ef40e1033de0"
     },
     {
-     "name": "All Beat Up"
+     "name": "All Beat Up",
+     "mbid": "68854f66-fb55-4f70-a1d8-a8a1e1a07bc3"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -9077,13 +8827,18 @@
    ],
    "artists": [
     {
-     "name": "Small Brown Bike"
+     "name": "Small Brown Bike",
+     "mbid": "3e8b6fc8-5fdd-45d4-afda-88717efd80d2",
+     "official_url": "http://www.smallbrownbike.com/"
     },
     {
-     "name": "Small Brown Bike"
+     "name": "Small Brown Bike",
+     "mbid": "3e8b6fc8-5fdd-45d4-afda-88717efd80d2",
+     "official_url": "http://www.smallbrownbike.com/"
     },
     {
-     "name": "Suzzallo"
+     "name": "Suzzallo",
+     "mbid": "49d81580-762a-4c60-8c57-c1fe9f3c9485"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -9267,7 +9022,9 @@
    ],
    "artists": [
     {
-     "name": "Starbenders"
+     "name": "Starbenders",
+     "mbid": "c3c3cc71-0282-4353-9326-9147dcfffb7f",
+     "official_url": "http://starbenders.band/"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -9316,7 +9073,9 @@
    ],
    "artists": [
     {
-     "name": "Deerhoof"
+     "name": "Deerhoof",
+     "mbid": "11eabe0c-2638-4808-92f9-1dbd9c453429",
+     "official_url": "https://deerhoof.website/"
     },
     {
      "name": "Earthball"
@@ -9398,7 +9157,8 @@
    ],
    "artists": [
     {
-     "name": "Way Dynamic"
+     "name": "Way Dynamic",
+     "mbid": "31602dc5-ad39-438c-992a-32fc0afbe9aa"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -9524,7 +9284,9 @@
    ],
    "artists": [
     {
-     "name": "Cloud Nothings"
+     "name": "Cloud Nothings",
+     "mbid": "29c91854-8c45-469b-b36d-a11fb650638b",
+     "official_url": "http://cloudnothings.com/"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -9602,7 +9364,8 @@
    ],
    "artists": [
     {
-     "name": "Sparklmami"
+     "name": "Sparklmami",
+     "mbid": "7c24688e-7861-46f8-89c8-5f00935e9a80"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -9618,10 +9381,12 @@
    ],
    "artists": [
     {
-     "name": "Crooked Fingers"
+     "name": "Crooked Fingers",
+     "mbid": "d935bec6-cab7-46cc-bf8b-ca089563b985"
     },
     {
-     "name": "Jim Ward"
+     "name": "Jim Ward",
+     "mbid": "da9ed660-3aef-4c2d-bcc0-89e512696baf"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -10194,10 +9959,14 @@
      "name": "Spring 2027"
     },
     {
-     "name": "Noah Gundersen"
+     "name": "Noah Gundersen",
+     "mbid": "c7162e23-1c2b-488b-b77a-f65824bfb24f",
+     "official_url": "https://noahgundersenmusic.com/"
     },
     {
-     "name": "Nathan Evans Fox"
+     "name": "Nathan Evans Fox",
+     "mbid": "f6dcd2e7-7914-4525-8701-daa2a279963a",
+     "official_url": "https://www.nathanevansfox.com/"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -10229,7 +9998,8 @@
    ],
    "artists": [
     {
-     "name": "Caiola"
+     "name": "Caiola",
+     "mbid": "e487b48c-ea53-4c5c-ba96-ff8287de3669"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -10332,7 +10102,9 @@
      "name": "is Doomed Hudson Freeman"
     },
     {
-     "name": "Sean Solomon"
+     "name": "Sean Solomon",
+     "mbid": "bc9cf7c3-409e-4ba7-9b4c-91b057c62371",
+     "official_url": "https://www.seansolomonstudios.com/"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -10374,7 +10146,9 @@
    ],
    "artists": [
     {
-     "name": "World News"
+     "name": "World News",
+     "mbid": "49211211-44e2-41e2-8ea2-2dd3a5fd0a3c",
+     "official_url": "https://worldnews.band/"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -10412,7 +10186,8 @@
    ],
    "artists": [
     {
-     "name": "Worldpeace DMT"
+     "name": "Worldpeace DMT",
+     "mbid": "ccf34cee-ac88-482c-a651-cb5170a8c5f4"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -10903,10 +10678,13 @@
    ],
    "artists": [
     {
-     "name": "Slash"
+     "name": "Slash",
+     "mbid": "5e7a7026-dfc5-4aba-8496-95140716f3db",
+     "official_url": "https://slashonline.com/"
     },
     {
-     "name": "Myles Kennedy and the Conspirators"
+     "name": "Myles Kennedy and the Conspirators",
+     "mbid": "7ce51ba7-91f4-46aa-a030-1e22aaa7510d"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
@@ -11129,10 +10907,14 @@
    ],
    "artists": [
     {
-     "name": "The Chameleons"
+     "name": "The Chameleons",
+     "mbid": "8d07f60f-b9f4-46c0-9c27-31de0fb9b671",
+     "official_url": "http://www.thechameleons.com/"
     },
     {
-     "name": "Rosegarden Funeral Party"
+     "name": "Rosegarden Funeral Party",
+     "mbid": "03fc75f0-eada-439a-8cf2-0185be70c13e",
+     "official_url": "https://www.rosegardenfuneralparty.com/"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -11514,7 +11296,8 @@
    ],
    "artists": [
     {
-     "name": "Vlad Holiday"
+     "name": "Vlad Holiday",
+     "mbid": "8ac3c132-996e-4448-b676-327279a84996"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -11770,6 +11553,74 @@
     {
      "name": "The Tramplers",
      "mbid": "2dd206fe-92d4-4cc7-9578-6a18b2b20367"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "the-kensington-club:2027-10-29:sangre-bruja",
+   "date": "2027-10-29",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Sangre Bruja",
+    "Skelfigures",
+    "Killer Trees",
+    "Casimir"
+   ],
+   "artists": [
+    {
+     "name": "Sangre Bruja",
+     "mbid": "a95cea12-c0fa-4567-9ca5-1b91e1fa6874"
+    },
+    {
+     "name": "Skelfigures"
+    },
+    {
+     "name": "Killer Trees"
+    },
+    {
+     "name": "Casimir",
+     "mbid": "8529e181-a160-4753-acd2-f4ba477e5339"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "the-kensington-club:2027-10-30:headmaster",
+   "date": "2027-10-30",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Headmaster"
+   ],
+   "artists": [
+    {
+     "name": "Headmaster",
+     "mbid": "321dcce5-0bf8-4e27-a7ae-b2144af844d5"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "the-kensington-club:2027-10-31:la-maguana",
+   "date": "2027-10-31",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "La Maguana",
+    "Cumbia Machin",
+    "DJ Josexxx"
+   ],
+   "artists": [
+    {
+     "name": "La Maguana"
+    },
+    {
+     "name": "Cumbia Machin"
+    },
+    {
+     "name": "DJ Josexxx"
     }
    ],
    "venue_url": null
