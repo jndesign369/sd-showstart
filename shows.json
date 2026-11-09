@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-09T03:53:10-08:00",
+ "generated_at": "2026-11-09T15:49:15-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 8, 2026"
+  "updated": "November 9, 2026"
  },
  "shows": [
   {
@@ -1368,6 +1368,21 @@
     {
      "name": "Patrick Yandall",
      "mbid": "40c6a66f-e7f3-48b8-817c-0222c472861f"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "lou-lou-s:2026-11-15:jesus-gonzalez-julien-cantelm-aaron-bowen",
+   "date": "2026-11-15",
+   "venue": "Lou Lou's",
+   "city": "San Diego",
+   "performers": [
+    "JESUS GONZALEZ // JULIEN CANTELM // AARON BOWEN"
+   ],
+   "artists": [
+    {
+     "name": "JESUS GONZALEZ // JULIEN CANTELM // AARON BOWEN"
     }
    ],
    "venue_url": null
@@ -10829,6 +10844,28 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "the-sound:2027-05-05:silversun-pickups",
+   "date": "2027-05-05",
+   "venue": "The Sound",
+   "city": "Del Mar",
+   "performers": [
+    "Silversun Pickups",
+    "Hannah Cole"
+   ],
+   "artists": [
+    {
+     "name": "Silversun Pickups",
+     "mbid": "b5bd9f88-962e-4730-84a7-795592ba42e8",
+     "official_url": "http://www.silversunpickups.com/"
+    },
+    {
+     "name": "Hannah Cole",
+     "mbid": "b7bd30f3-7a65-411f-a32e-972412699f12"
+    }
+   ],
+   "venue_url": "https://thesoundsd.com/"
+  },
+  {
    "id": "house-of-blues:2027-05-06:alaska-thunderfuck",
    "date": "2027-05-06",
    "venue": "House of Blues",
@@ -11174,6 +11211,23 @@
     }
    ],
    "venue_url": "https://thesoundsd.com/"
+  },
+  {
+   "id": "petco-park:2027-05-25:stray-kids",
+   "date": "2027-05-25",
+   "venue": "Petco Park",
+   "city": "San Diego",
+   "performers": [
+    "Stray Kids"
+   ],
+   "artists": [
+    {
+     "name": "Stray Kids",
+     "mbid": "142b343d-bf5a-428c-a64f-6d1a7566bbe9",
+     "official_url": "http://straykids.jype.com/"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "music-box:2027-06-04:hazlett",

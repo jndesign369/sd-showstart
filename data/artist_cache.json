@@ -370527,6 +370527,2079 @@
         "offset": 0,
         "artists": []
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"JESUS GONZALEZ // JULIEN CANTELM // AARON BOWEN\\\"\"}": {
+      "fetched_at": "2026-11-09T23:49:15.421425+00:00",
+      "data": {
+        "created": "2026-11-09T23:49:15.808Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Silversun Pickups\\\"\"}": {
+      "fetched_at": "2026-11-09T23:49:15.421425+00:00",
+      "data": {
+        "created": "2026-11-09T23:49:16.607Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "b5bd9f88-962e-4730-84a7-795592ba42e8",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Silversun Pickups",
+            "sort-name": "Silversun Pickups",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Los Angeles",
+              "sort-name": "Los Angeles",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000115023270"
+            ],
+            "life-span": {
+              "begin": "2002",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "SSPU",
+                "name": "SSPU",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 0,
+                "name": "rock and indie"
+              },
+              {
+                "count": 1,
+                "name": "indie rock"
+              },
+              {
+                "count": 1,
+                "name": "shoegaze"
+              },
+              {
+                "count": 1,
+                "name": "indietronica"
+              },
+              {
+                "count": 1,
+                "name": "rock"
+              },
+              {
+                "count": 2,
+                "name": "alternative rock"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/b5bd9f88-962e-4730-84a7-795592ba42e8?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-09T23:49:15.421425+00:00",
+      "data": {
+        "country": "US",
+        "isnis": [
+          "0000000115023270"
+        ],
+        "id": "b5bd9f88-962e-4730-84a7-795592ba42e8",
+        "sort-name": "Silversun Pickups",
+        "type": "Group",
+        "begin-area": {
+          "sort-name": "Los Angeles",
+          "type": null,
+          "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+          "type-id": null,
+          "name": "Los Angeles",
+          "disambiguation": ""
+        },
+        "gender": null,
+        "name": "Silversun Pickups",
+        "life-span": {
+          "begin": "2002",
+          "end": null,
+          "ended": false
+        },
+        "gender-id": null,
+        "ipis": [],
+        "area": {
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "name": "United States",
+          "disambiguation": "",
+          "type-id": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States",
+          "type": null
+        },
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "relations": [
+          {
+            "url": {
+              "id": "4d498b6f-a56e-4212-b459-b6e5e64537e1",
+              "resource": "https://www.allmusic.com/artist/mn0000756754"
+            },
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "begin": null,
+            "attribute-ids": {},
+            "attributes": [],
+            "attribute-values": {},
+            "target-type": "url",
+            "ended": false,
+            "direction": "forward",
+            "type": "allmusic"
+          },
+          {
+            "url": {
+              "resource": "https://silversunpickups.bandcamp.com/",
+              "id": "55c77443-7075-4ead-8116-e89bbbe82515"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "type": "bandcamp"
+          },
+          {
+            "type": "bandsintown",
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+            "end": null,
+            "url": {
+              "resource": "https://www.bandsintown.com/a/930",
+              "id": "ede2570d-985b-4459-8d5e-30ccf6e53852"
+            }
+          },
+          {
+            "type": "BBC Music page",
+            "direction": "forward",
+            "ended": true,
+            "target-type": "url",
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "begin": null,
+            "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+            "target-credit": "",
+            "source-credit": "",
+            "end": "2020-11-19",
+            "url": {
+              "resource": "https://www.bbc.co.uk/music/artists/b5bd9f88-962e-4730-84a7-795592ba42e8",
+              "id": "648e8683-01b9-4449-8fd5-b966bd0b1c97"
+            }
+          },
+          {
+            "url": {
+              "id": "e7cbc62e-e9e3-407d-8435-6e432810afa7",
+              "resource": "https://www.discogs.com/artist/579616"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "type": "discogs"
+          },
+          {
+            "url": {
+              "resource": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h",
+              "id": "d361e7dc-7454-41fc-a48d-3d81dc76e895"
+            },
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {},
+            "type": "free streaming"
+          },
+          {
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {},
+            "type": "free streaming",
+            "url": {
+              "resource": "https://www.deezer.com/artist/8466",
+              "id": "b02eb455-16d2-4861-a757-5beb8d78c505"
+            },
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null
+          },
+          {
+            "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null,
+            "url": {
+              "resource": "https://commons.wikimedia.org/wiki/File:Silversun_Pickups_at_Coachella_2009.jpg",
+              "id": "6a2acca2-71db-4ef1-b55e-5be5a666c96a"
+            },
+            "type": "image",
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {}
+          },
+          {
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null,
+            "url": {
+              "resource": "https://www.imdb.com/name/nm2481117/",
+              "id": "c9037644-8302-4851-8089-b91549fea0e2"
+            },
+            "type": "IMDb",
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {}
+          },
+          {
+            "type": "last.fm",
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "begin": null,
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "target-credit": "",
+            "source-credit": "",
+            "url": {
+              "id": "db12ae5e-6d5e-4a1c-95c2-1fbd2a2b1273",
+              "resource": "https://www.last.fm/music/Silversun+Pickups"
+            }
+          },
+          {
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {},
+            "type": "lyrics",
+            "url": {
+              "id": "c52680e5-33f7-49d0-93eb-3f306162c071",
+              "resource": "http://muzikum.eu/en/122-7095/silversun-pickups/lyrics.html"
+            },
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "url": {
+              "resource": "https://genius.com/artists/Silversun-pickups",
+              "id": "c7134eb4-bd1b-4307-ab2d-a3656c439d75"
+            },
+            "type": "lyrics",
+            "begin": null,
+            "attribute-ids": {},
+            "attributes": [],
+            "attribute-values": {},
+            "target-type": "url",
+            "ended": false,
+            "direction": "forward"
+          },
+          {
+            "type": "myspace",
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+            "end": null,
+            "url": {
+              "resource": "https://myspace.com/silversunpickups",
+              "id": "823ecbcc-b1d3-46e9-b34c-7ce4ab72e299"
+            }
+          },
+          {
+            "end": null,
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "url": {
+              "resource": "http://www.silversunpickups.com/",
+              "id": "c306219c-bc63-4775-a2d7-3378294a3837"
+            },
+            "type": "official homepage",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward"
+          },
+          {
+            "url": {
+              "id": "63fdafea-539a-4b93-823e-ed31e0676fe9",
+              "resource": "http://id.loc.gov/authorities/names/no2006032028"
+            },
+            "end": null,
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "type": "other databases"
+          },
+          {
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "type": "other databases",
+            "url": {
+              "id": "411ea039-62d8-4a8f-8c3d-77b0d72009c0",
+              "resource": "http://imvdb.com/n/silversun-pickups"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null
+          },
+          {
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "target-credit": "",
+            "source-credit": "",
+            "url": {
+              "resource": "https://catalogue.bnf.fr/ark:/12148/cb161499599",
+              "id": "27bea18f-d251-456b-be85-16d824ce28b5"
+            },
+            "type": "other databases",
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "begin": null,
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url"
+          },
+          {
+            "type": "other databases",
+            "begin": null,
+            "attribute-ids": {},
+            "attributes": [],
+            "attribute-values": {},
+            "target-type": "url",
+            "ended": false,
+            "direction": "forward",
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "url": {
+              "resource": "https://d-nb.info/gnd/10343260-7",
+              "id": "d1654158-4244-43aa-a646-770e0a2727b3"
+            }
+          },
+          {
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null,
+            "url": {
+              "resource": "https://rateyourmusic.com/artist/silversun_pickups",
+              "id": "753fff04-9c80-4dbe-97fc-f9c357868397"
+            },
+            "type": "other databases",
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {}
+          },
+          {
+            "target-type": "url",
+            "ended": false,
+            "direction": "forward",
+            "begin": null,
+            "attribute-ids": {},
+            "attributes": [],
+            "attribute-values": {},
+            "type": "other databases",
+            "url": {
+              "id": "5796ed5d-aa15-44f6-80a6-8184c7a5bb9e",
+              "resource": "http://www.musik-sammler.de/artist/58442"
+            },
+            "source-credit": "",
+            "target-credit": "",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null
+          },
+          {
+            "url": {
+              "id": "c7a9d248-3309-4cdc-a1d7-744b2a7ae311",
+              "resource": "http://www.worldcat.org/identities/lccn-no2006032028/"
+            },
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "target-credit": "",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "begin": null,
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url",
+            "type": "other databases"
+          },
+          {
+            "type": "purchase for download",
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url",
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "begin": null,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "url": {
+              "resource": "https://itunes.apple.com/us/artist/id74752665",
+              "id": "7a334284-4013-4b5d-b59b-de7eb2fdfdac"
+            }
+          },
+          {
+            "url": {
+              "id": "68cfbc1a-3733-4d47-a83e-275b8ddcd713",
+              "resource": "http://www.purevolume.com/silversunpickups"
+            },
+            "end": "2018-06-30",
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "ended": true,
+            "target-type": "url",
+            "direction": "forward",
+            "type": "purevolume"
+          },
+          {
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "type": "secondhandsongs",
+            "url": {
+              "resource": "https://secondhandsongs.com/artist/56394",
+              "id": "b6e9727d-ac70-4f75-90a2-81e9c4a6811e"
+            },
+            "end": null,
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3"
+          },
+          {
+            "begin": null,
+            "attribute-ids": {},
+            "attributes": [],
+            "attribute-values": {},
+            "target-type": "url",
+            "ended": false,
+            "direction": "forward",
+            "type": "social network",
+            "url": {
+              "resource": "https://twitter.com/sspu",
+              "id": "7cc931a3-2cd1-494b-9ab9-924eab2e5452"
+            },
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+          },
+          {
+            "url": {
+              "resource": "https://www.facebook.com/silversunpickups",
+              "id": "125856eb-530f-4e12-9e55-ee6d83a11aad"
+            },
+            "source-credit": "",
+            "target-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "direction": "forward",
+            "begin": null,
+            "attribute-ids": {},
+            "attributes": [],
+            "attribute-values": {},
+            "type": "social network"
+          },
+          {
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url",
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "begin": null,
+            "type": "social network",
+            "url": {
+              "id": "3bf30823-d705-4687-affb-9a8ac7b2a75d",
+              "resource": "https://www.instagram.com/sspu/"
+            },
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "type": "songkick",
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {},
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "f97f1deb-610e-43cd-b050-ec73848fb9bd",
+              "resource": "https://www.songkick.com/artists/393244"
+            }
+          },
+          {
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "url": {
+              "id": "a6840435-ad3a-4dd3-b264-e6cb5504c563",
+              "resource": "https://soundcloud.com/silversunpickups"
+            },
+            "type": "soundcloud",
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url",
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "begin": null
+          },
+          {
+            "type": "streaming",
+            "direction": "forward",
+            "ended": true,
+            "target-type": "url",
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "begin": null,
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "target-credit": "",
+            "source-credit": "",
+            "end": "2022-06-08",
+            "url": {
+              "id": "74bf7eca-3541-4882-a8c5-e9d74da836f5",
+              "resource": "https://us.napster.com/artist/silversun-pickups"
+            }
+          },
+          {
+            "url": {
+              "resource": "https://music.apple.com/us/artist/74752665",
+              "id": "65f31a0f-19c6-464a-b8cf-449a3aa55526"
+            },
+            "end": null,
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "target-credit": "",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "begin": null,
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url",
+            "type": "streaming"
+          },
+          {
+            "end": null,
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "target-credit": "",
+            "source-credit": "",
+            "url": {
+              "id": "d5303e18-4e90-4b85-8ff0-669e50d90fd0",
+              "resource": "https://tidal.com/artist/25187"
+            },
+            "type": "streaming",
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "begin": null,
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url"
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {},
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "type": "VIAF",
+            "url": {
+              "resource": "http://viaf.org/viaf/127173114",
+              "id": "2fdd33ae-9408-4b79-9461-017e8e7757ec"
+            },
+            "end": null,
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "source-credit": "",
+            "target-credit": ""
+          },
+          {
+            "end": null,
+            "target-credit": "",
+            "source-credit": "",
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "url": {
+              "resource": "https://www.wikidata.org/wiki/Q312275",
+              "id": "033f0ffb-d733-4608-94a1-33484641e316"
+            },
+            "type": "wikidata",
+            "attribute-ids": {},
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward"
+          },
+          {
+            "url": {
+              "id": "56df93df-ef14-4a4f-a8fe-108f7a7b643c",
+              "resource": "https://www.youtube.com/user/silversunpickups"
+            },
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "source-credit": "",
+            "target-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "attribute-values": {},
+            "begin": null,
+            "attribute-ids": {},
+            "type": "youtube"
+          }
+        ],
+        "disambiguation": "",
+        "end-area": null
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Hannah Cole\\\"\"}": {
+      "fetched_at": "2026-11-09T23:49:15.421425+00:00",
+      "data": {
+        "created": "2026-11-09T23:49:18.803Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "b7bd30f3-7a65-411f-a32e-972412699f12",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Hannah Cole",
+            "sort-name": "Cole, Hannah",
+            "gender": "female",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Nashville based artist and songwriter",
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "alternative rock"
+              },
+              {
+                "count": 1,
+                "name": "indie rock"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/b7bd30f3-7a65-411f-a32e-972412699f12?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-09T23:49:15.421425+00:00",
+      "data": {
+        "begin-area": null,
+        "disambiguation": "Nashville based artist and songwriter",
+        "sort-name": "Cole, Hannah",
+        "ipis": [],
+        "name": "Hannah Cole",
+        "isnis": [],
+        "id": "b7bd30f3-7a65-411f-a32e-972412699f12",
+        "life-span": {
+          "ended": false,
+          "end": null,
+          "begin": null
+        },
+        "relations": [
+          {
+            "source-credit": "",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "target-credit": "",
+            "type": "bandcamp",
+            "url": {
+              "id": "e21dc7be-6499-4d4f-8550-fa1bd9dc0198",
+              "resource": "https://hannahcole.bandcamp.com/"
+            },
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "target-type": "url",
+            "end": null,
+            "attributes": [],
+            "begin": null,
+            "ended": false,
+            "direction": "forward"
+          },
+          {
+            "url": {
+              "id": "a1825c2b-d47c-409f-9762-a4f9d0fcd055",
+              "resource": "https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY"
+            },
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "ended": false,
+            "end": null,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "direction": "forward",
+            "source-credit": "",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "target-credit": ""
+          },
+          {
+            "url": {
+              "id": "1f595550-03d3-488a-ad9c-2e54c6d8505b",
+              "resource": "https://www.deezer.com/artist/111068652"
+            },
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "ended": false,
+            "attributes": [],
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "direction": "forward",
+            "source-credit": "",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "target-credit": ""
+          },
+          {
+            "type": "last.fm",
+            "url": {
+              "id": "361d1648-085b-4529-98fb-84fd77c815aa",
+              "resource": "https://www.last.fm/music/Hannah+Cole"
+            },
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "end": null,
+            "begin": null,
+            "direction": "forward",
+            "source-credit": "",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "target-credit": ""
+          },
+          {
+            "source-credit": "",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.instagram.com/hhannahcole/",
+              "id": "6d957553-7c12-4643-993a-3c8ad62e86d1"
+            },
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "attributes": [],
+            "begin": null,
+            "direction": "forward"
+          },
+          {
+            "source-credit": "",
+            "target-credit": "",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "url": {
+              "id": "2f6dfa61-3bc5-4cdf-8690-19f4018aae31",
+              "resource": "https://music.apple.com/us/artist/1537048076"
+            },
+            "type": "streaming",
+            "direction": "forward",
+            "ended": false,
+            "begin": null,
+            "target-type": "url",
+            "end": null,
+            "attributes": []
+          },
+          {
+            "source-credit": "",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "target-credit": "",
+            "type": "streaming",
+            "url": {
+              "resource": "https://tidal.com/artist/21870117",
+              "id": "e9d05cc7-d889-4d4a-8abc-15417c27eac7"
+            },
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "attributes": [],
+            "begin": null,
+            "direction": "forward"
+          }
+        ],
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "country": "US",
+        "area": {
+          "sort-name": "United States",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type": null,
+          "name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "disambiguation": "",
+          "type-id": null
+        },
+        "gender": "Female",
+        "type": "Person",
+        "end-area": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Stray Kids\\\"\"}": {
+      "fetched_at": "2026-11-09T23:49:15.421425+00:00",
+      "data": {
+        "created": "2026-11-09T23:49:26.130Z",
+        "count": 2,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "142b343d-bf5a-428c-a64f-6d1a7566bbe9",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Stray Kids",
+            "sort-name": "Stray Kids",
+            "country": "KR",
+            "area": {
+              "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "South Korea",
+              "sort-name": "South Korea",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "aa03e165-4c73-4959-91c0-a99f9fa8ecab",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Seoul",
+              "sort-name": "Seoul",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "South Korean boy group",
+            "isnis": [
+              "0000000469814758"
+            ],
+            "life-span": {
+              "begin": "2017-10-17",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Stray Kids",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Stray Kids",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "ストレイキッズ",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ストレイキッズ",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "スキズ",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "スキズ",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "스트레이 키즈",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "스트레이 키즈",
+                "locale": "ko",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "2017-10",
+                "end-date": null
+              },
+              {
+                "sort-name": "Stray Kids",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Stray Kids",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SKZ",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "SKZ",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "스키즈",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "스키즈",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 1,
+                "name": "electropop"
+              },
+              {
+                "count": 1,
+                "name": "pop rap"
+              },
+              {
+                "count": 4,
+                "name": "k-pop"
+              },
+              {
+                "count": 2,
+                "name": "boy band"
+              },
+              {
+                "count": 3,
+                "name": "boy group"
+              },
+              {
+                "count": 1,
+                "name": "trap"
+              },
+              {
+                "count": 1,
+                "name": "trap edm"
+              },
+              {
+                "count": 1,
+                "name": "4th gen k-pop"
+              },
+              {
+                "count": -1,
+                "name": "boysband"
+              }
+            ]
+          },
+          {
+            "id": "3ba00a24-1f4f-4bba-9c52-3dca3ff356d6",
+            "score": 80,
+            "name": "Stray Kids",
+            "sort-name": "Stray Kids",
+            "area": {
+              "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Paris",
+              "sort-name": "Paris",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "French house/dance",
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "house"
+              },
+              {
+                "count": 1,
+                "name": "dance"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/142b343d-bf5a-428c-a64f-6d1a7566bbe9?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-09T23:49:15.421425+00:00",
+      "data": {
+        "id": "142b343d-bf5a-428c-a64f-6d1a7566bbe9",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "relations": [
+          {
+            "attribute-values": {},
+            "ended": false,
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "direction": "forward",
+            "end": null,
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "allmusic",
+            "source-credit": "",
+            "attributes": [],
+            "url": {
+              "id": "05ae4d55-9b87-4f2e-8040-f09678b568aa",
+              "resource": "https://www.allmusic.com/artist/mn0003708762"
+            }
+          },
+          {
+            "url": {
+              "resource": "https://www.bandsintown.com/a/11408045",
+              "id": "bfb5a7a6-8c20-4dd3-94de-d48634aeb520"
+            },
+            "attributes": [],
+            "source-credit": "",
+            "type": "bandsintown",
+            "target-credit": "",
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+            "end": null,
+            "ended": false,
+            "attribute-values": {}
+          },
+          {
+            "target-credit": "",
+            "source-credit": "",
+            "type": "discogs",
+            "begin": null,
+            "target-type": "url",
+            "attribute-ids": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "end": null,
+            "direction": "forward",
+            "ended": false,
+            "attribute-values": {},
+            "url": {
+              "id": "7adb492c-7dda-42f0-ae0d-d5441f40cdcb",
+              "resource": "https://www.discogs.com/artist/6838809"
+            },
+            "attributes": []
+          },
+          {
+            "direction": "forward",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "end": null,
+            "ended": false,
+            "attribute-values": {},
+            "target-credit": "",
+            "type": "free streaming",
+            "source-credit": "",
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {},
+            "url": {
+              "resource": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE",
+              "id": "82a632e2-295a-47c1-a57d-ea44d591ca95"
+            },
+            "attributes": []
+          },
+          {
+            "attributes": [],
+            "url": {
+              "resource": "https://www.deezer.com/artist/13923487",
+              "id": "f08c3d70-ccb0-481b-a26a-9eb034f0a9b7"
+            },
+            "attribute-values": {},
+            "ended": false,
+            "direction": "forward",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "end": null,
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {},
+            "target-credit": "",
+            "source-credit": "",
+            "type": "free streaming"
+          },
+          {
+            "attributes": [],
+            "url": {
+              "resource": "https://www.deezer.com/artist/233138221",
+              "id": "aa82481a-a87d-4e98-b061-e6a1df8ff724"
+            },
+            "begin": null,
+            "target-type": "url",
+            "attribute-ids": {},
+            "target-credit": "",
+            "source-credit": "",
+            "type": "free streaming",
+            "attribute-values": {},
+            "direction": "forward",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "end": null,
+            "ended": false
+          },
+          {
+            "begin": null,
+            "target-type": "url",
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "IMDb",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+            "direction": "forward",
+            "ended": false,
+            "attributes": [],
+            "url": {
+              "resource": "https://www.imdb.com/name/nm10104485/",
+              "id": "cadf3107-7807-4e59-b7c4-be243ebb4753"
+            }
+          },
+          {
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": "",
+            "type": "last.fm",
+            "target-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "end": null,
+            "ended": false,
+            "attributes": [],
+            "url": {
+              "id": "d0977b71-6283-47e3-a176-d78e51788509",
+              "resource": "https://www.last.fm/music/Stray+Kids"
+            }
+          },
+          {
+            "url": {
+              "resource": "https://genius.com/artists/Stray-kids",
+              "id": "b8cb790c-30f8-40ba-96e7-16815e1a4380"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "end": null,
+            "ended": false,
+            "attribute-values": {},
+            "type": "lyrics",
+            "source-credit": "",
+            "target-credit": "",
+            "attribute-ids": {},
+            "target-type": "url",
+            "begin": null
+          },
+          {
+            "attribute-values": {},
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "direction": "forward",
+            "end": null,
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "source-credit": "",
+            "type": "lyrics",
+            "target-credit": "",
+            "attributes": [],
+            "url": {
+              "id": "3bc5f50f-cd2b-4afc-ad10-28b3dccb4529",
+              "resource": "https://www.musixmatch.com/artist/Stray-Kids"
+            }
+          },
+          {
+            "url": {
+              "resource": "http://straykids.jype.com/",
+              "id": "c41ccb1f-5ac0-4dba-8eb5-1ae77e885ad0"
+            },
+            "attributes": [],
+            "target-credit": "",
+            "type": "official homepage",
+            "source-credit": "",
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "end": null,
+            "ended": false,
+            "attribute-values": {}
+          },
+          {
+            "url": {
+              "resource": "http://id.loc.gov/authorities/names/no2020073024",
+              "id": "72928ba8-bf47-4295-8eda-70d2f321a219"
+            },
+            "attributes": [],
+            "ended": false,
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "direction": "forward",
+            "attribute-values": {},
+            "target-credit": "",
+            "source-credit": "",
+            "type": "other databases",
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {}
+          },
+          {
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "direction": "forward",
+            "end": null,
+            "ended": false,
+            "attribute-values": {},
+            "target-credit": "",
+            "source-credit": "",
+            "type": "other databases",
+            "begin": null,
+            "target-type": "url",
+            "attribute-ids": {},
+            "url": {
+              "id": "841c0169-09f7-4733-bf72-431c0341b06f",
+              "resource": "https://imvdb.com/n/stray-kids"
+            },
+            "attributes": []
+          },
+          {
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "type": "other databases",
+            "source-credit": "",
+            "target-credit": "",
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null,
+            "direction": "forward",
+            "ended": false,
+            "attributes": [],
+            "url": {
+              "resource": "https://rateyourmusic.com/artist/stray-kids",
+              "id": "a13935c1-7c69-48d1-beed-d9d5fb1d518c"
+            }
+          },
+          {
+            "attribute-ids": {},
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "type": "other databases",
+            "target-credit": "",
+            "attribute-values": {},
+            "ended": false,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "direction": "forward",
+            "end": null,
+            "attributes": [],
+            "url": {
+              "resource": "https://www.generasia.com/wiki/Stray_Kids_(group)",
+              "id": "ee8f6699-d9ed-4d91-b1dd-20c361555fbe"
+            }
+          },
+          {
+            "url": {
+              "resource": "https://www.musik-sammler.de/artist/566695/",
+              "id": "7ae8da4c-73c0-455f-8538-29e0b5a8f49d"
+            },
+            "attributes": [],
+            "end": null,
+            "direction": "forward",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "ended": false,
+            "attribute-values": {},
+            "target-credit": "",
+            "type": "other databases",
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "attribute-ids": {}
+          },
+          {
+            "attributes": [],
+            "url": {
+              "id": "95c3dbb7-f443-4e46-acf1-6e791036c75e",
+              "resource": "https://www.muziekweb.nl/Link/M00000552309/POPULAR/"
+            },
+            "attribute-values": {},
+            "direction": "forward",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null,
+            "ended": false,
+            "begin": null,
+            "target-type": "url",
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "other databases",
+            "source-credit": ""
+          },
+          {
+            "attributes": [],
+            "url": {
+              "id": "9317a06e-6bfd-4313-a4f3-89b114fa0b9f",
+              "resource": "https://www.whosampled.com/Stray-Kids/"
+            },
+            "attribute-values": {},
+            "ended": false,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null,
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "type": "other databases",
+            "source-credit": "",
+            "target-credit": ""
+          },
+          {
+            "attributes": [],
+            "url": {
+              "resource": "https://www.worldcat.org/identities/lccn-no2020073024/",
+              "id": "8b5151db-7776-4d47-a111-d358433b9a0c"
+            },
+            "attribute-ids": {},
+            "target-type": "url",
+            "begin": null,
+            "type": "other databases",
+            "source-credit": "",
+            "target-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null,
+            "ended": false
+          },
+          {
+            "attribute-ids": {},
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "type": "other databases",
+            "target-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "ended": false,
+            "attributes": [],
+            "url": {
+              "id": "49408d48-5bbd-4aca-a1d6-ed87a88d471d",
+              "resource": "http://www.maniadb.com/artist/432677"
+            }
+          },
+          {
+            "begin": null,
+            "target-type": "url",
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "purchase for download",
+            "source-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "end": null,
+            "ended": false,
+            "attributes": [],
+            "url": {
+              "id": "2cd740fe-ac33-4ecf-acf7-707900315cb1",
+              "resource": "https://itunes.apple.com/artist/id1304823362"
+            }
+          },
+          {
+            "attributes": [],
+            "url": {
+              "id": "1a42f45a-58cc-4edf-b879-c053a9c71290",
+              "resource": "https://mora.jp/artist/1178221/"
+            },
+            "attribute-values": {},
+            "ended": false,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "purchase for download",
+            "source-credit": ""
+          },
+          {
+            "attributes": [],
+            "url": {
+              "resource": "https://music.bugs.co.kr/artist/20046081",
+              "id": "c8e0bf9b-61f9-44ec-9464-c3602f0e2740"
+            },
+            "attribute-values": {},
+            "ended": false,
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "end": null,
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {},
+            "target-credit": "",
+            "source-credit": "",
+            "type": "purchase for download"
+          },
+          {
+            "attribute-values": {},
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {},
+            "target-credit": "",
+            "source-credit": "",
+            "type": "purchase for download",
+            "attributes": [],
+            "url": {
+              "id": "8223cfd4-f2d7-4a94-9975-20edbf6937fc",
+              "resource": "https://open.qobuz.com/artist/4593481"
+            }
+          },
+          {
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "type": "purchase for download",
+            "source-credit": "",
+            "target-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "end": null,
+            "ended": false,
+            "attributes": [],
+            "url": {
+              "id": "c262d352-bdad-4cac-87b1-6af0ae2b4bb4",
+              "resource": "https://vibe.naver.com/artist/1963693"
+            }
+          },
+          {
+            "attributes": [],
+            "url": {
+              "resource": "https://www.beatport.com/artist/stray-kids/967642",
+              "id": "8896f3f7-0f8b-477a-a690-3ac1b8791d89"
+            },
+            "begin": null,
+            "target-type": "url",
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "purchase for download",
+            "source-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "end": null,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "ended": false
+          },
+          {
+            "url": {
+              "resource": "https://www.genie.co.kr/detail/artistInfo?xxnm=80601364",
+              "id": "aac5cf77-2f1f-43d6-8cad-c6048e97510e"
+            },
+            "attributes": [],
+            "target-credit": "",
+            "type": "purchase for download",
+            "source-credit": "",
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "direction": "forward",
+            "end": null,
+            "attribute-values": {}
+          },
+          {
+            "attribute-values": {},
+            "ended": false,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "end": null,
+            "direction": "forward",
+            "begin": null,
+            "target-type": "url",
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "purchase for download",
+            "source-credit": "",
+            "attributes": [],
+            "url": {
+              "resource": "https://www.melon.com/artist/detail.htm?artistId=2006344",
+              "id": "44dcb404-9968-435d-9d82-2107f4507996"
+            }
+          },
+          {
+            "attributes": [],
+            "url": {
+              "resource": "https://twitter.com/stray_kids",
+              "id": "fd14fafa-b584-418c-b06e-1fc6d809bfe1"
+            },
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "direction": "forward",
+            "end": null,
+            "ended": false,
+            "attribute-ids": {},
+            "target-type": "url",
+            "begin": null,
+            "type": "social network",
+            "source-credit": "",
+            "target-credit": ""
+          },
+          {
+            "url": {
+              "resource": "https://www.facebook.com/JYPEStrayKids",
+              "id": "1b010e27-7af9-4e9e-81f5-a88324d7463c"
+            },
+            "attributes": [],
+            "ended": false,
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "direction": "forward",
+            "end": null,
+            "attribute-values": {},
+            "type": "social network",
+            "source-credit": "",
+            "target-credit": "",
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url"
+          },
+          {
+            "attribute-values": {},
+            "ended": false,
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "end": null,
+            "direction": "forward",
+            "attribute-ids": {},
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "type": "social network",
+            "target-credit": "",
+            "attributes": [],
+            "url": {
+              "resource": "https://www.instagram.com/realstraykids/",
+              "id": "bb50b6b8-2657-408f-81a6-39a01345c66f"
+            }
+          },
+          {
+            "attributes": [],
+            "url": {
+              "resource": "https://www.tiktok.com/@jypestraykids",
+              "id": "bfc5107d-4c8b-4d56-b2b2-98dc71eaf4b2"
+            },
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "type": "social network",
+            "source-credit": "",
+            "target-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "end": null,
+            "ended": false
+          },
+          {
+            "attributes": [],
+            "url": {
+              "id": "71c75f86-3e94-4a8f-91be-aebfc10d7500",
+              "resource": "https://www.weibo.com/6445301448"
+            },
+            "attribute-ids": {},
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "type": "social network",
+            "target-credit": "",
+            "attribute-values": {},
+            "ended": false,
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "end": null
+          },
+          {
+            "begin": null,
+            "target-type": "url",
+            "attribute-ids": {},
+            "target-credit": "",
+            "source-credit": "",
+            "type": "songkick",
+            "attribute-values": {},
+            "ended": false,
+            "direction": "forward",
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "end": null,
+            "attributes": [],
+            "url": {
+              "resource": "https://www.songkick.com/artists/9574724",
+              "id": "f3375f9d-fac5-4871-8bf0-770889cdaa7f"
+            }
+          },
+          {
+            "attributes": [],
+            "url": {
+              "resource": "https://music.amazon.com/artists/B078ZP2RDR",
+              "id": "9d04d1b8-83e8-4359-bee7-41710bc5fc45"
+            },
+            "attribute-values": {},
+            "ended": false,
+            "direction": "forward",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "end": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "type": "streaming",
+            "target-credit": ""
+          },
+          {
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "end": null,
+            "direction": "forward",
+            "ended": false,
+            "attribute-values": {},
+            "type": "streaming",
+            "source-credit": "",
+            "target-credit": "",
+            "attribute-ids": {},
+            "target-type": "url",
+            "begin": null,
+            "url": {
+              "resource": "https://music.apple.com/gb/artist/1304823362",
+              "id": "e267927f-9936-4171-b480-60c2c501d6d2"
+            },
+            "attributes": []
+          },
+          {
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "end": null,
+            "direction": "forward",
+            "ended": false,
+            "begin": null,
+            "target-type": "url",
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "streaming",
+            "source-credit": "",
+            "attributes": [],
+            "url": {
+              "resource": "https://music.apple.com/kr/artist/1304823362",
+              "id": "84da137e-f99b-413a-839b-e87271c7c16a"
+            }
+          },
+          {
+            "url": {
+              "id": "c8e0bf9b-61f9-44ec-9464-c3602f0e2740",
+              "resource": "https://music.bugs.co.kr/artist/20046081"
+            },
+            "attributes": [],
+            "type": "streaming",
+            "source-credit": "",
+            "target-credit": "",
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "direction": "forward",
+            "end": null,
+            "ended": false,
+            "attribute-values": {}
+          },
+          {
+            "url": {
+              "resource": "https://open.qobuz.com/artist/4593481",
+              "id": "8223cfd4-f2d7-4a94-9975-20edbf6937fc"
+            },
+            "attributes": [],
+            "target-credit": "",
+            "type": "streaming",
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "direction": "forward",
+            "end": null,
+            "attribute-values": {}
+          },
+          {
+            "target-credit": "",
+            "source-credit": "",
+            "type": "streaming",
+            "begin": null,
+            "target-type": "url",
+            "attribute-ids": {},
+            "direction": "forward",
+            "end": null,
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "ended": false,
+            "attribute-values": {},
+            "url": {
+              "id": "a1315419-0649-4120-8da2-9cb587b56b5d",
+              "resource": "https://tidal.com/artist/9838474"
+            },
+            "attributes": []
+          },
+          {
+            "source-credit": "",
+            "type": "streaming",
+            "target-credit": "",
+            "attribute-ids": {},
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "end": null,
+            "ended": false,
+            "attribute-values": {},
+            "url": {
+              "resource": "https://vibe.naver.com/artist/1963693",
+              "id": "c262d352-bdad-4cac-87b1-6af0ae2b4bb4"
+            },
+            "attributes": []
+          },
+          {
+            "ended": false,
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "end": null,
+            "direction": "forward",
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "streaming",
+            "target-credit": "",
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "url": {
+              "resource": "https://www.genie.co.kr/detail/artistInfo?xxnm=80601364",
+              "id": "aac5cf77-2f1f-43d6-8cad-c6048e97510e"
+            },
+            "attributes": []
+          },
+          {
+            "ended": false,
+            "end": null,
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "direction": "forward",
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "streaming",
+            "target-credit": "",
+            "attribute-ids": {},
+            "target-type": "url",
+            "begin": null,
+            "url": {
+              "resource": "https://www.melon.com/artist/detail.htm?artistId=2006344",
+              "id": "44dcb404-9968-435d-9d82-2107f4507996"
+            },
+            "attributes": []
+          },
+          {
+            "type": "streaming",
+            "source-credit": "",
+            "target-credit": "",
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "direction": "forward",
+            "end": null,
+            "ended": false,
+            "attribute-values": {},
+            "url": {
+              "id": "948430e4-3fe3-4b21-b387-c0356c974cdf",
+              "resource": "https://www.music-flo.com/detail/artist/20046081/album"
+            },
+            "attributes": []
+          },
+          {
+            "attribute-values": {},
+            "ended": false,
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "direction": "forward",
+            "end": null,
+            "target-type": "url",
+            "begin": null,
+            "attribute-ids": {},
+            "target-credit": "",
+            "source-credit": "",
+            "type": "VIAF",
+            "attributes": [],
+            "url": {
+              "resource": "http://viaf.org/viaf/20159276787007951434",
+              "id": "26ee9f67-325a-490f-a661-8ba76fbcd4a3"
+            }
+          },
+          {
+            "ended": false,
+            "end": null,
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "direction": "forward",
+            "attribute-values": {},
+            "target-credit": "",
+            "type": "VIAF",
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "attribute-ids": {},
+            "url": {
+              "resource": "http://viaf.org/viaf/8421157527302427300002",
+              "id": "af429d0d-d153-4482-ab39-3fb8a105079f"
+            },
+            "attributes": []
+          },
+          {
+            "attributes": [],
+            "url": {
+              "resource": "https://www.wikidata.org/wiki/Q46134670",
+              "id": "cdec1e9d-2e11-4355-9011-1a15e6a66515"
+            },
+            "attribute-values": {},
+            "direction": "forward",
+            "end": null,
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "type": "wikidata",
+            "source-credit": "",
+            "target-credit": ""
+          },
+          {
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "end": null,
+            "direction": "forward",
+            "ended": false,
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "youtube",
+            "target-credit": "",
+            "attribute-ids": {},
+            "begin": null,
+            "target-type": "url",
+            "url": {
+              "resource": "https://www.youtube.com/channel/UC9rMiEjNaCSsebs31MRDCRA",
+              "id": "7d5adda3-e52a-44e5-b0ed-59c3e184adc6"
+            },
+            "attributes": []
+          }
+        ],
+        "end-area": null,
+        "disambiguation": "South Korean boy group",
+        "gender": null,
+        "country": "KR",
+        "isnis": [
+          "0000000469814758"
+        ],
+        "sort-name": "Stray Kids",
+        "type": "Group",
+        "ipis": [],
+        "begin-area": {
+          "sort-name": "Seoul",
+          "type": null,
+          "disambiguation": "",
+          "name": "Seoul",
+          "id": "aa03e165-4c73-4959-91c0-a99f9fa8ecab",
+          "type-id": null,
+          "iso-3166-2-codes": [
+            "KR-11"
+          ]
+        },
+        "name": "Stray Kids",
+        "life-span": {
+          "end": null,
+          "ended": false,
+          "begin": "2017-10-17"
+        },
+        "gender-id": null,
+        "area": {
+          "disambiguation": "",
+          "type": null,
+          "sort-name": "South Korea",
+          "name": "South Korea",
+          "iso-3166-1-codes": [
+            "KR"
+          ],
+          "type-id": null,
+          "id": "b9f7d640-46e8-313e-b158-ded6d18593b3"
+        }
+      }
     }
   }
 }
