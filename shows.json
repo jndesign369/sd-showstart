@@ -1,104 +1,11 @@
 {
- "generated_at": "2026-11-09T15:49:15-08:00",
+ "generated_at": "2026-11-10T03:27:06-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
   "updated": "November 9, 2026"
  },
  "shows": [
-  {
-   "id": "belly-up-tavern:2026-11-09:king-buffalo",
-   "date": "2026-11-09",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "King Buffalo",
-    "LA Witch"
-   ],
-   "artists": [
-    {
-     "name": "King Buffalo",
-     "mbid": "17216b16-e706-4082-b0ba-e409a3097844",
-     "official_url": "https://kingbuffalo.com/"
-    },
-    {
-     "name": "LA Witch",
-     "mbid": "38e89263-3d3c-4ccb-ae29-9c31dcff0777"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "casbah:2026-11-09:show-has-been-postponed-to-nov-9-tickets-will-be-honored-bebe-stockwell",
-   "date": "2026-11-09",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "Show has been postponed to Nov 9 - tickets will be honored. Bebe Stockwell",
-    "Khatumu"
-   ],
-   "artists": [
-    {
-     "name": "Show has been postponed to Nov 9 - tickets will be honored. Bebe Stockwell"
-    },
-    {
-     "name": "Khatumu",
-     "mbid": "c7535a2b-bf80-447d-8e2b-831edfeb31b1"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
-  },
-  {
-   "id": "san-diego-civic-theatre:2026-11-09:anne-wilson",
-   "date": "2026-11-09",
-   "venue": "San Diego Civic Theatre",
-   "city": "San Diego",
-   "performers": [
-    "Anne Wilson",
-    "Peter Burton"
-   ],
-   "artists": [
-    {
-     "name": "Anne Wilson",
-     "mbid": "3f96553a-1939-452b-add0-65d67022e6b4",
-     "official_url": "http://www.annewilsonofficial.com/#/"
-    },
-    {
-     "name": "Peter Burton",
-     "mbid": "a560e0a7-f9a7-494e-ad75-28fa09410217",
-     "official_url": "https://www.peterburtonofficial.com/"
-    }
-   ],
-   "venue_url": "https://www.sdcivic.org/"
-  },
-  {
-   "id": "soda-bar:2026-11-09:jady",
-   "date": "2026-11-09",
-   "venue": "Soda Bar",
-   "city": "San Diego",
-   "performers": [
-    "Jady",
-    "colby!",
-    "TJ Minor"
-   ],
-   "artists": [
-    {
-     "name": "Jady",
-     "mbid": "a394d2ad-7458-4dbb-88d7-ac0bbb5cb679",
-     "official_url": "https://jadymusic.net/"
-    },
-    {
-     "name": "colby!",
-     "mbid": "d71c2b20-616a-4bb8-a848-e6edac412c3b",
-     "official_url": "http://colbyodonis.com/"
-    },
-    {
-     "name": "TJ Minor",
-     "mbid": "c15314df-212c-4066-b634-9dfdfcf60005"
-    }
-   ],
-   "venue_url": "https://sodabarmusic.com/"
-  },
   {
    "id": "casbah:2026-11-10:sun-room",
    "date": "2026-11-10",
