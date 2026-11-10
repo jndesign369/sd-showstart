@@ -372600,6 +372600,2406 @@
           "id": "b9f7d640-46e8-313e-b158-ded6d18593b3"
         }
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Ra\\\"\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "created": "2026-11-10T21:22:05.917Z",
+        "count": 394,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Sun Ra",
+            "sort-name": "Sun Ra",
+            "gender": "male",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "8995a377-da74-40b6-ab76-b1f2d6eed01f",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Birmingham",
+              "sort-name": "Birmingham",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "end-area": {
+              "id": "8995a377-da74-40b6-ab76-b1f2d6eed01f",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Birmingham",
+              "sort-name": "Birmingham",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "ipis": [
+              "00047903862",
+              "00053257588",
+              "00053257686",
+              "00227787728"
+            ],
+            "isnis": [
+              "0000000121239027",
+              "0000000368638759",
+              "0000000368638767",
+              "0000000368638775"
+            ],
+            "life-span": {
+              "begin": "1914-05-22",
+              "end": "1993-05-30",
+              "ended": true
+            },
+            "aliases": [
+              {
+                "sort-name": "Le Sonny'r Ra",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Le Sonny'r Ra",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Le Sun Ra",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Le Sun Ra",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Herman Lee",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Herman Lee",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Le Sun Ra",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Le Sun Ra",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sonny Blount",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Sonny Blount",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Blount, Herman Poole",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Herman Poole Blount",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sonny Bourke",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Sonny Bourke",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Herman \"Sonny\" Blount",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Herman \"Sonny\" Blount",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Le Sony'r Ra",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Le Sony'r Ra",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Herman Blount",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Herman Blount",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 1,
+                "name": "electronic"
+              },
+              {
+                "count": 4,
+                "name": "jazz"
+              },
+              {
+                "count": 1,
+                "name": "american"
+              },
+              {
+                "count": 1,
+                "name": "swing"
+              },
+              {
+                "count": 1,
+                "name": "jazz fusion"
+              },
+              {
+                "count": 1,
+                "name": "post-bop"
+              },
+              {
+                "count": 1,
+                "name": "hard bop"
+              },
+              {
+                "count": 3,
+                "name": "avant-garde jazz"
+              },
+              {
+                "count": 3,
+                "name": "free jazz"
+              },
+              {
+                "count": 1,
+                "name": "mainstream jazz"
+              },
+              {
+                "count": 1,
+                "name": "jazz and blues"
+              },
+              {
+                "count": 2,
+                "name": "free improvisation"
+              },
+              {
+                "count": 1,
+                "name": "2008 universal fire victim"
+              }
+            ]
+          },
+          {
+            "id": "d9733f21-71d7-4fa7-813d-67eca0f0eaaf",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 96,
+            "name": "The Sun Ra Arkestra",
+            "sort-name": "Sun Ra Arkestra, The",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Chicago",
+              "sort-name": "Chicago",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000081897577"
+            ],
+            "life-span": {
+              "begin": "1952",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Sun Ra and His Arkestra With Chamber Orchestra",
+                "name": "Sun Ra and His Arkestra With Chamber Orchestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra And His Outer Space Arkestra",
+                "name": "Sun Ra And His Outer Space Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and His Omniverse Arkestra",
+                "name": "Sun Ra and His Omniverse Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and his Myth Science Arkestra",
+                "name": "Sun Ra and his Myth Science Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and His Intergalactic Solar Arkestra",
+                "name": "Sun Ra and His Intergalactic Solar Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and his Intergalactic Research Arkestra",
+                "name": "Sun Ra and his Intergalactic Research Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and His Intergalactic Myth Science Solar Arkestra",
+                "name": "Sun Ra and His Intergalactic Myth Science Solar Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and His Intergalactic Infinity Arkestra",
+                "name": "Sun Ra and His Intergalactic Infinity Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and His Astro Intergalactic Infinity Arkestra",
+                "name": "Sun Ra and His Astro Intergalactic Infinity Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and His Astro Infinity Arkestra",
+                "name": "Sun Ra and His Astro Infinity Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and His Astro-Solar-Infinity Arkestra",
+                "name": "Sun Ra and His Astro-Solar-Infinity Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and the Arkestra",
+                "name": "Sun Ra and the Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and His Arkestra",
+                "name": "Sun Ra and His Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra & His Arkestra",
+                "name": "Sun Ra & His Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and His Arkestra With Symphony Orchestra",
+                "name": "Sun Ra and His Arkestra With Symphony Orchestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra And His Astro-Solar-Infinity Arkestra",
+                "name": "Sun Ra And His Astro-Solar-Infinity Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra And His Astro-Intergalactic Infinity Arkestra",
+                "name": "Sun Ra And His Astro-Intergalactic Infinity Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra And His Astro Infinity Arkestra",
+                "name": "Sun Ra And His Astro Infinity Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Le Sun-Ra And His Arkistra",
+                "name": "Le Sun-Ra And His Arkistra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Le Sun Ra And His Arkestra",
+                "name": "Le Sun Ra And His Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra & the Year 2000 Myth Science Arkestra",
+                "name": "Sun Ra & the Year 2000 Myth Science Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra & His Solar-Myth Arkestra",
+                "name": "Sun Ra & His Solar-Myth Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra & His Intergalactic Arkestra",
+                "name": "Sun Ra & His Intergalactic Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra & His Cosmo Discipline Arkestra",
+                "name": "Sun Ra & His Cosmo Discipline Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra And The Omniverse Jet Set Arkestra",
+                "name": "Sun Ra And The Omniverse Jet Set Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and His Year 2000 Myth Science Arkestra",
+                "name": "Sun Ra and His Year 2000 Myth Science Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and His Solar Arkestra",
+                "name": "Sun Ra and His Solar Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and His Outer Space Arkestra",
+                "name": "Sun Ra and His Outer Space Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and His Astro-Galactic Infinity Arkestra",
+                "name": "Sun Ra and His Astro-Galactic Infinity Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra & His Intergalactic Research Arkestra",
+                "name": "Sun Ra & His Intergalactic Research Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Sun Ra Arkestra",
+                "name": "The Sun Ra Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Sun Ra and his Solar-Myth Arkestra",
+                "name": "Sun Ra and his Solar-Myth Arkestra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 3,
+                "name": "jazz"
+              },
+              {
+                "count": 1,
+                "name": "jazz fusion"
+              },
+              {
+                "count": 1,
+                "name": "post-bop"
+              },
+              {
+                "count": 3,
+                "name": "avant-garde jazz"
+              },
+              {
+                "count": 3,
+                "name": "free jazz"
+              },
+              {
+                "count": 2,
+                "name": "free improvisation"
+              }
+            ]
+          },
+          {
+            "id": "d8f63b51-73e0-4f65-8bd3-bcfe6892fb0e",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 90,
+            "name": "Ra Ra Riot",
+            "sort-name": "Ra Ra Riot",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "1fee56fe-5b76-4a50-bc63-37ee51d3300f",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Syracuse",
+              "sort-name": "Syracuse",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000122177200"
+            ],
+            "life-span": {
+              "begin": "2006",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "rock"
+              },
+              {
+                "count": 1,
+                "name": "indie rock"
+              },
+              {
+                "count": 1,
+                "name": "baroque pop"
+              }
+            ]
+          },
+          {
+            "id": "b62f2a5d-ee82-482f-a10d-536c929edfff",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 87,
+            "name": "Ra",
+            "sort-name": "Ra",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "American rock band",
+            "life-span": {
+              "begin": "1998",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "alternative rock"
+              },
+              {
+                "count": 1,
+                "name": "alternative metal"
+              }
+            ]
+          },
+          {
+            "id": "2d3fce56-b69f-4385-a2e4-0a70fbf5f2ee",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 86,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Bong‐Ra",
+            "sort-name": "Bong‐Ra",
+            "gender": "male",
+            "country": "NL",
+            "area": {
+              "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Netherlands",
+              "sort-name": "Netherlands",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "a727c39a-8d76-4a1a-9033-696ada9bedda",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Utrecht",
+              "sort-name": "Utrecht",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Dutch breakcore",
+            "isnis": [
+              "000000047192055X"
+            ],
+            "life-span": {
+              "begin": "1972",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Köhnen, Jason",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Jason Köhnen",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 4,
+                "name": "electronic"
+              },
+              {
+                "count": 1,
+                "name": "industrial"
+              },
+              {
+                "count": 1,
+                "name": "drum and bass"
+              },
+              {
+                "count": 3,
+                "name": "jungle"
+              },
+              {
+                "count": 6,
+                "name": "raggacore"
+              },
+              {
+                "count": 1,
+                "name": "dubstep"
+              },
+              {
+                "count": 7,
+                "name": "breakcore"
+              },
+              {
+                "count": 1,
+                "name": "noise"
+              },
+              {
+                "count": 1,
+                "name": "hardcore"
+              },
+              {
+                "count": 1,
+                "name": "metal"
+              },
+              {
+                "count": 1,
+                "name": "doom metal"
+              },
+              {
+                "count": 3,
+                "name": "idm"
+              },
+              {
+                "count": 1,
+                "name": "techno"
+              },
+              {
+                "count": 1,
+                "name": "electronica"
+              },
+              {
+                "count": 1,
+                "name": "breakbeat"
+              },
+              {
+                "count": 1,
+                "name": "breaks"
+              },
+              {
+                "count": 1,
+                "name": "gabber"
+              },
+              {
+                "count": 1,
+                "name": "speedcore"
+              },
+              {
+                "count": 2,
+                "name": "cybergrind"
+              },
+              {
+                "count": 1,
+                "name": "hard techno"
+              },
+              {
+                "count": 1,
+                "name": "elektronisch"
+              }
+            ]
+          },
+          {
+            "id": "04c464f3-cdae-4b43-9d0e-e972316f6b1e",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 84,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Afu‐Ra",
+            "sort-name": "Afu‐Ra",
+            "gender": "male",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+              "type": "District",
+              "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+              "name": "Brooklyn",
+              "sort-name": "Brooklyn",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000055209718"
+            ],
+            "life-span": {
+              "begin": "1973",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Phillip, Aaron",
+                "name": "Aaron Phillip",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Phillip, Aaron Ocosice",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Aaron Ocosice Phillip",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Afu Ra",
+                "name": "Afu Ra",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Afura",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Afura",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Au-Ra",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Au-Ra",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 2,
+                "name": "hip hop"
+              }
+            ]
+          },
+          {
+            "id": "dc07a7d7-fb33-4fd3-9ce2-ede9c585f5eb",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 83,
+            "name": "Ra",
+            "sort-name": "Ra",
+            "country": "NO",
+            "area": {
+              "id": "6743d351-6f37-3049-9724-5041161fff4d",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Norway",
+              "sort-name": "Norway",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Norwegian goa trance project",
+            "life-span": {
+              "begin": "1994",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "electronic"
+              },
+              {
+                "count": 1,
+                "name": "psychedelic trance"
+              },
+              {
+                "count": 1,
+                "name": "psytrance"
+              },
+              {
+                "count": 1,
+                "name": "psy-trance"
+              },
+              {
+                "count": 1,
+                "name": "psychedelic"
+              },
+              {
+                "count": 1,
+                "name": "trance"
+              },
+              {
+                "count": 1,
+                "name": "goa trance"
+              }
+            ]
+          },
+          {
+            "id": "87df4c21-1235-491e-b63e-e2f4d9ffd59a",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 82,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Au/Ra",
+            "sort-name": "Au/Ra",
+            "gender": "female",
+            "country": "AG",
+            "area": {
+              "id": "2a8cc14f-8d47-389b-b54d-e94312b23d27",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Antigua and Barbuda",
+              "sort-name": "Antigua and Barbuda",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "60f40dc9-1f5d-4987-8738-6b1b698c4fcd",
+              "type": "Island",
+              "type-id": "3f8e7b66-058b-369b-9834-ffa5fcba5641",
+              "name": "Ibiza",
+              "sort-name": "Ibiza",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "German singer Jamie Lou Stenzel",
+            "life-span": {
+              "begin": "2002-05-15",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Jamie Aura Stenzel",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Jamie Aura Stenzel",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stenzel, Jamie Lou",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Jamie Lou Stenzel",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 1,
+                "name": "electronic"
+              },
+              {
+                "count": 1,
+                "name": "pop"
+              },
+              {
+                "count": 1,
+                "name": "dance"
+              },
+              {
+                "count": 1,
+                "name": "house"
+              },
+              {
+                "count": 1,
+                "name": "deep house"
+              },
+              {
+                "count": 1,
+                "name": "alternative pop"
+              },
+              {
+                "count": 1,
+                "name": "progressive house"
+              }
+            ]
+          },
+          {
+            "id": "ee71e136-eb39-4afb-babc-5e548235f06d",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 81,
+            "name": "Ra",
+            "sort-name": "Ra",
+            "disambiguation": "Raoul Sinier - electronic",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "859ebb6f-fb94-4177-abe0-c8e6622c82f9",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 80,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Ra",
+            "sort-name": "Ra",
+            "gender": "female",
+            "area": {
+              "id": "6fa1c7da-6689-4cec-85f9-680f853e8a08",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "Scotland",
+              "sort-name": "Scotland",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "singer/songwriter from Scotland (Dumfries/Edinburgh)",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/c27cac8e-4c4a-48c0-a4ba-41399b9c176d?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "area": {
+          "sort-name": "United States",
+          "disambiguation": "",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type-id": null,
+          "name": "United States",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ]
+        },
+        "gender": "Male",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "isnis": [
+          "0000000121239027",
+          "0000000368638759",
+          "0000000368638767",
+          "0000000368638775"
+        ],
+        "sort-name": "Sun Ra",
+        "id": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "type": "Person",
+        "life-span": {
+          "ended": true,
+          "end": "1993-05-30",
+          "begin": "1914-05-22"
+        },
+        "relations": [
+          {
+            "type": "allmusic",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "resource": "https://www.allmusic.com/artist/mn0000924232",
+              "id": "294c06c9-6f6c-4ab9-8c38-f360064aeb81"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "attribute-values": {},
+            "end": null
+          },
+          {
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "target-credit": "",
+            "url": {
+              "resource": "https://sunramusic.bandcamp.com/",
+              "id": "a0977279-6028-485e-9569-e02e7fdcc7ac"
+            },
+            "type": "bandcamp",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false
+          },
+          {
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": "2020-11-19",
+            "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+            "attribute-values": {},
+            "ended": true,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "BBC Music page",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.bbc.co.uk/music/artists/c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
+              "id": "1f1b95d6-3b75-404b-81d5-56508380f211"
+            }
+          },
+          {
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+            "attribute-values": {},
+            "end": null,
+            "type": "biography",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "id": "1194a3eb-8850-461d-bbfb-70de08466f2d",
+              "resource": "https://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=2682"
+            },
+            "target-credit": ""
+          },
+          {
+            "end": null,
+            "attribute-values": {},
+            "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "71f601f7-d159-4c67-92f3-ed501cebf7c3",
+              "resource": "http://www.sunraarkestra.com/sunradisco/"
+            },
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "discography page"
+          },
+          {
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attribute-values": {},
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "discogs",
+            "target-credit": "",
+            "url": {
+              "id": "d187fec5-3b40-4fb2-813f-7abedb4e04fc",
+              "resource": "https://www.discogs.com/artist/35328"
+            }
+          },
+          {
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "target-credit": "",
+            "url": {
+              "resource": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX",
+              "id": "6ee11edb-a8aa-4d6a-baef-c10c4760b236"
+            },
+            "type": "free streaming",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.deezer.com/artist/9317",
+              "id": "5fa49ca7-b3d7-4d77-b36c-fbebcbb9e86b"
+            },
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "free streaming",
+            "target-type": "url",
+            "end": null,
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": []
+          },
+          {
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "url": {
+              "resource": "https://www.imdb.com/name/nm0704612/",
+              "id": "cfd47430-43fa-4d4a-855d-ce2b16dd579a"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "type": "IMDb",
+            "ended": false,
+            "begin": null,
+            "source-credit": ""
+          },
+          {
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "last.fm",
+            "target-type": "url",
+            "url": {
+              "resource": "https://www.last.fm/music/Sun%20Ra",
+              "id": "71220c45-75b7-4272-ac6a-5c91cda3efad"
+            },
+            "target-credit": "",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f"
+          },
+          {
+            "target-type": "url",
+            "type": "myspace",
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "url": {
+              "id": "2f506a5d-025a-480e-97d3-decdd18260d0",
+              "resource": "https://myspace.com/sunrasaturn"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+            "attribute-values": {},
+            "end": null
+          },
+          {
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "attribute-values": {},
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "official homepage",
+            "target-credit": "",
+            "url": {
+              "resource": "http://www.sunra.com/",
+              "id": "814b79a3-5ecb-4af8-813f-f1aabfd95a3f"
+            }
+          },
+          {
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "resource": "http://id.loc.gov/authorities/names/n88607003",
+              "id": "84647b36-d942-43bd-b260-a99991cf8415"
+            },
+            "target-credit": "",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "other databases",
+            "target-type": "url"
+          },
+          {
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "other databases",
+            "target-credit": "",
+            "url": {
+              "id": "ac356bdd-37ed-4211-b4c6-9f5b21ae99d0",
+              "resource": "https://catalogue.bnf.fr/ark:/12148/cb139001848"
+            },
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+          },
+          {
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "target-credit": "",
+            "url": {
+              "resource": "https://d-nb.info/gnd/119226200",
+              "id": "9adee73f-f3e9-4cc1-ba4f-695594b11e04"
+            },
+            "type": "other databases",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false
+          },
+          {
+            "target-type": "url",
+            "type": "other databases",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "7a8ff05d-30df-4456-bf8c-7bbaeab15d19",
+              "resource": "http://snaccooperative.org/ark:/99166/w6kd58mh"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "end": null
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "a8d4d598-9606-4f08-9d66-cf72bf187be5",
+              "resource": "https://nla.gov.au/nla.party-930471"
+            },
+            "type": "other databases",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward"
+          },
+          {
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "target-credit": "",
+            "url": {
+              "resource": "https://rateyourmusic.com/artist/sun_ra",
+              "id": "68609bba-83f1-4955-842f-302853808197"
+            },
+            "type": "other databases",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false
+          },
+          {
+            "url": {
+              "resource": "https://www.worldcat.org/identities/lccn-n88607003",
+              "id": "cf42f05d-835d-42b2-ba5c-a9fe6cad1ab7"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "type": "other databases",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {}
+          },
+          {
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "end": null,
+            "type": "purchase for download",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "d5ccd843-0971-4831-8992-b108b42ba80e",
+              "resource": "https://itunes.apple.com/us/artist/id72824"
+            }
+          },
+          {
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "purchase for download",
+            "target-type": "url",
+            "target-credit": "",
+            "url": {
+              "id": "44e88e83-b43c-4555-9a0e-b9b09fe2774a",
+              "resource": "https://open.qobuz.com/artist/20169"
+            }
+          },
+          {
+            "end": null,
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "url": {
+              "resource": "https://www.facebook.com/SunRaMusic",
+              "id": "976d3b2d-0efe-414e-a774-8f2307e3156e"
+            },
+            "target-credit": "",
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "social network"
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.songkick.com/artists/538211",
+              "id": "ba3eacda-6998-4023-8a8d-7a2598002646"
+            },
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "songkick",
+            "target-type": "url",
+            "end": null,
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": []
+          },
+          {
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "attribute-values": {},
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "soundcloud",
+            "target-credit": "",
+            "url": {
+              "id": "5dec5aaa-2fbb-4984-8036-70154077cdd8",
+              "resource": "https://soundcloud.com/heunaevivalostrautrockrchestra"
+            }
+          },
+          {
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "target-credit": "",
+            "url": {
+              "id": "3d86c842-1819-41e8-a1fe-f0910109678b",
+              "resource": "https://music.apple.com/gb/artist/72824"
+            },
+            "target-type": "url",
+            "type": "streaming",
+            "ended": false,
+            "source-credit": "",
+            "begin": null
+          },
+          {
+            "target-type": "url",
+            "type": "streaming",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "44e88e83-b43c-4555-9a0e-b9b09fe2774a",
+              "resource": "https://open.qobuz.com/artist/20169"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "end": null
+          },
+          {
+            "end": null,
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "url": {
+              "id": "d880df42-5743-4de0-9986-dce2421cecfa",
+              "resource": "https://tidal.com/artist/3608291"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "streaming",
+            "target-type": "url"
+          },
+          {
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "vgmdb",
+            "target-type": "url",
+            "target-credit": "",
+            "url": {
+              "resource": "https://vgmdb.net/artist/19061",
+              "id": "3e0e212f-4795-47a0-9ee3-32c636294318"
+            },
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "0af15ab3-c615-46d6-b95b-a5fcd2a92ed9",
+            "attribute-values": {}
+          },
+          {
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "url",
+            "type": "VIAF",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "url": {
+              "id": "3cbeabf3-bc2e-4221-9ca9-db72722af758",
+              "resource": "http://viaf.org/viaf/22328921"
+            },
+            "target-credit": ""
+          },
+          {
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "url",
+            "type": "wikidata",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.wikidata.org/wiki/Q354508",
+              "id": "6714927d-7b4c-47cb-9774-36ac3f20784b"
+            }
+          },
+          {
+            "attribute-values": {},
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "target-credit": "",
+            "url": {
+              "id": "66671330-40b1-464b-9bf2-1b9b6b11026b",
+              "resource": "https://www.youtube.com/channel/UCJ6vuDnto1QvRr2TFHldDMw"
+            },
+            "target-type": "url",
+            "type": "youtube",
+            "ended": false,
+            "source-credit": "",
+            "begin": null
+          }
+        ],
+        "begin-area": {
+          "name": "Birmingham",
+          "type": null,
+          "sort-name": "Birmingham",
+          "id": "8995a377-da74-40b6-ab76-b1f2d6eed01f",
+          "disambiguation": "",
+          "type-id": null
+        },
+        "end-area": {
+          "name": "Birmingham",
+          "id": "8995a377-da74-40b6-ab76-b1f2d6eed01f",
+          "type": null,
+          "disambiguation": "",
+          "sort-name": "Birmingham",
+          "type-id": null
+        },
+        "country": "US",
+        "disambiguation": "",
+        "ipis": [
+          "00047903862",
+          "00053257588",
+          "00053257686",
+          "00227787728"
+        ],
+        "name": "Sun Ra"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Seashell Radio\\\"\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "created": "2026-11-10T21:22:07.683Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"The Cabriolets\\\"\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "created": "2026-11-10T21:22:24.096Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "34b606b2-ccee-46e1-8b39-3de61aa2e09d",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "The Cabriolets",
+            "sort-name": "Cabriolets, The",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/34b606b2-ccee-46e1-8b39-3de61aa2e09d?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "gender": null,
+        "area": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "isnis": [],
+        "sort-name": "Cabriolets, The",
+        "id": "34b606b2-ccee-46e1-8b39-3de61aa2e09d",
+        "life-span": {
+          "end": null,
+          "ended": false,
+          "begin": null
+        },
+        "relations": [
+          {
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "discogs",
+            "url": {
+              "resource": "https://www.discogs.com/artist/1444117",
+              "id": "8cc735d8-8813-4e41-ad88-ab399e688446"
+            },
+            "target-credit": "",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4"
+          }
+        ],
+        "begin-area": null,
+        "end-area": null,
+        "gender-id": null,
+        "type": "Group",
+        "ipis": [],
+        "name": "The Cabriolets",
+        "disambiguation": "",
+        "country": null
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"NOURISHED BY TIME\\\"\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "created": "2026-11-10T21:22:25.386Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "6420dd6b-8232-42db-9cb9-90bec8f40e91",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Nourished by Time",
+            "sort-name": "Nourished by Time",
+            "gender": "male",
+            "area": {
+              "id": "2fb5445d-3987-49fe-957a-f730a7acc4a2",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Baltimore",
+              "sort-name": "Baltimore",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Baltimore R&B artist Marcus Brown",
+            "isnis": [
+              "000000051297538X"
+            ],
+            "life-span": {
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Brown, Marcus",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Marcus Brown",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 2,
+                "name": "alternative r&b"
+              },
+              {
+                "count": 1,
+                "name": "bedroom pop"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/6420dd6b-8232-42db-9cb9-90bec8f40e91?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "life-span": {
+          "ended": false,
+          "begin": null,
+          "end": null
+        },
+        "disambiguation": "Baltimore R&B artist Marcus Brown",
+        "country": "US",
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "begin-area": null,
+        "id": "6420dd6b-8232-42db-9cb9-90bec8f40e91",
+        "end-area": null,
+        "ipis": [],
+        "area": {
+          "id": "2fb5445d-3987-49fe-957a-f730a7acc4a2",
+          "type-id": null,
+          "type": null,
+          "sort-name": "Baltimore",
+          "disambiguation": "",
+          "name": "Baltimore"
+        },
+        "name": "Nourished by Time",
+        "gender": "Male",
+        "sort-name": "Nourished by Time",
+        "relations": [
+          {
+            "url": {
+              "id": "42125e6d-031d-41cc-a651-0f1ced75a543",
+              "resource": "https://www.allmusic.com/artist/mn0004415277"
+            },
+            "direction": "forward",
+            "type": "allmusic",
+            "attribute-values": {},
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {}
+          },
+          {
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "resource": "https://nourishedbytime.bandcamp.com/",
+              "id": "531d9f22-49f6-40bd-bdce-a1a7dd2b7a4a"
+            },
+            "type": "bandcamp",
+            "attribute-values": {},
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "direction": "forward",
+            "url": {
+              "id": "cf73a161-19dd-4090-abd5-65539d0fcfbc",
+              "resource": "https://www.discogs.com/artist/11654819"
+            },
+            "attribute-values": {},
+            "type": "discogs",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {}
+          },
+          {
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "resource": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g",
+              "id": "920a582c-e4ce-41e6-98b0-943312c6f59d"
+            },
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "type": "free streaming",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "target-credit": "",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "type": "free streaming",
+            "direction": "forward",
+            "url": {
+              "id": "5121df6c-6e0a-48b6-a44d-d9e898cb99be",
+              "resource": "https://www.deezer.com/artist/77120262"
+            },
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "attribute-values": {},
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "direction": "forward",
+            "url": {
+              "resource": "https://twitter.com/nourishedbytime",
+              "id": "92218d27-c479-483f-91f9-17ebb7ff0a96"
+            }
+          },
+          {
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "type": "social network",
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.instagram.com/nourishedbytime_/",
+              "id": "063262a8-d151-45ce-b431-f4158428a47b"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "attribute-values": {},
+            "type": "streaming",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "url": {
+              "id": "ca35a244-82e1-491e-84b5-c85162868256",
+              "resource": "https://music.apple.com/us/artist/1484747428"
+            },
+            "direction": "forward",
+            "target-credit": ""
+          },
+          {
+            "type": "streaming",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "direction": "forward",
+            "url": {
+              "id": "83821e16-157f-451b-8cbd-b63cde5c3c42",
+              "resource": "https://tidal.com/artist/17188995"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-values": {},
+            "type": "wikidata",
+            "url": {
+              "id": "d9b3beca-a9dc-452f-8360-3bece44df822",
+              "resource": "https://www.wikidata.org/wiki/Q135509052"
+            },
+            "direction": "forward",
+            "target-credit": ""
+          },
+          {
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "attribute-values": {},
+            "type": "wikipedia",
+            "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb",
+            "url": {
+              "resource": "https://en.wikipedia.org/wiki/Nourished_by_Time",
+              "id": "b03e15dd-4e41-4bf7-b497-2afbb6745d54"
+            },
+            "direction": "forward"
+          }
+        ],
+        "isnis": [
+          "000000051297538X"
+        ]
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Sound Lounge Open Jam\\\"\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "created": "2026-11-10T21:22:27.577Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"VOID - Presented by Pushin Promotions\\\"\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "created": "2026-11-10T21:22:28.656Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Deathpact DR. USH\\u016aU\\\"\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "created": "2026-11-10T21:22:29.758Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Valentino Khan FENIK\\\"\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "created": "2026-11-10T21:22:36.006Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Roni Kaspi\\\"\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "created": "2026-11-10T21:22:36.214Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "907bf2df-8f45-4913-8a51-e3cb84d8ea89",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Roni Kaspi",
+            "sort-name": "Kaspi, Roni",
+            "gender": "female",
+            "country": "IL",
+            "area": {
+              "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Israel",
+              "sort-name": "Israel",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Israel",
+              "sort-name": "Israel",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "drummer",
+            "life-span": {
+              "begin": "2000-07",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "כספי, רוני",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "רוני כספי",
+                "locale": "he",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 1,
+                "name": "jazz"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/907bf2df-8f45-4913-8a51-e3cb84d8ea89?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "sort-name": "Kaspi, Roni",
+        "relations": [
+          {
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "attribute-values": {},
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "url": {
+              "id": "5211b9fb-62b4-4470-81be-e3e2e75a3482",
+              "resource": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+            }
+          },
+          {
+            "direction": "forward",
+            "url": {
+              "id": "3ea46f4d-1448-4e4f-9ab4-c0d3b221c696",
+              "resource": "https://www.ronikaspi.com/"
+            },
+            "type": "official homepage",
+            "attribute-values": {},
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "type": "social network",
+            "url": {
+              "id": "262e3f07-7c89-4eeb-b412-d0a92a2b49f7",
+              "resource": "https://www.facebook.com/RONIPONIMUSIC"
+            },
+            "direction": "forward",
+            "target-credit": ""
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "type": "social network",
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.instagram.com/roniponi100/",
+              "id": "4d8da59b-fa7c-4ef4-92a9-6b66fa4491de"
+            },
+            "target-credit": ""
+          },
+          {
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.youtube.com/channel/UCX8WYTT1p_1ogmu82n81Zbw",
+              "id": "7ad7fb26-aa2a-4f0f-be5c-0bf50eb0d47a"
+            },
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "attribute-values": {},
+            "type": "youtube",
+            "attributes": [],
+            "begin": "2013-12-07",
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "source-credit": ""
+          }
+        ],
+        "isnis": [],
+        "gender": "Female",
+        "name": "Roni Kaspi",
+        "end-area": null,
+        "area": {
+          "sort-name": "Israel",
+          "name": "Israel",
+          "disambiguation": "",
+          "type": null,
+          "iso-3166-1-codes": [
+            "IL"
+          ],
+          "type-id": null,
+          "id": "03691455-bb46-37e3-91d2-cb064a35ffcc"
+        },
+        "ipis": [],
+        "id": "907bf2df-8f45-4913-8a51-e3cb84d8ea89",
+        "country": "IL",
+        "disambiguation": "drummer",
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "begin-area": {
+          "sort-name": "Israel",
+          "name": "Israel",
+          "disambiguation": "",
+          "type": null,
+          "iso-3166-1-codes": [
+            "IL"
+          ],
+          "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+          "type-id": null
+        },
+        "life-span": {
+          "begin": "2000-07",
+          "end": null,
+          "ended": false
+        },
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Dark Chisme\\\"\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "created": "2026-11-10T21:22:42.734Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "2df279da-29e0-42d8-9e1e-0e3fd722f3d3",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "name": "Dark Chisme",
+            "sort-name": "Dark Chisme",
+            "area": {
+              "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Seattle",
+              "sort-name": "Seattle",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Seattle Artist",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/2df279da-29e0-42d8-9e1e-0e3fd722f3d3?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-10T21:22:05.391212+00:00",
+      "data": {
+        "isnis": [],
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Dark Chisme",
+        "gender": null,
+        "ipis": [],
+        "country": "US",
+        "life-span": {
+          "end": null,
+          "begin": null,
+          "ended": false
+        },
+        "type": "Person",
+        "area": {
+          "type-id": null,
+          "name": "Seattle",
+          "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc",
+          "sort-name": "Seattle",
+          "disambiguation": "",
+          "type": null
+        },
+        "disambiguation": "Seattle Artist",
+        "begin-area": null,
+        "gender-id": null,
+        "name": "Dark Chisme",
+        "id": "2df279da-29e0-42d8-9e1e-0e3fd722f3d3",
+        "relations": [
+          {
+            "attributes": [],
+            "direction": "forward",
+            "ended": false,
+            "target-credit": "",
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "type": "bandcamp",
+            "begin": null,
+            "url": {
+              "id": "a43207d0-9b8b-45f5-9d28-ccb61bd70910",
+              "resource": "https://darkchisme.bandcamp.com/"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-values": {}
+          },
+          {
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "id": "194bb4a5-3875-449b-ad24-2d01ef8440f3",
+              "resource": "https://www.deezer.com/artist/230028715"
+            },
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "end": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-credit": "",
+            "direction": "forward",
+            "attributes": [],
+            "begin": null,
+            "type": "free streaming"
+          }
+        ],
+        "end-area": null
+      }
     }
   }
 }
