@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-11T03:15:58-08:00",
+ "generated_at": "2026-11-11T14:05:11-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 10, 2026"
+  "updated": "November 11, 2026"
  },
  "shows": [
   {
@@ -140,13 +140,18 @@
    "venue": "The Magnolia",
    "city": "El Cajon",
    "performers": [
-    "Adam Ant"
+    "Adam Ant",
+    "Sacred Skin"
    ],
    "artists": [
     {
      "name": "Adam Ant",
      "mbid": "e188a520-9cb7-4f73-a3d7-2f70c6538e92",
      "official_url": "https://www.adam-ant.net/contents.html"
+    },
+    {
+     "name": "Sacred Skin",
+     "mbid": "bfec6c34-9b1c-4ada-94fc-4295fa5ff53c"
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
@@ -1071,22 +1076,6 @@
     }
    ],
    "venue_url": "https://www.observatorysd.com"
-  },
-  {
-   "id": "the-sound:2026-11-14:dj-meredith-marks",
-   "date": "2026-11-14",
-   "venue": "The Sound",
-   "city": "Del Mar",
-   "performers": [
-    "DJ Meredith Marks"
-   ],
-   "artists": [
-    {
-     "name": "DJ Meredith Marks",
-     "mbid": "6c8d7f40-6dd1-4c6c-b993-d9ad49d62c85"
-    }
-   ],
-   "venue_url": "https://thesoundsd.com/"
   },
   {
    "id": "the-tower-bar:2026-11-14:signal-for-pilot",
@@ -2716,6 +2705,26 @@
    "venue_url": "https://sodabarmusic.com/"
   },
   {
+   "id": "3oz-dive-club:2026-11-25:3oz-selekts-halo-varga",
+   "date": "2026-11-25",
+   "venue": "3OZ Dive Club",
+   "city": "San Diego",
+   "performers": [
+    "3oz Selekts-Halo Varga",
+    "Dylan Payne"
+   ],
+   "artists": [
+    {
+     "name": "3oz Selekts-Halo Varga"
+    },
+    {
+     "name": "Dylan Payne",
+     "mbid": "bece24bf-b967-4a54-a43a-ff428ab77152"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2026-11-25:queen-nation",
    "date": "2026-11-25",
    "venue": "Belly Up Tavern",
@@ -3771,13 +3780,18 @@
    "venue": "Music Box",
    "city": "San Diego",
    "performers": [
-    "Ripe"
+    "Ripe",
+    "Porcelain"
    ],
    "artists": [
     {
      "name": "Ripe",
      "mbid": "6ce952eb-0f9d-4185-92a1-9101480212fe",
      "official_url": "http://www.ripetheband.com/"
+    },
+    {
+     "name": "Porcelain",
+     "mbid": "259380ed-4705-495d-9484-90ff43f8a162"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -4863,19 +4877,19 @@
    "venue_url": "https://sodabarmusic.com/"
   },
   {
-   "id": "the-banshee:2026-12-10:burbank-police-department",
+   "id": "the-banshee:2026-12-10:the-burbank-police-department",
    "date": "2026-12-10",
    "venue": "The Banshee",
    "city": "San Diego",
    "performers": [
-    "Burbank Police Department",
+    "The Burbank Police Department",
     "Angstentine",
     "Werita",
     "Zinn Trevelyn"
    ],
    "artists": [
     {
-     "name": "Burbank Police Department"
+     "name": "The Burbank Police Department"
     },
     {
      "name": "Angstentine"
@@ -4941,6 +4955,22 @@
     },
     {
      "name": "Mexi.Surf"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "3oz-dive-club:2026-12-11:sam-binga",
+   "date": "2026-12-11",
+   "venue": "3OZ Dive Club",
+   "city": "San Diego",
+   "performers": [
+    "Sam Binga"
+   ],
+   "artists": [
+    {
+     "name": "Sam Binga",
+     "mbid": "bfc15bf3-2904-4d2c-990b-5e2c350654b0"
     }
    ],
    "venue_url": null
@@ -6527,6 +6557,21 @@
    "venue_url": "https://sodabarmusic.com/"
   },
   {
+   "id": "the-holding-company:2026-12-31:emo-vs-pop-punk-myspace-music-video-nye-party",
+   "date": "2026-12-31",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "Emo vs. Pop-Punk: Myspace Music Video NYE Party"
+   ],
+   "artists": [
+    {
+     "name": "Emo vs. Pop-Punk: Myspace Music Video NYE Party"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "the-sound:2026-12-31:tribal-seeds",
    "date": "2026-12-31",
    "venue": "The Sound",
@@ -6663,6 +6708,41 @@
     }
    ],
    "venue_url": "https://www.observatorysd.com"
+  },
+  {
+   "id": "the-holding-company:2027-01-03:san-diego-metal-family-presents-new-years-metal-fest",
+   "date": "2027-01-03",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "San Diego Metal Family Presents New Years Metal Fest"
+   ],
+   "artists": [
+    {
+     "name": "San Diego Metal Family Presents New Years Metal Fest"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "music-box:2027-01-06:seapoodle",
+   "date": "2027-01-06",
+   "venue": "Music Box",
+   "city": "San Diego",
+   "performers": [
+    "Seapoodle",
+    "Pocket Change"
+   ],
+   "artists": [
+    {
+     "name": "Seapoodle"
+    },
+    {
+     "name": "Pocket Change",
+     "mbid": "6ffd653b-621a-4c70-b8e5-725b222a751e"
+    }
+   ],
+   "venue_url": "https://www.musicboxsd.com/"
   },
   {
    "id": "the-banshee:2027-01-06:perennial",
@@ -7011,6 +7091,23 @@
    "venue_url": null
   },
   {
+   "id": "belly-up-tavern:2027-01-14:the-mountain-goats",
+   "date": "2027-01-14",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "The Mountain Goats"
+   ],
+   "artists": [
+    {
+     "name": "The Mountain Goats",
+     "mbid": "9639cd52-c351-4a17-9797-58880e95a7ef",
+     "official_url": "http://www.mountain-goats.com/"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
+  },
+  {
    "id": "soda-bar:2027-01-14:taper-s-choice",
    "date": "2027-01-14",
    "venue": "Soda Bar",
@@ -7058,6 +7155,25 @@
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-holding-company:2027-01-15:tash-from-the-alkaholics",
+   "date": "2027-01-15",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "Tash (from the Alkaholics)",
+    "What\u2019s Golden"
+   ],
+   "artists": [
+    {
+     "name": "Tash (from the Alkaholics)"
+    },
+    {
+     "name": "What\u2019s Golden"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "the-observatory-north-park:2027-01-15:home-grown",
@@ -7375,6 +7491,22 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
+   "id": "nova-sd:2027-01-22:cyclops",
+   "date": "2027-01-22",
+   "venue": "Nova SD",
+   "city": "San Diego",
+   "performers": [
+    "Cyclops"
+   ],
+   "artists": [
+    {
+     "name": "Cyclops",
+     "mbid": "f6c1e262-ceb9-4115-a95e-3b06e8df28e2"
+    }
+   ],
+   "venue_url": "https://novasandiego.com/"
+  },
+  {
    "id": "pechanga-resort-casino:2027-01-22:christian-nodal",
    "date": "2027-01-22",
    "venue": "Pechanga Resort & Casino",
@@ -7444,6 +7576,22 @@
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
+   "id": "nova-sd:2027-01-23:rayburger",
+   "date": "2027-01-23",
+   "venue": "Nova SD",
+   "city": "San Diego",
+   "performers": [
+    "RayBurger"
+   ],
+   "artists": [
+    {
+     "name": "RayBurger",
+     "mbid": "6f3d9c0a-768d-42e0-b2be-28ab678e91b6"
+    }
+   ],
+   "venue_url": "https://novasandiego.com/"
   },
   {
    "id": "pechanga-resort-casino:2027-01-23:jang-yoon-jeong",
@@ -7949,6 +8097,23 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
+   "id": "belly-up-tavern:2027-02-01:vincen-garc-a",
+   "date": "2027-02-01",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "Vincen Garc\u00eda"
+   ],
+   "artists": [
+    {
+     "name": "Vincen Garc\u00eda",
+     "mbid": "047368ad-dc41-4f2c-a2ef-a898374f4af8",
+     "official_url": "https://www.vincengarcia.com/"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
+  },
+  {
    "id": "casbah:2027-02-01:new-date-previous-tickets-will-be-honored-city-of-the-sun",
    "date": "2027-02-01",
    "venue": "Casbah",
@@ -8056,13 +8221,17 @@
    "venue": "Belly Up Tavern",
    "city": "Solana Beach",
    "performers": [
-    "Super Diamond"
+    "Super Diamond",
+    "DJ Organic Hispanic"
    ],
    "artists": [
     {
      "name": "Super Diamond",
      "mbid": "a616f35a-bbcc-42e4-9b50-0c95252eee2b",
      "official_url": "http://www.superdiamond.com/"
+    },
+    {
+     "name": "DJ Organic Hispanic"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -8114,23 +8283,6 @@
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
-  },
-  {
-   "id": "belly-up-tavern:2027-02-06:super-diamond",
-   "date": "2027-02-06",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Super Diamond"
-   ],
-   "artists": [
-    {
-     "name": "Super Diamond",
-     "mbid": "a616f35a-bbcc-42e4-9b50-0c95252eee2b",
-     "official_url": "http://www.superdiamond.com/"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
   },
   {
    "id": "nova-sd:2027-02-06:habstrakt",
@@ -8490,6 +8642,21 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
+   "id": "nova-sd:2027-02-12:animal-control",
+   "date": "2027-02-12",
+   "venue": "Nova SD",
+   "city": "San Diego",
+   "performers": [
+    "Animal Control"
+   ],
+   "artists": [
+    {
+     "name": "Animal Control"
+    }
+   ],
+   "venue_url": "https://novasandiego.com/"
+  },
+  {
    "id": "the-holding-company:2027-02-12:the-transit-war",
    "date": "2027-02-12",
    "venue": "The Holding Company",
@@ -8549,6 +8716,27 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "soma:2027-02-13:jackie-evans",
+   "date": "2027-02-13",
+   "venue": "SOMA",
+   "city": "San Diego",
+   "performers": [
+    "Jackie Evans",
+    "Marie Dresselhuis"
+   ],
+   "artists": [
+    {
+     "name": "Jackie Evans",
+     "mbid": "b9f54984-e05a-4882-91af-11f0da3f88da"
+    },
+    {
+     "name": "Marie Dresselhuis",
+     "mbid": "1cbd740f-ffea-4b6d-866a-2a291f5ad9ce"
+    }
+   ],
+   "venue_url": "https://www.somasandiego.com/"
   },
   {
    "id": "belly-up-tavern:2027-02-16:richard-thompson-band",
@@ -8840,15 +9028,32 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
-   "id": "house-of-blues:2027-02-23:good-boy-daisy",
+   "id": "house-of-blues:2027-02-23:capstan",
    "date": "2027-02-23",
    "venue": "House of Blues",
    "city": "San Diego",
    "performers": [
+    "Capstan",
+    "Fire From the Gods",
+    "Midwinter",
     "Good Boy Daisy",
     "Lake Drive"
    ],
    "artists": [
+    {
+     "name": "Capstan",
+     "mbid": "f9abcdf4-73b0-4d3b-b858-d7c42ebf89f4"
+    },
+    {
+     "name": "Fire From the Gods",
+     "mbid": "6a366a9c-6e64-4a0f-939a-7118a699fd6e",
+     "official_url": "https://www.firefromthegods.com/"
+    },
+    {
+     "name": "Midwinter",
+     "mbid": "55b5c06d-a787-4aeb-805e-042bdb871379",
+     "official_url": "https://www.themidwinterband.com/"
+    },
     {
      "name": "Good Boy Daisy",
      "mbid": "bd19d928-fdab-4c46-b97c-9df9f5a2dde6",
@@ -8911,6 +9116,27 @@
    "venue_url": "https://www.casbahmusic.com/"
   },
   {
+   "id": "house-of-blues:2027-02-24:bears-in-trees",
+   "date": "2027-02-24",
+   "venue": "House of Blues",
+   "city": "San Diego",
+   "performers": [
+    "Bears In Trees",
+    "Kiss the Scientist"
+   ],
+   "artists": [
+    {
+     "name": "Bears In Trees",
+     "mbid": "c9dc6427-4aba-4af0-87b0-c87bd436aaa4"
+    },
+    {
+     "name": "Kiss the Scientist",
+     "mbid": "e2ec2648-8e56-4713-95b3-36cf3ee5c398"
+    }
+   ],
+   "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
    "id": "belly-up-tavern:2027-02-25:paco-versailles",
    "date": "2027-02-25",
    "venue": "Belly Up Tavern",
@@ -8968,6 +9194,23 @@
     }
    ],
    "venue_url": null
+  },
+  {
+   "id": "belly-up-tavern:2027-02-26:the-brothers-comatose",
+   "date": "2027-02-26",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "The Brothers Comatose"
+   ],
+   "artists": [
+    {
+     "name": "The Brothers Comatose",
+     "mbid": "99e4dda9-f5fb-4949-b5c5-3e6a4bdb1268",
+     "official_url": "http://www.thebrotherscomatose.com/"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
   },
   {
    "id": "house-of-blues:2027-02-26:emily-ann-roberts",
@@ -9128,6 +9371,23 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
+   "id": "the-sound:2027-02-27:trampled-by-turtles",
+   "date": "2027-02-27",
+   "venue": "The Sound",
+   "city": "Del Mar",
+   "performers": [
+    "Trampled By Turtles"
+   ],
+   "artists": [
+    {
+     "name": "Trampled By Turtles",
+     "mbid": "c6a5a49b-9885-42e6-9fb5-ccaaec05f753",
+     "official_url": "http://trampledbyturtles.com/"
+    }
+   ],
+   "venue_url": "https://thesoundsd.com/"
+  },
+  {
    "id": "belly-up-tavern:2027-02-28:mike-love-solo",
    "date": "2027-02-28",
    "venue": "Belly Up Tavern",
@@ -9174,6 +9434,23 @@
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
+   "id": "soda-bar:2027-03-01:ulrika-spacek",
+   "date": "2027-03-01",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Ulrika Spacek"
+   ],
+   "artists": [
+    {
+     "name": "Ulrika Spacek",
+     "mbid": "b4e8e5f4-be91-473f-af73-de332ecd8f20",
+     "official_url": "https://www.ulrikaspacek.com/"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-sound:2027-03-01:sylvan-esso",
@@ -9527,6 +9804,29 @@
     }
    ],
    "venue_url": "https://www.observatorysd.com"
+  },
+  {
+   "id": "the-sound:2027-03-05:grace-potter",
+   "date": "2027-03-05",
+   "venue": "The Sound",
+   "city": "Del Mar",
+   "performers": [
+    "Grace Potter",
+    "Langhorne Slim"
+   ],
+   "artists": [
+    {
+     "name": "Grace Potter",
+     "mbid": "b1103b87-3b91-4ec5-9d7b-15c2d1e486af",
+     "official_url": "http://www.gracepotter.com/"
+    },
+    {
+     "name": "Langhorne Slim",
+     "mbid": "0bc5259b-bf08-40ad-9f6a-20462f652e83",
+     "official_url": "http://www.langhorneslim.com/"
+    }
+   ],
+   "venue_url": "https://thesoundsd.com/"
   },
   {
    "id": "belly-up-tavern:2027-03-06:49-winchester",
@@ -10070,13 +10370,19 @@
    "venue": "The Observatory North Park",
    "city": "San Diego",
    "performers": [
-    "Twin Temple"
+    "Twin Temple",
+    "The Velveteers"
    ],
    "artists": [
     {
      "name": "Twin Temple",
      "mbid": "6d399877-9629-4877-9c0d-14df79b11ea5",
      "official_url": "https://www.twintemple.com/"
+    },
+    {
+     "name": "The Velveteers",
+     "mbid": "c602c091-19d7-4f3a-82f3-636d318c5445",
+     "official_url": "https://thevelveteers.com/"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -10213,6 +10519,28 @@
     }
    ],
    "venue_url": "https://quartyardsd.com/"
+  },
+  {
+   "id": "soda-bar:2027-03-24:wild-pink",
+   "date": "2027-03-24",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Wild Pink",
+    "Truth Club"
+   ],
+   "artists": [
+    {
+     "name": "Wild Pink",
+     "mbid": "94fdf751-0644-4b78-9e72-dbdce539b5b7",
+     "official_url": "https://www.wildpinkmusic.com/"
+    },
+    {
+     "name": "Truth Club",
+     "mbid": "889d8123-e58c-4753-994e-acd5fb7a6a0d"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "casbah:2027-03-25:is-doomed-hudson-freeman",
@@ -10352,6 +10680,27 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "belly-up-tavern:2027-03-28:the-paladins",
+   "date": "2027-03-28",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "The Paladins",
+    "The 44's with special guest Kid Ramos"
+   ],
+   "artists": [
+    {
+     "name": "The Paladins",
+     "mbid": "6f442440-7c3a-4277-873f-a0c6cd92cedf",
+     "official_url": "http://www.rockabilly.net/paladins/"
+    },
+    {
+     "name": "The 44's with special guest Kid Ramos"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
+  },
+  {
    "id": "soma:2027-03-28:hans-williams",
    "date": "2027-03-28",
    "venue": "SOMA",
@@ -10384,6 +10733,22 @@
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
+  },
+  {
+   "id": "house-of-blues:2027-04-01:earth-to-eve",
+   "date": "2027-04-01",
+   "venue": "House of Blues",
+   "city": "San Diego",
+   "performers": [
+    "Earth To Eve"
+   ],
+   "artists": [
+    {
+     "name": "Earth To Eve",
+     "mbid": "65bdc52d-4ce7-4e65-b6cd-3aefb7b617c2"
+    }
+   ],
+   "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
    "id": "house-of-blues:2027-04-02:ricky-montgomery",
@@ -10573,6 +10938,23 @@
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
+   "id": "house-of-blues:2027-04-11:rocco",
+   "date": "2027-04-11",
+   "venue": "House of Blues",
+   "city": "San Diego",
+   "performers": [
+    "Rocco"
+   ],
+   "artists": [
+    {
+     "name": "Rocco",
+     "mbid": "ea25106f-3603-4b7e-8097-16e8288e5fc2",
+     "official_url": "http://www.dj-rocco.de/"
+    }
+   ],
+   "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
    "id": "soma:2027-04-11:ninth-key",
@@ -10816,6 +11198,23 @@
    "venue_url": "https://thesoundsd.com/"
   },
   {
+   "id": "belly-up-tavern:2027-04-25:conor-oberst",
+   "date": "2027-04-25",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "Conor Oberst"
+   ],
+   "artists": [
+    {
+     "name": "Conor Oberst",
+     "mbid": "0eee89dc-7d86-4a15-97be-011652c49288",
+     "official_url": "http://www.conoroberst.com/"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
+  },
+  {
    "id": "house-of-blues:2027-04-25:rec-hall",
    "date": "2027-04-25",
    "venue": "House of Blues",
@@ -10833,6 +11232,22 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
+   "id": "the-magnolia:2027-04-27:tony-hadley",
+   "date": "2027-04-27",
+   "venue": "The Magnolia",
+   "city": "El Cajon",
+   "performers": [
+    "Tony Hadley"
+   ],
+   "artists": [
+    {
+     "name": "Tony Hadley",
+     "mbid": "a3476db0-053e-4b26-a042-74977af6bd8c"
+    }
+   ],
+   "venue_url": "https://www.magnoliasd.com/"
+  },
+  {
    "id": "soma:2027-04-28:saint-levant",
    "date": "2027-04-28",
    "venue": "SOMA",
@@ -10848,6 +11263,23 @@
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
+  },
+  {
+   "id": "belly-up-tavern:2027-04-29:the-sergio-mendes-band",
+   "date": "2027-04-29",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "The Sergio Mendes Band"
+   ],
+   "artists": [
+    {
+     "name": "The Sergio Mendes Band",
+     "mbid": "bab0c429-c0b7-429f-af38-0beeb369e75c",
+     "official_url": "https://www.thesergiomendesband.com/"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
   },
   {
    "id": "the-sound:2027-04-29:slash",
@@ -11009,6 +11441,33 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "soda-bar:2027-05-05:hotel-mira",
+   "date": "2027-05-05",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Hotel Mira",
+    "Pretty Bitter",
+    "Lisa Heller"
+   ],
+   "artists": [
+    {
+     "name": "Hotel Mira",
+     "mbid": "f3235b39-4559-43bb-94f0-ac7dbadd2a28"
+    },
+    {
+     "name": "Pretty Bitter",
+     "mbid": "4bf387de-c305-4945-9883-fb46e8218bac"
+    },
+    {
+     "name": "Lisa Heller",
+     "mbid": "2bf10a7f-e958-4c56-b1ad-c13ca0cc53c7",
+     "official_url": "http://lisaheller.com/"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-sound:2027-05-05:silversun-pickups",
@@ -11211,6 +11670,23 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "music-box:2027-05-20:leo-middea",
+   "date": "2027-05-20",
+   "venue": "Music Box",
+   "city": "San Diego",
+   "performers": [
+    "Leo Middea"
+   ],
+   "artists": [
+    {
+     "name": "Leo Middea",
+     "mbid": "876ca1b6-4d0b-41e3-bd13-8de7af2f941e",
+     "official_url": "http://www.leomiddea.com.br/"
+    }
+   ],
+   "venue_url": "https://www.musicboxsd.com/"
   },
   {
    "id": "house-of-blues:2027-05-21:powerman-5000",
@@ -11497,6 +11973,23 @@
    "venue_url": null
   },
   {
+   "id": "soda-bar:2027-06-15:boogie-belgique",
+   "date": "2027-06-15",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Boogie Belgique"
+   ],
+   "artists": [
+    {
+     "name": "Boogie Belgique",
+     "mbid": "b72fe485-8ccd-4998-9777-215ed91bc771",
+     "official_url": "https://www.boogiebelgique.com/"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "queen-bee-s:2027-06-19:summer-nights",
    "date": "2027-06-19",
    "venue": "Queen Bee's",
@@ -11683,6 +12176,23 @@
     }
    ],
    "venue_url": null
+  },
+  {
+   "id": "the-rady-shell:2027-08-07:king-gizzard-and-the-lizard-wizard",
+   "date": "2027-08-07",
+   "venue": "The Rady Shell",
+   "city": "San Diego",
+   "performers": [
+    "King Gizzard and the Lizard Wizard"
+   ],
+   "artists": [
+    {
+     "name": "King Gizzard and the Lizard Wizard",
+     "mbid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7",
+     "official_url": "https://kinggizzardandthelizardwizard.com/"
+    }
+   ],
+   "venue_url": "https://theshell.org/"
   },
   {
    "id": "petco-park:2027-08-17:fall-out-boy",
