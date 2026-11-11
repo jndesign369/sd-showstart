@@ -1,143 +1,11 @@
 {
- "generated_at": "2026-11-10T13:22:05-08:00",
+ "generated_at": "2026-11-11T03:15:58-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
   "updated": "November 10, 2026"
  },
  "shows": [
-  {
-   "id": "casbah:2026-11-10:sun-room",
-   "date": "2026-11-10",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "Sun Room"
-   ],
-   "artists": [
-    {
-     "name": "Sun Room",
-     "mbid": "4ef0f37a-c8bd-43a1-a6b6-8e1218fd6d6c",
-     "official_url": "http://sunroomtheband.com/"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
-  },
-  {
-   "id": "humphreys-concerts-by-the-bay:2026-11-10:rodrigo-y-gabriela",
-   "date": "2026-11-10",
-   "venue": "Humphreys Concerts By the Bay",
-   "city": "San Diego",
-   "performers": [
-    "Rodrigo y Gabriela"
-   ],
-   "artists": [
-    {
-     "name": "Rodrigo y Gabriela",
-     "mbid": "a8ed28e3-5c08-4448-b889-867483e251f5",
-     "official_url": "https://www.rodgab.com/"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "soma:2026-11-10:underoath",
-   "date": "2026-11-10",
-   "venue": "SOMA",
-   "city": "San Diego",
-   "performers": [
-    "Underoath",
-    "August Burns Red",
-    "Atreyu"
-   ],
-   "artists": [
-    {
-     "name": "Underoath",
-     "mbid": "674a7e8c-9682-419a-8e05-2358e28b5359",
-     "official_url": "https://www.underoath777.com/"
-    },
-    {
-     "name": "August Burns Red",
-     "mbid": "5bac9b4f-2f1c-4d39-8d11-231d5b6650ce",
-     "official_url": "https://augustburnsred.com/"
-    },
-    {
-     "name": "Atreyu",
-     "mbid": "17e137fb-59e5-4fd7-af48-afc34995396c",
-     "official_url": "https://www.atreyuofficial.com/"
-    }
-   ],
-   "venue_url": "https://www.somasandiego.com/"
-  },
-  {
-   "id": "soda-bar:2026-11-10:voice-of-san-diego-brews-news-live-podcast",
-   "date": "2026-11-10",
-   "venue": "Soda Bar",
-   "city": "San Diego",
-   "performers": [
-    "Voice of San Diego: Brews & News Live Podcast"
-   ],
-   "artists": [
-    {
-     "name": "Voice of San Diego: Brews & News Live Podcast"
-    }
-   ],
-   "venue_url": "https://sodabarmusic.com/"
-  },
-  {
-   "id": "the-banshee:2026-11-10:hypno-toads",
-   "date": "2026-11-10",
-   "venue": "The Banshee",
-   "city": "San Diego",
-   "performers": [
-    "Hypno Toads",
-    "The Valves",
-    "Calabio Twins"
-   ],
-   "artists": [
-    {
-     "name": "Hypno Toads"
-    },
-    {
-     "name": "The Valves",
-     "mbid": "fc45de43-7517-4007-940d-f5b5b920cfab"
-    },
-    {
-     "name": "Calabio Twins"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "the-tower-bar:2026-11-10:morbikon",
-   "date": "2026-11-10",
-   "venue": "The Tower Bar",
-   "city": "San Diego",
-   "performers": [
-    "Morbikon",
-    "Antebellum",
-    "Druid",
-    "Infernal Tide Riders"
-   ],
-   "artists": [
-    {
-     "name": "Morbikon",
-     "mbid": "0416712f-6cd8-49e8-87bc-a2a0b49392f6"
-    },
-    {
-     "name": "Antebellum",
-     "mbid": "a7e06f0d-b0a1-4dfd-9d3a-73ab29599864"
-    },
-    {
-     "name": "Druid",
-     "mbid": "89c96969-f596-4d81-a676-04e24dab02d0"
-    },
-    {
-     "name": "Infernal Tide Riders"
-    }
-   ],
-   "venue_url": null
-  },
   {
    "id": "belly-up-tavern:2026-11-11:nick-shoulders",
    "date": "2026-11-11",
@@ -5845,7 +5713,8 @@
      "mbid": "2df279da-29e0-42d8-9e1e-0e3fd722f3d3"
     },
     {
-     "name": "Twin Ritual"
+     "name": "Twin Ritual",
+     "mbid": "766ed2a7-cb50-4ed4-bea2-81a9e22c237e"
     },
     {
      "name": "Disco Goth (DJ set)"
@@ -6926,7 +6795,8 @@
    ],
    "artists": [
     {
-     "name": "In The End"
+     "name": "In The End",
+     "mbid": "06fdc2b2-a621-47d2-9fdf-a247e04c72df"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -6941,7 +6811,9 @@
    ],
    "artists": [
     {
-     "name": "Who's Bad"
+     "name": "Who's Bad",
+     "mbid": "35b0e8d6-d8f3-49a0-8597-ad3680364b18",
+     "official_url": "http://www.whosbadmusic.com/"
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
@@ -7390,7 +7262,9 @@
    ],
    "artists": [
     {
-     "name": "Bebel Gilberto"
+     "name": "Bebel Gilberto",
+     "mbid": "8777a849-fb4e-4430-9918-170f619c5286",
+     "official_url": "http://bebelgilberto.com/"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -7979,7 +7853,9 @@
    ],
    "artists": [
     {
-     "name": "Trestles"
+     "name": "Trestles",
+     "mbid": "cd3808ec-5766-42c4-90eb-fa6b0c1a3c95",
+     "official_url": "https://www.trestlesband.com/"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -8589,7 +8465,9 @@
    ],
    "artists": [
     {
-     "name": "Air Supply"
+     "name": "Air Supply",
+     "mbid": "df9a1914-7fad-4900-bdd4-d7811712a2a8",
+     "official_url": "http://www.airsupplymusic.com/"
     }
    ],
    "venue_url": null
@@ -8604,7 +8482,9 @@
    ],
    "artists": [
     {
-     "name": "Railroad Earth"
+     "name": "Railroad Earth",
+     "mbid": "b2e2abfa-fb1e-4be0-b500-56c4584f41cd",
+     "official_url": "http://www.railroadearth.com/"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -9227,16 +9107,22 @@
    ],
    "artists": [
     {
-     "name": "Joyce Wrice"
+     "name": "Joyce Wrice",
+     "mbid": "04fa0b75-c2fa-4fdd-9f0e-8c62f221ba8f",
+     "official_url": "http://www.joycewrice.com/"
     },
     {
-     "name": "Girlfriend"
+     "name": "Girlfriend",
+     "mbid": "f8f653b9-11d6-4f6b-adc1-4bfd146e7b7d",
+     "official_url": "http://www.worlds-end-girlfriend.org/"
     },
     {
-     "name": "rjtheweirdo"
+     "name": "rjtheweirdo",
+     "mbid": "1a289163-f0ac-4a6e-a2d4-96f197bbc156"
     },
     {
-     "name": "Mixed Feelings"
+     "name": "Mixed Feelings",
+     "mbid": "56a81fe0-8402-462f-bf04-7710f1857a00"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -9674,10 +9560,13 @@
    ],
    "artists": [
     {
-     "name": "Moontricks"
+     "name": "Moontricks",
+     "mbid": "23fc6dff-c119-432e-b9e8-2f712a0bdd6d"
     },
     {
-     "name": "Will Evans"
+     "name": "Will Evans",
+     "mbid": "617696c0-178d-4d44-915d-b346e751d5b2",
+     "official_url": "https://www.willevans.com/"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -9729,7 +9618,8 @@
      "name": "Grieves Grieves Horrorshow"
     },
     {
-     "name": "Street Sweepers"
+     "name": "Street Sweepers",
+     "mbid": "27057538-3ca6-44bc-a875-4f2ab238a52d"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -9851,10 +9741,14 @@
    ],
    "artists": [
     {
-     "name": "Beach Bunny"
+     "name": "Beach Bunny",
+     "mbid": "bdb2e504-7372-4f5b-a6c7-d578021c53b5",
+     "official_url": "https://www.beachbunnymusic.com/"
     },
     {
-     "name": "Daisy Grenade"
+     "name": "Daisy Grenade",
+     "mbid": "2362c421-77e7-487a-9949-6b0642f60bd2",
+     "official_url": "https://www.daisygrenade.com/"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -9891,7 +9785,8 @@
    ],
    "artists": [
     {
-     "name": "veggi"
+     "name": "veggi",
+     "mbid": "922450bc-7268-4f2c-b9c9-eea10dea289c"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -10212,7 +10107,9 @@
    ],
    "artists": [
     {
-     "name": "Noah Rinker"
+     "name": "Noah Rinker",
+     "mbid": "ed61b679-e58e-4061-bc82-717f03fc3bd0",
+     "official_url": "https://www.noahrinker.com/"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -10294,7 +10191,8 @@
    ],
    "artists": [
     {
-     "name": "Oscar Lindsey"
+     "name": "Oscar Lindsey",
+     "mbid": "6198dafd-9515-49a5-925c-1cb056d92ae4"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -10664,10 +10562,14 @@
    ],
    "artists": [
     {
-     "name": "almost a.m."
+     "name": "almost a.m.",
+     "mbid": "bb02d517-3c0d-4f6f-8538-9888ad105070",
+     "official_url": "https://almost-am.com/"
     },
     {
-     "name": "moony"
+     "name": "moony",
+     "mbid": "d1548f19-4d62-4ab0-b5ec-14554e1b6fb1",
+     "official_url": "http://www.moony.it/"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -10716,7 +10618,9 @@
    ],
    "artists": [
     {
-     "name": "Earth Tongue"
+     "name": "Earth Tongue",
+     "mbid": "e8953f62-0a60-4450-8d2a-482281ec966e",
+     "official_url": "https://earthtongue.co.nz/"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -10834,7 +10738,8 @@
    ],
    "artists": [
     {
-     "name": "The Robert Cray Band"
+     "name": "The Robert Cray Band",
+     "mbid": "9adffe09-8bea-4f08-a409-923ecb3d029d"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -11395,10 +11300,13 @@
    ],
    "artists": [
     {
-     "name": "Whitney"
+     "name": "Whitney",
+     "mbid": "0307edfc-437c-4b48-8700-80680e66a228",
+     "official_url": "http://www.whitneyhouston.com/"
     },
     {
-     "name": "Tyler Ballgame"
+     "name": "Tyler Ballgame",
+     "mbid": "b354fdfa-5d8e-46ef-b76e-5bd1ed05a59c"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -11789,13 +11697,19 @@
    ],
    "artists": [
     {
-     "name": "Fall Out Boy"
+     "name": "Fall Out Boy",
+     "mbid": "516cef4d-0718-4007-9939-f9b38af3f784",
+     "official_url": "https://www.falloutboy.com/"
     },
     {
-     "name": "The Offspring"
+     "name": "The Offspring",
+     "mbid": "23a03e33-a603-404e-bcbf-2c00159d7067",
+     "official_url": "https://www.offspring.com/"
     },
     {
-     "name": "Good Charlotte"
+     "name": "Good Charlotte",
+     "mbid": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+     "official_url": "http://www.goodcharlotte.com/"
     },
     {
      "name": "The Story So Far",
