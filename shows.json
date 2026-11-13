@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-13T03:17:27-08:00",
+ "generated_at": "2026-11-13T13:28:13-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 11, 2026"
+  "updated": "November 13, 2026"
  },
  "shows": [
   {
@@ -85,33 +85,16 @@
    "venue_url": null
   },
   {
-   "id": "house-of-blues:2026-11-13:the-damned",
+   "id": "house-of-blues:2026-11-13:mad-tsai",
    "date": "2026-11-13",
    "venue": "House of Blues",
    "city": "San Diego",
    "performers": [
-    "The Damned",
-    "The Courettes",
     "Mad Tsai",
     "Piao",
     "Michael Cimino"
    ],
    "artists": [
-    {
-     "name": "The Damned",
-     "mbid": "77d21c13-846f-4f48-9546-873949eff6ae",
-     "official_url": "http://www.officialdamned.com/",
-     "listen_url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "The Courettes",
-     "mbid": "24a80193-f22f-44da-9feb-beabcad342c3",
-     "official_url": "https://www.thecourettes.com/",
-     "listen_url": "https://thecourettes.bandcamp.com/track/christmas-i-can-hardly-wait-5",
-     "listen_service": "Bandcamp",
-     "listen_title": "Christmas (I Can Hardly Wait)"
-    },
     {
      "name": "Mad Tsai",
      "mbid": "2dc905d6-e297-4e6a-bcdf-09d2c2ec119c",
@@ -647,19 +630,16 @@
    "venue_url": null
   },
   {
-   "id": "nova-sd:2026-11-14:audien",
+   "id": "nova-sd:2026-11-14:audien-awnaw-carter-miami",
    "date": "2026-11-14",
    "venue": "Nova SD",
    "city": "San Diego",
    "performers": [
-    "Audien"
+    "Audien Awnaw | Carter Miami"
    ],
    "artists": [
     {
-     "name": "Audien",
-     "mbid": "350eaa17-ff34-49f1-b29b-07eb399c5c29",
-     "listen_url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE",
-     "listen_service": "Spotify"
+     "name": "Audien Awnaw | Carter Miami"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -1287,6 +1267,34 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "lou-lou-s:2026-11-17:haley-heynderickx",
+   "date": "2026-11-17",
+   "venue": "Lou Lou's",
+   "city": "San Diego",
+   "performers": [
+    "HALEY HEYNDERICKX",
+    "GREG MENDEZ"
+   ],
+   "artists": [
+    {
+     "name": "HALEY HEYNDERICKX",
+     "mbid": "f0805df4-1541-48b1-8482-4c789f83cfcf",
+     "official_url": "https://www.haley-heynderickx.com/",
+     "listen_url": "https://haleyheynderickx.bandcamp.com/track/song-for-alicia",
+     "listen_service": "Bandcamp",
+     "listen_title": "Song for Alicia"
+    },
+    {
+     "name": "GREG MENDEZ",
+     "mbid": "0bc7da45-734e-47a3-95b9-6c61193d780c",
+     "listen_url": "https://gregmendez.bandcamp.com/track/i-wanna-feel-pretty",
+     "listen_service": "Bandcamp",
+     "listen_title": "I Wanna Feel Pretty"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "music-box:2026-11-17:john-craigie",
@@ -2863,6 +2871,21 @@
      "mbid": "f02cc6c6-d75a-4662-878d-ca0aeb68a4ed",
      "listen_url": "https://open.spotify.com/artist/0apyqSV6jJXL8QLFjOoiTe",
      "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "humphreys-backstage-live:2026-11-26:happy-thanksgiving-closed",
+   "date": "2026-11-26",
+   "venue": "Humphreys Backstage Live",
+   "city": "San Diego",
+   "performers": [
+    "Happy Thanksgiving - Closed"
+   ],
+   "artists": [
+    {
+     "name": "Happy Thanksgiving - Closed"
     }
    ],
    "venue_url": null
@@ -5825,12 +5848,20 @@
    "venue": "Viejas Arena",
    "city": "San Diego",
    "performers": [
-    "Tyla"
+    "Tyla",
+    "Jae Stephens"
    ],
    "artists": [
     {
      "name": "Tyla",
      "mbid": "2bf761c6-4bcf-4cfc-a388-8fcb2eea8cc8"
+    },
+    {
+     "name": "Jae Stephens",
+     "mbid": "265d1eaf-902d-447f-b060-a9d6b20543cf",
+     "official_url": "http://jaestephens.com/",
+     "listen_url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT",
+     "listen_service": "Spotify"
     }
    ],
    "venue_url": null
@@ -6081,6 +6112,28 @@
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "3oz-dive-club:2026-12-18:snooko",
+   "date": "2026-12-18",
+   "venue": "3OZ Dive Club",
+   "city": "San Diego",
+   "performers": [
+    "SNOOKO",
+    "w special guest DAVE ROSE"
+   ],
+   "artists": [
+    {
+     "name": "SNOOKO",
+     "mbid": "426a7224-ee4d-45cb-bb51-e13e80930d4f",
+     "listen_url": "https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "w special guest DAVE ROSE"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "belly-up-tavern:2026-12-18:gin-blossoms",
@@ -6581,6 +6634,29 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "casbah:2026-12-22:the-hemogoblins",
+   "date": "2026-12-22",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "The Hemogoblins",
+    "The Saint Nicks",
+    "Seatherny"
+   ],
+   "artists": [
+    {
+     "name": "The Hemogoblins"
+    },
+    {
+     "name": "The Saint Nicks"
+    },
+    {
+     "name": "Seatherny"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "music-box:2026-12-22:buckethead",
@@ -8624,6 +8700,25 @@
    "venue_url": null
   },
   {
+   "id": "nova-sd:2027-01-30:maddix",
+   "date": "2027-01-30",
+   "venue": "Nova SD",
+   "city": "San Diego",
+   "performers": [
+    "Maddix"
+   ],
+   "artists": [
+    {
+     "name": "Maddix",
+     "mbid": "0ae6eb0e-f5b4-48b0-98ab-2158ccd6f5c8",
+     "official_url": "https://maddixmusic.com/",
+     "listen_url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://novasandiego.com/"
+  },
+  {
    "id": "soda-bar:2027-01-30:trestles",
    "date": "2027-01-30",
    "venue": "Soda Bar",
@@ -9489,6 +9584,29 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "the-banshee:2027-02-17:john-davis-the-cicadas",
+   "date": "2027-02-17",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "John Davis & The Cicadas",
+    "Pall Jenkins"
+   ],
+   "artists": [
+    {
+     "name": "John Davis & The Cicadas"
+    },
+    {
+     "name": "Pall Jenkins",
+     "mbid": "2d77b6a5-5aa1-400d-b8b9-827cdcc2f75b",
+     "official_url": "http://www.palljenkins.com/",
+     "listen_url": "https://open.spotify.com/artist/1oMr9GLoChyERZxQWNJaGS",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "belly-up-tavern:2027-02-18:wade-bowen",
@@ -10827,6 +10945,29 @@
    "venue_url": "https://www.casbahmusic.com/"
   },
   {
+   "id": "soma:2027-03-07:codefendants",
+   "date": "2027-03-07",
+   "venue": "SOMA",
+   "city": "San Diego",
+   "performers": [
+    "Codefendants",
+    "Untitled"
+   ],
+   "artists": [
+    {
+     "name": "Codefendants",
+     "mbid": "a86d6e1f-e76b-4f25-8afa-38cfeb50e089",
+     "listen_url": "https://open.spotify.com/artist/6HBfXt98QpP7QVDPLHjHTe",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Untitled",
+     "mbid": "ad5bdcde-926a-4d25-836a-5079b32f6605"
+    }
+   ],
+   "venue_url": "https://www.somasandiego.com/"
+  },
+  {
    "id": "the-observatory-north-park:2027-03-07:as-i-lay-dying",
    "date": "2027-03-07",
    "venue": "The Observatory North Park",
@@ -11324,6 +11465,21 @@
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-holding-company:2027-03-19:punk-rock-rodeo-hotel-weekend-passes",
+   "date": "2027-03-19",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "Punk Rock Rodeo Hotel / Weekend Passes"
+   ],
+   "artists": [
+    {
+     "name": "Punk Rock Rodeo Hotel / Weekend Passes"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "the-observatory-north-park:2027-03-19:twin-temple",
@@ -12853,6 +13009,25 @@
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
+  },
+  {
+   "id": "casbah:2027-05-21:cg5",
+   "date": "2027-05-21",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "CG5"
+   ],
+   "artists": [
+    {
+     "name": "CG5",
+     "mbid": "65897260-a489-4b56-b311-7da1ff3293e1",
+     "official_url": "https://www.cg5.me/",
+     "listen_url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "house-of-blues:2027-05-21:powerman-5000",

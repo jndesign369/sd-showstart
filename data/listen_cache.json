@@ -3133,6 +3133,28 @@
         "release_url": "https://davidwilcox.bandcamp.com/album/the-way-i-tell-the-story"
       },
       "reason": null
+    },
+    "https://haleyheynderickx.bandcamp.com/": {
+      "checked_at": "2026-11-13T21:30:48.365877+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://haleyheynderickx.bandcamp.com/track/song-for-alicia",
+        "listen_service": "Bandcamp",
+        "listen_title": "Song for Alicia",
+        "release_url": "https://haleyheynderickx.bandcamp.com/album/what-of-our-nature"
+      },
+      "reason": null
+    },
+    "https://gregmendez.bandcamp.com/": {
+      "checked_at": "2026-11-13T21:30:48.365877+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://gregmendez.bandcamp.com/track/i-wanna-feel-pretty",
+        "listen_service": "Bandcamp",
+        "listen_title": "I Wanna Feel Pretty",
+        "release_url": "https://gregmendez.bandcamp.com/album/beauty-land"
+      },
+      "reason": null
     }
   }
 }
