@@ -41,12 +41,15 @@ jobs:
       - name: Link artist homepages
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
         run: python enrich.py --max-requests 400
+      - name: Choose cached Bandcamp songs or Spotify artist links
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
+        run: python listen.py
       - name: Save refreshed data
         if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add shows.json data/artist_cache.json
+          git add shows.json data/artist_cache.json data/listen_cache.json
           if ! git diff --cached --quiet; then
             git commit -m "Refresh ConcertsSD listings"
             git push origin HEAD:main

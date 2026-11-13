@@ -15,6 +15,7 @@ A text-only list of upcoming San Diego concerts: artists, dates, and venues.
 ```bash
 python collect.py     # fetch ConcertsSD (two requests, 10s apart) -> shows.json
 python enrich.py      # link artists via MusicBrainz (cached; few requests)
+python listen.py      # choose Bandcamp song links; Spotify artist fallback
 ```
 
 Run the tests first if you changed anything:
@@ -51,6 +52,28 @@ MusicBrainz for new names or responses older than its 30-day cache lifetime.
   cache refresh (30 days) picks it up.
 - No homepage returned means the artist name stays plain text.
 
+## Listen links
+
+Each artist can have a separate `listen` link, in a new tab. Use the artist's
+active MusicBrainz Bandcamp relationship first. Read the first four releases
+in Bandcamp's artist-controlled catalog order (usually newest first), choose
+the first track with a public streaming file, and link to its actual `/track/`
+page. Skip unreleased, private, capped, and non-streamable songs. Track URLs
+come from Bandcamp metadata, never guessed titles.
+
+If no usable Bandcamp song is found, use the MusicBrainz Spotify **artist**
+URL. With neither, omit the listen link. Spotify Free may play ads or require
+sign-in. Bandcamp may impose repeat-stream limits; availability can change
+between refreshes. A streaming file indicates availability, not a guarantee
+for every listener, region, or account.
+
+Selection happens only in the background, with one-second request spacing,
+a bounded request budget, and a pause on Bandcamp 429/503 responses. Other
+failed pages are not bypassed. Successful selections cache for seven days;
+misses retry after one day. `python listen.py --offline` only uses fresh
+cached selections and never makes network requests. There are no embeds,
+music SDKs, or third-party requests on the listings page.
+
 ## Files
 
 | File | Purpose |
@@ -61,3 +84,5 @@ MusicBrainz for new names or responses older than its 30-day cache lifetime.
 | `index.html` | The whole site |
 | `shows.json` | Generated listings |
 | `data/artist_cache.json` | Generated MusicBrainz response cache |
+| `listen.py` | Background Bandcamp track selection and Spotify fallback |
+| `data/listen_cache.json` | Generated track-selection cache, not deployed |

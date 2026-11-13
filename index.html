@@ -73,6 +73,7 @@
   .muted { color: var(--muted); font-size: 0.85em; }
   a { color: var(--accent); text-decoration: none; }
   a:hover { text-decoration: underline; }
+  .listen { font-size: 0.85em; white-space: nowrap; }
   .empty { padding: 30px 0; color: var(--muted); }
   footer { margin-top: 28px; font-size: 0.8rem; color: var(--muted); }
   footer p { margin: 4px 0; }
@@ -106,6 +107,7 @@
   <footer>
     <p>Listing facts collected from <a href="https://concertssd.com/" target="_blank" rel="noopener noreferrer">The List: San Diego (ConcertsSD)</a>; check their site for times, prices, and tickets.</p>
     <p>Artist names link automatically to <a href="https://musicbrainz.org/" target="_blank" rel="noopener noreferrer">MusicBrainz</a> "official homepage" results; no homepage means no link. Venue names link to official venue websites where known.</p>
+    <p>Listen opens a Bandcamp song where available, otherwise Spotify (which may require sign-in or play ads).</p>
     <p id="meta"></p>
   </footer>
 </main>
@@ -152,7 +154,13 @@
       ? show.artists : (show.performers || []).map(function (p) { return { name: p }; });
     return artists.map(function (a) {
       var url = safeURL(a.official_url);
-      return url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">' + esc(a.name) + "</a>" : esc(a.name);
+      var name = url ? '<a href="' + esc(url) + '" target="_blank" rel="noopener noreferrer">' + esc(a.name) + "</a>" : esc(a.name);
+      var listen = safeURL(a.listen_url);
+      var title = "Listen to " + a.name + " on " + (a.listen_service || "music player") +
+        (a.listen_title ? ": " + a.listen_title : "");
+      return name + (listen ? ' <a class="listen" href="' + esc(listen) +
+        '" target="_blank" rel="noopener noreferrer" title="' + esc(title) +
+        '" aria-label="' + esc(title) + '">listen</a>' : "");
     }).join(", ");
   }
 

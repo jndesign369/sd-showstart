@@ -4,6 +4,15 @@ This file tracks downloadable kit releases, not daily listing refreshes on a
 running website. The first numbered release establishes a baseline for the
 previously unnumbered kit; no historical version numbers have been invented.
 
+## v0.4.2 (2026-11-13)
+
+- Add separate new-tab listen links beside artists, including plain-text names.
+- Prefer a streamable Bandcamp song from the first playable listed release;
+  otherwise use the artist's MusicBrainz Spotify artist link.
+- Resolve and cache songs in the background, with bounded traversal and
+  request pacing. Keep the page text-only with no embedded music or SDKs.
+- Persist the selection cache in scheduled updates, outside the public site.
+
 ## v0.4.1 (2026-11-04)
 
 - Complete deployment of the simplified v0.4.0 edition uploaded by the user.
