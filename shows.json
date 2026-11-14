@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-14T02:43:00-08:00",
+ "generated_at": "2026-11-14T11:59:07-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 13, 2026"
+  "updated": "November 14, 2026"
  },
  "shows": [
   {
@@ -799,6 +799,37 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
+   "id": "the-tower-bar:2026-11-16:mdc",
+   "date": "2026-11-16",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "MDC",
+    "No Consent",
+    "Strychnine Ninety Nine"
+   ],
+   "artists": [
+    {
+     "name": "MDC",
+     "mbid": "0f3c4d10-e541-46f0-a589-61ad701c6ce4",
+     "official_url": "http://www.mdc-rocks.com/index.asp",
+     "listen_url": "https://open.spotify.com/artist/5JQSncL9xdFUl0FrdYMWV0",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "No Consent",
+     "mbid": "aaf23d7f-4d4b-423c-85a5-6eb928b440fd",
+     "listen_url": "https://noconsentband.bandcamp.com/track/our-time-is-now",
+     "listen_service": "Bandcamp",
+     "listen_title": "Our Time Is Now"
+    },
+    {
+     "name": "Strychnine Ninety Nine"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2026-11-17:rachael-vilray",
    "date": "2026-11-17",
    "venue": "Belly Up Tavern",
@@ -1074,6 +1105,35 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
+   "id": "the-tower-bar:2026-11-18:blue-elephant-and-the-seven-snakes",
+   "date": "2026-11-18",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "Blue Elephant and the Seven Snakes",
+    "Strega 13",
+    "Machine"
+   ],
+   "artists": [
+    {
+     "name": "Blue Elephant and the Seven Snakes",
+     "mbid": "e36e8356-3bc3-44d6-839d-b2b5bcc1ed7e",
+     "official_url": "https://blueelephantandthesevensnakes.com/"
+    },
+    {
+     "name": "Strega 13"
+    },
+    {
+     "name": "Machine",
+     "mbid": "5193ce6b-a315-4c50-ae49-54e69ffbc988",
+     "official_url": "https://www.softmachine.org/",
+     "listen_url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "whistle-stop:2026-11-18:lord-howler",
    "date": "2026-11-18",
    "venue": "Whistle Stop",
@@ -1153,6 +1213,21 @@
     {
      "name": "Blue Healers",
      "mbid": "5199e9f7-a795-4a25-a362-dcf9cc3d76f5"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "lou-lou-s:2026-11-19:gilbert-castellanos-the-new-latin-jazz-sextet-supperclub",
+   "date": "2026-11-19",
+   "venue": "Lou Lou's",
+   "city": "San Diego",
+   "performers": [
+    "GILBERT CASTELLANOS & THE NEW LATIN JAZZ SEXTET - SUPPERCLUB"
+   ],
+   "artists": [
+    {
+     "name": "GILBERT CASTELLANOS & THE NEW LATIN JAZZ SEXTET - SUPPERCLUB"
     }
    ],
    "venue_url": null
@@ -4424,7 +4499,8 @@
    "venue": "Music Box",
    "city": "San Diego",
    "performers": [
-    "The Womack Sisters"
+    "The Womack Sisters",
+    "The Emkays"
    ],
    "artists": [
     {
@@ -4434,6 +4510,9 @@
      "listen_url": "https://thewomacksisters.bandcamp.com/track/chauffeur",
      "listen_service": "Bandcamp",
      "listen_title": "Chauffeur"
+    },
+    {
+     "name": "The Emkays"
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
@@ -7503,6 +7582,22 @@
    "venue_url": "https://sodabarmusic.com/"
   },
   {
+   "id": "the-holding-company:2027-01-16:new-year-s-revolution",
+   "date": "2027-01-16",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "New Year\u2019s Revolution"
+   ],
+   "artists": [
+    {
+     "name": "New Year\u2019s Revolution",
+     "mbid": "aeb3e5b9-850b-40ae-962c-cb84402396c4"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "the-tower-bar:2027-01-16:just-laughing",
    "date": "2027-01-16",
    "venue": "The Tower Bar",
@@ -7597,6 +7692,29 @@
    "venue_url": "https://thesoundsd.com/"
   },
   {
+   "id": "the-tower-bar:2027-01-17:m-i-a",
+   "date": "2027-01-17",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "M.I.A.",
+    "Strychnine Ninety Nine",
+    "One Square Mile matinee"
+   ],
+   "artists": [
+    {
+     "name": "M.I.A."
+    },
+    {
+     "name": "Strychnine Ninety Nine"
+    },
+    {
+     "name": "One Square Mile matinee"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2027-01-19:bebel-gilberto",
    "date": "2027-01-19",
    "venue": "Belly Up Tavern",
@@ -7656,6 +7774,21 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "soda-bar:2027-01-21:the-drowns",
+   "date": "2027-01-21",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "The Drowns"
+   ],
+   "artists": [
+    {
+     "name": "The Drowns"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-holding-company:2027-01-21:kool-keith",
@@ -8478,13 +8611,17 @@
    "venue": "Casbah",
    "city": "San Diego",
    "performers": [
-    "The Sways"
+    "The Sways",
+    "Abigail Rose"
    ],
    "artists": [
     {
      "name": "The Sways",
      "mbid": "48bbdd7c-2a07-4b86-a844-abc2b3b37c0d",
      "official_url": "http://www.thesways.co.uk/"
+    },
+    {
+     "name": "Abigail Rose"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -10485,6 +10622,21 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
+   "id": "quartyard:2027-03-06:noche-de-cumbia",
+   "date": "2027-03-06",
+   "venue": "Quartyard",
+   "city": "San Diego",
+   "performers": [
+    "Noche de Cumbia"
+   ],
+   "artists": [
+    {
+     "name": "Noche de Cumbia"
+    }
+   ],
+   "venue_url": "https://quartyardsd.com/"
+  },
+  {
    "id": "the-holding-company:2027-03-06:marlon-asher",
    "date": "2027-03-06",
    "venue": "The Holding Company",
@@ -11688,6 +11840,21 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "the-holding-company:2027-04-10:midnight-riders",
+   "date": "2027-04-10",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "Midnight Riders"
+   ],
+   "artists": [
+    {
+     "name": "Midnight Riders"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2027-04-11:martin-sexton",
    "date": "2027-04-11",
    "venue": "Belly Up Tavern",
@@ -12346,6 +12513,25 @@
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-observatory-north-park:2027-05-05:goldie-boutilier",
+   "date": "2027-05-05",
+   "venue": "The Observatory North Park",
+   "city": "San Diego",
+   "performers": [
+    "Goldie Boutilier",
+    "Cailin Russo"
+   ],
+   "artists": [
+    {
+     "name": "Goldie Boutilier"
+    },
+    {
+     "name": "Cailin Russo"
+    }
+   ],
+   "venue_url": "https://www.observatorysd.com"
   },
   {
    "id": "the-sound:2027-05-05:silversun-pickups",

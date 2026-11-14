@@ -326,7 +326,7 @@
       "reason": null
     },
     "https://dontyoudaretouchmygalaxy.bandcamp.com/": {
-      "checked_at": "2026-11-13T16:24:39.506138+00:00",
+      "checked_at": "2026-11-14T20:00:45.241403+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -706,7 +706,7 @@
       "reason": null
     },
     "https://minitrees.bandcamp.com/": {
-      "checked_at": "2026-11-13T16:24:39.506138+00:00",
+      "checked_at": "2026-11-14T20:00:45.241403+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1427,7 +1427,7 @@
       "reason": null
     },
     "https://cruecifer.bandcamp.com/": {
-      "checked_at": "2026-11-13T16:24:39.506138+00:00",
+      "checked_at": "2026-11-14T20:00:45.241403+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -1466,7 +1466,7 @@
       "reason": null
     },
     "https://bucketheadpikes.bandcamp.com/": {
-      "checked_at": "2026-11-13T16:24:39.506138+00:00",
+      "checked_at": "2026-11-14T20:00:45.241403+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1879,7 +1879,7 @@
       "reason": null
     },
     "https://rayburger.bandcamp.com/": {
-      "checked_at": "2026-11-13T16:24:39.506138+00:00",
+      "checked_at": "2026-11-14T20:00:45.241403+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2127,7 +2127,7 @@
       "reason": null
     },
     "https://theaggrolites.bandcamp.com/": {
-      "checked_at": "2026-11-13T16:24:39.506138+00:00",
+      "checked_at": "2026-11-14T20:00:45.241403+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2342,7 +2342,7 @@
       "reason": null
     },
     "https://worldsendgirlfriend.bandcamp.com/": {
-      "checked_at": "2026-11-13T16:24:39.506138+00:00",
+      "checked_at": "2026-11-14T20:00:45.241403+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -3041,7 +3041,7 @@
       "reason": null
     },
     "https://a-perfect-circle.bandcamp.com/": {
-      "checked_at": "2026-11-13T16:24:39.506138+00:00",
+      "checked_at": "2026-11-14T20:00:45.241403+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -3153,6 +3153,17 @@
         "listen_service": "Bandcamp",
         "listen_title": "I Wanna Feel Pretty",
         "release_url": "https://gregmendez.bandcamp.com/album/beauty-land"
+      },
+      "reason": null
+    },
+    "https://noconsentband.bandcamp.com/": {
+      "checked_at": "2026-11-14T20:00:45.241403+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://noconsentband.bandcamp.com/track/our-time-is-now",
+        "listen_service": "Bandcamp",
+        "listen_title": "Our Time Is Now",
+        "release_url": "https://noconsentband.bandcamp.com/album/waste-your-life-away"
       },
       "reason": null
     }

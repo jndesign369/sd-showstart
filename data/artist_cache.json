@@ -406971,6 +406971,2771 @@
         "gender": "Male",
         "name": "CG5"
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"MDC\\\"\"}": {
+      "fetched_at": "2026-11-14T19:59:08.065755+00:00",
+      "data": {
+        "created": "2026-11-14T19:59:38.932Z",
+        "count": 13,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "0f3c4d10-e541-46f0-a589-61ad701c6ce4",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "MDC",
+            "sort-name": "MDC",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Austin",
+              "sort-name": "Austin",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "USA Punk Band",
+            "life-span": {
+              "begin": "1981-07",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "M.D.C.",
+                "name": "M.D.C.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Magnus Dominus Corpus",
+                "name": "Magnus Dominus Corpus",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Millions of Damn Christians",
+                "name": "Millions of Damn Christians",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Millions of Dead Children",
+                "name": "Millions of Dead Children",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metal Devil Cokes",
+                "name": "Metal Devil Cokes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "More Dead Cops",
+                "name": "More Dead Cops",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Multi Death Corporation",
+                "name": "Multi Death Corporation",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Millions of Dead Cops",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Millions of Dead Cops",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 3,
+                "name": "punk"
+              },
+              {
+                "count": 2,
+                "name": "hardcore punk"
+              },
+              {
+                "count": 1,
+                "name": "queercore"
+              }
+            ]
+          },
+          {
+            "id": "b54f7caa-6046-4c72-abf5-fbb48cfc3eb1",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 83,
+            "name": "MDC MDC",
+            "sort-name": "MDC, MDC",
+            "country": "BD",
+            "area": {
+              "id": "20395c3e-610c-34fd-9995-6b6f299121f2",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Bangladesh",
+              "sort-name": "Bangladesh",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Bangladeshi musician",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "22566695-9b3d-4d3e-8f36-3b2eb8557508",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 81,
+            "name": "MDC",
+            "sort-name": "MDC",
+            "disambiguation": "have track Sunny Trumpets",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "bf21fdd5-87c0-4686-b672-0e1f65cbb578",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 80,
+            "name": "M.D.C.",
+            "sort-name": "M.D.C.",
+            "disambiguation": "Chris Knowles, Henry Cullen",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "2493a90d-3a0b-431c-a46d-5e049bc6be88",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 80,
+            "name": "MDC",
+            "sort-name": "MDC",
+            "area": {
+              "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Budapest",
+              "sort-name": "Budapest",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Budapest",
+              "sort-name": "Budapest",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Hungarian band",
+            "life-span": {
+              "begin": "2013",
+              "ended": null
+            }
+          },
+          {
+            "id": "4c97bf58-19b7-4e3e-9047-a28071d1ad48",
+            "score": 80,
+            "name": "MDC",
+            "sort-name": "MDC",
+            "disambiguation": "appears on Michelle Shocked's track",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "8c11b3a5-44c1-4947-9b21-c4bf6968a83b",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 80,
+            "name": "MDC",
+            "sort-name": "MDC",
+            "disambiguation": "Gospel Brazilian Group",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "2ac85c90-4026-41b9-b02a-0d113e3d2932",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 80,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "MDC",
+            "sort-name": "MDC",
+            "gender": "male",
+            "country": "BE",
+            "area": {
+              "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Belgium",
+              "sort-name": "Belgium",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Belgian house producer Mathieu De Clercq",
+            "life-span": {
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "De Clercq, Mathieu",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Mathieu De Clercq",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          },
+          {
+            "id": "9a5d2a97-3ece-4b27-83cf-4ff4df3b3465",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 73,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Bruno M.D.C.",
+            "sort-name": "Bruno M.D.C.",
+            "gender": "male",
+            "country": "FR",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "France",
+              "sort-name": "France",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "French Bassist",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "b46149d8-e3b8-47f7-9fd7-abfd60a402c8",
+            "score": 73,
+            "name": "M.D.C. Project",
+            "sort-name": "M.D.C. Project",
+            "life-span": {
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "MDC Project",
+                "name": "MDC Project",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/0f3c4d10-e541-46f0-a589-61ad701c6ce4?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-14T19:59:08.065755+00:00",
+      "data": {
+        "type": "Group",
+        "gender-id": null,
+        "end-area": null,
+        "life-span": {
+          "begin": "1981-07",
+          "end": null,
+          "ended": false
+        },
+        "relations": [
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.allmusic.com/artist/mn0000222974",
+              "id": "bf7cae70-a9c8-47c7-b915-b690405c5267"
+            },
+            "target-type": "url",
+            "type": "allmusic",
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward"
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "5f17c604-42ad-4dc2-b3d8-55c71f1c7c27",
+              "resource": "https://files.nyu.edu/cch223/public/usa/mdc_main.html"
+            },
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "discography page",
+            "target-type": "url",
+            "end": null,
+            "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": []
+          },
+          {
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "discography page",
+            "target-credit": "",
+            "url": {
+              "id": "ac24983f-9efc-43db-a61e-705067e61402",
+              "resource": "https://www.idref.fr/165241314"
+            },
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f"
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "cd2a9591-1a37-4d70-bf2f-0290fcb03b66",
+              "resource": "https://www.pirate-punk.net/groupe-musique-punk/?band=Mdc"
+            },
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "discography page",
+            "target-type": "url",
+            "end": null,
+            "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+            "attribute-values": {},
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": []
+          },
+          {
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+            "end": null,
+            "type": "discography page",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "url": {
+              "resource": "https://www.punk-lyrics.net/band/mdc-2",
+              "id": "044ddff8-cf70-4c31-867a-aaba864bbc7f"
+            },
+            "target-credit": ""
+          },
+          {
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attribute-values": {},
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "discogs",
+            "url": {
+              "resource": "https://www.discogs.com/artist/261276",
+              "id": "ce9c0789-cfc7-4e48-9d68-2b38b36c5955"
+            },
+            "target-credit": ""
+          },
+          {
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "end": null,
+            "target-type": "url",
+            "type": "free streaming",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "url": {
+              "resource": "https://open.spotify.com/artist/5JQSncL9xdFUl0FrdYMWV0",
+              "id": "c7952227-8392-421b-8d01-76229537d0ec"
+            },
+            "target-credit": ""
+          },
+          {
+            "url": {
+              "resource": "https://www.deezer.com/artist/194258",
+              "id": "afd05a64-56ce-4fa8-b15b-33e4d95b0b81"
+            },
+            "target-credit": "",
+            "type": "free streaming",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward"
+          },
+          {
+            "type": "IMDb",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "resource": "https://www.imdb.com/name/nm4604212/",
+              "id": "1bccaf62-d1b4-46ac-aee8-f729f59e05e3"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "attribute-values": {},
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+            "end": null
+          },
+          {
+            "target-type": "url",
+            "type": "myspace",
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "url": {
+              "resource": "https://myspace.com/mdc",
+              "id": "c40e035c-a63d-4183-b028-f8a10c7f0371"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "attribute-values": {},
+            "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+            "end": null
+          },
+          {
+            "type": "official homepage",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "dfa4e5ce-7872-4994-8b9f-504e7094dca6",
+              "resource": "http://www.mdc-rocks.com/index.asp"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "end": null
+          },
+          {
+            "target-type": "url",
+            "type": "other databases",
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "url": {
+              "resource": "http://id.loc.gov/authorities/names/no95007641",
+              "id": "605912c4-946c-4bff-b709-a62c65898bb4"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null
+          },
+          {
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "other databases",
+            "target-type": "url",
+            "url": {
+              "resource": "https://rateyourmusic.com/artist/mdc",
+              "id": "2680f943-a659-4582-b5ae-77ba98748d44"
+            },
+            "target-credit": ""
+          },
+          {
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "url": {
+              "resource": "https://www.worldcat.org/identities/lccn-no95007641",
+              "id": "98bcb3d2-fb6b-491d-bceb-4ab36ce770fc"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "type": "other databases",
+            "ended": false,
+            "begin": null,
+            "source-credit": ""
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "http://www.musik-sammler.de/artist/31058",
+              "id": "988e6c0a-4228-4bf0-8ee1-2d4d2366a616"
+            },
+            "target-type": "url",
+            "type": "other databases",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {}
+          },
+          {
+            "url": {
+              "resource": "https://itunes.apple.com/us/artist/id6939915",
+              "id": "75fa32fb-f533-4d9c-806f-36483c8e7c80"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "purchase for download",
+            "target-type": "url",
+            "end": null,
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": []
+          },
+          {
+            "end": null,
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "attribute-values": {},
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "id": "d58a3f1c-d688-4dc9-83d9-a02d3ce717c2",
+              "resource": "https://www.songkick.com/artists/42472"
+            },
+            "target-credit": "",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "songkick"
+          },
+          {
+            "target-type": "url",
+            "type": "streaming",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "url": {
+              "resource": "https://tidal.com/artist/3648159",
+              "id": "a0f359a7-4e8b-4ee5-8960-c175bb8498d8"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "end": null
+          },
+          {
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "url",
+            "type": "VIAF",
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "url": {
+              "resource": "http://viaf.org/viaf/265454055",
+              "id": "9929d0a2-d7f0-44e6-a464-791d43ecaa9c"
+            },
+            "target-credit": ""
+          },
+          {
+            "target-type": "url",
+            "type": "wikidata",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "url": {
+              "id": "23703811-b00d-4ddc-9ba3-121d574940bf",
+              "resource": "https://www.wikidata.org/wiki/Q1785354"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-values": {},
+            "end": null
+          }
+        ],
+        "begin-area": {
+          "name": "Austin",
+          "type-id": null,
+          "sort-name": "Austin",
+          "type": null,
+          "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5",
+          "disambiguation": ""
+        },
+        "disambiguation": "USA Punk Band",
+        "country": "US",
+        "name": "MDC",
+        "ipis": [],
+        "area": {
+          "name": "United States",
+          "disambiguation": "",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type": null
+        },
+        "gender": null,
+        "isnis": [],
+        "id": "0f3c4d10-e541-46f0-a589-61ad701c6ce4",
+        "sort-name": "MDC",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"No Consent\\\"\"}": {
+      "fetched_at": "2026-11-14T19:59:08.065755+00:00",
+      "data": {
+        "created": "2026-11-14T19:59:40.415Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "aaf23d7f-4d4b-423c-85a5-6eb928b440fd",
+            "score": 100,
+            "name": "No Consent",
+            "sort-name": "No Consent",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "California Punk band",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/aaf23d7f-4d4b-423c-85a5-6eb928b440fd?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-14T19:59:08.065755+00:00",
+      "data": {
+        "id": "aaf23d7f-4d4b-423c-85a5-6eb928b440fd",
+        "area": {
+          "disambiguation": "",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type": null,
+          "name": "United States",
+          "type-id": null
+        },
+        "type": null,
+        "begin-area": null,
+        "ipis": [],
+        "sort-name": "No Consent",
+        "disambiguation": "California Punk band",
+        "gender-id": null,
+        "gender": null,
+        "life-span": {
+          "end": null,
+          "begin": null,
+          "ended": false
+        },
+        "country": "US",
+        "relations": [
+          {
+            "ended": false,
+            "source-credit": "",
+            "end": null,
+            "url": {
+              "resource": "https://noconsentband.bandcamp.com/",
+              "id": "9aecdd05-f278-4421-9a12-272a56f4c2e8"
+            },
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "type": "bandcamp",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "target-credit": "",
+            "attributes": []
+          }
+        ],
+        "type-id": null,
+        "name": "No Consent",
+        "isnis": [],
+        "end-area": null
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Strychnine Ninety Nine\\\"\"}": {
+      "fetched_at": "2026-11-14T19:59:08.065755+00:00",
+      "data": {
+        "created": "2026-11-14T19:59:47.443Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Blue Elephant and the Seven Snakes\\\"\"}": {
+      "fetched_at": "2026-11-14T19:59:08.065755+00:00",
+      "data": {
+        "created": "2026-11-14T19:59:47.850Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "e36e8356-3bc3-44d6-839d-b2b5bcc1ed7e",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Blue Elephant and the Seven Snakes",
+            "sort-name": "Blue Elephant and the Seven Snakes",
+            "area": {
+              "id": "82f3a697-ba65-404d-a1ed-360147af7d10",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "San Diego",
+              "sort-name": "San Diego",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "82f3a697-ba65-404d-a1ed-360147af7d10",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "San Diego",
+              "sort-name": "San Diego",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "begin": "2021",
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/e36e8356-3bc3-44d6-839d-b2b5bcc1ed7e?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-14T19:59:08.065755+00:00",
+      "data": {
+        "area": {
+          "sort-name": "San Diego",
+          "id": "82f3a697-ba65-404d-a1ed-360147af7d10",
+          "type": null,
+          "disambiguation": "",
+          "name": "San Diego",
+          "type-id": null
+        },
+        "sort-name": "Blue Elephant and the Seven Snakes",
+        "gender-id": null,
+        "isnis": [],
+        "type": "Group",
+        "country": "US",
+        "end-area": null,
+        "name": "Blue Elephant and the Seven Snakes",
+        "gender": null,
+        "id": "e36e8356-3bc3-44d6-839d-b2b5bcc1ed7e",
+        "life-span": {
+          "end": null,
+          "ended": false,
+          "begin": "2021"
+        },
+        "relations": [
+          {
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "7ab08628-2d8c-4bcf-96f3-fe92a1c9ad74",
+              "resource": "https://blueelephantandthesevensnakes.com/"
+            },
+            "begin": null,
+            "type": "official homepage",
+            "ended": false,
+            "attribute-ids": {}
+          }
+        ],
+        "begin-area": {
+          "type": null,
+          "sort-name": "San Diego",
+          "id": "82f3a697-ba65-404d-a1ed-360147af7d10",
+          "type-id": null,
+          "disambiguation": "",
+          "name": "San Diego"
+        },
+        "ipis": [],
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Strega 13\\\"\"}": {
+      "fetched_at": "2026-11-14T19:59:08.065755+00:00",
+      "data": {
+        "created": "2026-11-14T19:59:58.994Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Machine\\\"\"}": {
+      "fetched_at": "2026-11-14T19:59:08.065755+00:00",
+      "data": {
+        "created": "2026-11-14T19:59:59.183Z",
+        "count": 1735,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "5193ce6b-a315-4c50-ae49-54e69ffbc988",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Soft Machine",
+            "sort-name": "Soft Machine",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "36ed2e86-4e30-49eb-8acb-96004ef98fa3",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Canterbury",
+              "sort-name": "Canterbury",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "British rock band",
+            "isnis": [
+              "0000000115037939"
+            ],
+            "life-span": {
+              "begin": "1966-09",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "ザ・ソフト・マシーン",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ザ・ソフト・マシーン",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Soft Machine",
+                "name": "The Soft Machine",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": -1,
+                "name": "rock"
+              },
+              {
+                "count": 5,
+                "name": "progressive rock"
+              },
+              {
+                "count": 1,
+                "name": "krautrock"
+              },
+              {
+                "count": 1,
+                "name": "jazz"
+              },
+              {
+                "count": 1,
+                "name": "experimental"
+              },
+              {
+                "count": 0,
+                "name": "british"
+              },
+              {
+                "count": 0,
+                "name": "uk"
+              },
+              {
+                "count": 0,
+                "name": "canterbury"
+              },
+              {
+                "count": 0,
+                "name": "fusion"
+              },
+              {
+                "count": 5,
+                "name": "jazz rock"
+              },
+              {
+                "count": 2,
+                "name": "psychedelic rock"
+              },
+              {
+                "count": 1,
+                "name": "psychedelic"
+              },
+              {
+                "count": 1,
+                "name": "art rock"
+              },
+              {
+                "count": 1,
+                "name": "space rock"
+              },
+              {
+                "count": 2,
+                "name": "jazz fusion"
+              },
+              {
+                "count": 1,
+                "name": "acid rock"
+              },
+              {
+                "count": 3,
+                "name": "jazz-rock"
+              },
+              {
+                "count": 4,
+                "name": "canterbury scene"
+              },
+              {
+                "count": 0,
+                "name": "english"
+              },
+              {
+                "count": 0,
+                "name": "classic pop and rock"
+              },
+              {
+                "count": 0,
+                "name": "british psychedelia"
+              },
+              {
+                "count": 0,
+                "name": "modal music"
+              },
+              {
+                "count": 0,
+                "name": "2008 universal fire victim"
+              },
+              {
+                "count": 1,
+                "name": "psychedelic rock music"
+              },
+              {
+                "count": 1,
+                "name": "rockgruppe"
+              }
+            ]
+          },
+          {
+            "id": "3798b104-01cb-484c-a3b0-56adc6399b80",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 98,
+            "name": "Rage Against the Machine",
+            "sort-name": "Rage Against the Machine",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Los Angeles",
+              "sort-name": "Los Angeles",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "end-area": {
+              "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Los Angeles",
+              "sort-name": "Los Angeles",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000122905407"
+            ],
+            "life-span": {
+              "begin": "1991-08",
+              "end": "2024-01",
+              "ended": true
+            },
+            "aliases": [
+              {
+                "sort-name": "Rage Against the Machine",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "レイジアゲインストザマシーン",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rage Against the Machine",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "レイジ・アゲインスト・ザ・マシーン",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rage",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rage",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rage Against the Machine",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rage Against the Machine",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rage Againts the Machine",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rage Againts the Machine",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "RATM",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "RATM",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": -2,
+                "name": "political"
+              },
+              {
+                "count": -1,
+                "name": "rock"
+              },
+              {
+                "count": 2,
+                "name": "alternative rock"
+              },
+              {
+                "count": 1,
+                "name": "heavy metal"
+              },
+              {
+                "count": 1,
+                "name": "metal"
+              },
+              {
+                "count": -1,
+                "name": "american"
+              },
+              {
+                "count": 2,
+                "name": "nu metal"
+              },
+              {
+                "count": 13,
+                "name": "alternative metal"
+              },
+              {
+                "count": 0,
+                "name": "rapcore"
+              },
+              {
+                "count": 5,
+                "name": "funk metal"
+              },
+              {
+                "count": 10,
+                "name": "rap metal"
+              },
+              {
+                "count": 5,
+                "name": "rap rock"
+              },
+              {
+                "count": -1,
+                "name": "rock and indie"
+              },
+              {
+                "count": -1,
+                "name": "best of"
+              },
+              {
+                "count": -1,
+                "name": "angry"
+              },
+              {
+                "count": 0,
+                "name": "hard alternative"
+              }
+            ]
+          },
+          {
+            "id": "22a1f4d7-81ff-4216-ac06-3387da6bc118",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 98,
+            "name": "Machine Head",
+            "sort-name": "Machine Head",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "6195f381-5711-4655-bf7c-75918c04b201",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Oakland",
+              "sort-name": "Oakland",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "US thrash metal band from Oakland, CA",
+            "isnis": [
+              "0000000122539507"
+            ],
+            "life-span": {
+              "begin": "1991-10-12",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "マシーンヘッド",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "マシーンヘッド",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Machinehead",
+                "name": "Machinehead",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 8,
+                "name": "heavy metal"
+              },
+              {
+                "count": 1,
+                "name": "progressive metal"
+              },
+              {
+                "count": 11,
+                "name": "thrash metal"
+              },
+              {
+                "count": 8,
+                "name": "metal"
+              },
+              {
+                "count": 6,
+                "name": "nu metal"
+              },
+              {
+                "count": 10,
+                "name": "groove metal"
+              }
+            ]
+          },
+          {
+            "id": "5fee3020-513b-48c2-b1f7-4681b01db0c6",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 96,
+            "name": "Florence + the Machine",
+            "sort-name": "Florence and the Machine",
+            "area": {
+              "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "England",
+              "sort-name": "England",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "London",
+              "sort-name": "London",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000120192060"
+            ],
+            "life-span": {
+              "begin": "2007",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "FATM",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "FATM",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "F+TM",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "F+TM",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Florence and the Machine",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Florence and the Machine",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Florence & the Machine",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Florence & the Machine",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "フローレンス・アンド・ザ・マシーン",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "フローレンス・アンド・ザ・マシーン",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 2,
+                "name": "rock"
+              },
+              {
+                "count": 3,
+                "name": "pop"
+              },
+              {
+                "count": 3,
+                "name": "alternative rock"
+              },
+              {
+                "count": 7,
+                "name": "indie rock"
+              },
+              {
+                "count": 3,
+                "name": "indie"
+              },
+              {
+                "count": 1,
+                "name": "female vocals"
+              },
+              {
+                "count": 6,
+                "name": "indie pop"
+              },
+              {
+                "count": 2,
+                "name": "pop rock"
+              },
+              {
+                "count": 1,
+                "name": "rock and indie"
+              },
+              {
+                "count": 1,
+                "name": "pop soul"
+              },
+              {
+                "count": 1,
+                "name": "enfp"
+              },
+              {
+                "count": 4,
+                "name": "art pop"
+              },
+              {
+                "count": 0,
+                "name": "vyrzukhisuc-artiest"
+              }
+            ]
+          },
+          {
+            "id": "72b3b981-92b7-4b5c-8a83-35717358b76e",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 91,
+            "name": "Miami Sound Machine",
+            "sort-name": "Miami Sound Machine",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000121116123"
+            ],
+            "life-span": {
+              "begin": "1975",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "MSM",
+                "name": "MSM",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Miame Sound Machine (MSM)",
+                "name": "Miame Sound Machine (MSM)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 2,
+                "name": "dance-pop"
+              },
+              {
+                "count": 1,
+                "name": "latin freestyle"
+              },
+              {
+                "count": 1,
+                "name": "pop"
+              },
+              {
+                "count": 1,
+                "name": "latin pop"
+              },
+              {
+                "count": 1,
+                "name": "adult contemporary"
+              }
+            ]
+          },
+          {
+            "id": "c7df5ec5-380a-40f9-856f-28fb4a33d946",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 89,
+            "name": "Machine Girl",
+            "sort-name": "Machine Girl",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "0dd9f772-7cd1-402f-8627-5121eed4f8ad",
+              "type": "Island",
+              "type-id": "3f8e7b66-058b-369b-9834-ffa5fcba5641",
+              "name": "Long Island",
+              "sort-name": "Long Island",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "digital hardcore duo",
+            "isnis": [
+              "000000047077321X"
+            ],
+            "life-span": {
+              "begin": "2012",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "machin3gir1",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "machin3gir1",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Machinegirl",
+                "name": "Machinegirl",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 6,
+                "name": "electronic"
+              },
+              {
+                "count": 6,
+                "name": "digital hardcore"
+              },
+              {
+                "count": 6,
+                "name": "drum and bass"
+              },
+              {
+                "count": 1,
+                "name": "jungle"
+              },
+              {
+                "count": 7,
+                "name": "breakcore"
+              },
+              {
+                "count": 1,
+                "name": "house"
+              },
+              {
+                "count": 5,
+                "name": "duo"
+              },
+              {
+                "count": 2,
+                "name": "techno"
+              },
+              {
+                "count": 1,
+                "name": "abstract"
+              },
+              {
+                "count": 1,
+                "name": "drum n bass"
+              },
+              {
+                "count": 1,
+                "name": "footwork"
+              },
+              {
+                "count": 1,
+                "name": "juke"
+              },
+              {
+                "count": -1,
+                "name": "electronic punk"
+              }
+            ]
+          },
+          {
+            "id": "91e3c213-51d0-47f1-bafa-0951e31c20c4",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 89,
+            "name": "Carter the Unstoppable Sex Machine",
+            "sort-name": "Carter the Unstoppable Sex Machine",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "0e7c2a34-9121-4886-b8a4-d7eef38c5853",
+              "type": "District",
+              "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+              "name": "Streatham",
+              "sort-name": "Streatham",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000109453733"
+            ],
+            "life-span": {
+              "begin": "1988",
+              "end": "1997-08",
+              "ended": true
+            },
+            "aliases": [
+              {
+                "sort-name": "Carter",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Carter",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Carter U S M",
+                "name": "Carter U S M",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Carter, U.S.M.",
+                "name": "Carter, U.S.M.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Carter U.S.M.",
+                "name": "Carter U.S.M.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Carter, the Unstoppable Sex Machine",
+                "name": "Carter, the Unstoppable Sex Machine",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Carter USM",
+                "name": "Carter USM",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 0,
+                "name": "electronic"
+              },
+              {
+                "count": 3,
+                "name": "alternative rock"
+              },
+              {
+                "count": 1,
+                "name": "british"
+              },
+              {
+                "count": 2,
+                "name": "post-punk"
+              },
+              {
+                "count": 0,
+                "name": "indie rock"
+              },
+              {
+                "count": 0,
+                "name": "indie pop"
+              },
+              {
+                "count": 3,
+                "name": "alternative dance"
+              },
+              {
+                "count": 1,
+                "name": "english"
+              },
+              {
+                "count": 1,
+                "name": "classic pop and rock"
+              },
+              {
+                "count": 0,
+                "name": "glam punk"
+              },
+              {
+                "count": 5,
+                "name": "grebo"
+              }
+            ]
+          },
+          {
+            "id": "39dfc059-93b1-41a1-af27-3a753c0711d3",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 88,
+            "name": "Tin Machine",
+            "sort-name": "Tin Machine",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000122430448"
+            ],
+            "life-span": {
+              "begin": "1988",
+              "end": "1992",
+              "ended": true
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "rock"
+              }
+            ]
+          },
+          {
+            "id": "dc71939a-416f-4804-b031-5749287943f9",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 86,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Purple Disco Machine",
+            "sort-name": "Purple Disco Machine",
+            "gender": "male",
+            "country": "DE",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "624f2956-bfdb-43a9-8924-9aadb812ee04",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Dresden",
+              "sort-name": "Dresden",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000471497704"
+            ],
+            "life-span": {
+              "begin": "1980-02-12",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "PDM",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "PDM",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Piontek, Tino",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Tino Piontek",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 2,
+                "name": "dance"
+              },
+              {
+                "count": 2,
+                "name": "house"
+              },
+              {
+                "count": 1,
+                "name": "dj"
+              },
+              {
+                "count": 2,
+                "name": "disco"
+              },
+              {
+                "count": 1,
+                "name": "producer"
+              },
+              {
+                "count": 1,
+                "name": "english"
+              }
+            ]
+          },
+          {
+            "id": "d7636359-728c-47a2-84ea-27a5e60168ef",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 86,
+            "name": "Saviour Machine",
+            "sort-name": "Saviour Machine",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "begin": "1989",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Eric Clayton And Saviour Machine",
+                "name": "Eric Clayton And Saviour Machine",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 1,
+                "name": "rock"
+              },
+              {
+                "count": 2,
+                "name": "metal"
+              },
+              {
+                "count": 2,
+                "name": "gothic metal"
+              },
+              {
+                "count": 1,
+                "name": "christian"
+              },
+              {
+                "count": 2,
+                "name": "christian metal"
+              },
+              {
+                "count": 1,
+                "name": "rock opera"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/5193ce6b-a315-4c50-ae49-54e69ffbc988?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-14T19:59:08.065755+00:00",
+      "data": {
+        "disambiguation": "British rock band",
+        "country": "GB",
+        "ipis": [],
+        "name": "Soft Machine",
+        "gender-id": null,
+        "type": "Group",
+        "life-span": {
+          "begin": "1966-09",
+          "ended": false,
+          "end": null
+        },
+        "relations": [
+          {
+            "url": {
+              "id": "ab901334-3b94-47bb-93f5-cfa12b14ab7a",
+              "resource": "https://www.allmusic.com/artist/mn0000753685"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "type": "allmusic",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {}
+          },
+          {
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+            "end": null,
+            "type": "bandsintown",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "c0bb730b-6122-40b5-aa7a-534d62f3995a",
+              "resource": "https://www.bandsintown.com/a/56442"
+            }
+          },
+          {
+            "begin": null,
+            "source-credit": "",
+            "ended": true,
+            "type": "BBC Music page",
+            "target-type": "url",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.bbc.co.uk/music/artists/5193ce6b-a315-4c50-ae49-54e69ffbc988",
+              "id": "f46f1686-9310-4272-9268-5edf40bc0d37"
+            },
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": "2020-11-19",
+            "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+            "attribute-values": {}
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "http://www.btinternet.com/~stephen.yarwood/softs.htm",
+              "id": "cca2d512-71bf-4341-9e22-1443edd6010e"
+            },
+            "target-type": "url",
+            "type": "biography",
+            "ended": true,
+            "source-credit": "",
+            "begin": null,
+            "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward"
+          },
+          {
+            "source-credit": "",
+            "begin": null,
+            "ended": true,
+            "type": "discography page",
+            "target-type": "url",
+            "target-credit": "",
+            "url": {
+              "id": "e7ee84b5-c8d6-494d-a40c-4f6c0429345d",
+              "resource": "http://rac.neptunepinkfloyd.co.uk/Tourdate/SMdates.htm"
+            },
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f"
+          },
+          {
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "discogs",
+            "target-credit": "",
+            "url": {
+              "id": "94f413dd-6765-47ad-9339-8b2adb877bde",
+              "resource": "https://www.discogs.com/artist/152680"
+            },
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attribute-values": {}
+          },
+          {
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+            "attribute-values": {},
+            "end": null,
+            "type": "fanpage",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": true,
+            "target-credit": "",
+            "url": {
+              "resource": "http://www.hulloder.nl/",
+              "id": "f2b678c0-8179-44af-835d-237f70bb5458"
+            }
+          },
+          {
+            "target-type": "url",
+            "type": "free streaming",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "url": {
+              "resource": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds",
+              "id": "d13ec4fd-2e45-4641-bc70-1241b6660c5d"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "end": null
+          },
+          {
+            "end": null,
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.deezer.com/artist/11114",
+              "id": "a0ce343f-d3b9-48bf-a24a-9d64ea431063"
+            },
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "free streaming",
+            "target-type": "url"
+          },
+          {
+            "end": null,
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.imdb.com/name/nm9551568/",
+              "id": "5e00a5f6-68d3-4084-8e41-5d54d5790f39"
+            },
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "IMDb"
+          },
+          {
+            "end": null,
+            "attribute-values": {},
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "id": "c3f145bd-fa12-47ec-b738-ec2460aa1cfe",
+              "resource": "https://www.last.fm/music/Soft%20Machine"
+            },
+            "target-credit": "",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "last.fm",
+            "target-type": "url"
+          },
+          {
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "end": null,
+            "target-type": "url",
+            "type": "lyrics",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "resource": "https://genius.com/artists/Soft-machine",
+              "id": "58fa492f-c1b2-4425-8fcd-3fcc98aa91ff"
+            }
+          },
+          {
+            "attribute-values": {},
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "url": {
+              "id": "f9973cfc-d7d8-4965-91dd-f371f080ed4e",
+              "resource": "https://www.softmachine.org/"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "type": "official homepage",
+            "ended": false,
+            "source-credit": "",
+            "begin": null
+          },
+          {
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "url",
+            "type": "other databases",
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "a1de10af-5998-4197-9ed4-f02718a3c1ac",
+              "resource": "http://id.loc.gov/authorities/names/n93037442"
+            }
+          },
+          {
+            "type": "other databases",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "url": {
+              "id": "b72ca147-1192-4c97-9bfd-2d2ea94f7eef",
+              "resource": "https://catalogue.bnf.fr/ark:/12148/cb13906598h"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null
+          },
+          {
+            "url": {
+              "id": "3e88b9cb-f991-4895-8cdf-b685c16e48f3",
+              "resource": "https://d-nb.info/gnd/5505644-1"
+            },
+            "target-credit": "",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "other databases",
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": []
+          },
+          {
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "other databases",
+            "target-type": "url",
+            "url": {
+              "id": "ef999d64-298f-42a3-826c-4e06b67ac17f",
+              "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp7Kp7Hr3XC6mW6ggHdF"
+            },
+            "target-credit": ""
+          },
+          {
+            "type": "other databases",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "493568ed-d461-4b0f-9c83-3cf01a43f11f",
+              "resource": "https://rateyourmusic.com/artist/soft-machine"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "end": null
+          },
+          {
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "url": {
+              "resource": "https://www.45cat.com/artist/soft-machine",
+              "id": "e734c672-f176-4b19-868d-d9e19c4ec006"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "type": "other databases",
+            "ended": false,
+            "begin": null,
+            "source-credit": ""
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.jazzmusicarchives.com/artist/soft-machine",
+              "id": "859299eb-3113-4cf6-bafc-e9d2a64b8609"
+            },
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "other databases",
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": []
+          },
+          {
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "end": null,
+            "type": "other databases",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "url": {
+              "resource": "https://www.musik-sammler.de/artist/soft-machine/",
+              "id": "68fbf300-02cb-490d-a673-fd79b02e5e7b"
+            },
+            "target-credit": ""
+          },
+          {
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "other databases",
+            "target-type": "url",
+            "url": {
+              "resource": "https://www.progarchives.com/artist.asp?id=633",
+              "id": "fca5c774-9998-46e0-b807-71c8ad5a47cf"
+            },
+            "target-credit": ""
+          },
+          {
+            "type": "other databases",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.spirit-of-rock.com/en/band/Soft_Machine",
+              "id": "4a2f4253-2c0b-40ec-b5b8-e837ea14868a"
+            },
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "end": null
+          },
+          {
+            "end": null,
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "0a18fa44-ff26-46a6-9ea9-187a9aaa7bee",
+              "resource": "https://www.whosampled.com/Soft-Machine/"
+            },
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "other databases"
+          },
+          {
+            "url": {
+              "id": "de115323-3d04-4605-8841-39364a8e531a",
+              "resource": "https://itunes.apple.com/us/artist/id1414860397"
+            },
+            "target-credit": "",
+            "type": "purchase for download",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward"
+          },
+          {
+            "url": {
+              "id": "6e89bf68-48a6-411a-b30e-34efc4db6e09",
+              "resource": "https://www.qobuz.com/us-en/interpreter/soft-machine/71492"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "purchase for download",
+            "target-type": "url",
+            "end": null,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": []
+          },
+          {
+            "end": null,
+            "attribute-values": {},
+            "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "feee6a98-5388-444f-83a0-230a32cfba19",
+              "resource": "https://secondhandsongs.com/artist/29285"
+            },
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "secondhandsongs"
+          },
+          {
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+            "attribute-values": {},
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "setlistfm",
+            "url": {
+              "resource": "https://www.setlist.fm/setlists/soft-machine-bd6b52a.html",
+              "id": "a4654ab0-b27b-495a-bff0-17773aff0d15"
+            },
+            "target-credit": ""
+          },
+          {
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "social network",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.facebook.com/softmachinelegacy",
+              "id": "ff1e18ba-36c0-43d0-9dde-6334ff3ca4cb"
+            },
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+          },
+          {
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "url",
+            "type": "songkick",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "url": {
+              "id": "aae8b619-7ab1-498b-affe-d107990c6a9f",
+              "resource": "https://www.songkick.com/artists/68873"
+            },
+            "target-credit": ""
+          },
+          {
+            "type": "streaming",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "resource": "https://music.apple.com/gb/artist/7212088",
+              "id": "a4bd7799-d994-436a-9bc1-1f1763996ee6"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "end": null
+          },
+          {
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "streaming",
+            "url": {
+              "id": "520b9916-47fc-4140-aeb7-fb74f7bf919b",
+              "resource": "https://music.apple.com/us/artist/7212088"
+            },
+            "target-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+          },
+          {
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "target-credit": "",
+            "url": {
+              "id": "46f7aeff-0813-4bbe-b5c4-f3b48055a64e",
+              "resource": "https://tidal.com/artist/3683"
+            },
+            "type": "streaming",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "6e89bf68-48a6-411a-b30e-34efc4db6e09",
+              "resource": "https://www.qobuz.com/us-en/interpreter/soft-machine/71492"
+            },
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "streaming",
+            "end": null,
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": []
+          },
+          {
+            "target-type": "url",
+            "type": "VIAF",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "e99f2bbf-ef07-4250-a3c4-3e8ed0d3c748",
+              "resource": "http://viaf.org/viaf/129146852"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "attribute-values": {},
+            "end": null
+          },
+          {
+            "attribute-values": {},
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "url": {
+              "resource": "https://www.wikidata.org/wiki/Q729505",
+              "id": "30b49409-4d9d-4a53-a205-857ef1dced82"
+            },
+            "target-credit": "",
+            "type": "wikidata",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false
+          },
+          {
+            "url": {
+              "resource": "https://music.youtube.com/channel/UC_bfzbHoX0ftLRSkMZeAqoA",
+              "id": "527c720f-6fba-4891-81f5-61eeaa74aabc"
+            },
+            "target-credit": "",
+            "type": "youtube music",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward"
+          }
+        ],
+        "begin-area": {
+          "type-id": null,
+          "sort-name": "Canterbury",
+          "type": null,
+          "id": "36ed2e86-4e30-49eb-8acb-96004ef98fa3",
+          "disambiguation": "",
+          "name": "Canterbury"
+        },
+        "end-area": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "isnis": [
+          "0000000115037939"
+        ],
+        "sort-name": "Soft Machine",
+        "id": "5193ce6b-a315-4c50-ae49-54e69ffbc988",
+        "area": {
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type": null,
+          "name": "United Kingdom",
+          "type-id": null,
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "disambiguation": "",
+          "sort-name": "United Kingdom"
+        },
+        "gender": null
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"GILBERT CASTELLANOS & THE NEW LATIN JAZZ SEXTET - SUPPERCLUB\\\"\"}": {
+      "fetched_at": "2026-11-14T19:59:08.065755+00:00",
+      "data": {
+        "created": "2026-11-14T20:00:01.369Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"The Emkays\\\"\"}": {
+      "fetched_at": "2026-11-14T19:59:08.065755+00:00",
+      "data": {
+        "created": "2026-11-14T20:00:07.716Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"New Year\\u2019s Revolution\\\"\"}": {
+      "fetched_at": "2026-11-14T19:59:08.065755+00:00",
+      "data": {
+        "created": "2026-11-14T20:00:13.159Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "aeb3e5b9-850b-40ae-962c-cb84402396c4",
+            "score": 100,
+            "name": "New Year's Revolution",
+            "sort-name": "New Year's Revolution",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/aeb3e5b9-850b-40ae-962c-cb84402396c4?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-14T19:59:08.065755+00:00",
+      "data": {
+        "name": "New Year's Revolution",
+        "relations": [],
+        "id": "aeb3e5b9-850b-40ae-962c-cb84402396c4",
+        "end-area": null,
+        "begin-area": null,
+        "gender-id": null,
+        "disambiguation": "",
+        "area": null,
+        "country": null,
+        "life-span": {
+          "ended": false,
+          "end": null,
+          "begin": null
+        },
+        "type": null,
+        "gender": null,
+        "ipis": [],
+        "sort-name": "New Year's Revolution",
+        "isnis": [],
+        "type-id": null
+      }
     }
   }
 }
