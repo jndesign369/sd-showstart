@@ -3166,6 +3166,17 @@
         "release_url": "https://noconsentband.bandcamp.com/album/waste-your-life-away"
       },
       "reason": null
+    },
+    "https://thedrowns.bandcamp.com/": {
+      "checked_at": "2026-11-15T11:19:00.774593+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://thedrowns.bandcamp.com/track/always-a-bastard",
+        "listen_service": "Bandcamp",
+        "listen_title": "Always a Bastard",
+        "release_url": "https://thedrowns.bandcamp.com/album/harsh-reality"
+      },
+      "reason": null
     }
   }
 }

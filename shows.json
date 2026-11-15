@@ -1,428 +1,11 @@
 {
- "generated_at": "2026-11-14T11:59:07-08:00",
+ "generated_at": "2026-11-15T03:18:08-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
   "updated": "November 14, 2026"
  },
  "shows": [
-  {
-   "id": "3oz-dive-club:2026-11-14:truly-madly",
-   "date": "2026-11-14",
-   "venue": "3OZ Dive Club",
-   "city": "San Diego",
-   "performers": [
-    "TRULY MADLY"
-   ],
-   "artists": [
-    {
-     "name": "TRULY MADLY"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "belly-up-tavern:2026-11-14:donavon-frankenreiter",
-   "date": "2026-11-14",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Donavon Frankenreiter",
-    "The Band of Heathens"
-   ],
-   "artists": [
-    {
-     "name": "Donavon Frankenreiter",
-     "mbid": "cf66ee44-360b-445e-bfb8-e20e69325742",
-     "official_url": "http://www.donavonf.com/",
-     "listen_url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "The Band of Heathens",
-     "mbid": "913cd338-9439-4106-ab5f-76f98c48daee",
-     "official_url": "http://www.bandofheathens.com/",
-     "listen_url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "casbah:2026-11-14:southern-culture-on-the-skids",
-   "date": "2026-11-14",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "Southern Culture On the Skids"
-   ],
-   "artists": [
-    {
-     "name": "Southern Culture On the Skids",
-     "mbid": "90c88f94-8b70-49fd-9726-cadf4306ef42",
-     "official_url": "http://www.scots.com/",
-     "listen_url": "https://southerncultureontheskids.bandcamp.com/track/call-me",
-     "listen_service": "Bandcamp",
-     "listen_title": "Call Me"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
-  },
-  {
-   "id": "dizzy-s-jazz:2026-11-14:rob-thorsen-kahlil-childs",
-   "date": "2026-11-14",
-   "venue": "Dizzy's Jazz",
-   "city": "San Diego",
-   "performers": [
-    "Rob Thorsen & Kahlil Childs"
-   ],
-   "artists": [
-    {
-     "name": "Rob Thorsen & Kahlil Childs"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "harrah-s-resort-southern-california:2026-11-14:straight-no-chaser",
-   "date": "2026-11-14",
-   "venue": "Harrah's Resort Southern California",
-   "city": "Valley Center",
-   "performers": [
-    "Straight No Chaser"
-   ],
-   "artists": [
-    {
-     "name": "Straight No Chaser",
-     "mbid": "ea6c62ec-701e-4f01-bbcc-adfad2d3be70",
-     "official_url": "http://www.sncproductions.com/",
-     "listen_url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "house-of-blues:2026-11-14:lil-peep",
-   "date": "2026-11-14",
-   "venue": "House of Blues",
-   "city": "San Diego",
-   "performers": [
-    "Lil Peep",
-    "2DEAD BOYZ",
-    "The Underachievers",
-    "Dizzy Wright"
-   ],
-   "artists": [
-    {
-     "name": "Lil Peep",
-     "mbid": "92da4329-77a4-425c-8e92-4280110cace9",
-     "official_url": "https://lilpeep.com/",
-     "listen_url": "https://lilpeep.bandcamp.com/track/drugz-prod-john-mello",
-     "listen_service": "Bandcamp",
-     "listen_title": "drugz (prod. john mello)"
-    },
-    {
-     "name": "2DEAD BOYZ",
-     "mbid": "a4a646c8-641f-43e4-aa10-24b04eed2f9f"
-    },
-    {
-     "name": "The Underachievers",
-     "mbid": "38605648-3b99-4344-8fad-2ccd31a73575",
-     "listen_url": "https://open.spotify.com/artist/51Pn4gGnZuyOMDfIT1Zy3N",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Dizzy Wright",
-     "mbid": "6a12275f-4e18-4909-ba4d-7394224de7d2",
-     "listen_url": "https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.houseofblues.com/sandiego"
-  },
-  {
-   "id": "humphreys-backstage-live:2026-11-14:robin-henkel",
-   "date": "2026-11-14",
-   "venue": "Humphreys Backstage Live",
-   "city": "San Diego",
-   "performers": [
-    "Robin Henkel"
-   ],
-   "artists": [
-    {
-     "name": "Robin Henkel",
-     "mbid": "63e42d24-b39f-4185-ae78-9b26a8574c18",
-     "official_url": "http://robinhenkel.com/"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "lou-lou-s:2026-11-14:western-standard-time-ska-orchestra-featuring-mara-kaye",
-   "date": "2026-11-14",
-   "venue": "Lou Lou's",
-   "city": "San Diego",
-   "performers": [
-    "WESTERN STANDARD TIME SKA ORCHESTRA featuring MARA KAYE"
-   ],
-   "artists": [
-    {
-     "name": "WESTERN STANDARD TIME SKA ORCHESTRA featuring MARA KAYE"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "music-box:2026-11-14:boombox",
-   "date": "2026-11-14",
-   "venue": "Music Box",
-   "city": "San Diego",
-   "performers": [
-    "BoomBox",
-    "DGTL CLR"
-   ],
-   "artists": [
-    {
-     "name": "BoomBox",
-     "mbid": "0a7604d0-a712-4d5c-83cb-cc4ae3d01455",
-     "official_url": "http://thisisboombox.com/"
-    },
-    {
-     "name": "DGTL CLR"
-    }
-   ],
-   "venue_url": "https://www.musicboxsd.com/"
-  },
-  {
-   "id": "north-island-credit-union-amphitheatre:2026-11-14:deorro",
-   "date": "2026-11-14",
-   "venue": "North Island Credit Union Amphitheatre",
-   "city": "Chula Vista",
-   "performers": [
-    "Deorro",
-    "Alacranes Musical",
-    "Juos"
-   ],
-   "artists": [
-    {
-     "name": "Deorro",
-     "mbid": "724ffc08-6987-40b0-b107-03bb95a82b80",
-     "official_url": "http://deorro.com/",
-     "listen_url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Alacranes Musical",
-     "mbid": "387d3712-60ae-464a-8784-1fd94034704a",
-     "listen_url": "https://open.spotify.com/artist/2aZtzjAzD8fq3OhZ9egqda",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Juos",
-     "mbid": "01b46b4c-4038-4962-90a2-b187e6abcfa5",
-     "listen_url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "nova-sd:2026-11-14:audien-awnaw-carter-miami",
-   "date": "2026-11-14",
-   "venue": "Nova SD",
-   "city": "San Diego",
-   "performers": [
-    "Audien Awnaw | Carter Miami"
-   ],
-   "artists": [
-    {
-     "name": "Audien Awnaw | Carter Miami"
-    }
-   ],
-   "venue_url": "https://novasandiego.com/"
-  },
-  {
-   "id": "pechanga-arena:2026-11-14:los-tigres-del-norte",
-   "date": "2026-11-14",
-   "venue": "Pechanga Arena",
-   "city": "San Diego",
-   "performers": [
-    "Los Tigres del Norte"
-   ],
-   "artists": [
-    {
-     "name": "Los Tigres del Norte",
-     "mbid": "75cdc7ad-63b6-48b3-8de2-617d08a9ddf8",
-     "official_url": "http://lostigresdelnorte.com/",
-     "listen_url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.pechangaarenasd.com/"
-  },
-  {
-   "id": "pechanga-resort-casino:2026-11-14:banda-machos",
-   "date": "2026-11-14",
-   "venue": "Pechanga Resort & Casino",
-   "city": "Temecula",
-   "performers": [
-    "Banda Machos",
-    "Ezequiel Pe\u00f1a"
-   ],
-   "artists": [
-    {
-     "name": "Banda Machos",
-     "mbid": "46a7282b-af3e-4e4f-badb-41d2e12d1a19",
-     "official_url": "http://www.bandamachos.com.mx/",
-     "listen_url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Ezequiel Pe\u00f1a",
-     "mbid": "a2bc5fa4-caeb-4d98-bf5c-000a7a6b48cf",
-     "listen_url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.pechanga.com/"
-  },
-  {
-   "id": "quartyard:2026-11-14:sina-bathaie",
-   "date": "2026-11-14",
-   "venue": "Quartyard",
-   "city": "San Diego",
-   "performers": [
-    "Sina Bathaie"
-   ],
-   "artists": [
-    {
-     "name": "Sina Bathaie",
-     "mbid": "06d988e0-c05e-4b29-a85d-dd7688f27b7c",
-     "official_url": "https://www.sinabathaie.com/",
-     "listen_url": "https://open.spotify.com/artist/4ZOwX9evB8c6oLayzq2OY8",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://quartyardsd.com/"
-  },
-  {
-   "id": "soma:2026-11-14:jstjr",
-   "date": "2026-11-14",
-   "venue": "SOMA",
-   "city": "San Diego",
-   "performers": [
-    "JSTJR"
-   ],
-   "artists": [
-    {
-     "name": "JSTJR",
-     "mbid": "38c95aaf-0873-4c51-b197-771eb116a1d7",
-     "listen_url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.somasandiego.com/"
-  },
-  {
-   "id": "san-diego-civic-theatre:2026-11-14:marisela",
-   "date": "2026-11-14",
-   "venue": "San Diego Civic Theatre",
-   "city": "San Diego",
-   "performers": [
-    "Marisela"
-   ],
-   "artists": [
-    {
-     "name": "Marisela",
-     "mbid": "bf319713-88a0-4a06-ab6f-2ead83e923bb",
-     "official_url": "http://www.marisela.com.mx/",
-     "listen_url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.sdcivic.org/"
-  },
-  {
-   "id": "the-kensington-club:2026-11-14:ra",
-   "date": "2026-11-14",
-   "venue": "The Kensington Club",
-   "city": "San Diego",
-   "performers": [
-    "Ra",
-    "Seashell Radio",
-    "The Cabriolets"
-   ],
-   "artists": [
-    {
-     "name": "Ra",
-     "mbid": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
-     "official_url": "http://www.sunra.com/",
-     "listen_url": "https://sunramusic.bandcamp.com/track/heliocentric-worlds",
-     "listen_service": "Bandcamp",
-     "listen_title": "Heliocentric Worlds"
-    },
-    {
-     "name": "Seashell Radio"
-    },
-    {
-     "name": "The Cabriolets",
-     "mbid": "34b606b2-ccee-46e1-8b39-3de61aa2e09d"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "the-observatory-north-park:2026-11-14:the-tallest-man-on-earth",
-   "date": "2026-11-14",
-   "venue": "The Observatory North Park",
-   "city": "San Diego",
-   "performers": [
-    "The Tallest Man On Earth",
-    "Andrea Von Kampen"
-   ],
-   "artists": [
-    {
-     "name": "The Tallest Man On Earth",
-     "mbid": "7e35659f-f3bb-4c28-bcf5-47bd5cfa2bca",
-     "official_url": "http://www.thetallestmanonearth.com/",
-     "listen_url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Andrea Von Kampen",
-     "mbid": "2f0f9b8e-3b28-42f6-bf3e-6a7adab2340e",
-     "official_url": "http://andreavonkampen.com/",
-     "listen_url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.observatorysd.com"
-  },
-  {
-   "id": "the-tower-bar:2026-11-14:signal-for-pilot",
-   "date": "2026-11-14",
-   "venue": "The Tower Bar",
-   "city": "San Diego",
-   "performers": [
-    "Signal For Pilot",
-    "Velvet Dinner Party",
-    "Slum Summer"
-   ],
-   "artists": [
-    {
-     "name": "Signal For Pilot"
-    },
-    {
-     "name": "Velvet Dinner Party"
-    },
-    {
-     "name": "Slum Summer",
-     "mbid": "18740f56-6786-4e2d-94a2-6ec7436eb2a4"
-    }
-   ],
-   "venue_url": null
-  },
   {
    "id": "belly-up-tavern:2026-11-15:marc-broussard",
    "date": "2026-11-15",
@@ -7703,7 +7286,11 @@
    ],
    "artists": [
     {
-     "name": "M.I.A."
+     "name": "M.I.A.",
+     "mbid": "7cf0ea9d-86b9-4dad-ba9e-2355a64899ea",
+     "official_url": "https://ohmni.com/",
+     "listen_url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU",
+     "listen_service": "Spotify"
     },
     {
      "name": "Strychnine Ninety Nine"
@@ -7785,7 +7372,11 @@
    ],
    "artists": [
     {
-     "name": "The Drowns"
+     "name": "The Drowns",
+     "mbid": "184d6fb6-8687-417a-9142-105cacc97905",
+     "listen_url": "https://thedrowns.bandcamp.com/track/always-a-bastard",
+     "listen_service": "Bandcamp",
+     "listen_title": "Always a Bastard"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -8621,7 +8212,11 @@
      "official_url": "http://www.thesways.co.uk/"
     },
     {
-     "name": "Abigail Rose"
+     "name": "Abigail Rose",
+     "mbid": "036bacd7-c23f-4583-9c30-242a393df3f4",
+     "official_url": "https://www.abigailrosemusic.com/",
+     "listen_url": "https://open.spotify.com/artist/6uXHv7VdgIW1OdLgHy1zCN",
+     "listen_service": "Spotify"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -11849,7 +11444,8 @@
    ],
    "artists": [
     {
-     "name": "Midnight Riders"
+     "name": "Midnight Riders",
+     "mbid": "7e1ff165-0675-414b-9519-620f9df237bf"
     }
    ],
    "venue_url": null
@@ -12525,10 +12121,16 @@
    ],
    "artists": [
     {
-     "name": "Goldie Boutilier"
+     "name": "Goldie Boutilier",
+     "mbid": "fa4da517-ad77-4060-b0fc-f1e53e815383",
+     "listen_url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5",
+     "listen_service": "Spotify"
     },
     {
-     "name": "Cailin Russo"
+     "name": "Cailin Russo",
+     "mbid": "c1da9118-dd0b-4bbe-b81d-8c6b41854231",
+     "listen_url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0",
+     "listen_service": "Spotify"
     }
    ],
    "venue_url": "https://www.observatorysd.com"

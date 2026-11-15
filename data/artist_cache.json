@@ -409736,6 +409736,2904 @@
         "isnis": [],
         "type-id": null
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"M.I.A.\\\"\"}": {
+      "fetched_at": "2026-11-15T11:18:08.350838+00:00",
+      "data": {
+        "created": "2026-11-15T11:18:14.049Z",
+        "count": 564,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "7cf0ea9d-86b9-4dad-ba9e-2355a64899ea",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "M.I.A.",
+            "sort-name": "M.I.A.",
+            "gender": "female",
+            "area": {
+              "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "England",
+              "sort-name": "England",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "95091e69-e48c-4709-90f2-6a8e6733e14e",
+              "type": "District",
+              "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+              "name": "Hounslow",
+              "sort-name": "Hounslow",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "hip hop artist Maya Arulpragasam",
+            "ipis": [
+              "00451437664"
+            ],
+            "isnis": [
+              "0000000129764360"
+            ],
+            "life-span": {
+              "begin": "1975-07-18",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "அருள்பிரகாசம், மாதங்கி 'மாயா'",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "மாதங்கி 'மாயா' அருள்பிரகாசம்",
+                "locale": "ta",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Arulpragasam, Maya",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Maya Arulpragasam",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Arulpragasam, Mathangi",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Mathangi Arulpragasam",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "MIA",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "MIA",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 7,
+                "name": "electronic"
+              },
+              {
+                "count": 1,
+                "name": "pop"
+              },
+              {
+                "count": 3,
+                "name": "dance"
+              },
+              {
+                "count": 0,
+                "name": "hip-hop"
+              },
+              {
+                "count": 2,
+                "name": "experimental"
+              },
+              {
+                "count": 0,
+                "name": "british"
+              },
+              {
+                "count": 1,
+                "name": "idm"
+              },
+              {
+                "count": 7,
+                "name": "hip hop"
+              },
+              {
+                "count": 0,
+                "name": "uk"
+              },
+              {
+                "count": 0,
+                "name": "world"
+              },
+              {
+                "count": 0,
+                "name": "hiphop"
+              },
+              {
+                "count": 1,
+                "name": "electronica"
+              },
+              {
+                "count": 2,
+                "name": "electropop"
+              },
+              {
+                "count": 1,
+                "name": "female vocals"
+              },
+              {
+                "count": 0,
+                "name": "world music"
+              },
+              {
+                "count": 0,
+                "name": "desi"
+              },
+              {
+                "count": 0,
+                "name": "avant-pop"
+              },
+              {
+                "count": 0,
+                "name": "experimental pop"
+              },
+              {
+                "count": 2,
+                "name": "pop rap"
+              },
+              {
+                "count": 1,
+                "name": "alternative dance"
+              },
+              {
+                "count": 1,
+                "name": "contemporary christian"
+              },
+              {
+                "count": 1,
+                "name": "ccm"
+              },
+              {
+                "count": 0,
+                "name": "english"
+              },
+              {
+                "count": 5,
+                "name": "dancehall"
+              },
+              {
+                "count": 1,
+                "name": "trip hop"
+              },
+              {
+                "count": 1,
+                "name": "grime"
+              },
+              {
+                "count": 0,
+                "name": "asian"
+              },
+              {
+                "count": 0,
+                "name": "british asian"
+              },
+              {
+                "count": 0,
+                "name": "sri lankan"
+              },
+              {
+                "count": 1,
+                "name": "indietronica"
+              },
+              {
+                "count": 1,
+                "name": "new rave"
+              },
+              {
+                "count": 1,
+                "name": "edm"
+              },
+              {
+                "count": 5,
+                "name": "alternative hip hop"
+              },
+              {
+                "count": 2,
+                "name": "experimental hip hop"
+              },
+              {
+                "count": 2,
+                "name": "uk hip hop"
+              },
+              {
+                "count": 1,
+                "name": "christian hip hop"
+              },
+              {
+                "count": 0,
+                "name": "sri lanka"
+              },
+              {
+                "count": 2,
+                "name": "industrial hip hop"
+              },
+              {
+                "count": 2,
+                "name": "political hip hop"
+              },
+              {
+                "count": -1,
+                "name": "synth punk"
+              },
+              {
+                "count": 1,
+                "name": "trap"
+              },
+              {
+                "count": 0,
+                "name": "funk carioca"
+              },
+              {
+                "count": 1,
+                "name": "trap edm"
+              },
+              {
+                "count": 1,
+                "name": "urban contemporary gospel"
+              },
+              {
+                "count": 1,
+                "name": "maga"
+              },
+              {
+                "count": 0,
+                "name": "escape room"
+              },
+              {
+                "count": 0,
+                "name": "progressive rap"
+              },
+              {
+                "count": 0,
+                "name": "proto-hyperpop"
+              },
+              {
+                "count": 0,
+                "name": "pro trump"
+              }
+            ]
+          },
+          {
+            "id": "08602315-ec54-4918-b446-efd6e9c6c9b6",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 96,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Mia Martini",
+            "sort-name": "Martini, Mia",
+            "gender": "female",
+            "country": "IT",
+            "area": {
+              "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Italy",
+              "sort-name": "Italy",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "84424321-c799-4807-86c8-074f1e9dc18c",
+              "type": "Municipality",
+              "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+              "name": "Bagnara Calabra",
+              "sort-name": "Bagnara Calabra",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "end-area": {
+              "id": "11dec788-0f0f-470c-804e-5f5d61a70f39",
+              "type": "Municipality",
+              "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+              "name": "Cardano al Campo",
+              "sort-name": "Cardano al Campo",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Italian singer",
+            "ipis": [
+              "00002963011"
+            ],
+            "isnis": [
+              "0000000059197427",
+              "0000000368401153"
+            ],
+            "life-span": {
+              "begin": "1947-09-20",
+              "end": "1995-05-12",
+              "ended": true
+            },
+            "aliases": [
+              {
+                "sort-name": "Bertè, Domenica",
+                "name": "Domenica Bertè",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bertè, Domenica Rita Adriana",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Domenica Rita Adriana Bertè",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Mimì Berté",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Mimì Berté",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Mimì",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Mimì",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bertè, Mimì",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Mimì Bertè",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1963",
+                "end-date": "1970"
+              }
+            ],
+            "tags": [
+              {
+                "count": 3,
+                "name": "pop"
+              },
+              {
+                "count": 2,
+                "name": "singer-songwriter"
+              },
+              {
+                "count": 1,
+                "name": "italian"
+              },
+              {
+                "count": 1,
+                "name": "international"
+              },
+              {
+                "count": 1,
+                "name": "italian music"
+              },
+              {
+                "count": 1,
+                "name": "italian pop"
+              },
+              {
+                "count": 1,
+                "name": "wips"
+              },
+              {
+                "count": -1,
+                "name": "death by overdose"
+              },
+              {
+                "count": 1,
+                "name": "contemporary pop/rock"
+              },
+              {
+                "count": 1,
+                "name": "western european traditions"
+              },
+              {
+                "count": 1,
+                "name": "italian singer-songwriter"
+              }
+            ]
+          },
+          {
+            "id": "6a0f0a74-8689-4bf6-aa8e-6a954ac5f0cb",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 94,
+            "name": "MIA.",
+            "sort-name": "MIA.",
+            "country": "DE",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Berlin",
+              "sort-name": "Berlin",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "German rock/pop group",
+            "isnis": [
+              "0000000106667517"
+            ],
+            "life-span": {
+              "begin": "1997",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "M.I.A.",
+                "name": "M.I.A.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Mia",
+                "name": "Mia",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 2,
+                "name": "german"
+              },
+              {
+                "count": 1,
+                "name": "pop"
+              }
+            ]
+          },
+          {
+            "id": "a956abe5-715f-4af3-8ef0-1caeaf20d40c",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 84,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Mia Stegner",
+            "sort-name": "Stegner, Mia",
+            "gender": "female",
+            "disambiguation": "singer-songwriter",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "5f6be871-eb98-42f1-bce4-5a3d8212c281",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 82,
+            "name": "M.I.A.",
+            "sort-name": "M.I.A.",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "cd22d0ba-c79b-45b3-a8e0-617b240df5f0",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Las Vegas",
+              "sort-name": "Las Vegas",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "USA punk band",
+            "isnis": [
+              "0000000106956087"
+            ],
+            "life-span": {
+              "begin": "1982",
+              "end": "1988",
+              "ended": true
+            },
+            "aliases": [
+              {
+                "sort-name": "MIA,",
+                "name": "MIA,",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          },
+          {
+            "id": "b22d45dd-deae-4663-a782-542db02e25cf",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 82,
+            "name": "M.I.A.",
+            "sort-name": "M.I.A.",
+            "country": "AR",
+            "area": {
+              "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Argentina",
+              "sort-name": "Argentina",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Argentina",
+              "sort-name": "Argentina",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "end-area": {
+              "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Argentina",
+              "sort-name": "Argentina",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Argentinian prog rock, aka Músicos Independientes Asociados",
+            "isnis": [
+              "0000000469699227"
+            ],
+            "life-span": {
+              "begin": "1975",
+              "end": "1980",
+              "ended": true
+            },
+            "aliases": [
+              {
+                "sort-name": "MIA",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "MIA",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Músicos Independientes Asociados",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Músicos Independientes Asociados",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 1,
+                "name": "symphonic prog"
+              }
+            ]
+          },
+          {
+            "id": "6cd90e30-bfde-47e3-82d8-d03182e22f49",
+            "type": "Character",
+            "type-id": "5c1375b0-f18d-3db7-a164-a49d7a63773f",
+            "score": 81,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Mia and Me",
+            "sort-name": "Mia and Me",
+            "gender": "female",
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "has german audiobooks"
+              },
+              {
+                "count": 1,
+                "name": "fictional"
+              },
+              {
+                "count": 2,
+                "name": "series title as artist"
+              }
+            ]
+          },
+          {
+            "id": "7a7a92dc-be72-43f1-9951-2d758ca84996",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 81,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "M.I.A.",
+            "sort-name": "M.I.A.",
+            "gender": "female",
+            "country": "DE",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "German techno artist Michaela Grobelny",
+            "isnis": [
+              "0000000372527592"
+            ],
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "2854b420-eb79-457b-ba7a-baf30e33d0b4",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 80,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Mia Julia",
+            "sort-name": "Mia Julia",
+            "gender": "female",
+            "country": "DE",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "München",
+              "sort-name": "München",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "German schlager singer",
+            "isnis": [
+              "0000000451222404"
+            ],
+            "life-span": {
+              "begin": "1986-12-09",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Brückner, Mia Julia",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Mia Julia Brückner",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Mia Magma",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Mia Magma",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": "2012"
+              },
+              {
+                "sort-name": "Mia Julia",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Mia Julia",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          },
+          {
+            "id": "cfb7ba21-c1ee-4d0e-a1c9-4800616d95d6",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 79,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Mia Wray",
+            "sort-name": "Wray, Mia",
+            "gender": "female",
+            "area": {
+              "id": "c1e9cc93-f223-470d-b9e1-653709de68c3",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "Queensland",
+              "sort-name": "Queensland",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "ipis": [
+              "00666702427",
+              "00666702525"
+            ],
+            "isnis": [
+              "0000000475707721"
+            ],
+            "life-span": {
+              "begin": "1995-10-29",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Wray‐McCann, Mia Isobel",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Mia Isobel Wray‐McCann",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 1,
+                "name": "pop"
+              },
+              {
+                "count": 1,
+                "name": "alternative"
+              },
+              {
+                "count": 1,
+                "name": "female vocals"
+              },
+              {
+                "count": 1,
+                "name": "alternative/indie rock"
+              },
+              {
+                "count": 1,
+                "name": "adult alternative pop/rock"
+              },
+              {
+                "count": 1,
+                "name": "contemporary singer/songwriter"
+              },
+              {
+                "count": 1,
+                "name": "bedroom pop"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/7cf0ea9d-86b9-4dad-ba9e-2355a64899ea?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-15T11:18:08.350838+00:00",
+      "data": {
+        "relations": [
+          {
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.allmusic.com/artist/mn0000388773",
+              "id": "7aa8b52d-1f4f-4f87-a978-007f39b32e5c"
+            },
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "allmusic",
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "source-credit": "Mathangi Arulpragasam",
+            "attribute-values": {},
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "id": "8e27a24b-967a-4d00-9fd2-6e46db98a115",
+              "resource": "https://www.allmusic.com/artist/mn0002513087"
+            },
+            "target-credit": "",
+            "type": "allmusic",
+            "attribute-ids": {},
+            "ended": false
+          },
+          {
+            "ended": false,
+            "attribute-ids": {},
+            "type": "allmusic",
+            "url": {
+              "resource": "https://www.allmusic.com/artist/mn0003116285",
+              "id": "ae565024-da79-4371-b50c-b46a47895abd"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "source-credit": "Mathangi Arulpragasam",
+            "attribute-values": {},
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846"
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.bbc.co.uk/music/artists/7cf0ea9d-86b9-4dad-ba9e-2355a64899ea",
+              "id": "31d2b3d8-73b4-4963-9f6a-f84ef7e11c87"
+            },
+            "begin": null,
+            "attributes": [],
+            "ended": true,
+            "attribute-ids": {},
+            "type": "BBC Music page",
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+            "target-type": "url",
+            "direction": "forward",
+            "end": "2020-11-19"
+          },
+          {
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "url": {
+              "resource": "https://miauniverse.tumblr.com/",
+              "id": "e411e767-cdd0-4b2f-bc46-40e1e96c1ba1"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "blog"
+          },
+          {
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "url": {
+              "resource": "https://www.discogs.com/artist/141549",
+              "id": "0faeed25-13e9-4e95-ac25-633d731f21d8"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "discogs"
+          },
+          {
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "Mathangi Arulpragasam",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attribute-ids": {},
+            "ended": false,
+            "type": "discogs",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.discogs.com/artist/701398",
+              "id": "6f57bd83-0103-4305-a9cd-04ef853cbdc2"
+            },
+            "attributes": []
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "type": "free streaming",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "d9c37d70-9a2a-4f56-9bdb-8285afbd62b9",
+              "resource": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+          },
+          {
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "fee6012a-4887-48cb-9b00-11880e766123",
+              "resource": "https://www.deezer.com/artist/3878"
+            },
+            "begin": null,
+            "type": "free streaming",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "type": "image",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "id": "b2b5a4ef-1896-42bd-8b67-5486c5bf2664",
+              "resource": "https://commons.wikimedia.org/wiki/File:MIAatNewYorkcut.JPG"
+            },
+            "target-credit": "",
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+            "attribute-values": {},
+            "source-credit": ""
+          },
+          {
+            "ended": false,
+            "attribute-ids": {},
+            "type": "IMDb",
+            "url": {
+              "resource": "https://www.imdb.com/name/nm1756665/",
+              "id": "2471b7c1-3f13-4412-9071-ab25b99ad748"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c"
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://pitchfork.com/news/27349-mia-confronts-the-haters/",
+              "id": "1dc1d670-4336-473c-8e94-09e0fb2d9c86"
+            },
+            "type": "interview",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "1f171391-1f98-4f45-b191-038ec3b12395",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "url": {
+              "id": "57ecb58a-e4ec-4da8-8968-e00c96580bd5",
+              "resource": "https://www.last.fm/music/M.I.A."
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "last.fm"
+          },
+          {
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "url": {
+              "resource": "http://muzikum.eu/en/122-5063/m.i.a./lyrics.html",
+              "id": "f813e599-fa2e-43c8-9b96-2099fc38070d"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "lyrics"
+          },
+          {
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "url": {
+              "id": "bf10a5eb-6cc8-4894-90a5-f39dd3178627",
+              "resource": "https://genius.com/artists/Mia"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type": "lyrics",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "type": "myspace",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "resource": "https://myspace.com/mia",
+              "id": "dcf66e86-be9a-49a3-9851-ee951e556f02"
+            },
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+            "attribute-values": {},
+            "source-credit": ""
+          },
+          {
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "37b779a2-02cb-40d3-8f70-40abd1daf491",
+              "resource": "https://ohmni.com/"
+            },
+            "type": "official homepage",
+            "attribute-ids": {},
+            "ended": false
+          },
+          {
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "e69dd4b4-d997-43a9-bc93-90aef9bb795e",
+              "resource": "http://www.miauk.com/"
+            },
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": true,
+            "type": "official homepage"
+          },
+          {
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "resource": "https://imvdb.com/n/m.i.a.",
+              "id": "c6452db0-8762-4dae-959f-96279bdc6153"
+            },
+            "target-credit": "",
+            "type": "other databases",
+            "attribute-ids": {},
+            "ended": false
+          },
+          {
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "target-credit": "",
+            "url": {
+              "id": "387c6264-0b1d-4f15-9419-3610b3b0307d",
+              "resource": "https://ra.co/dj/m.i.a.uk"
+            },
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "other databases"
+          },
+          {
+            "begin": null,
+            "url": {
+              "resource": "https://rateyourmusic.com/artist/m_i_a-1",
+              "id": "a0b9e03c-79c4-427b-bb96-01d52b56bdb0"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "other databases",
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "6f77d54e-1d81-4e1a-9ea5-37947577151b",
+            "ended": false,
+            "attribute-ids": {},
+            "type": "patronage",
+            "url": {
+              "resource": "https://www.patreon.com/mia",
+              "id": "d8300292-e3e0-43a4-a027-f1ddbfaf40ab"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "type": "purchase for download",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://itunes.apple.com/gb/artist/id14677454",
+              "id": "9b47a1ad-4d5e-424b-a53d-164427f44524"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203"
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "resource": "https://mora.jp/artist/10631/",
+              "id": "4a5b5108-da01-4207-8a6a-e4e29692bc70"
+            },
+            "target-credit": "",
+            "type": "purchase for download",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "ended": false,
+            "attribute-ids": {},
+            "type": "purchase for download",
+            "target-credit": "",
+            "url": {
+              "id": "0460d05f-cb5d-4935-b584-b699d70bfd7c",
+              "resource": "https://open.qobuz.com/artist/64669"
+            },
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203"
+          },
+          {
+            "url": {
+              "id": "13acfaae-75e8-40ec-8ff8-f818cdfdbbdf",
+              "resource": "https://ototoy.jp/_/default/a/271755"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "purchase for download",
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null
+          },
+          {
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "purchase for download",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.beatport.com/artist/mia/380489",
+              "id": "b3a66118-93a6-4028-bc1d-0ef005c01bad"
+            },
+            "begin": null
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "id": "0cce1e4c-16ca-4a05-bd21-2482172994da",
+              "resource": "https://www.beatport.com/artist/mia/7369"
+            },
+            "target-credit": "",
+            "type": "purchase for download",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "source-credit": "",
+            "attribute-values": {},
+            "type": "purchase for download",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "resource": "https://www.qobuz.com/us-en/interpreter/m-i-a/64669",
+              "id": "efe7e02e-f149-4188-a0f6-6103a1425ef6"
+            },
+            "target-credit": "",
+            "begin": null
+          },
+          {
+            "type": "social network",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "id": "d9695c48-4001-4027-9a41-dc2726bffcb8",
+              "resource": "https://foundation.app/@MIA"
+            },
+            "target-credit": "",
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "source-credit": "",
+            "attribute-values": {}
+          },
+          {
+            "type": "social network",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "resource": "https://twitter.com/MIAuniverse",
+              "id": "bc257982-6104-4829-b59b-4e57c8a7925c"
+            },
+            "target-credit": "",
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "source-credit": ""
+          },
+          {
+            "type": "social network",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://vine.co/MIAuniverse",
+              "id": "9c53433c-f5f2-4086-8906-48898aacb6e2"
+            },
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "source-credit": ""
+          },
+          {
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "source-credit": "",
+            "attribute-values": {},
+            "type": "social network",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.facebook.com/miauk",
+              "id": "6c40a8fe-def7-4c7d-a255-6429e6a33e05"
+            }
+          },
+          {
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.instagram.com/miamatangi/",
+              "id": "c3ce1279-b132-4ece-90c0-27fcc0bdb823"
+            },
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "social network"
+          },
+          {
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "url": {
+              "resource": "https://www.tiktok.com/@miauniverse",
+              "id": "43bc587d-7031-460b-9c79-2b6417f36767"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "social network"
+          },
+          {
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "url": {
+              "id": "2836b22f-dafe-4f39-b1ee-8cf683bdc414",
+              "resource": "https://soundcloud.com/miauk"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "soundcloud"
+          },
+          {
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "url": {
+              "resource": "https://music.apple.com/gb/artist/14677454",
+              "id": "c07b0510-b673-4dec-a727-e03f1bbbdced"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "streaming"
+          },
+          {
+            "ended": false,
+            "attribute-ids": {},
+            "type": "streaming",
+            "target-credit": "",
+            "url": {
+              "resource": "https://open.qobuz.com/artist/64669",
+              "id": "0460d05f-cb5d-4935-b584-b699d70bfd7c"
+            },
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "type": "streaming",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "bf71be31-9a10-4f65-9e19-c5559d836906",
+              "resource": "https://tidal.com/artist/3565070"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+          },
+          {
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-ids": {},
+            "ended": false,
+            "type": "streaming",
+            "begin": null,
+            "url": {
+              "id": "efe7e02e-f149-4188-a0f6-6103a1425ef6",
+              "resource": "https://www.qobuz.com/us-en/interpreter/m-i-a/64669"
+            },
+            "target-credit": "",
+            "attributes": []
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "type": "wikidata",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "77ac7aa5-4d72-4772-bcbe-05c64bd14e0e",
+              "resource": "https://www.wikidata.org/wiki/Q204019"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698"
+          },
+          {
+            "type": "youtube",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "id": "354f0507-e89e-49f7-b70a-930a158c2f82",
+              "resource": "https://www.youtube.com/channel/UCAZ0vpW8sVYC8KNuT0gYt0g"
+            },
+            "target-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "attribute-values": {},
+            "source-credit": "MIA YT"
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "resource": "https://www.youtube.com/channel/UCG4ei7sWX6m2itTEhbWQmuA",
+              "id": "674a336f-27d0-44fc-87e1-e8f4ae003518"
+            },
+            "target-credit": "",
+            "type": "youtube",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "attribute-values": {},
+            "source-credit": "M.I.A.",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "source-credit": "MIAVEVO",
+            "attribute-values": {},
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "ended": false,
+            "attribute-ids": {},
+            "type": "youtube",
+            "url": {
+              "resource": "https://www.youtube.com/channel/UCQukyhPqB1ScInTe0dxj0Iw",
+              "id": "fc3903ad-d3ed-4e2c-9807-71aa67c58c07"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": []
+          }
+        ],
+        "id": "7cf0ea9d-86b9-4dad-ba9e-2355a64899ea",
+        "life-span": {
+          "end": null,
+          "begin": "1975-07-18",
+          "ended": false
+        },
+        "ipis": [
+          "00451437664"
+        ],
+        "begin-area": {
+          "id": "95091e69-e48c-4709-90f2-6a8e6733e14e",
+          "sort-name": "Hounslow",
+          "type": null,
+          "disambiguation": "",
+          "name": "Hounslow",
+          "type-id": null
+        },
+        "disambiguation": "hip hop artist Maya Arulpragasam",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "M.I.A.",
+        "area": {
+          "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+          "iso-3166-2-codes": [
+            "GB-ENG"
+          ],
+          "sort-name": "England",
+          "type": null,
+          "name": "England",
+          "disambiguation": "",
+          "type-id": null
+        },
+        "type": "Person",
+        "country": "GB",
+        "isnis": [
+          "0000000129764360"
+        ],
+        "end-area": null,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "name": "M.I.A.",
+        "gender": "Female"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"One Square Mile matinee\\\"\"}": {
+      "fetched_at": "2026-11-15T11:18:08.350838+00:00",
+      "data": {
+        "created": "2026-11-15T11:18:30.453Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"The Drowns\\\"\"}": {
+      "fetched_at": "2026-11-15T11:18:08.350838+00:00",
+      "data": {
+        "created": "2026-11-15T11:18:30.572Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "184d6fb6-8687-417a-9142-105cacc97905",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "The Drowns",
+            "sort-name": "Drowns, The",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Seattle",
+              "sort-name": "Seattle",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000475482518"
+            ],
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "punk"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/184d6fb6-8687-417a-9142-105cacc97905?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-15T11:18:08.350838+00:00",
+      "data": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "life-span": {
+          "begin": null,
+          "end": null,
+          "ended": false
+        },
+        "begin-area": {
+          "disambiguation": "",
+          "name": "Seattle",
+          "sort-name": "Seattle",
+          "type-id": null,
+          "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc",
+          "type": null
+        },
+        "gender-id": null,
+        "country": "US",
+        "disambiguation": "",
+        "id": "184d6fb6-8687-417a-9142-105cacc97905",
+        "area": {
+          "sort-name": "United States",
+          "disambiguation": "",
+          "name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type-id": null,
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ]
+        },
+        "ipis": [],
+        "end-area": null,
+        "name": "The Drowns",
+        "gender": null,
+        "isnis": [
+          "0000000475482518"
+        ],
+        "sort-name": "Drowns, The",
+        "relations": [
+          {
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "type": "bandcamp",
+            "attribute-values": {},
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "direction": "forward",
+            "url": {
+              "resource": "https://thedrowns.bandcamp.com/",
+              "id": "53dab4b5-3ef3-4ab8-ad33-51f6e4abfb1c"
+            },
+            "target-credit": ""
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "2b10c12f-84b9-415f-bd8d-c9739108b53b",
+              "resource": "https://concertspunk.fr/band/the-drowns-002153"
+            },
+            "direction": "forward",
+            "type": "discography page",
+            "attribute-values": {},
+            "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "direction": "forward",
+            "url": {
+              "id": "1098d49e-42ff-456c-b451-78d80c0d89d5",
+              "resource": "https://www.discogs.com/artist/6749264"
+            },
+            "type": "discogs",
+            "attribute-values": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "target-credit": ""
+          },
+          {
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "resource": "https://open.spotify.com/artist/2wbElqOYv4ny7mR8DtP9HT",
+              "id": "0da2c374-5b69-4982-9389-e26b1e20b435"
+            },
+            "attribute-values": {},
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "attribute-values": {},
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.deezer.com/artist/49097801",
+              "id": "1aff3285-722d-47ac-8947-8108d41ac3eb"
+            }
+          },
+          {
+            "type": "purchase for download",
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "direction": "forward",
+            "url": {
+              "id": "06e4213d-02e5-4653-818b-d1644ef5f77d",
+              "resource": "https://itunes.apple.com/us/artist/id1415564053"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "attribute-values": {},
+            "type": "purchase for download",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "url": {
+              "id": "62d848cb-365e-4756-bac0-c764397ec5d8",
+              "resource": "https://open.qobuz.com/artist/3983833"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "061af2c4-e53f-4dfa-bd82-308de39cdc17",
+              "resource": "https://www.facebook.com/thedrowns"
+            },
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "type": "social network"
+          },
+          {
+            "type": "songkick",
+            "attribute-values": {},
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "url": {
+              "resource": "https://www.songkick.com/artists/9656344",
+              "id": "aa92b921-cba6-49e8-b7fb-1f0800e6c913"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "target-credit": "",
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "type": "soundcloud",
+            "attribute-values": {},
+            "direction": "forward",
+            "url": {
+              "resource": "https://soundcloud.com/user-579867056",
+              "id": "d2453005-83a8-4f47-9db8-35cb2bba9b98"
+            },
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "type": "streaming",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "url": {
+              "id": "f0d2e3a8-47a8-4322-89c9-41d5081140e6",
+              "resource": "https://music.apple.com/gb/artist/1415564053"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "62d848cb-365e-4756-bac0-c764397ec5d8",
+              "resource": "https://open.qobuz.com/artist/3983833"
+            },
+            "direction": "forward",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "type": "streaming",
+            "attribute-values": {}
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "attribute-values": {},
+            "type": "streaming",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "url": {
+              "resource": "https://tidal.com/artist/10124067",
+              "id": "e06977dd-6879-4b64-86bb-d163d7344d87"
+            },
+            "direction": "forward",
+            "target-credit": ""
+          }
+        ]
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Abigail Rose\\\"\"}": {
+      "fetched_at": "2026-11-15T11:18:08.350838+00:00",
+      "data": {
+        "created": "2026-11-15T11:18:32.779Z",
+        "count": 2,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "036bacd7-c23f-4583-9c30-242a393df3f4",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Abigail Rose",
+            "sort-name": "Rose, Abigail",
+            "gender": "female",
+            "area": {
+              "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Nashville",
+              "sort-name": "Nashville",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "ipis": [
+              "00629484708"
+            ],
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "83e0a5a2-0655-4892-82f9-10d51d693f5d",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 99,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Abigail Rose",
+            "sort-name": "Rose, Abigail",
+            "gender": "female",
+            "disambiguation": "Nashville indie-rock",
+            "ipis": [
+              "00619785109"
+            ],
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "indie rock"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/036bacd7-c23f-4583-9c30-242a393df3f4?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-15T11:18:08.350838+00:00",
+      "data": {
+        "disambiguation": "",
+        "area": {
+          "disambiguation": "",
+          "type": null,
+          "type-id": null,
+          "sort-name": "Nashville",
+          "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74",
+          "name": "Nashville"
+        },
+        "country": "US",
+        "relations": [
+          {
+            "begin": null,
+            "target-type": "url",
+            "end": null,
+            "url": {
+              "id": "468b8e69-a615-4b54-b3e0-5aa9ae0eee5e",
+              "resource": "https://open.spotify.com/artist/6uXHv7VdgIW1OdLgHy1zCN"
+            },
+            "target-credit": "",
+            "ended": false,
+            "attribute-values": {},
+            "attributes": [],
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "attribute-ids": {},
+            "source-credit": ""
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "official homepage",
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "c0948f62-c0eb-4d0e-ab40-0fcd2115a9f7",
+              "resource": "https://www.abigailrosemusic.com/"
+            },
+            "ended": false,
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "source-credit": "",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "type": "purchase for download",
+            "attributes": [],
+            "attribute-values": {},
+            "ended": false,
+            "url": {
+              "id": "1ec1b39d-8036-413a-a2c6-efc3f486b9b8",
+              "resource": "https://music.apple.com/us/artist/1493138678"
+            },
+            "target-credit": "",
+            "end": null,
+            "target-type": "url",
+            "begin": null
+          },
+          {
+            "target-type": "url",
+            "end": null,
+            "url": {
+              "resource": "https://twitter.com/theabigailrose",
+              "id": "6305b9b6-d4a5-4433-9f94-d18887b273bd"
+            },
+            "target-credit": "",
+            "ended": false,
+            "begin": null,
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "direction": "forward",
+            "attribute-ids": {},
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": []
+          },
+          {
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "c1f606fb-d7fb-4188-8dab-df94b8c1ed39",
+              "resource": "https://www.facebook.com/AbigailRoseMusic"
+            },
+            "begin": null,
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "type": "social network",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": []
+          },
+          {
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "73c9db7c-a9a2-42ac-8e29-3ef1902c85d6",
+              "resource": "https://www.instagram.com/theabigailrose/"
+            },
+            "ended": false,
+            "end": null,
+            "target-type": "url",
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "social network",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+          },
+          {
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.youtube.com/channel/UCZAYonVbvOoB4FqgourP69Q",
+              "id": "09cfd691-7275-4dd5-9883-213377691dd0"
+            },
+            "ended": false,
+            "end": null,
+            "target-type": "url",
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "youtube",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0"
+          }
+        ],
+        "type": "Person",
+        "gender": "Female",
+        "sort-name": "Rose, Abigail",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Abigail Rose",
+        "end-area": null,
+        "ipis": [
+          "00629484708"
+        ],
+        "isnis": [],
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "begin-area": null,
+        "id": "036bacd7-c23f-4583-9c30-242a393df3f4",
+        "life-span": {
+          "end": null,
+          "begin": null,
+          "ended": false
+        }
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Noche de Cumbia\\\"\"}": {
+      "fetched_at": "2026-11-15T11:18:08.350838+00:00",
+      "data": {
+        "created": "2026-11-15T11:18:50.163Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Midnight Riders\\\"\"}": {
+      "fetched_at": "2026-11-15T11:18:08.350838+00:00",
+      "data": {
+        "created": "2026-11-15T11:18:55.381Z",
+        "count": 3,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "7e1ff165-0675-414b-9519-620f9df237bf",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Midnight Riders",
+            "sort-name": "Midnight Riders",
+            "disambiguation": "reggae band",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "7a0a6afb-917a-4314-af7a-594c3a635dc5",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 99,
+            "name": "Midnight Riders",
+            "sort-name": "Midnight Riders",
+            "disambiguation": "Fictional band",
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "fictional band"
+              },
+              {
+                "count": 2,
+                "name": "fictional"
+              },
+              {
+                "count": 1,
+                "name": "fictitious artist"
+              },
+              {
+                "count": 1,
+                "name": "hard rock"
+              }
+            ]
+          },
+          {
+            "id": "b832b355-389b-4c52-a0ee-edb9933e7e1d",
+            "score": 99,
+            "name": "Midnight Riders",
+            "sort-name": "Midnight Riders",
+            "disambiguation": "Imperial group",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/7e1ff165-0675-414b-9519-620f9df237bf?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-15T11:18:08.350838+00:00",
+      "data": {
+        "name": "Midnight Riders",
+        "gender": null,
+        "area": null,
+        "sort-name": "Midnight Riders",
+        "gender-id": null,
+        "country": null,
+        "type": "Group",
+        "isnis": [],
+        "end-area": null,
+        "disambiguation": "reggae band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "life-span": {
+          "begin": null,
+          "ended": false,
+          "end": null
+        },
+        "id": "7e1ff165-0675-414b-9519-620f9df237bf",
+        "relations": [
+          {
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "eca91f97-0190-4797-aa23-9af9ea0e0554",
+              "resource": "https://www.discogs.com/artist/425237"
+            },
+            "begin": null,
+            "type": "discogs",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "begin": null,
+            "url": {
+              "resource": "https://www.facebook.com/MidnightRidersReggaeBand",
+              "id": "bfa5d05d-92ff-4a0b-8376-b5fa4875f697"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "social network",
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null
+          }
+        ],
+        "begin-area": null,
+        "ipis": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Goldie Boutilier\\\"\"}": {
+      "fetched_at": "2026-11-15T11:18:08.350838+00:00",
+      "data": {
+        "created": "2026-11-15T11:18:56.600Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "fa4da517-ad77-4060-b0fc-f1e53e815383",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Goldie Boutilier",
+            "sort-name": "Boutilier, Goldie",
+            "gender": "female",
+            "country": "CA",
+            "area": {
+              "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Canada",
+              "sort-name": "Canada",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Canadian singer, songwriter, model and DJ",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/fa4da517-ad77-4060-b0fc-f1e53e815383?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-15T11:18:08.350838+00:00",
+      "data": {
+        "life-span": {
+          "ended": false,
+          "end": null,
+          "begin": null
+        },
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "begin-area": null,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "country": "CA",
+        "disambiguation": "Canadian singer, songwriter, model and DJ",
+        "ipis": [],
+        "area": {
+          "sort-name": "Canada",
+          "disambiguation": "",
+          "name": "Canada",
+          "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+          "type-id": null,
+          "type": null,
+          "iso-3166-1-codes": [
+            "CA"
+          ]
+        },
+        "end-area": null,
+        "id": "fa4da517-ad77-4060-b0fc-f1e53e815383",
+        "isnis": [],
+        "sort-name": "Boutilier, Goldie",
+        "relations": [
+          {
+            "url": {
+              "id": "820fa5ab-106b-4067-be4e-f46751c1efdb",
+              "resource": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+            },
+            "direction": "forward",
+            "type": "free streaming",
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "attribute-values": {},
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "url": {
+              "resource": "https://www.deezer.com/artist/85041852",
+              "id": "ddc4336c-9cc1-4a84-94a6-d59d764efa73"
+            },
+            "direction": "forward"
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "resource": "https://open.qobuz.com/artist/6650749",
+              "id": "eff3e5fd-f9e7-4625-8f08-a238385f51bf"
+            },
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "type": "purchase for download",
+            "attribute-values": {}
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "type": "social network",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "direction": "forward",
+            "url": {
+              "id": "8d643d32-0352-43a2-9f46-66c6c28a1294",
+              "resource": "https://www.instagram.com/goldieboutilier/"
+            },
+            "target-credit": ""
+          },
+          {
+            "target-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "type": "streaming",
+            "direction": "forward",
+            "url": {
+              "resource": "https://music.apple.com/au/artist/1497564703",
+              "id": "049eddf4-5495-45fb-9326-fe2ac5ea3761"
+            },
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type": "streaming",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "url": {
+              "resource": "https://music.apple.com/gb/artist/1497564703",
+              "id": "d18ffff4-c805-452a-aead-2ac85c8581c0"
+            },
+            "direction": "forward"
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "eff3e5fd-f9e7-4625-8f08-a238385f51bf",
+              "resource": "https://open.qobuz.com/artist/6650749"
+            },
+            "direction": "forward",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "type": "streaming",
+            "attribute-values": {}
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "url": {
+              "id": "81cf6316-c65d-4633-8ce7-aa5ddea36d68",
+              "resource": "https://tidal.com/artist/18242109"
+            },
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "type": "streaming",
+            "target-credit": ""
+          },
+          {
+            "direction": "forward",
+            "url": {
+              "id": "4b7fa88b-ac7d-481d-a4b5-8e2479923bdb",
+              "resource": "https://en.wikipedia.org/wiki/Goldie_Boutilier"
+            },
+            "type": "wikipedia",
+            "attribute-values": {},
+            "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {}
+          }
+        ],
+        "name": "Goldie Boutilier",
+        "gender": "Female"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Cailin Russo\\\"\"}": {
+      "fetched_at": "2026-11-15T11:18:08.350838+00:00",
+      "data": {
+        "created": "2026-11-15T11:18:58.859Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "c1da9118-dd0b-4bbe-b81d-8c6b41854231",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Cailin Russo",
+            "sort-name": "Russo, Cailin",
+            "gender": "female",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "begin": "1993-12-17",
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/c1da9118-dd0b-4bbe-b81d-8c6b41854231?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-15T11:18:08.350838+00:00",
+      "data": {
+        "end-area": null,
+        "ipis": [],
+        "isnis": [],
+        "life-span": {
+          "ended": false,
+          "end": null,
+          "begin": "1993-12-17"
+        },
+        "id": "c1da9118-dd0b-4bbe-b81d-8c6b41854231",
+        "begin-area": null,
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "area": {
+          "disambiguation": "",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "sort-name": "United States",
+          "type-id": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "name": "United States"
+        },
+        "disambiguation": "",
+        "country": "US",
+        "relations": [
+          {
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "type": "discogs",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": [],
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "url": {
+              "id": "d2a9a2f6-3444-4407-b2bf-243639c86c0f",
+              "resource": "https://www.discogs.com/artist/7744904"
+            },
+            "target-credit": "",
+            "begin": null
+          },
+          {
+            "attribute-values": {},
+            "attributes": [],
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-ids": {},
+            "direction": "forward",
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "end": null,
+            "url": {
+              "id": "f5da5b57-e926-4d83-a201-d99fe3dc0077",
+              "resource": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
+            },
+            "target-credit": "",
+            "ended": false
+          },
+          {
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.deezer.com/artist/230762575",
+              "id": "b70ba16c-2fd9-42a1-a242-aaeae2137f0a"
+            },
+            "ended": false,
+            "attribute-values": {},
+            "attributes": [],
+            "type": "free streaming",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "source-credit": ""
+          },
+          {
+            "source-credit": "",
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type": "IMDb",
+            "attributes": [],
+            "attribute-values": {},
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "b3d1d8c7-0f6a-4413-96f0-13713ed8095e",
+              "resource": "https://www.imdb.com/name/nm7803872/"
+            },
+            "target-type": "url",
+            "end": null,
+            "begin": null
+          },
+          {
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "e60f8b09-fea0-4671-b106-218bd81abdbe",
+              "resource": "https://open.qobuz.com/artist/3008322"
+            },
+            "attribute-values": {},
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "type": "purchase for download",
+            "source-credit": ""
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "97a38805-3adb-4ed0-a651-f9b8b6964b0e",
+              "resource": "https://twitter.com/cailinrusso"
+            },
+            "ended": false,
+            "end": null,
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "type": "social network",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attributes": [],
+            "attribute-values": {}
+          },
+          {
+            "begin": null,
+            "url": {
+              "resource": "https://www.facebook.com/cailinrusso",
+              "id": "521469fb-fe82-437c-b96a-dd65be4c7487"
+            },
+            "target-credit": "",
+            "ended": false,
+            "end": null,
+            "target-type": "url",
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "social network",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+          },
+          {
+            "source-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "type": "social network",
+            "attributes": [],
+            "attribute-values": {},
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "6e4d9898-1a11-45a9-8623-0256984ba985",
+              "resource": "https://www.instagram.com/CailinRusso/"
+            },
+            "end": null,
+            "target-type": "url",
+            "begin": null
+          },
+          {
+            "ended": false,
+            "url": {
+              "resource": "https://open.qobuz.com/artist/3008322",
+              "id": "e60f8b09-fea0-4671-b106-218bd81abdbe"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "source-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type": "streaming",
+            "attributes": [],
+            "attribute-values": {}
+          },
+          {
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://tidal.com/artist/35747320",
+              "id": "a5a279ef-ba01-45db-81ec-3f4975642dcc"
+            },
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "streaming",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-ids": {},
+            "direction": "forward"
+          },
+          {
+            "target-type": "url",
+            "end": null,
+            "target-credit": "",
+            "url": {
+              "id": "9b4e25d2-4ad4-4dd6-8909-d5980fdf0aaa",
+              "resource": "https://www.wikidata.org/wiki/Q61872962"
+            },
+            "ended": false,
+            "begin": null,
+            "type": "wikidata",
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "direction": "forward",
+            "attribute-ids": {},
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": []
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "type": "youtube",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "id": "8bba4533-08dd-44d3-b2d3-28928d93398f",
+              "resource": "https://www.youtube.com/channel/UClKMVULVfusjwlW4pMIlhjg"
+            },
+            "target-credit": "",
+            "end": null,
+            "target-type": "url"
+          }
+        ],
+        "name": "Cailin Russo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Russo, Cailin",
+        "gender": "Female",
+        "type": "Person"
+      }
     }
   }
 }
