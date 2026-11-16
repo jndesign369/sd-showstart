@@ -412634,6 +412634,560 @@
         "gender": "Female",
         "type": "Person"
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Ras i One Presents : No Good Reason\\\"\"}": {
+      "fetched_at": "2026-11-16T11:49:07.972666+00:00",
+      "data": {
+        "created": "2026-11-16T11:49:08.475Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Vamp\\\"\"}": {
+      "fetched_at": "2026-11-16T11:49:07.972666+00:00",
+      "data": {
+        "created": "2026-11-16T11:49:14.298Z",
+        "count": 45,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "dd3d5cef-feda-4dd4-aa15-bee252134dd6",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Vamp",
+            "sort-name": "Vamp",
+            "country": "NO",
+            "area": {
+              "id": "6743d351-6f37-3049-9724-5041161fff4d",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Norway",
+              "sort-name": "Norway",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "0ac2b15c-4031-43a7-83fb-238f8ac8e3ff",
+              "type": "Municipality",
+              "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+              "name": "Haugesund",
+              "sort-name": "Haugesund",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Norwegian folk rock band",
+            "life-span": {
+              "begin": "1990",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "norwegian"
+              }
+            ]
+          },
+          {
+            "id": "968f61f8-c6e1-400a-95cb-114c9d67dd8e",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 97,
+            "name": "Transvision Vamp",
+            "sort-name": "Transvision Vamp",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "79e9cadb-c71e-40fc-bf78-950ef290517e",
+              "type": "District",
+              "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+              "name": "Putney",
+              "sort-name": "Putney",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000107203757"
+            ],
+            "life-span": {
+              "begin": "1986",
+              "end": "1991",
+              "ended": true
+            },
+            "aliases": [
+              {
+                "sort-name": "Transvestite Vamp",
+                "name": "Transvestite Vamp",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Tranvision Vamp",
+                "name": "Tranvision Vamp",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Trasvision Vamp",
+                "name": "Trasvision Vamp",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          },
+          {
+            "id": "05ff1aad-0886-4412-bc88-e9f4b5faa5d6",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 88,
+            "name": "Vamp",
+            "sort-name": "Vamp",
+            "country": "DE",
+            "area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "b86b7e97-c4e2-4ec2-942b-5a6cd8eea1da",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Bonn",
+              "sort-name": "Bonn",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "German Metal Band of the '80s",
+            "life-span": {
+              "begin": "1985",
+              "end": "1990",
+              "ended": true
+            }
+          },
+          {
+            "id": "006915c0-f0d7-445b-b97d-d03db8362119",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 85,
+            "name": "Vamp",
+            "sort-name": "Vamp",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "UK psychedelic band",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "09e00c0e-c41b-4fd3-b1db-cb452c3c0675",
+            "score": 84,
+            "name": "Vamp",
+            "sort-name": "Vamp",
+            "disambiguation": "unknown, appeared on “Hollywood Hairspray, Vol. 1” compilation",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "7954aecc-bc03-472f-9ce2-24f16a66bf24",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 84,
+            "name": "VAMP",
+            "sort-name": "VAMP",
+            "area": {
+              "id": "090f1b02-a616-4c9a-846a-e451e90ffed8",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "Rio Grande do Sul",
+              "sort-name": "Rio Grande do Sul",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Brazilian Band",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "3592029a-cc79-457a-9d14-0d6cdae2b448",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 84,
+            "name": "Vamp",
+            "sort-name": "Vamp",
+            "country": "PT",
+            "area": {
+              "id": "781b0c54-3d54-362d-a941-8a617def4992",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Portugal",
+              "sort-name": "Portugal",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Portuguese duo",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "10fc0568-790e-4615-a95e-7eb1b256a167",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 83,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "DJ YUNG VAMP",
+            "sort-name": "DJ YUNG VAMP",
+            "gender": "male",
+            "country": "BE",
+            "area": {
+              "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Belgium",
+              "sort-name": "Belgium",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "7bda5d46-4809-41dc-a0b8-e889ff818f2e",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Brussels",
+              "sort-name": "Brussels",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Soundcloud DJ",
+            "life-span": {
+              "begin": "1995-06-30",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 2,
+                "name": "hip hop"
+              },
+              {
+                "count": 2,
+                "name": "trap"
+              },
+              {
+                "count": 2,
+                "name": "phonk"
+              },
+              {
+                "count": 1,
+                "name": "chill phonk"
+              }
+            ]
+          },
+          {
+            "id": "4408d26c-cfe6-4c68-a4d2-8f75960722ec",
+            "score": 79,
+            "name": "VAMP WRLD",
+            "sort-name": "VAMP WRLD",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "cb45be74-6940-4ae1-a608-e470eaa4db2d",
+            "score": 79,
+            "name": "Vamp Dogg",
+            "sort-name": "Vamp Dogg",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/dd3d5cef-feda-4dd4-aa15-bee252134dd6?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-16T11:49:07.972666+00:00",
+      "data": {
+        "gender": null,
+        "ipis": [],
+        "life-span": {
+          "ended": false,
+          "begin": "1990",
+          "end": null
+        },
+        "type": "Group",
+        "country": "NO",
+        "isnis": [],
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Vamp",
+        "gender-id": null,
+        "begin-area": {
+          "type-id": null,
+          "type": null,
+          "disambiguation": "",
+          "sort-name": "Haugesund",
+          "id": "0ac2b15c-4031-43a7-83fb-238f8ac8e3ff",
+          "name": "Haugesund"
+        },
+        "end-area": null,
+        "id": "dd3d5cef-feda-4dd4-aa15-bee252134dd6",
+        "relations": [
+          {
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "ended": false,
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "type": "discogs",
+            "begin": null,
+            "target-type": "url",
+            "url": {
+              "id": "cc27eed1-7b38-446c-a519-8a386edd3285",
+              "resource": "https://www.discogs.com/artist/277392"
+            },
+            "source-credit": "",
+            "attribute-values": {}
+          },
+          {
+            "type": "fanpage",
+            "begin": null,
+            "target-credit": "",
+            "ended": false,
+            "direction": "forward",
+            "attributes": [],
+            "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+            "end": null,
+            "attribute-ids": {},
+            "attribute-values": {},
+            "target-type": "url",
+            "url": {
+              "resource": "http://www.jankare.net/vamp/forum/",
+              "id": "57789418-6088-4fb3-91fd-9af75f924bb1"
+            },
+            "source-credit": ""
+          },
+          {
+            "source-credit": "",
+            "url": {
+              "resource": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk",
+              "id": "427ba1b5-9f61-44a0-b88f-6c1c44be0ba6"
+            },
+            "target-type": "url",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attributes": [],
+            "direction": "forward",
+            "target-credit": "",
+            "ended": false,
+            "begin": null,
+            "type": "free streaming"
+          },
+          {
+            "attribute-values": {},
+            "target-type": "url",
+            "url": {
+              "resource": "https://www.deezer.com/artist/343957",
+              "id": "5c1a6093-f25b-4324-b8aa-a6c4ddc6dcad"
+            },
+            "source-credit": "",
+            "type": "free streaming",
+            "begin": null,
+            "direction": "forward",
+            "attributes": [],
+            "ended": false,
+            "target-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+          },
+          {
+            "type": "official homepage",
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "attribute-ids": {},
+            "end": null,
+            "attribute-values": {},
+            "url": {
+              "id": "29d39531-ec25-464b-8797-21b2fb3c710b",
+              "resource": "http://www.vamp.no/"
+            },
+            "target-type": "url",
+            "source-credit": ""
+          },
+          {
+            "target-credit": "",
+            "ended": false,
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-ids": {},
+            "end": null,
+            "type": "wikidata",
+            "begin": null,
+            "url": {
+              "id": "3ae976cb-68e1-4fd8-822f-714ea76ef0f8",
+              "resource": "https://www.wikidata.org/wiki/Q1805865"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-values": {}
+          }
+        ],
+        "name": "Vamp",
+        "area": {
+          "name": "Norway",
+          "id": "6743d351-6f37-3049-9724-5041161fff4d",
+          "type": null,
+          "sort-name": "Norway",
+          "disambiguation": "",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "NO"
+          ]
+        },
+        "disambiguation": "Norwegian folk rock band"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"HIGH TIDE SOCIETY\\\"\"}": {
+      "fetched_at": "2026-11-16T11:49:07.972666+00:00",
+      "data": {
+        "created": "2026-11-16T11:49:15.550Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Gravebeat\\\"\"}": {
+      "fetched_at": "2026-11-16T11:49:07.972666+00:00",
+      "data": {
+        "created": "2026-11-16T11:49:16.848Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"The Overdrives\\\"\"}": {
+      "fetched_at": "2026-11-16T11:49:07.972666+00:00",
+      "data": {
+        "created": "2026-11-16T11:49:17.747Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "0bdebbea-6ac4-4ed0-89d1-195c2c19d218",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "The Overdrives",
+            "sort-name": "Overdrives, The",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "punk rock from Nazareth, Pennsylvania, USA",
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "punk"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Dresden'S Burning\\\"\"}": {
+      "fetched_at": "2026-11-16T11:49:07.972666+00:00",
+      "data": {
+        "created": "2026-11-16T11:49:18.848Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Koko Beach\\\"\"}": {
+      "fetched_at": "2026-11-16T11:49:07.972666+00:00",
+      "data": {
+        "created": "2026-11-16T11:49:50.325Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Vinyl Wednesday\\\"\"}": {
+      "fetched_at": "2026-11-16T11:49:07.972666+00:00",
+      "data": {
+        "created": "2026-11-16T11:49:50.555Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Mane Attraction\\\"\"}": {
+      "fetched_at": "2026-11-16T11:49:07.972666+00:00",
+      "data": {
+        "created": "2026-11-16T11:49:51.574Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
     }
   }
 }

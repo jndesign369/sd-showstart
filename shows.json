@@ -1,270 +1,11 @@
 {
- "generated_at": "2026-11-15T12:27:13-08:00",
+ "generated_at": "2026-11-16T03:49:07-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 14, 2026"
+  "updated": "November 15, 2026"
  },
  "shows": [
-  {
-   "id": "belly-up-tavern:2026-11-15:marc-broussard",
-   "date": "2026-11-15",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Marc Broussard",
-    "Cristina Vane"
-   ],
-   "artists": [
-    {
-     "name": "Marc Broussard",
-     "mbid": "c9584c27-f240-4f0e-8e82-3470111f24be",
-     "official_url": "http://www.marcbroussard.com/",
-     "listen_url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Cristina Vane",
-     "mbid": "1ba88a26-6be8-4cc7-ba9f-0837d6dd75cd",
-     "official_url": "http://www.cristinavane.com/",
-     "listen_url": "https://cristinavane.bandcamp.com/track/do-you-want-to-lose",
-     "listen_service": "Bandcamp",
-     "listen_title": "Do You Want To Lose"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "house-of-blues:2026-11-15:jake-minch",
-   "date": "2026-11-15",
-   "venue": "House of Blues",
-   "city": "San Diego",
-   "performers": [
-    "Jake Minch",
-    "Alix Page"
-   ],
-   "artists": [
-    {
-     "name": "Jake Minch",
-     "mbid": "275fbaaf-f895-46b1-a176-357f1b780556",
-     "listen_url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Alix Page",
-     "mbid": "0ad90756-f278-4dba-9a94-47358416dfe0",
-     "official_url": "https://www.alixpage.com/",
-     "listen_url": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.houseofblues.com/sandiego"
-  },
-  {
-   "id": "humphreys-backstage-live:2026-11-15:patrick-yandall",
-   "date": "2026-11-15",
-   "venue": "Humphreys Backstage Live",
-   "city": "San Diego",
-   "performers": [
-    "Patrick Yandall"
-   ],
-   "artists": [
-    {
-     "name": "Patrick Yandall",
-     "mbid": "40c6a66f-e7f3-48b8-817c-0222c472861f"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "lou-lou-s:2026-11-15:jesus-gonzalez-julien-cantelm-aaron-bowen",
-   "date": "2026-11-15",
-   "venue": "Lou Lou's",
-   "city": "San Diego",
-   "performers": [
-    "JESUS GONZALEZ // JULIEN CANTELM // AARON BOWEN"
-   ],
-   "artists": [
-    {
-     "name": "JESUS GONZALEZ // JULIEN CANTELM // AARON BOWEN"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "pechanga-resort-casino:2026-11-15:sharon-cuneta",
-   "date": "2026-11-15",
-   "venue": "Pechanga Resort & Casino",
-   "city": "Temecula",
-   "performers": [
-    "Sharon Cuneta",
-    "Bugoy Drilon"
-   ],
-   "artists": [
-    {
-     "name": "Sharon Cuneta",
-     "mbid": "103c4f39-bc41-49ce-a86b-3d5c3ff0eeb8",
-     "listen_url": "https://open.spotify.com/artist/3I5ONm7nnP1LpvqsnA5dBG",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Bugoy Drilon",
-     "mbid": "e7fb9297-0671-4bfc-a694-fe40d47eb6bd",
-     "listen_url": "https://open.spotify.com/artist/0kRAKgEOVI43Qkz9PLmPt8",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.pechanga.com/"
-  },
-  {
-   "id": "quartyard:2026-11-15:slothrust",
-   "date": "2026-11-15",
-   "venue": "Quartyard",
-   "city": "San Diego",
-   "performers": [
-    "Slothrust",
-    "Um, Jennifer?"
-   ],
-   "artists": [
-    {
-     "name": "Slothrust",
-     "mbid": "86c80cc3-13b0-4ca7-ae5a-d16f00c11a59",
-     "official_url": "http://slothrust.com/",
-     "listen_url": "https://slothrust.bandcamp.com/track/dissolve-the-delusion",
-     "listen_service": "Bandcamp",
-     "listen_title": "Dissolve The Delusion"
-    },
-    {
-     "name": "Um, Jennifer?",
-     "mbid": "ca03d4d3-de77-4b50-9008-681a6e043142",
-     "listen_url": "https://umjennifer.bandcamp.com/track/stunning",
-     "listen_service": "Bandcamp",
-     "listen_title": "Stunning"
-    }
-   ],
-   "venue_url": "https://quartyardsd.com/"
-  },
-  {
-   "id": "soda-bar:2026-11-15:two-runner",
-   "date": "2026-11-15",
-   "venue": "Soda Bar",
-   "city": "San Diego",
-   "performers": [
-    "Two Runner",
-    "Kimmi Bitter"
-   ],
-   "artists": [
-    {
-     "name": "Two Runner",
-     "mbid": "a475b03f-2074-41e3-a8f0-8ec007414289",
-     "official_url": "https://tworunnermusic.com/",
-     "listen_url": "https://tworunner.bandcamp.com/track/porchlight",
-     "listen_service": "Bandcamp",
-     "listen_title": "Porchlight"
-    },
-    {
-     "name": "Kimmi Bitter",
-     "mbid": "2120efd5-e410-4cd9-abad-be594a8fa346",
-     "official_url": "https://www.kimmibitter.com/",
-     "listen_url": "https://open.spotify.com/artist/6DghUhcf5o6VZzCTXzx1Mr",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://sodabarmusic.com/"
-  },
-  {
-   "id": "the-banshee:2026-11-15:cherokee-social",
-   "date": "2026-11-15",
-   "venue": "The Banshee",
-   "city": "San Diego",
-   "performers": [
-    "Cherokee Social",
-    "Peach Cooler",
-    "Stovetop Gemini"
-   ],
-   "artists": [
-    {
-     "name": "Cherokee Social",
-     "mbid": "9aecce3e-9c87-44c7-a17c-088f11440bbb",
-     "listen_url": "https://open.spotify.com/artist/3BA0AjT1znMXddbdsT2jJD",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Peach Cooler"
-    },
-    {
-     "name": "Stovetop Gemini"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "the-holding-company:2026-11-15:cascade-effect",
-   "date": "2026-11-15",
-   "venue": "The Holding Company",
-   "city": "San Diego",
-   "performers": [
-    "Cascade Effect",
-    "Brokencyde",
-    "Dot Dot Curve",
-    "Resider"
-   ],
-   "artists": [
-    {
-     "name": "Cascade Effect",
-     "mbid": "072ad9d4-009d-43f8-97ac-17327821557c",
-     "official_url": "https://cascadeeffectband.com/",
-     "listen_url": "https://open.spotify.com/artist/4a7gzrBZBK8iEzpaT2ZUbb",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Brokencyde",
-     "mbid": "1f2b4a72-1f47-45fe-8349-0c14cc190801",
-     "official_url": "http://www.brokencyde.com/",
-     "listen_url": "https://open.spotify.com/artist/22WwE0lMmGx4AJeyUfT7rh",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Dot Dot Curve",
-     "mbid": "750918fc-6cc7-4f58-8c96-63c59569c14a",
-     "listen_url": "https://dotdotcurve.bandcamp.com/track/till-the-end-ft-rob-valentine",
-     "listen_service": "Bandcamp",
-     "listen_title": "Till The End Ft Rob Valentine"
-    },
-    {
-     "name": "Resider",
-     "mbid": "e0c8e184-a136-47e7-a7d8-c6cc1d5e03e1"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "the-tower-bar:2026-11-15:last",
-   "date": "2026-11-15",
-   "venue": "The Tower Bar",
-   "city": "San Diego",
-   "performers": [
-    "LAST",
-    "Lvciferian Death Mechanism",
-    "Esteban I Flores"
-   ],
-   "artists": [
-    {
-     "name": "LAST",
-     "mbid": "0b7ee619-16ed-4e60-b871-6a2111c12b76",
-     "official_url": "http://www.jameslast.com/",
-     "listen_url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Lvciferian Death Mechanism"
-    },
-    {
-     "name": "Esteban I Flores"
-    }
-   ],
-   "venue_url": null
-  },
   {
    "id": "casbah:2026-11-16:jon-spencer",
    "date": "2026-11-16",
@@ -668,6 +409,21 @@
    "venue_url": null
   },
   {
+   "id": "the-holding-company:2026-11-18:ras-i-one-presents-no-good-reason",
+   "date": "2026-11-18",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "Ras i One Presents : No Good Reason"
+   ],
+   "artists": [
+    {
+     "name": "Ras i One Presents : No Good Reason"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "the-observatory-north-park:2026-11-18:rhye",
    "date": "2026-11-18",
    "venue": "The Observatory North Park",
@@ -913,6 +669,25 @@
    "venue_url": null
   },
   {
+   "id": "the-kensington-club:2026-11-19:vamp",
+   "date": "2026-11-19",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Vamp"
+   ],
+   "artists": [
+    {
+     "name": "Vamp",
+     "mbid": "dd3d5cef-feda-4dd4-aa15-bee252134dd6",
+     "official_url": "http://www.vamp.no/",
+     "listen_url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "the-observatory-north-park:2026-11-19:manic-street-preachers",
    "date": "2026-11-19",
    "venue": "The Observatory North Park",
@@ -1068,6 +843,21 @@
    "venue_url": null
   },
   {
+   "id": "lou-lou-s:2026-11-20:high-tide-society",
+   "date": "2026-11-20",
+   "venue": "Lou Lou's",
+   "city": "San Diego",
+   "performers": [
+    "HIGH TIDE SOCIETY"
+   ],
+   "artists": [
+    {
+     "name": "HIGH TIDE SOCIETY"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "pechanga-resort-casino:2026-11-20:kool-the-gang",
    "date": "2026-11-20",
    "venue": "Pechanga Resort & Casino",
@@ -1126,6 +916,21 @@
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-kensington-club:2026-11-20:gravebeat",
+   "date": "2026-11-20",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Gravebeat"
+   ],
+   "artists": [
+    {
+     "name": "Gravebeat"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "the-observatory-north-park:2026-11-20:armored-saint",
@@ -1398,6 +1203,30 @@
      "mbid": "a2e3ac7b-4185-43ee-a3d5-13ceb45897f3",
      "listen_url": "https://open.spotify.com/artist/3brL6NPSZHYrJNzeUKcVbL",
      "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "the-kensington-club:2026-11-21:the-overdrives",
+   "date": "2026-11-21",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "The Overdrives",
+    "Dresden'S Burning",
+    "Koko Beach"
+   ],
+   "artists": [
+    {
+     "name": "The Overdrives",
+     "mbid": "0bdebbea-6ac4-4ed0-89d1-195c2c19d218"
+    },
+    {
+     "name": "Dresden'S Burning"
+    },
+    {
+     "name": "Koko Beach"
     }
    ],
    "venue_url": null
@@ -2075,6 +1904,21 @@
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-kensington-club:2026-11-25:vinyl-wednesday",
+   "date": "2026-11-25",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Vinyl Wednesday"
+   ],
+   "artists": [
+    {
+     "name": "Vinyl Wednesday"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "the-observatory-north-park:2026-11-25:gary-numan",
@@ -3734,6 +3578,21 @@
    "venue_url": "https://sodabarmusic.com/"
   },
   {
+   "id": "the-holding-company:2026-12-05:mane-attraction",
+   "date": "2026-12-05",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "Mane Attraction"
+   ],
+   "artists": [
+    {
+     "name": "Mane Attraction"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "the-observatory-north-park:2026-12-05:eres-emo",
    "date": "2026-12-05",
    "venue": "The Observatory North Park",
@@ -3936,28 +3795,6 @@
     }
    ],
    "venue_url": "https://www.observatorysd.com"
-  },
-  {
-   "id": "whistle-stop:2026-12-06:sister-psycho",
-   "date": "2026-12-06",
-   "venue": "Whistle Stop",
-   "city": "San Diego",
-   "performers": [
-    "Sister Psycho",
-    "Dale Crover"
-   ],
-   "artists": [
-    {
-     "name": "Sister Psycho"
-    },
-    {
-     "name": "Dale Crover",
-     "mbid": "9b93a71b-1484-4bea-b096-f660c1161f8a",
-     "listen_url": "https://open.spotify.com/artist/4IRzt4Zde0xpbbc2BtsRGm",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": null
   },
   {
    "id": "belly-up-tavern:2026-12-07:mack-geiger",
