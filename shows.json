@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T03:49:07-08:00",
+ "generated_at": "2026-11-16T15:47:28-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 15, 2026"
+  "updated": "November 16, 2026"
  },
  "shows": [
   {
@@ -12,8 +12,7 @@
    "venue": "Casbah",
    "city": "San Diego",
    "performers": [
-    "Jon Spencer",
-    "Genre is death"
+    "Jon Spencer"
    ],
    "artists": [
     {
@@ -22,13 +21,6 @@
      "official_url": "http://thejonspencerbluesexplosion.com/",
      "listen_url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG",
      "listen_service": "Spotify"
-    },
-    {
-     "name": "Genre is death",
-     "mbid": "313bea7f-ebf5-4e8c-a317-45a4621597d7",
-     "listen_url": "https://genreisdeath.bandcamp.com/track/heaven-hits-the-wall",
-     "listen_service": "Bandcamp",
-     "listen_title": "Heaven Hits The Wall"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -3795,6 +3787,28 @@
     }
    ],
    "venue_url": "https://www.observatorysd.com"
+  },
+  {
+   "id": "whistle-stop:2026-12-06:sister-psycho",
+   "date": "2026-12-06",
+   "venue": "Whistle Stop",
+   "city": "San Diego",
+   "performers": [
+    "Sister Psycho",
+    "Dale Crover"
+   ],
+   "artists": [
+    {
+     "name": "Sister Psycho"
+    },
+    {
+     "name": "Dale Crover",
+     "mbid": "9b93a71b-1484-4bea-b096-f660c1161f8a",
+     "listen_url": "https://open.spotify.com/artist/4IRzt4Zde0xpbbc2BtsRGm",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "belly-up-tavern:2026-12-07:mack-geiger",
@@ -11108,7 +11122,8 @@
    "venue": "House of Blues",
    "city": "San Diego",
    "performers": [
-    "Ricky Montgomery"
+    "Ricky Montgomery",
+    "Declan J Donovan"
    ],
    "artists": [
     {
@@ -11117,6 +11132,9 @@
      "official_url": "http://rickymontgomery.com/",
      "listen_url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw",
      "listen_service": "Spotify"
+    },
+    {
+     "name": "Declan J Donovan"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -11786,6 +11804,21 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
+   "id": "soda-bar:2027-04-30:veaux-the-hyperdeath-tour",
+   "date": "2027-04-30",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "VEAUX | The Hyperdeath Tour"
+   ],
+   "artists": [
+    {
+     "name": "VEAUX | The Hyperdeath Tour"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "viejas-arena:2027-04-30:josiah-queen",
    "date": "2027-04-30",
    "venue": "Viejas Arena",
@@ -12194,6 +12227,29 @@
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
+  },
+  {
+   "id": "north-island-credit-union-amphitheatre:2027-05-18:megadeth",
+   "date": "2027-05-18",
+   "venue": "North Island Credit Union Amphitheatre",
+   "city": "Chula Vista",
+   "performers": [
+    "Megadeth",
+    "Anthrax",
+    "Kerry King"
+   ],
+   "artists": [
+    {
+     "name": "Megadeth"
+    },
+    {
+     "name": "Anthrax"
+    },
+    {
+     "name": "Kerry King"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "house-of-blues:2027-05-19:keo",
