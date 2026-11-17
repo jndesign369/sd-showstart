@@ -3188,6 +3188,116 @@
         "release_url": "https://officialmegadeth.bandcamp.com/album/serpent-from-eden-featuring-nick-menza"
       },
       "reason": null
+    },
+    "https://teenagebottlerocket.bandcamp.com/": {
+      "checked_at": "2026-11-17T23:03:51.000379+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://teenagebottlerocket.bandcamp.com/track/i-dont-know-what-i-want-to-be-for-halloween-kids-version",
+        "listen_service": "Bandcamp",
+        "listen_title": "I Don't Know What I Want To Be For Halloween (Kids Version)",
+        "release_url": "https://teenagebottlerocket.bandcamp.com/album/i-dont-know-what-i-want-to-be-for-halloween"
+      },
+      "reason": null
+    },
+    "https://myupsidedown5.bandcamp.com/": {
+      "checked_at": "2026-11-17T23:03:51.000379+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://myupsidedown5.bandcamp.com/track/where-your-heart-belongs",
+        "listen_service": "Bandcamp",
+        "listen_title": "Where Your Heart Belongs",
+        "release_url": "https://myupsidedown5.bandcamp.com/album/piece-by-piece"
+      },
+      "reason": null
+    },
+    "https://gowiththeflowmusic.bandcamp.com/": {
+      "checked_at": "2026-11-17T23:03:51.000379+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://gowiththeflowmusic.bandcamp.com/track/go-with-the-flow",
+        "listen_service": "Bandcamp",
+        "listen_title": "Go With The Flow",
+        "release_url": "https://gowiththeflowmusic.bandcamp.com/album/go-with-the-flow"
+      },
+      "reason": null
+    },
+    "https://cursive.bandcamp.com/": {
+      "checked_at": "2026-11-17T23:03:51.000379+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://cursive.bandcamp.com/track/botch-job",
+        "listen_service": "Bandcamp",
+        "listen_title": "Botch Job",
+        "release_url": "https://cursive.bandcamp.com/album/devourer"
+      },
+      "reason": null
+    },
+    "https://smidley.bandcamp.com/": {
+      "checked_at": "2026-11-17T23:03:51.000379+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://smidley.bandcamp.com/track/corpse-flower-feat-shinra-knives",
+        "listen_service": "Bandcamp",
+        "listen_title": "Corpse Flower Feat. Shinra Knives",
+        "release_url": "https://smidley.bandcamp.com/album/murphy-horse"
+      },
+      "reason": null
+    },
+    "https://rioromeo.bandcamp.com/": {
+      "checked_at": "2026-11-17T23:03:51.000379+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://rioromeo.bandcamp.com/track/orchard-of-one",
+        "listen_service": "Bandcamp",
+        "listen_title": "Orchard of One",
+        "release_url": "https://rioromeo.bandcamp.com/album/good-grief"
+      },
+      "reason": null
+    },
+    "https://deltasleep.bandcamp.com/": {
+      "checked_at": "2026-11-17T23:03:51.000379+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://deltasleep.bandcamp.com/track/unread",
+        "listen_service": "Bandcamp",
+        "listen_title": "Unread",
+        "release_url": "https://deltasleep.bandcamp.com/track/unread"
+      },
+      "reason": null
+    },
+    "https://narrowheadtx.bandcamp.com/": {
+      "checked_at": "2026-11-17T23:03:51.000379+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://narrowheadtx.bandcamp.com/track/wheel",
+        "listen_service": "Bandcamp",
+        "listen_title": "Wheel",
+        "release_url": "https://narrowheadtx.bandcamp.com/album/wheel"
+      },
+      "reason": null
+    },
+    "https://horsejumperoflove.bandcamp.com/": {
+      "checked_at": "2026-11-17T23:03:51.000379+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://horsejumperoflove.bandcamp.com/track/ugly-brunette-3",
+        "listen_service": "Bandcamp",
+        "listen_title": "Ugly Brunette",
+        "release_url": "https://horsejumperoflove.bandcamp.com/album/horse-jumper-of-love-10-year-anniversary-edition"
+      },
+      "reason": null
+    },
+    "https://knumears.bandcamp.com/": {
+      "checked_at": "2026-11-17T23:03:51.000379+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://knumears.bandcamp.com/track/introduction",
+        "listen_service": "Bandcamp",
+        "listen_title": "Introduction",
+        "release_url": "https://knumears.bandcamp.com/album/directions"
+      },
+      "reason": null
     }
   }
 }

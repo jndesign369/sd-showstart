@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T04:09:22-08:00",
+ "generated_at": "2026-11-17T15:01:46-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 16, 2026"
+  "updated": "November 17, 2026"
  },
  "shows": [
   {
@@ -321,22 +321,6 @@
      "official_url": "https://www.softmachine.org/",
      "listen_url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds",
      "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "whistle-stop:2026-11-18:lord-howler",
-   "date": "2026-11-18",
-   "venue": "Whistle Stop",
-   "city": "San Diego",
-   "performers": [
-    "Lord Howler"
-   ],
-   "artists": [
-    {
-     "name": "Lord Howler",
-     "mbid": "ab84dedf-6fe6-4fbe-9948-0699aa5e5469"
     }
    ],
    "venue_url": null
@@ -1417,21 +1401,6 @@
    "venue_url": null
   },
   {
-   "id": "whistle-stop:2026-11-22:shawn-rohlf",
-   "date": "2026-11-22",
-   "venue": "Whistle Stop",
-   "city": "San Diego",
-   "performers": [
-    "Shawn Rohlf"
-   ],
-   "artists": [
-    {
-     "name": "Shawn Rohlf"
-    }
-   ],
-   "venue_url": null
-  },
-  {
    "id": "casbah:2026-11-23:city-mouse",
    "date": "2026-11-23",
    "venue": "Casbah",
@@ -2359,6 +2328,22 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
+   "id": "the-tower-bar:2026-11-28:dj-boogieman",
+   "date": "2026-11-28",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "DJ Boogieman"
+   ],
+   "artists": [
+    {
+     "name": "DJ Boogieman",
+     "mbid": "0fd5356d-c68a-4b59-b7c9-515cde4b0492"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2026-11-29:the-five-blind-boys-of-alabama",
    "date": "2026-11-29",
    "venue": "Belly Up Tavern",
@@ -2946,25 +2931,6 @@
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
-  },
-  {
-   "id": "whistle-stop:2026-12-03:dagmar-zuniga",
-   "date": "2026-12-03",
-   "venue": "Whistle Stop",
-   "city": "San Diego",
-   "performers": [
-    "Dagmar Zuniga"
-   ],
-   "artists": [
-    {
-     "name": "Dagmar Zuniga",
-     "mbid": "9542584f-d6c4-4e8b-bb14-bba52bd15b32",
-     "listen_url": "https://dagmarzuniga.bandcamp.com/track/even-god-gets-stuck-in-devotion-featuring-austyn-wohlers",
-     "listen_service": "Bandcamp",
-     "listen_title": "Even God Gets Stuck In Devotion featuring Austyn Wohlers"
-    }
-   ],
-   "venue_url": null
   },
   {
    "id": "harrah-s-resort-southern-california:2026-12-04:tuan-hung-nguyen",
@@ -3648,28 +3614,6 @@
     }
    ],
    "venue_url": "https://www.observatorysd.com"
-  },
-  {
-   "id": "whistle-stop:2026-12-06:sister-psycho",
-   "date": "2026-12-06",
-   "venue": "Whistle Stop",
-   "city": "San Diego",
-   "performers": [
-    "Sister Psycho",
-    "Dale Crover"
-   ],
-   "artists": [
-    {
-     "name": "Sister Psycho"
-    },
-    {
-     "name": "Dale Crover",
-     "mbid": "9b93a71b-1484-4bea-b096-f660c1161f8a",
-     "listen_url": "https://open.spotify.com/artist/4IRzt4Zde0xpbbc2BtsRGm",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": null
   },
   {
    "id": "belly-up-tavern:2026-12-07:mack-geiger",
@@ -6908,6 +6852,31 @@
    "venue_url": null
   },
   {
+   "id": "casbah:2027-01-17:teenage-bottlerocket",
+   "date": "2027-01-17",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Teenage Bottlerocket",
+    "Brendan Kelly"
+   ],
+   "artists": [
+    {
+     "name": "Teenage Bottlerocket",
+     "mbid": "b2905cf4-10cc-46e2-a2cb-8b40ade3138d",
+     "official_url": "http://teenagebottlerocket.com/",
+     "listen_url": "https://teenagebottlerocket.bandcamp.com/track/i-dont-know-what-i-want-to-be-for-halloween-kids-version",
+     "listen_service": "Bandcamp",
+     "listen_title": "I Don't Know What I Want To Be For Halloween (Kids Version)"
+    },
+    {
+     "name": "Brendan Kelly",
+     "mbid": "500b3d37-6518-4b53-ad14-00f5ded1db5a"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "soda-bar:2027-01-17:dopethrone",
    "date": "2027-01-17",
    "venue": "Soda Bar",
@@ -7413,6 +7382,25 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "casbah:2027-01-27:madeline-edwards",
+   "date": "2027-01-27",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Madeline Edwards"
+   ],
+   "artists": [
+    {
+     "name": "Madeline Edwards",
+     "mbid": "0fcfe34a-a7d9-4b83-a763-5c9da4daab05",
+     "official_url": "https://www.madelineedwardsmusic.com/",
+     "listen_url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "soma:2027-01-27:alleycvt",
@@ -8628,6 +8616,37 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "soma:2027-02-17:amira-elfeky",
+   "date": "2027-02-17",
+   "venue": "SOMA",
+   "city": "San Diego",
+   "performers": [
+    "Amira Elfeky",
+    "My Upside Down",
+    "Meghan Curtin"
+   ],
+   "artists": [
+    {
+     "name": "Amira Elfeky",
+     "mbid": "e2f82804-26c7-4269-95e0-1ed7a4dda6f5",
+     "official_url": "https://www.amiraelfeky.com/",
+     "listen_url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "My Upside Down",
+     "mbid": "8d519ad6-2717-4167-8204-f407af786954",
+     "listen_url": "https://myupsidedown5.bandcamp.com/track/where-your-heart-belongs",
+     "listen_service": "Bandcamp",
+     "listen_title": "Where Your Heart Belongs"
+    },
+    {
+     "name": "Meghan Curtin"
+    }
+   ],
+   "venue_url": "https://www.somasandiego.com/"
+  },
+  {
    "id": "the-banshee:2027-02-17:john-davis-the-cicadas",
    "date": "2027-02-17",
    "venue": "The Banshee",
@@ -8712,6 +8731,40 @@
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
+   "id": "house-of-blues:2027-02-18:inspector",
+   "date": "2027-02-18",
+   "venue": "House of Blues",
+   "city": "San Diego",
+   "performers": [
+    "Inspector",
+    "The Toasters",
+    "Katastrophe"
+   ],
+   "artists": [
+    {
+     "name": "Inspector",
+     "mbid": "b8711241-bd87-4f6f-ab22-fcdc3743544b",
+     "official_url": "http://www.inspector.com.mx/",
+     "listen_url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "The Toasters",
+     "mbid": "f5d56157-c5fe-490f-bf91-8d200e7f9b5f",
+     "official_url": "https://thetoasters.band/",
+     "listen_url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Katastrophe",
+     "mbid": "f210637d-0e79-46b2-b29f-95877142f771",
+     "listen_url": "https://open.spotify.com/artist/4480P62XcAkqNwqeIxPbuY",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
    "id": "quartyard:2027-02-18:two-lanes",
@@ -8824,6 +8877,29 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "pechanga-resort-casino:2027-02-20:raymond-lam",
+   "date": "2027-02-20",
+   "venue": "Pechanga Resort & Casino",
+   "city": "Temecula",
+   "performers": [
+    "Raymond Lam",
+    "The Flow"
+   ],
+   "artists": [
+    {
+     "name": "Raymond Lam"
+    },
+    {
+     "name": "The Flow",
+     "mbid": "15295322-aa3b-4051-8f74-8f2b1778b30b",
+     "listen_url": "https://gowiththeflowmusic.bandcamp.com/track/go-with-the-flow",
+     "listen_service": "Bandcamp",
+     "listen_title": "Go With The Flow"
+    }
+   ],
+   "venue_url": "https://www.pechanga.com/"
   },
   {
    "id": "the-holding-company:2027-02-20:big-d-and-the-kids-table",
@@ -9929,6 +10005,21 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
+   "id": "nova-sd:2027-03-06:troyboi-360",
+   "date": "2027-03-06",
+   "venue": "Nova SD",
+   "city": "San Diego",
+   "performers": [
+    "Troyboi 360\u00b0"
+   ],
+   "artists": [
+    {
+     "name": "Troyboi 360\u00b0"
+    }
+   ],
+   "venue_url": "https://novasandiego.com/"
+  },
+  {
    "id": "quartyard:2027-03-06:noche-de-cumbia",
    "date": "2027-03-06",
    "venue": "Quartyard",
@@ -10072,6 +10163,25 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "house-of-blues:2027-03-09:the-wilder-blue",
+   "date": "2027-03-09",
+   "venue": "House of Blues",
+   "city": "San Diego",
+   "performers": [
+    "The Wilder Blue"
+   ],
+   "artists": [
+    {
+     "name": "The Wilder Blue",
+     "mbid": "1eeab858-ce71-4caf-8231-288dfe5778f9",
+     "official_url": "https://www.thewilderblue.com/",
+     "listen_url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
    "id": "soda-bar:2027-03-09:goes-poppunk",
@@ -10476,6 +10586,25 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
+   "id": "house-of-blues:2027-03-17:tori-kelly",
+   "date": "2027-03-17",
+   "venue": "House of Blues",
+   "city": "San Diego",
+   "performers": [
+    "Tori Kelly"
+   ],
+   "artists": [
+    {
+     "name": "Tori Kelly",
+     "mbid": "e4b87494-a5eb-439d-b3bf-5f1b46d4dc6b",
+     "official_url": "http://www.torikellymusic.com/",
+     "listen_url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
    "id": "the-magnolia:2027-03-17:black-jacket-symphony",
    "date": "2027-03-17",
    "venue": "The Magnolia",
@@ -10489,6 +10618,52 @@
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
+  },
+  {
+   "id": "belly-up-tavern:2027-03-18:cursive",
+   "date": "2027-03-18",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "Cursive",
+    "Smidley"
+   ],
+   "artists": [
+    {
+     "name": "Cursive",
+     "mbid": "c4153c51-b4ac-4183-beb3-c5dbfce39176",
+     "official_url": "http://cursivearmy.com/",
+     "listen_url": "https://cursive.bandcamp.com/track/botch-job",
+     "listen_service": "Bandcamp",
+     "listen_title": "Botch Job"
+    },
+    {
+     "name": "Smidley",
+     "mbid": "8eea451f-c11b-4afa-8f45-702f4b3eb155",
+     "listen_url": "https://smidley.bandcamp.com/track/corpse-flower-feat-shinra-knives",
+     "listen_service": "Bandcamp",
+     "listen_title": "Corpse Flower Feat. Shinra Knives"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "music-box:2027-03-18:nto",
+   "date": "2027-03-18",
+   "venue": "Music Box",
+   "city": "San Diego",
+   "performers": [
+    "NTO"
+   ],
+   "artists": [
+    {
+     "name": "NTO",
+     "mbid": "619f53fa-0f28-4f02-a313-9078979fd04c",
+     "listen_url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.musicboxsd.com/"
   },
   {
    "id": "soda-bar:2027-03-19:spring-2027",
@@ -10669,7 +10844,8 @@
    "venue": "SOMA",
    "city": "San Diego",
    "performers": [
-    "Bo Staloch"
+    "Bo Staloch",
+    "Ryman"
    ],
    "artists": [
     {
@@ -10677,6 +10853,13 @@
      "mbid": "c353dd11-40c4-493c-ad23-063b19d89ba0",
      "official_url": "https://www.bostaloch.com/",
      "listen_url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Ryman",
+     "mbid": "07605e0e-44be-47a2-a674-5490fd7da275",
+     "official_url": "https://www.rymanmusic.co/",
+     "listen_url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj",
      "listen_service": "Spotify"
     }
    ],
@@ -10694,6 +10877,25 @@
     {
      "name": "Oscar Lindsey",
      "mbid": "6198dafd-9515-49a5-925c-1cb056d92ae4"
+    }
+   ],
+   "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "house-of-blues:2027-03-24:rio-romeo",
+   "date": "2027-03-24",
+   "venue": "House of Blues",
+   "city": "San Diego",
+   "performers": [
+    "Rio Romeo"
+   ],
+   "artists": [
+    {
+     "name": "Rio Romeo",
+     "mbid": "2ee5c528-3b6f-468f-bf03-be9d31124423",
+     "listen_url": "https://rioromeo.bandcamp.com/track/orchard-of-one",
+     "listen_service": "Bandcamp",
+     "listen_title": "Orchard of One"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -10978,6 +11180,24 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
+   "id": "balboa-theatre:2027-04-02:fey",
+   "date": "2027-04-02",
+   "venue": "Balboa Theatre",
+   "city": "San Diego",
+   "performers": [
+    "Fey"
+   ],
+   "artists": [
+    {
+     "name": "Fey",
+     "mbid": "b3bc168f-24f6-4c46-b901-2c491c0a7abf",
+     "listen_url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.balboatheatre.org/"
+  },
+  {
    "id": "house-of-blues:2027-04-02:ricky-montgomery",
    "date": "2027-04-02",
    "venue": "House of Blues",
@@ -11039,6 +11259,25 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "soma:2027-04-04:delta-sleep",
+   "date": "2027-04-04",
+   "venue": "SOMA",
+   "city": "San Diego",
+   "performers": [
+    "Delta Sleep"
+   ],
+   "artists": [
+    {
+     "name": "Delta Sleep",
+     "mbid": "0934b25a-8293-4277-a6db-ee0ad0adbfc8",
+     "listen_url": "https://deltasleep.bandcamp.com/track/unread",
+     "listen_service": "Bandcamp",
+     "listen_title": "Unread"
+    }
+   ],
+   "venue_url": "https://www.somasandiego.com/"
   },
   {
    "id": "belly-up-tavern:2027-04-06:the-palms",
@@ -11120,6 +11359,48 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "soma:2027-04-08:narrow-head",
+   "date": "2027-04-08",
+   "venue": "SOMA",
+   "city": "San Diego",
+   "performers": [
+    "Narrow Head",
+    "Horse Jumper of Love",
+    "Knumears",
+    "Worlds Worst"
+   ],
+   "artists": [
+    {
+     "name": "Narrow Head",
+     "mbid": "d2c944b5-7475-47bd-b3bf-df1b68f80a68",
+     "official_url": "https://www.narrow-head.com/",
+     "listen_url": "https://narrowheadtx.bandcamp.com/track/wheel",
+     "listen_service": "Bandcamp",
+     "listen_title": "Wheel"
+    },
+    {
+     "name": "Horse Jumper of Love",
+     "mbid": "53477174-604a-4405-be1d-39a521bed5c1",
+     "official_url": "https://horsejumperoflove.com/",
+     "listen_url": "https://horsejumperoflove.bandcamp.com/track/ugly-brunette-3",
+     "listen_service": "Bandcamp",
+     "listen_title": "Ugly Brunette"
+    },
+    {
+     "name": "Knumears",
+     "mbid": "b52410e4-2d30-4d2a-a1d5-86090ac8dd57",
+     "official_url": "https://knumears.com/",
+     "listen_url": "https://knumears.bandcamp.com/track/introduction",
+     "listen_service": "Bandcamp",
+     "listen_title": "Introduction"
+    },
+    {
+     "name": "Worlds Worst"
+    }
+   ],
+   "venue_url": "https://www.somasandiego.com/"
   },
   {
    "id": "the-holding-company:2027-04-09:babes-in-canyon",
@@ -11476,6 +11757,25 @@
     }
    ],
    "venue_url": null
+  },
+  {
+   "id": "the-observatory-north-park:2027-04-24:sasha-keable",
+   "date": "2027-04-24",
+   "venue": "The Observatory North Park",
+   "city": "San Diego",
+   "performers": [
+    "Sasha Keable",
+    "EJ Ross"
+   ],
+   "artists": [
+    {
+     "name": "Sasha Keable"
+    },
+    {
+     "name": "EJ Ross"
+    }
+   ],
+   "venue_url": "https://www.observatorysd.com"
   },
   {
    "id": "the-sound:2027-04-24:lsdream",
@@ -11973,6 +12273,21 @@
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
+  },
+  {
+   "id": "soda-bar:2027-05-09:ryley-walker",
+   "date": "2027-05-09",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Ryley Walker"
+   ],
+   "artists": [
+    {
+     "name": "Ryley Walker"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "casbah:2027-05-12:the-chameleons",
