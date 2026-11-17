@@ -1,150 +1,11 @@
 {
- "generated_at": "2026-11-16T15:47:28-08:00",
+ "generated_at": "2026-11-17T04:09:22-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
   "updated": "November 16, 2026"
  },
  "shows": [
-  {
-   "id": "casbah:2026-11-16:jon-spencer",
-   "date": "2026-11-16",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "Jon Spencer"
-   ],
-   "artists": [
-    {
-     "name": "Jon Spencer",
-     "mbid": "d1ab8ca8-fb9f-4e78-a422-3cd5406dc0b1",
-     "official_url": "http://thejonspencerbluesexplosion.com/",
-     "listen_url": "https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
-  },
-  {
-   "id": "lou-lou-s:2026-11-16:nourished-by-time",
-   "date": "2026-11-16",
-   "venue": "Lou Lou's",
-   "city": "San Diego",
-   "performers": [
-    "NOURISHED BY TIME"
-   ],
-   "artists": [
-    {
-     "name": "NOURISHED BY TIME",
-     "mbid": "6420dd6b-8232-42db-9cb9-90bec8f40e91",
-     "listen_url": "https://nourishedbytime.bandcamp.com/track/max-potential",
-     "listen_service": "Bandcamp",
-     "listen_title": "Max Potential"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "soda-bar:2026-11-16:oso",
-   "date": "2026-11-16",
-   "venue": "Soda Bar",
-   "city": "San Diego",
-   "performers": [
-    "Oso",
-    "Liquid Mike",
-    "bugsy",
-    "Jordan Krimston"
-   ],
-   "artists": [
-    {
-     "name": "Oso",
-     "mbid": "a8c4f4c9-b18a-4edf-a7d1-f5b657a9503b",
-     "official_url": "https://osooso.band/",
-     "listen_url": "https://osoosoband.bandcamp.com/track/4-am-redemption",
-     "listen_service": "Bandcamp",
-     "listen_title": "4 am redemption"
-    },
-    {
-     "name": "Liquid Mike",
-     "mbid": "56a6f0a7-cb01-4f57-8049-4dc79b919134",
-     "listen_url": "https://liquidmike.bandcamp.com/track/inanimate-object-2",
-     "listen_service": "Bandcamp",
-     "listen_title": "Inanimate Object"
-    },
-    {
-     "name": "bugsy",
-     "mbid": "d1cd726e-beab-4b11-bbe9-f2609e71436d",
-     "listen_url": "https://open.spotify.com/artist/6vDYFCXQbWPqlUEyBaVbMW",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Jordan Krimston",
-     "mbid": "49e4b4bb-94e3-4679-8c19-48986a19cf4e",
-     "listen_url": "https://jordankrimston.bandcamp.com/track/halcyon",
-     "listen_service": "Bandcamp",
-     "listen_title": "Halcyon"
-    }
-   ],
-   "venue_url": "https://sodabarmusic.com/"
-  },
-  {
-   "id": "the-observatory-north-park:2026-11-16:syd",
-   "date": "2026-11-16",
-   "venue": "The Observatory North Park",
-   "city": "San Diego",
-   "performers": [
-    "Syd",
-    "Magnus Ferrell"
-   ],
-   "artists": [
-    {
-     "name": "Syd",
-     "mbid": "12327d75-47d5-45d9-84c2-3760b9210c17",
-     "official_url": "http://www.sydbarrett.com/",
-     "listen_url": "https://open.spotify.com/artist/6Lt3HS8R2v8Q4G7ZkUWa8R",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Magnus Ferrell",
-     "mbid": "0d8d8a94-9865-44bf-b3af-2361bb1c321e",
-     "official_url": "https://www.magnusferrell.com/",
-     "listen_url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.observatorysd.com"
-  },
-  {
-   "id": "the-tower-bar:2026-11-16:mdc",
-   "date": "2026-11-16",
-   "venue": "The Tower Bar",
-   "city": "San Diego",
-   "performers": [
-    "MDC",
-    "No Consent",
-    "Strychnine Ninety Nine"
-   ],
-   "artists": [
-    {
-     "name": "MDC",
-     "mbid": "0f3c4d10-e541-46f0-a589-61ad701c6ce4",
-     "official_url": "http://www.mdc-rocks.com/index.asp",
-     "listen_url": "https://open.spotify.com/artist/5JQSncL9xdFUl0FrdYMWV0",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "No Consent",
-     "mbid": "aaf23d7f-4d4b-423c-85a5-6eb928b440fd",
-     "listen_url": "https://noconsentband.bandcamp.com/track/our-time-is-now",
-     "listen_service": "Bandcamp",
-     "listen_title": "Our Time Is Now"
-    },
-    {
-     "name": "Strychnine Ninety Nine"
-    }
-   ],
-   "venue_url": null
-  },
   {
    "id": "belly-up-tavern:2026-11-17:rachael-vilray",
    "date": "2026-11-17",
@@ -11134,7 +10995,11 @@
      "listen_service": "Spotify"
     },
     {
-     "name": "Declan J Donovan"
+     "name": "Declan J Donovan",
+     "mbid": "74710ebf-3afd-4f4c-9280-a401a47136ae",
+     "official_url": "http://www.declanjdonovan.com/music/",
+     "listen_url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r",
+     "listen_service": "Spotify"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -12240,13 +12105,26 @@
    ],
    "artists": [
     {
-     "name": "Megadeth"
+     "name": "Megadeth",
+     "mbid": "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e",
+     "official_url": "https://www.megadeth.com/",
+     "listen_url": "https://officialmegadeth.bandcamp.com/track/promises-conspiracies-and-lies",
+     "listen_service": "Bandcamp",
+     "listen_title": "Serpent From Eden featuring Nick Menza - Promises, Conspiracies, and Lies"
     },
     {
-     "name": "Anthrax"
+     "name": "Anthrax",
+     "mbid": "b616d6f0-ec1f-4c69-8a79-12a97ece7372",
+     "official_url": "http://anthrax.com/",
+     "listen_url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP",
+     "listen_service": "Spotify"
     },
     {
-     "name": "Kerry King"
+     "name": "Kerry King",
+     "mbid": "6545b2a5-bbdd-408d-9169-3d7aeade8093",
+     "official_url": "https://kerrykingofficial.com/",
+     "listen_url": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH",
+     "listen_service": "Spotify"
     }
    ],
    "venue_url": null

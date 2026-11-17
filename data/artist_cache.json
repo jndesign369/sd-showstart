@@ -413188,6 +413188,4235 @@
         "offset": 0,
         "artists": []
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Declan J Donovan\\\"\"}": {
+      "fetched_at": "2026-11-17T12:09:22.819909+00:00",
+      "data": {
+        "created": "2026-11-17T12:09:23.352Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "74710ebf-3afd-4f4c-9280-a401a47136ae",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Declan J Donovan",
+            "sort-name": "Donovan, Declan J",
+            "gender": "male",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "98f92898-0488-4bf0-83e9-38ae3fba530d",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Harlow",
+              "sort-name": "Harlow",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "house"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/74710ebf-3afd-4f4c-9280-a401a47136ae?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-17T12:09:22.819909+00:00",
+      "data": {
+        "begin-area": {
+          "sort-name": "Harlow",
+          "id": "98f92898-0488-4bf0-83e9-38ae3fba530d",
+          "type-id": null,
+          "name": "Harlow",
+          "disambiguation": "",
+          "type": null
+        },
+        "ipis": [],
+        "type": "Person",
+        "id": "74710ebf-3afd-4f4c-9280-a401a47136ae",
+        "area": {
+          "name": "United Kingdom",
+          "type": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ],
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+        },
+        "relations": [
+          {
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "type": "allmusic",
+            "attribute-values": {},
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "attribute-ids": {},
+            "target-credit": "",
+            "attributes": [],
+            "ended": false,
+            "source-credit": "",
+            "end": null,
+            "url": {
+              "id": "ac41c4dc-f2ef-43f8-b7a2-92b52c8b3228",
+              "resource": "https://www.allmusic.com/artist/mn0003823735"
+            }
+          },
+          {
+            "url": {
+              "id": "bdd9a504-b365-44db-ac6f-89c298100011",
+              "resource": "https://www.discogs.com/artist/6992086"
+            },
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "attributes": [],
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "discogs",
+            "attribute-values": {},
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward"
+          },
+          {
+            "ended": false,
+            "source-credit": "",
+            "end": null,
+            "url": {
+              "resource": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r",
+              "id": "4d3a5777-a113-4f4c-9099-8ce331b1b45f"
+            },
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "type": "free streaming",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "target-credit": "",
+            "attributes": []
+          },
+          {
+            "direction": "forward",
+            "begin": null,
+            "target-type": "url",
+            "attribute-values": {},
+            "type": "free streaming",
+            "target-credit": "",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-ids": {},
+            "attributes": [],
+            "source-credit": "",
+            "ended": false,
+            "end": null,
+            "url": {
+              "resource": "https://www.deezer.com/artist/12002184",
+              "id": "ebb18501-7384-4fe8-88f7-5fe8150f030e"
+            }
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "ended": false,
+            "url": {
+              "id": "56c49ef9-c0bc-4a09-ba12-22f97cea3299",
+              "resource": "https://www.last.fm/music/Declan+J+Donovan"
+            },
+            "attribute-values": {},
+            "type": "last.fm",
+            "direction": "forward",
+            "begin": null,
+            "target-type": "url",
+            "attributes": [],
+            "target-credit": "",
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "attribute-ids": {}
+          },
+          {
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "url": {
+              "id": "a7de4608-5564-4bbb-8aa0-9d4ec8aef288",
+              "resource": "https://genius.com/artists/Declan-j-donovan"
+            },
+            "type": "lyrics",
+            "attribute-values": {},
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "attributes": [],
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "attribute-ids": {},
+            "target-credit": ""
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "begin": null,
+            "type": "official homepage",
+            "attribute-values": {},
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "attribute-ids": {},
+            "target-credit": "",
+            "attributes": [],
+            "ended": false,
+            "source-credit": "",
+            "end": null,
+            "url": {
+              "id": "73447be3-2265-4523-a9a8-0233deb04fa8",
+              "resource": "http://www.declanjdonovan.com/music/"
+            }
+          },
+          {
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "url": {
+              "resource": "https://itunes.apple.com/us/artist/id1208984158",
+              "id": "8db9754b-70c4-42f1-8b46-7dc91f1452ba"
+            },
+            "type": "purchase for download",
+            "attribute-values": {},
+            "target-type": "url",
+            "direction": "forward",
+            "begin": null,
+            "attributes": [],
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-ids": {},
+            "target-credit": ""
+          },
+          {
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "type": "setlistfm",
+            "attribute-values": {},
+            "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+            "attribute-ids": {},
+            "target-credit": "",
+            "attributes": [],
+            "ended": false,
+            "source-credit": "",
+            "end": null,
+            "url": {
+              "id": "085eab4e-c27d-4ac8-a572-7586a9dd2817",
+              "resource": "https://www.setlist.fm/setlists/declan-j-donovan-2bcfec1a.html"
+            }
+          },
+          {
+            "url": {
+              "resource": "https://twitter.com/declanjdonovan",
+              "id": "5d2b2ea7-5d5a-420e-8f51-cc3e2f76ee6c"
+            },
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "attributes": [],
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "social network",
+            "attribute-values": {},
+            "target-type": "url",
+            "direction": "forward",
+            "begin": null
+          },
+          {
+            "url": {
+              "id": "7675fb88-6517-4daf-87a3-c92763ec9107",
+              "resource": "https://www.facebook.com/DeclanJDonovan"
+            },
+            "end": null,
+            "source-credit": "",
+            "ended": false,
+            "attributes": [],
+            "target-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type": "social network",
+            "direction": "forward",
+            "begin": null,
+            "target-type": "url"
+          },
+          {
+            "url": {
+              "id": "0046ecfb-9be7-4eb2-9300-8337ad6ebf1e",
+              "resource": "https://www.instagram.com/declanjdonovan/"
+            },
+            "end": null,
+            "source-credit": "",
+            "ended": false,
+            "attributes": [],
+            "target-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type": "social network",
+            "begin": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "url": {
+              "id": "3739026c-672c-4422-bdc3-a81479e69ddc",
+              "resource": "https://www.songkick.com/artists/9157404"
+            },
+            "end": null,
+            "source-credit": "",
+            "ended": false,
+            "attributes": [],
+            "target-credit": "",
+            "attribute-ids": {},
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "attribute-values": {},
+            "type": "songkick",
+            "direction": "forward",
+            "begin": null,
+            "target-type": "url"
+          },
+          {
+            "type": "soundcloud",
+            "attribute-values": {},
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "attributes": [],
+            "attribute-ids": {},
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "target-credit": "",
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "url": {
+              "resource": "https://soundcloud.com/declandonovanmusic",
+              "id": "7ae627c6-2ae1-4de7-b179-356f728a00c2"
+            }
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "begin": null,
+            "type": "streaming",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-ids": {},
+            "target-credit": "",
+            "attributes": [],
+            "ended": false,
+            "source-credit": "",
+            "end": null,
+            "url": {
+              "id": "72aa2e36-845d-4a92-972c-601245d143ac",
+              "resource": "https://music.apple.com/de/artist/1208984158"
+            }
+          },
+          {
+            "url": {
+              "resource": "https://www.youtube.com/channel/UCMXkwtMt_aqxCG57d2pYWrg",
+              "id": "380522ef-161e-42e4-9a92-69a6c6688167"
+            },
+            "source-credit": "",
+            "ended": false,
+            "end": null,
+            "target-credit": "",
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "attribute-ids": {},
+            "attributes": [],
+            "direction": "forward",
+            "begin": null,
+            "target-type": "url",
+            "attribute-values": {},
+            "type": "youtube"
+          }
+        ],
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "life-span": {
+          "ended": false,
+          "begin": null,
+          "end": null
+        },
+        "country": "GB",
+        "isnis": [],
+        "end-area": null,
+        "name": "Declan J Donovan",
+        "sort-name": "Donovan, Declan J",
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "gender": "Male",
+        "disambiguation": ""
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"VEAUX | The Hyperdeath Tour\\\"\"}": {
+      "fetched_at": "2026-11-17T12:09:22.819909+00:00",
+      "data": {
+        "created": "2026-11-17T12:09:25.100Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Megadeth\\\"\"}": {
+      "fetched_at": "2026-11-17T12:09:22.819909+00:00",
+      "data": {
+        "created": "2026-11-17T12:09:26.205Z",
+        "count": 3,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Megadeth",
+            "sort-name": "Megadeth",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Los Angeles",
+              "sort-name": "Los Angeles",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000119384102",
+              "000000046959103X"
+            ],
+            "life-span": {
+              "begin": "1983-06",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "メガデス",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "メガデス",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Megadeath",
+                "name": "Megadeath",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The World Needs a Hero",
+                "name": "The World Needs a Hero",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": -1,
+                "name": "political"
+              },
+              {
+                "count": 2,
+                "name": "rock"
+              },
+              {
+                "count": -3,
+                "name": "80s"
+              },
+              {
+                "count": 19,
+                "name": "heavy metal"
+              },
+              {
+                "count": 42,
+                "name": "thrash metal"
+              },
+              {
+                "count": 9,
+                "name": "metal"
+              },
+              {
+                "count": 2,
+                "name": "american"
+              },
+              {
+                "count": 1,
+                "name": "hard rock"
+              },
+              {
+                "count": -1,
+                "name": "usa"
+              },
+              {
+                "count": -1,
+                "name": "melodic"
+              },
+              {
+                "count": -2,
+                "name": "thrash"
+              },
+              {
+                "count": 0,
+                "name": "alternative metal"
+              },
+              {
+                "count": 10,
+                "name": "speed metal"
+              },
+              {
+                "count": -1,
+                "name": "california"
+              },
+              {
+                "count": -1,
+                "name": "technical"
+              },
+              {
+                "count": -2,
+                "name": "not as good as metallica"
+              },
+              {
+                "count": -1,
+                "name": "american thrash metal"
+              },
+              {
+                "count": -1,
+                "name": "stfu totally better than metallica"
+              },
+              {
+                "count": -3,
+                "name": "rock and indie"
+              },
+              {
+                "count": -1,
+                "name": "united states"
+              },
+              {
+                "count": -1,
+                "name": "angry"
+              },
+              {
+                "count": -1,
+                "name": "energetic"
+              },
+              {
+                "count": 0,
+                "name": "metallica"
+              },
+              {
+                "count": -3,
+                "name": "classic metal"
+              },
+              {
+                "count": -3,
+                "name": "classic thrash metal"
+              },
+              {
+                "count": 0,
+                "name": "80's"
+              },
+              {
+                "count": -2,
+                "name": "bay area thrash metal"
+              },
+              {
+                "count": -3,
+                "name": "music - rock"
+              },
+              {
+                "count": -1,
+                "name": "sarcastic"
+              },
+              {
+                "count": 2,
+                "name": "old school thrash"
+              },
+              {
+                "count": 0,
+                "name": "melodic thrash"
+              },
+              {
+                "count": 0,
+                "name": "estados unidos"
+              }
+            ]
+          },
+          {
+            "id": "f1f44fd8-d636-4272-8723-bd47fee4eaec",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 62,
+            "name": "Megadeth UK",
+            "sort-name": "Megadeth UK",
+            "begin-area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Megadeth tribute band",
+            "life-span": {
+              "begin": "2007-12",
+              "ended": null
+            }
+          },
+          {
+            "id": "d4d1afe9-becd-472f-bc18-91697a3160e9",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 58,
+            "name": "Megadeth Tribute Band",
+            "sort-name": "Megadeth Tribute",
+            "disambiguation": "Megadeth tribute band from Ohio",
+            "life-span": {
+              "begin": "1990-08-21",
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/a9044915-8be3-4c7e-b11f-9e2d2ea0a91e?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-17T12:09:22.819909+00:00",
+      "data": {
+        "end-area": null,
+        "id": "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e",
+        "relations": [
+          {
+            "begin": null,
+            "type": "allmusic",
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "ended": false,
+            "attribute-values": {},
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "id": "6ceca98a-076e-4404-b545-7207ad5a356c",
+              "resource": "https://www.allmusic.com/artist/mn0000406294"
+            }
+          },
+          {
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "attribute-ids": {},
+            "end": null,
+            "target-credit": "",
+            "ended": false,
+            "attributes": [],
+            "direction": "forward",
+            "begin": null,
+            "type": "bandcamp",
+            "source-credit": "",
+            "url": {
+              "resource": "https://officialmegadeth.bandcamp.com/",
+              "id": "5b203195-7e46-47a8-814b-00c5e67837c1"
+            },
+            "target-type": "url",
+            "attribute-values": {}
+          },
+          {
+            "attribute-values": {},
+            "source-credit": "",
+            "url": {
+              "id": "7162c79d-307c-4c60-ac07-e148271c3b3e",
+              "resource": "https://www.bandsintown.com/a/551"
+            },
+            "target-type": "url",
+            "begin": null,
+            "type": "bandsintown",
+            "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+            "attribute-ids": {},
+            "end": null,
+            "ended": false,
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward"
+          },
+          {
+            "target-credit": "",
+            "ended": true,
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+            "attribute-ids": {},
+            "end": "2020-11-19",
+            "type": "BBC Music page",
+            "begin": null,
+            "url": {
+              "id": "e71a0986-0762-4870-a2c0-f88866e62fb5",
+              "resource": "https://www.bbc.co.uk/music/artists/a9044915-8be3-4c7e-b11f-9e2d2ea0a91e"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-values": {}
+          },
+          {
+            "attribute-values": {},
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "id": "3cade78d-7455-4dc9-aecc-cd7d3afaafff",
+              "resource": "https://megadeth.tumblr.com/"
+            },
+            "begin": null,
+            "type": "blog",
+            "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f",
+            "end": null,
+            "attribute-ids": {},
+            "target-credit": "",
+            "ended": false,
+            "direction": "forward",
+            "attributes": []
+          },
+          {
+            "url": {
+              "id": "1c67c081-5146-41f2-94c1-c3d10be8dad8",
+              "resource": "https://www.discogs.com/artist/11770"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": [],
+            "direction": "forward",
+            "target-credit": "",
+            "ended": false,
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "type": "discogs",
+            "begin": null
+          },
+          {
+            "attribute-values": {},
+            "url": {
+              "resource": "http://www.metallipromo.com/meg.html",
+              "id": "8b93e330-8071-415f-983b-9e513071c5d4"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "type": "fanpage",
+            "begin": null,
+            "attributes": [],
+            "direction": "forward",
+            "ended": false,
+            "target-credit": "",
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24"
+          },
+          {
+            "url": {
+              "resource": "http://megadeth.rockmetal.art.pl/",
+              "id": "7ed7f0d6-dee2-4a3d-9c48-e38ad04eea32"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-values": {},
+            "target-credit": "",
+            "ended": true,
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+            "attribute-ids": {},
+            "end": null,
+            "type": "fanpage",
+            "begin": null
+          },
+          {
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "id": "f0c93ac3-221c-4bfd-94a4-b834fe105a58",
+              "resource": "https://music.migu.cn/v3/music/artist/33026"
+            },
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "end": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-credit": "",
+            "direction": "forward",
+            "attributes": [],
+            "begin": null,
+            "type": "free streaming"
+          },
+          {
+            "type": "free streaming",
+            "begin": null,
+            "target-credit": "",
+            "ended": false,
+            "direction": "forward",
+            "attributes": [],
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "end": null,
+            "attribute-ids": {},
+            "attribute-values": {},
+            "target-type": "url",
+            "url": {
+              "id": "43920b73-45b9-465e-b98c-481ec6d0abae",
+              "resource": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+            },
+            "source-credit": ""
+          },
+          {
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "attributes": [],
+            "ended": false,
+            "target-credit": "",
+            "begin": null,
+            "type": "free streaming",
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "resource": "https://play.anghami.com/artist/10199",
+              "id": "2a70cfd7-084a-4cfe-9bec-b62c9eba921a"
+            },
+            "attribute-values": {}
+          },
+          {
+            "attribute-values": {},
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "resource": "https://www.deezer.com/artist/3487",
+              "id": "09434807-97dc-4eff-85b3-bc5af74fb965"
+            },
+            "begin": null,
+            "type": "free streaming",
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "attributes": [],
+            "ended": false,
+            "target-credit": ""
+          },
+          {
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attributes": [],
+            "direction": "forward",
+            "target-credit": "",
+            "ended": true,
+            "begin": null,
+            "type": "free streaming",
+            "source-credit": "",
+            "url": {
+              "id": "3d538018-5d81-4b28-8fdf-ca87afae9d71",
+              "resource": "http://www.pandora.com/megadeth"
+            },
+            "target-type": "url",
+            "attribute-values": {}
+          },
+          {
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "id": "073b843b-4eb3-4782-b1ae-79ab52b1bb75",
+              "resource": "https://commons.wikimedia.org/wiki/File:Megadeth2010.jpg"
+            },
+            "attribute-values": {},
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+            "direction": "forward",
+            "attributes": [],
+            "ended": false,
+            "target-credit": "",
+            "begin": null,
+            "type": "image"
+          },
+          {
+            "target-type": "url",
+            "url": {
+              "id": "f7cc2a73-fe3a-4033-9509-d2196b43ea1b",
+              "resource": "https://www.imdb.com/name/nm1655103/"
+            },
+            "source-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "ended": false,
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+            "type": "IMDb",
+            "begin": null
+          },
+          {
+            "attribute-values": {},
+            "url": {
+              "resource": "https://www.last.fm/music/Megadeth",
+              "id": "7035b5f4-d482-4d50-a212-c03e2285c56c"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "type": "last.fm",
+            "begin": null,
+            "attributes": [],
+            "direction": "forward",
+            "ended": false,
+            "target-credit": "",
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f"
+          },
+          {
+            "ended": false,
+            "target-credit": "",
+            "direction": "forward",
+            "attributes": [],
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "end": null,
+            "attribute-ids": {},
+            "type": "lyrics",
+            "begin": null,
+            "target-type": "url",
+            "url": {
+              "resource": "https://genius.com/artists/Megadeth",
+              "id": "cb49fd5a-5e05-42e7-905a-b6d38da4fef4"
+            },
+            "source-credit": "",
+            "attribute-values": {}
+          },
+          {
+            "attribute-values": {},
+            "url": {
+              "id": "1540d5c0-62de-4046-b5ab-799cbdbbd864",
+              "resource": "https://muzikum.eu/en/megadeth/lyrics"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "type": "lyrics",
+            "begin": null,
+            "target-credit": "",
+            "ended": false,
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "attribute-ids": {},
+            "end": null
+          },
+          {
+            "type": "lyrics",
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "direction": "forward",
+            "attributes": [],
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "end": null,
+            "attribute-ids": {},
+            "attribute-values": {},
+            "target-type": "url",
+            "url": {
+              "resource": "https://www.musixmatch.com/artist/Megadeth",
+              "id": "447d8cea-9bde-4401-b0d4-072dca95b075"
+            },
+            "source-credit": ""
+          },
+          {
+            "source-credit": "",
+            "url": {
+              "resource": "https://myspace.com/megadeth",
+              "id": "6905059f-a29f-43e7-9870-67cf624aeb22"
+            },
+            "target-type": "url",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+            "attributes": [],
+            "direction": "forward",
+            "target-credit": "",
+            "ended": false,
+            "begin": null,
+            "type": "myspace"
+          },
+          {
+            "target-type": "url",
+            "url": {
+              "id": "dda16bf6-dfbc-4df8-b30d-ee2c6ffa95dd",
+              "resource": "https://www.megadeth.com/"
+            },
+            "source-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "ended": false,
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "type": "official homepage",
+            "begin": null
+          },
+          {
+            "begin": null,
+            "type": "other databases",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-credit": "",
+            "direction": "forward",
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "resource": "http://id.loc.gov/authorities/names/n91071104",
+              "id": "365438a5-e49c-4d50-8131-b4c31caf9ad7"
+            }
+          },
+          {
+            "url": {
+              "resource": "https://catalogue.bnf.fr/ark:/12148/cb13904927m",
+              "id": "7c37e141-b774-47f3-9714-4f55f3d0a431"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": [],
+            "direction": "forward",
+            "ended": false,
+            "target-credit": "",
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "type": "other databases",
+            "begin": null
+          },
+          {
+            "attribute-values": {},
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "resource": "https://d-nb.info/gnd/10290379-7",
+              "id": "19ff6284-7781-4948-9223-0464c576d166"
+            },
+            "begin": null,
+            "type": "other databases",
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "ended": false
+          },
+          {
+            "begin": null,
+            "type": "other databases",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-ids": {},
+            "end": null,
+            "target-credit": "",
+            "ended": false,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-values": {},
+            "source-credit": "",
+            "url": {
+              "id": "92cbdf46-0102-4b0c-b415-91136cc12e99",
+              "resource": "https://imvdb.com/n/megadeth"
+            },
+            "target-type": "url"
+          },
+          {
+            "type": "other databases",
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "direction": "forward",
+            "attributes": [],
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null,
+            "attribute-ids": {},
+            "attribute-values": {},
+            "target-type": "url",
+            "url": {
+              "id": "5cfa640f-7a75-4510-b0d0-c4b7c434578f",
+              "resource": "https://musicmoz.org/Bands_and_Artists/M/Megadeth/"
+            },
+            "source-credit": ""
+          },
+          {
+            "attribute-values": {},
+            "url": {
+              "id": "10332eb2-347a-4268-a244-57fbccb84978",
+              "resource": "https://openlibrary.org/authors/OL2741584A/"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "type": "other databases",
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-ids": {},
+            "end": null
+          },
+          {
+            "target-type": "url",
+            "url": {
+              "resource": "https://rateyourmusic.com/artist/megadeth",
+              "id": "0dfb02e0-4d5a-4c97-8a4d-ade9da675039"
+            },
+            "source-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "ended": false,
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "type": "other databases",
+            "begin": null
+          },
+          {
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attributes": [],
+            "direction": "forward",
+            "ended": false,
+            "target-credit": "",
+            "begin": null,
+            "type": "other databases",
+            "source-credit": "",
+            "url": {
+              "id": "6311aa1e-0476-460d-85a0-1b9e7fcfc220",
+              "resource": "https://www.45cat.com/artist/megadeth"
+            },
+            "target-type": "url",
+            "attribute-values": {}
+          },
+          {
+            "attribute-values": {},
+            "target-type": "url",
+            "url": {
+              "id": "9b79a044-dce0-4d26-a770-7ac7129e2147",
+              "resource": "https://www.livefans.jp/artists/3591"
+            },
+            "source-credit": "",
+            "type": "other databases",
+            "begin": null,
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "ended": false,
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+          },
+          {
+            "begin": null,
+            "type": "other databases",
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attributes": [],
+            "direction": "forward",
+            "ended": false,
+            "target-credit": "",
+            "attribute-values": {},
+            "source-credit": "",
+            "url": {
+              "id": "39af2a7b-6ad9-4d15-a2de-7aa68713e8c2",
+              "resource": "https://www.metal-archives.com/bands/Megadeth/138"
+            },
+            "target-type": "url"
+          },
+          {
+            "attribute-values": {},
+            "source-credit": "",
+            "url": {
+              "resource": "https://www.metalmusicarchives.com/artist/megadeth",
+              "id": "b312ee89-e345-41cd-a939-e1efcc46eaba"
+            },
+            "target-type": "url",
+            "begin": null,
+            "type": "other databases",
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attributes": [],
+            "direction": "forward",
+            "target-credit": "",
+            "ended": false
+          },
+          {
+            "url": {
+              "resource": "https://www.musik-sammler.de/artist/megadeth/",
+              "id": "2e46f04d-6c8b-405e-ac56-d781679bd5a9"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": [],
+            "direction": "forward",
+            "ended": false,
+            "target-credit": "",
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "type": "other databases",
+            "begin": null
+          },
+          {
+            "type": "other databases",
+            "begin": null,
+            "direction": "forward",
+            "attributes": [],
+            "ended": false,
+            "target-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "target-type": "url",
+            "url": {
+              "id": "0dd5efdb-244f-4ea7-9537-8267a160496a",
+              "resource": "https://www.muziekweb.nl/Link/M00000021753/POPULAR/"
+            },
+            "source-credit": ""
+          },
+          {
+            "begin": null,
+            "type": "other databases",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-credit": "",
+            "direction": "forward",
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "resource": "https://www.spirit-of-metal.com/en/band/Megadeth",
+              "id": "0cb8d697-ce75-4990-84f6-25697160a28a"
+            }
+          },
+          {
+            "attribute-values": {},
+            "target-type": "url",
+            "url": {
+              "id": "cff6135d-0cad-474c-b28c-49449d4e1367",
+              "resource": "https://www.whosampled.com/Megadeth/"
+            },
+            "source-credit": "",
+            "type": "other databases",
+            "begin": null,
+            "target-credit": "",
+            "ended": false,
+            "direction": "forward",
+            "attributes": [],
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null,
+            "attribute-ids": {}
+          },
+          {
+            "url": {
+              "resource": "https://www.worldcat.org/identities/lccn-n91071104",
+              "id": "43a9e724-4944-459a-ae37-4ec539b86fdd"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-values": {},
+            "ended": false,
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-ids": {},
+            "end": null,
+            "type": "other databases",
+            "begin": null
+          },
+          {
+            "attribute-values": {},
+            "target-type": "url",
+            "url": {
+              "id": "8a242fdc-0e8c-4e9f-a91c-f0b2e2d0fb27",
+              "resource": "http://worldcat.org/identities/lccn-n91071104/"
+            },
+            "source-credit": "",
+            "type": "other databases",
+            "begin": null,
+            "direction": "forward",
+            "attributes": [],
+            "ended": false,
+            "target-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+          },
+          {
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "id": "efe7c23e-fd88-426f-a175-c1e9c97f1545",
+              "resource": "https://play.google.com/store/music/artist?id=A6ibobmpocyvvr72lyu37jg7m6u"
+            },
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "end": "2020-10-12",
+            "attribute-ids": {},
+            "target-credit": "",
+            "ended": true,
+            "direction": "forward",
+            "attributes": [],
+            "begin": null,
+            "type": "purchase for download"
+          },
+          {
+            "type": "purchase for download",
+            "begin": null,
+            "target-credit": "",
+            "ended": false,
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-ids": {},
+            "end": null,
+            "attribute-values": {},
+            "url": {
+              "id": "be634d98-0cff-494b-9b53-25ca58ab1b94",
+              "resource": "https://itunes.apple.com/us/artist/id488289"
+            },
+            "target-type": "url",
+            "source-credit": ""
+          },
+          {
+            "ended": false,
+            "target-credit": "",
+            "direction": "forward",
+            "attributes": [],
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "end": null,
+            "attribute-ids": {},
+            "type": "purchase for download",
+            "begin": null,
+            "target-type": "url",
+            "url": {
+              "resource": "https://mora.jp/artist/200065/",
+              "id": "91c58460-6914-45d0-b59a-e58010421442"
+            },
+            "source-credit": "",
+            "attribute-values": {}
+          },
+          {
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-ids": {},
+            "end": null,
+            "target-credit": "",
+            "ended": false,
+            "attributes": [],
+            "direction": "forward",
+            "begin": null,
+            "type": "purchase for download",
+            "source-credit": "",
+            "url": {
+              "id": "16d59474-fb26-4cd3-a2bd-e407b96e74a5",
+              "resource": "https://mora.jp/artist/200065/all"
+            },
+            "target-type": "url",
+            "attribute-values": {}
+          },
+          {
+            "type": "purchase for download",
+            "begin": null,
+            "direction": "forward",
+            "attributes": [],
+            "ended": false,
+            "target-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "target-type": "url",
+            "url": {
+              "resource": "https://us.7digital.com/artist/megadeth",
+              "id": "30ad4b47-2c46-4beb-983b-17a4d6e25d8e"
+            },
+            "source-credit": ""
+          },
+          {
+            "ended": false,
+            "target-credit": "",
+            "direction": "forward",
+            "attributes": [],
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "end": null,
+            "attribute-ids": {},
+            "type": "purchase for download",
+            "begin": null,
+            "target-type": "url",
+            "url": {
+              "id": "2c8d9130-62f9-4890-b3a2-480772766efb",
+              "resource": "https://www.qobuz.com/gb-en/interpreter/megadeth/download-streaming-albums"
+            },
+            "source-credit": "",
+            "attribute-values": {}
+          },
+          {
+            "url": {
+              "resource": "https://www.amazon.com/-/e/B000APENBM",
+              "id": "2f9d490c-90d9-4a64-95f6-e995f363a07c"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-values": {},
+            "target-credit": "",
+            "ended": false,
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+            "attribute-ids": {},
+            "end": null,
+            "type": "purchase for mail-order",
+            "begin": null
+          },
+          {
+            "type": "purchase for mail-order",
+            "begin": null,
+            "attributes": [],
+            "direction": "forward",
+            "target-credit": "",
+            "ended": false,
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+            "attribute-values": {},
+            "url": {
+              "id": "dbd9afb6-a361-4a47-9fea-65d9534ede57",
+              "resource": "https://www.cdjapan.co.jp/person/700168910"
+            },
+            "target-type": "url",
+            "source-credit": ""
+          },
+          {
+            "type": "purchase for mail-order",
+            "begin": null,
+            "direction": "forward",
+            "attributes": [],
+            "ended": false,
+            "target-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+            "attribute-values": {},
+            "target-type": "url",
+            "url": {
+              "resource": "https://www.yesasia.com/0-aid34330-0-bpt.47-en/list.html",
+              "id": "83dfa76d-6988-49fa-8f5e-5fe1dfb51184"
+            },
+            "source-credit": ""
+          },
+          {
+            "end": "2018-06-30",
+            "attribute-ids": {},
+            "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581",
+            "direction": "forward",
+            "attributes": [],
+            "ended": true,
+            "target-credit": "",
+            "begin": null,
+            "type": "purevolume",
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "resource": "http://www.purevolume.com/megadeth",
+              "id": "b4fd6433-bdc2-4390-9705-026a4b7b60c2"
+            },
+            "attribute-values": {}
+          },
+          {
+            "attribute-values": {},
+            "url": {
+              "resource": "https://secondhandsongs.com/artist/9527",
+              "id": "e74a2a9b-ef02-48f2-a721-6e649a9cd1aa"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "type": "secondhandsongs",
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+            "attribute-ids": {},
+            "end": null
+          },
+          {
+            "url": {
+              "resource": "https://www.setlist.fm/setlists/megadeth-73d6aa19.html",
+              "id": "abce7aff-a9f8-4ea6-ac32-2ff58733f95b"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-values": {},
+            "ended": false,
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+            "attribute-ids": {},
+            "end": null,
+            "type": "setlistfm",
+            "begin": null
+          },
+          {
+            "type": "social network",
+            "begin": null,
+            "target-credit": "",
+            "ended": false,
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-ids": {},
+            "end": null,
+            "attribute-values": {},
+            "url": {
+              "id": "008fa43a-1746-4fb8-80c1-f1286bfd448a",
+              "resource": "https://twitter.com/Megadeth"
+            },
+            "target-type": "url",
+            "source-credit": ""
+          },
+          {
+            "direction": "forward",
+            "attributes": [],
+            "ended": false,
+            "target-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "type": "social network",
+            "begin": null,
+            "target-type": "url",
+            "url": {
+              "id": "6c6d7d50-b56f-4345-a06b-962f4b61f29a",
+              "resource": "https://www.facebook.com/Megadeth"
+            },
+            "source-credit": "",
+            "attribute-values": {}
+          },
+          {
+            "begin": null,
+            "type": "social network",
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attributes": [],
+            "direction": "forward",
+            "ended": false,
+            "target-credit": "",
+            "attribute-values": {},
+            "source-credit": "",
+            "url": {
+              "id": "179afc4b-a4d9-401a-bd0c-d4afc3fb65e3",
+              "resource": "https://www.instagram.com/Megadeth/"
+            },
+            "target-type": "url"
+          },
+          {
+            "type": "social network",
+            "begin": null,
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "ended": false,
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "target-type": "url",
+            "url": {
+              "id": "6f279b15-1e76-412e-a0e1-9dad545b5c32",
+              "resource": "https://www.threads.com/@megadeth"
+            },
+            "source-credit": ""
+          },
+          {
+            "url": {
+              "resource": "https://www.tiktok.com/@megadeth",
+              "id": "a2219eb5-3c04-4a20-a486-388c3d69abef"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-values": {},
+            "ended": false,
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-ids": {},
+            "end": null,
+            "type": "social network",
+            "begin": null
+          },
+          {
+            "url": {
+              "id": "2c260579-936f-4d04-9b8f-ae2ddda3005b",
+              "resource": "https://www.songkick.com/artists/117140"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": [],
+            "direction": "forward",
+            "ended": false,
+            "target-credit": "",
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "type": "songkick",
+            "begin": null
+          },
+          {
+            "target-type": "url",
+            "url": {
+              "resource": "https://soundcloud.com/megadethofficial",
+              "id": "6a431f60-4df7-40cd-9cc7-f1e0b2a2b0f6"
+            },
+            "source-credit": "",
+            "attribute-values": {},
+            "target-credit": "",
+            "ended": false,
+            "direction": "forward",
+            "attributes": [],
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "end": null,
+            "attribute-ids": {},
+            "type": "soundcloud",
+            "begin": null
+          },
+          {
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "end": "2022-06-08",
+            "attribute-ids": {},
+            "target-credit": "",
+            "ended": true,
+            "direction": "forward",
+            "attributes": [],
+            "begin": null,
+            "type": "streaming",
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "resource": "https://us.napster.com/artist/megadeth",
+              "id": "e4018489-81b7-474a-afb9-16528bcd3bda"
+            },
+            "attribute-values": {}
+          },
+          {
+            "source-credit": "",
+            "url": {
+              "id": "8e1c6685-0027-4d4f-8a1b-43d4de46e59b",
+              "resource": "https://music.amazon.com/artists/B000QJPK78"
+            },
+            "target-type": "url",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-ids": {},
+            "end": null,
+            "ended": false,
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "begin": null,
+            "type": "streaming"
+          },
+          {
+            "target-type": "url",
+            "url": {
+              "id": "70f277f6-4cb8-4228-a6b9-b94948bbf379",
+              "resource": "https://music.apple.com/us/artist/488289"
+            },
+            "source-credit": "",
+            "attribute-values": {},
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "ended": false,
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "type": "streaming",
+            "begin": null
+          },
+          {
+            "begin": null,
+            "type": "streaming",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-ids": {},
+            "end": null,
+            "ended": false,
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "attribute-values": {},
+            "source-credit": "",
+            "url": {
+              "resource": "https://open.qobuz.com/artist/121232",
+              "id": "829a04e5-75a1-4969-8a44-36eda075ed79"
+            },
+            "target-type": "url"
+          },
+          {
+            "attribute-values": {},
+            "url": {
+              "id": "d9523282-45f7-4d7c-ac74-c0269dbe1241",
+              "resource": "https://tidal.com/artist/946"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "type": "streaming",
+            "begin": null,
+            "target-credit": "",
+            "ended": false,
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-ids": {},
+            "end": null
+          },
+          {
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-ids": {},
+            "end": null,
+            "ended": false,
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "begin": null,
+            "type": "streaming",
+            "source-credit": "",
+            "url": {
+              "id": "67df7f3b-d5c6-46ec-9413-2cd1d7ac5e05",
+              "resource": "https://www.qobuz.com/us-en/interpreter/megadeth/121232"
+            },
+            "target-type": "url",
+            "attribute-values": {}
+          },
+          {
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "end": null,
+            "attribute-ids": {},
+            "ended": true,
+            "target-credit": "",
+            "direction": "forward",
+            "attributes": [],
+            "begin": null,
+            "type": "streaming",
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "id": "21e4e19f-7ad9-4eea-901b-70203f39a8cd",
+              "resource": "https://web.napster.com/artist/art.2011"
+            },
+            "attribute-values": {}
+          },
+          {
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "34beaf28-cbdd-4bf7-bc41-e7de18135245",
+            "direction": "forward",
+            "attributes": [],
+            "ended": false,
+            "target-credit": "",
+            "begin": null,
+            "type": "ticketing",
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "id": "388b6454-56df-471f-9555-e88fb79e5554",
+              "resource": "https://www.livenation.co.uk/artist-56198"
+            },
+            "attribute-values": {}
+          },
+          {
+            "source-credit": "",
+            "url": {
+              "id": "75ba318c-f998-48a8-b364-7c7444badc38",
+              "resource": "https://www.ticketmaster.com/artist/735627"
+            },
+            "target-type": "url",
+            "attribute-values": {},
+            "type-id": "34beaf28-cbdd-4bf7-bc41-e7de18135245",
+            "attribute-ids": {},
+            "end": null,
+            "target-credit": "",
+            "ended": false,
+            "attributes": [],
+            "direction": "forward",
+            "begin": null,
+            "type": "ticketing"
+          },
+          {
+            "url": {
+              "resource": "https://vgmdb.net/artist/4334",
+              "id": "cec70db6-ae53-4d28-847a-f6703ef55072"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-values": {},
+            "target-credit": "",
+            "ended": false,
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "0af15ab3-c615-46d6-b95b-a5fcd2a92ed9",
+            "attribute-ids": {},
+            "end": null,
+            "type": "vgmdb",
+            "begin": null
+          },
+          {
+            "url": {
+              "resource": "http://viaf.org/viaf/102859188",
+              "id": "e541afc6-269c-4bcf-b124-1815d225a2d6"
+            },
+            "target-type": "url",
+            "source-credit": "",
+            "attribute-values": {},
+            "ended": false,
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "attribute-ids": {},
+            "end": null,
+            "type": "VIAF",
+            "begin": null
+          },
+          {
+            "begin": null,
+            "type": "wikidata",
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "end": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-credit": "",
+            "direction": "forward",
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "id": "cb3cbcd9-3225-4108-9fb8-8d6debd8c596",
+              "resource": "https://www.wikidata.org/wiki/Q83431"
+            }
+          },
+          {
+            "target-type": "url",
+            "url": {
+              "id": "56e008d2-59b7-4e09-8000-81eb209672f2",
+              "resource": "https://www.youtube.com/channel/UC-Ugu5IBFgrYuHBAW2DjmZQ"
+            },
+            "source-credit": "megadethvevo",
+            "attribute-values": {},
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "ended": false,
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "type": "youtube",
+            "begin": null
+          },
+          {
+            "type": "youtube",
+            "begin": null,
+            "attributes": [],
+            "direction": "forward",
+            "ended": true,
+            "target-credit": "",
+            "attribute-ids": {},
+            "end": null,
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "attribute-values": {},
+            "url": {
+              "resource": "https://www.youtube.com/channel/UCLVz1B001PIbq9LliJenV2w",
+              "id": "d3a58e6a-2376-4f36-bd0e-dfffa92b1194"
+            },
+            "target-type": "url",
+            "source-credit": "Megadeth"
+          },
+          {
+            "begin": null,
+            "type": "youtube music",
+            "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+            "end": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-credit": "",
+            "direction": "forward",
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "target-type": "url",
+            "url": {
+              "resource": "https://music.youtube.com/channel/UCW5bkwocGGoeJjHTJZIEAOw",
+              "id": "8cb19df8-1ca4-4b39-881b-b8965631dad4"
+            }
+          }
+        ],
+        "name": "Megadeth",
+        "gender-id": null,
+        "begin-area": {
+          "name": "Los Angeles",
+          "disambiguation": "",
+          "type": null,
+          "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+          "sort-name": "Los Angeles",
+          "type-id": null
+        },
+        "disambiguation": "",
+        "area": {
+          "name": "United States",
+          "type": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "United States"
+        },
+        "type": "Group",
+        "life-span": {
+          "ended": false,
+          "end": null,
+          "begin": "1983-06"
+        },
+        "country": "US",
+        "gender": null,
+        "ipis": [],
+        "sort-name": "Megadeth",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "isnis": [
+          "0000000119384102",
+          "000000046959103X"
+        ]
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Anthrax\\\"\"}": {
+      "fetched_at": "2026-11-17T12:09:22.819909+00:00",
+      "data": {
+        "created": "2026-11-17T12:09:28.404Z",
+        "count": 9,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "b616d6f0-ec1f-4c69-8a79-12a97ece7372",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Anthrax",
+            "sort-name": "Anthrax",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "New York",
+              "sort-name": "New York",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "US thrash metal band",
+            "isnis": [
+              "000000012331203X"
+            ],
+            "life-span": {
+              "begin": "1981",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "アンスラックス",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "アンスラックス",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Antrax",
+                "name": "Antrax",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 0,
+                "name": "rock"
+              },
+              {
+                "count": 0,
+                "name": "80s"
+              },
+              {
+                "count": 11,
+                "name": "heavy metal"
+              },
+              {
+                "count": 0,
+                "name": "90s"
+              },
+              {
+                "count": 22,
+                "name": "thrash metal"
+              },
+              {
+                "count": 0,
+                "name": "metal"
+              },
+              {
+                "count": 0,
+                "name": "american"
+              },
+              {
+                "count": 0,
+                "name": "grunge"
+              },
+              {
+                "count": 0,
+                "name": "hard rock"
+              },
+              {
+                "count": 0,
+                "name": "nu metal"
+              },
+              {
+                "count": 4,
+                "name": "alternative metal"
+              },
+              {
+                "count": 5,
+                "name": "speed metal"
+              },
+              {
+                "count": 1,
+                "name": "rap metal"
+              },
+              {
+                "count": 7,
+                "name": "groove metal"
+              },
+              {
+                "count": 0,
+                "name": "crossover thrash"
+              },
+              {
+                "count": 0,
+                "name": "80s thrash metal"
+              },
+              {
+                "count": 0,
+                "name": "00s"
+              },
+              {
+                "count": 0,
+                "name": "american heavy metal"
+              },
+              {
+                "count": 0,
+                "name": "classic metal"
+              },
+              {
+                "count": 0,
+                "name": "10s"
+              },
+              {
+                "count": 0,
+                "name": "classic thrash metal"
+              },
+              {
+                "count": 0,
+                "name": "persistence of time"
+              },
+              {
+                "count": 0,
+                "name": "estados unidos"
+              }
+            ]
+          },
+          {
+            "id": "315126eb-86bc-475c-a308-b8edfdd6c08c",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 77,
+            "name": "Anthrax",
+            "sort-name": "Anthrax",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "f0723bcc-1f73-456d-b6fa-e12b2ec6016e",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Gravesend",
+              "sort-name": "Gravesend",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "UK anarcho punk band",
+            "isnis": [
+              "0000000470900354"
+            ],
+            "life-span": {
+              "begin": "1980",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 2,
+                "name": "punk"
+              },
+              {
+                "count": 2,
+                "name": "anarcho-punk"
+              }
+            ]
+          },
+          {
+            "id": "ec87cf44-71d6-408e-ab8e-60052555d09f",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 72,
+            "name": "Anthrax",
+            "sort-name": "Anthrax",
+            "area": {
+              "id": "0f67f804-d27d-4b4c-86e6-1220013ebe26",
+              "type": "Island",
+              "type-id": "3f8e7b66-058b-369b-9834-ffa5fcba5641",
+              "name": "Tenerife",
+              "sort-name": "Tenerife",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "DnB DJ/Production duo based in Tenerife, Spain",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "f5f822f1-cc63-4b29-9ca7-b13dd4a33b01",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 70,
+            "name": "Anthrax",
+            "sort-name": "Anthrax",
+            "country": "FR",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "France",
+              "sort-name": "France",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "French coldwave",
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "new wave"
+              },
+              {
+                "count": 1,
+                "name": "coldwave"
+              }
+            ]
+          },
+          {
+            "id": "de56531d-a03c-4f98-9cc8-d1cdb00157f7",
+            "score": 70,
+            "name": "Anthrax",
+            "sort-name": "Anthrax",
+            "disambiguation": "Rapper",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "1a754058-b5b1-458e-bf2a-b0e4e3a41534",
+            "score": 70,
+            "name": "Anthrax",
+            "sort-name": "Anthrax",
+            "disambiguation": "psytrance",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "a7770f7f-49d7-49b4-8b2d-eaee45d51024",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 64,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Lyrical Anthrax",
+            "sort-name": "Anthrax, Lyrical",
+            "gender": "male",
+            "country": "FR",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "France",
+              "sort-name": "France",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "French Rapper",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "e384c234-89e7-4c2b-a932-6ee4b30cf673",
+            "score": 64,
+            "name": "Professor Anthrax",
+            "sort-name": "Professor Anthrax",
+            "disambiguation": "Dark Psy",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "c51584f0-b6d4-4976-936f-e448d664bb4c",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 56,
+            "name": "Anthrax for The People",
+            "sort-name": "Anthrax for The People",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000475407550"
+            ],
+            "life-span": {
+              "ended": true
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "post-punk"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/b616d6f0-ec1f-4c69-8a79-12a97ece7372?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-17T12:09:22.819909+00:00",
+      "data": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "US thrash metal band",
+        "ipis": [],
+        "begin-area": {
+          "type-id": null,
+          "disambiguation": "",
+          "name": "New York",
+          "type": null,
+          "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+          "sort-name": "New York"
+        },
+        "relations": [
+          {
+            "begin": null,
+            "url": {
+              "resource": "https://www.allmusic.com/artist/mn0000490952",
+              "id": "f1c34501-b93d-4630-9137-5835cfab54f4"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "allmusic",
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+            "ended": false,
+            "attribute-ids": {},
+            "type": "bandsintown",
+            "url": {
+              "resource": "https://www.bandsintown.com/a/1135",
+              "id": "c3e23cd6-7037-4ede-a532-12aff357c3f1"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "72abd01d-9586-402e-9a48-e6750e81a3bf",
+              "resource": "https://www.bbc.co.uk/music/artists/b616d6f0-ec1f-4c69-8a79-12a97ece7372"
+            },
+            "begin": null,
+            "type": "BBC Music page",
+            "ended": true,
+            "attribute-ids": {},
+            "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": "2020-11-19",
+            "target-type": "url",
+            "direction": "forward"
+          },
+          {
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "url": {
+              "id": "e48b0e2d-6b3e-4d10-bffe-9878ddf001c9",
+              "resource": "https://www.discogs.com/artist/66025"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type": "discogs",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+            "source-credit": "",
+            "attribute-values": {},
+            "type": "fanpage",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "c7ec9bed-bb77-4333-a155-ae0065f0eb35",
+              "resource": "http://metallipromo.com/anthrax.html"
+            },
+            "begin": null
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "id": "90401a8a-50b6-42a5-8b64-8506cb67f3dd",
+              "resource": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+            },
+            "target-credit": "",
+            "type": "free streaming",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "free streaming",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "e9873bfb-49b1-4600-884a-90a89a3b25c6",
+              "resource": "https://www.deezer.com/artist/3580"
+            },
+            "begin": null
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "ended": false,
+            "attribute-ids": {},
+            "type": "free streaming",
+            "target-credit": "",
+            "url": {
+              "id": "62058105-d9e7-475a-b6f1-8fccdb23d0b4",
+              "resource": "https://www.deezer.com/artist/9399332"
+            },
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "http://www.pandora.com/anthrax",
+              "id": "dc394255-a010-4485-a182-08c6f9996b50"
+            },
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "free streaming",
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "IMDb",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "resource": "https://www.imdb.com/name/nm0031045/",
+              "id": "ec3c1e38-5940-4562-b515-3db7fb014946"
+            },
+            "target-credit": ""
+          },
+          {
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "source-credit": "",
+            "attribute-values": {},
+            "type": "last.fm",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "resource": "https://www.last.fm/music/Anthrax",
+              "id": "dd3f40e2-2476-425a-a857-027d33f6bf68"
+            },
+            "target-credit": "",
+            "begin": null
+          },
+          {
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "target-credit": "",
+            "url": {
+              "resource": "http://muzikum.eu/en/122-3612/anthrax/lyrics.html",
+              "id": "3a53699a-26da-46ca-8e56-e17698141028"
+            },
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "lyrics"
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://genius.com/artists/Anthrax",
+              "id": "27355a68-80c3-40fc-b753-7d7963ac63f1"
+            },
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "lyrics",
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "16b07d6c-5ea3-4d0c-bbb5-978198373a0d",
+              "resource": "https://www.musixmatch.com/artist/Anthrax"
+            },
+            "type": "lyrics",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+            "source-credit": "",
+            "attribute-values": {},
+            "type": "myspace",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "resource": "https://myspace.com/anthrax",
+              "id": "f9694e4b-816f-4eb0-8933-afc6d5a5584e"
+            },
+            "target-credit": "",
+            "begin": null
+          },
+          {
+            "ended": false,
+            "attribute-ids": {},
+            "type": "official homepage",
+            "url": {
+              "resource": "http://anthrax.com/",
+              "id": "64172f3a-3ed5-41d3-8d07-059d224de14c"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15"
+          },
+          {
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "35b3a50f-bf0e-4309-a3b4-58eeed8cee6a",
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "online community",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "e7752353-87a2-469c-a0f7-d054b0750a70",
+              "resource": "http://anthrax_fans.livejournal.com/"
+            }
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "35b3a50f-bf0e-4309-a3b4-58eeed8cee6a",
+            "ended": false,
+            "attribute-ids": {},
+            "type": "online community",
+            "target-credit": "",
+            "url": {
+              "resource": "http://www.metalkingdom.net/band/36",
+              "id": "2f497aad-316e-4638-a656-ec0bc36a89b9"
+            },
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "url": {
+              "resource": "http://id.loc.gov/authorities/names/n90633340",
+              "id": "f70f36a6-937b-4663-9797-da3aa8c3113b"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "other databases"
+          },
+          {
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "resource": "http://musicmoz.org/Bands_and_Artists/A/Anthrax/",
+              "id": "7caafd6f-57c5-4bf6-a4f3-18ae87173688"
+            },
+            "begin": null,
+            "type": "other databases",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "type": "other databases",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "http://mvdbase.com/person.php?&id=A445",
+              "id": "765f192e-7935-4d4a-9794-0995f3585339"
+            },
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "source-credit": "",
+            "attribute-values": {}
+          },
+          {
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "url": {
+              "id": "13d34852-edd0-4189-9039-2042c341c191",
+              "resource": "https://catalogue.bnf.fr/ark:/12148/cb139016450"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type": "other databases",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "source-credit": "",
+            "attribute-values": {},
+            "type": "other databases",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://imvdb.com/n/anthrax",
+              "id": "9922058f-9da3-4e63-8843-739428ee52fc"
+            }
+          },
+          {
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "e674d3d8-a633-4a1d-a7a1-08ec3de7146e",
+              "resource": "https://rateyourmusic.com/artist/anthrax"
+            },
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "other databases",
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "type": "other databases",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.45cat.com/artist/anthrax",
+              "id": "03d235ef-d614-4bd5-84f5-dbf7870c23b5"
+            },
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "source-credit": "",
+            "attribute-values": {}
+          },
+          {
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "other databases",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "d6a1d290-aa16-404e-ab1b-1fe341cc7479",
+              "resource": "https://www.livefans.jp/artists/2237"
+            }
+          },
+          {
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "source-credit": "",
+            "attribute-values": {},
+            "type": "other databases",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "51586f0e-152d-4a1c-acc8-c646eb50eda7",
+              "resource": "https://www.metal-archives.com/bands/Anthrax/169"
+            }
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "8bf3d4ee-4e9b-40d6-9312-2aff0b89321e",
+              "resource": "https://www.musik-sammler.de/artist/anthrax/"
+            },
+            "type": "other databases",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "type": "other databases",
+            "begin": null,
+            "url": {
+              "resource": "https://www.muziekweb.nl/Link/M00000052149/POPULAR/",
+              "id": "c754cfe7-172d-41a8-af97-deddad6a675b"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+          },
+          {
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "8aa25a02-14b6-4423-8863-0c20ad82eb53",
+              "resource": "https://www.spirit-of-metal.com/en/band/Anthrax"
+            },
+            "begin": null,
+            "type": "other databases",
+            "ended": false,
+            "attribute-ids": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward"
+          },
+          {
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.whosampled.com/Anthrax/",
+              "id": "14cfea54-ae21-4594-aa93-5043b24dbee5"
+            },
+            "type": "other databases",
+            "attribute-ids": {},
+            "ended": false
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "http://www.worldcat.org/identities/lccn-n90633340/",
+              "id": "77e42208-2f9c-4b33-9def-4a9caa661bdd"
+            },
+            "type": "other databases",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "begin": null,
+            "url": {
+              "id": "74ca874a-b4b2-40c4-b875-287d3ce19daa",
+              "resource": "http://www.musik-sammler.de/artist/91"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": true,
+            "type": "other databases",
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": "2020-10-12",
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "7d9b6262-060e-4951-8b10-87b8680dcdf9",
+              "resource": "https://play.google.com/store/music/artist?id=Azkgxooanta3gr7k36sdz5mr5ea"
+            },
+            "type": "purchase for download",
+            "attribute-ids": {},
+            "ended": true
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "resource": "https://itunes.apple.com/us/artist/id80417",
+              "id": "4336de51-7c46-44c4-9df1-a49ea9d349ab"
+            },
+            "target-credit": "",
+            "type": "purchase for download",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "url": {
+              "resource": "https://music.apple.com/us/artist/80417",
+              "id": "e5c86d60-536a-4e15-b84c-becf5e707185"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "purchase for download"
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "ended": false,
+            "attribute-ids": {},
+            "type": "purchase for download",
+            "target-credit": "",
+            "url": {
+              "id": "7eeb8bd6-02d8-47eb-82b8-d45b9d64b641",
+              "resource": "https://open.qobuz.com/artist/62193"
+            },
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "3ab5cb32-c1a5-433a-a7e5-0cb3f79497af",
+              "resource": "https://www.7digital.com/artist/anthrax"
+            },
+            "type": "purchase for download",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-ids": {},
+            "ended": false,
+            "type": "purchase for download",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.qobuz.com/gb-en/interpreter/anthrax/download-streaming-albums",
+              "id": "2c601d16-a054-47ca-b5aa-b5e08ad2dc2e"
+            },
+            "attributes": []
+          },
+          {
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+            "source-credit": "",
+            "attribute-values": {},
+            "type": "purchase for mail-order",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.amazon.com/-/e/B000APBPD6",
+              "id": "0c01407f-07f1-4ce4-8669-96c49b69773b"
+            },
+            "begin": null
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "resource": "https://secondhandsongs.com/artist/2429",
+              "id": "512f8c38-270b-4914-adf1-a6de3a2e58b8"
+            },
+            "target-credit": "",
+            "type": "secondhandsongs",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "5f85f1f5-32e7-4542-a156-8a1a188b6dea",
+              "resource": "https://www.setlist.fm/setlists/anthrax-7bd68e98.html"
+            },
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "setlistfm",
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null
+          },
+          {
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "resource": "https://twitter.com/Anthrax",
+              "id": "aaa23bb8-8cc7-48d5-901e-2bf276fe4115"
+            },
+            "begin": null,
+            "type": "social network",
+            "ended": false,
+            "attribute-ids": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward"
+          },
+          {
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "social network",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "id": "0ef3f797-d9a2-420a-898d-19c6be7a76f4",
+              "resource": "https://vk.ru/anthraxfan"
+            },
+            "target-credit": "",
+            "begin": null
+          },
+          {
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "source-credit": "",
+            "attribute-values": {},
+            "type": "social network",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "resource": "https://www.facebook.com/anthrax",
+              "id": "40ad28c5-d3fb-4622-bf74-83a2ea3c38cd"
+            },
+            "target-credit": "",
+            "begin": null
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "type": "social network",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.instagram.com/anthrax/",
+              "id": "5d4e1b7f-272d-4776-90c2-63c4e1ddafa0"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+          },
+          {
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "source-credit": "",
+            "attribute-values": {},
+            "type": "social network",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "resource": "https://www.reverbnation.com/anthrax",
+              "id": "3ac6583d-9686-4be4-bd28-6fe04e7fa3f6"
+            },
+            "target-credit": "",
+            "begin": null
+          },
+          {
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "social network",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.tiktok.com/@officialanthrax",
+              "id": "0b332cba-f686-44f1-afdb-aa29e6f972cb"
+            },
+            "begin": null
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "type": "songkick",
+            "begin": null,
+            "url": {
+              "resource": "https://www.songkick.com/artists/447883",
+              "id": "eea33810-723d-4ee9-b316-63be361bb6c0"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58"
+          },
+          {
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://soundcloud.com/anthrax",
+              "id": "700ef4cd-7f14-4ea3-bad7-48ef084dd8bf"
+            },
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "soundcloud",
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "attribute-ids": {},
+            "ended": true,
+            "type": "streaming",
+            "begin": null,
+            "url": {
+              "id": "5c78765f-1daf-41b7-a04d-7507f555361f",
+              "resource": "https://us.napster.com/artist/anthrax"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "target-type": "url",
+            "end": "2022-06-08",
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+          },
+          {
+            "type": "streaming",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://music.amazon.com/artists/B000QKS83K",
+              "id": "44aee9ed-84b5-49b8-8d98-e9305719010e"
+            },
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "source-credit": ""
+          },
+          {
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://music.apple.com/gb/artist/80417",
+              "id": "c5e1383c-6597-4ce7-a0ee-549d993bf569"
+            },
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "streaming",
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "type": "streaming",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "resource": "https://music.apple.com/to/artist/80417",
+              "id": "55ca51dc-b9da-4a47-b8ca-366de8ab9461"
+            },
+            "target-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "source-credit": "",
+            "attribute-values": {}
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "resource": "https://music.apple.com/us/artist/80417",
+              "id": "e5c86d60-536a-4e15-b84c-becf5e707185"
+            },
+            "target-credit": "",
+            "type": "streaming",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "type": "streaming",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "resource": "https://open.qobuz.com/artist/62193",
+              "id": "7eeb8bd6-02d8-47eb-82b8-d45b9d64b641"
+            },
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "source-credit": ""
+          },
+          {
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "8d99f893-7890-4dca-bbcc-0e3c06a20ecc",
+              "resource": "https://tidal.com/artist/949"
+            },
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "streaming"
+          },
+          {
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "url": {
+              "id": "2c601d16-a054-47ca-b5aa-b5e08ad2dc2e",
+              "resource": "https://www.qobuz.com/gb-en/interpreter/anthrax/download-streaming-albums"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type": "streaming",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "attributes": [],
+            "url": {
+              "resource": "https://www.ticketmaster.com/artist/734447",
+              "id": "39fd66cd-188a-4439-a7a8-0237542a3ebe"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type": "ticketing",
+            "ended": false,
+            "attribute-ids": {},
+            "type-id": "34beaf28-cbdd-4bf7-bc41-e7de18135245",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "url",
+            "direction": "forward"
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "id": "69fce84e-3b32-424e-bda2-d2496b43ef0b",
+              "resource": "http://viaf.org/viaf/157045178"
+            },
+            "target-credit": "",
+            "type": "VIAF",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-ids": {},
+            "ended": false,
+            "type": "wikidata",
+            "begin": null,
+            "url": {
+              "id": "b94ef3df-de1e-43dd-8fee-3922f31a436b",
+              "resource": "https://www.wikidata.org/wiki/Q109871"
+            },
+            "target-credit": "",
+            "attributes": []
+          },
+          {
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "attribute-values": {},
+            "source-credit": "Anthrax",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "d9f57ac1-3584-435c-b103-bff453110472",
+              "resource": "https://www.youtube.com/channel/UCAaoOvkl49ngKzomWxpjzGg"
+            },
+            "begin": null,
+            "type": "youtube",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "source-credit": "AnthraxVEVO",
+            "attribute-values": {},
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "url": {
+              "id": "35f6204e-2699-4e54-b6c9-d51945e946b0",
+              "resource": "https://www.youtube.com/channel/UCcOBeVbcRhIhyh-ChO7ABLg"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "youtube"
+          },
+          {
+            "ended": false,
+            "attribute-ids": {},
+            "type": "youtube music",
+            "target-credit": "",
+            "url": {
+              "resource": "https://music.youtube.com/channel/UCYjzkgiNzCLU_NlBAFflrAg",
+              "id": "6b98d3a5-a9ee-4062-b7a5-aae0d8dcf7a0"
+            },
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4"
+          }
+        ],
+        "life-span": {
+          "end": null,
+          "ended": false,
+          "begin": "1981"
+        },
+        "id": "b616d6f0-ec1f-4c69-8a79-12a97ece7372",
+        "gender": null,
+        "name": "Anthrax",
+        "country": "US",
+        "type": "Group",
+        "isnis": [
+          "000000012331203X"
+        ],
+        "end-area": null,
+        "gender-id": null,
+        "sort-name": "Anthrax",
+        "area": {
+          "type-id": null,
+          "disambiguation": "",
+          "name": "United States",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "sort-name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98"
+        }
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Kerry King\\\"\"}": {
+      "fetched_at": "2026-11-17T12:09:22.819909+00:00",
+      "data": {
+        "created": "2026-11-17T12:09:30.601Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "6545b2a5-bbdd-408d-9169-3d7aeade8093",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Kerry King",
+            "sort-name": "King, Kerry",
+            "gender": "male",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Los Angeles",
+              "sort-name": "Los Angeles",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "co‐founder of Slayer",
+            "ipis": [
+              "00127009304"
+            ],
+            "isnis": [
+              "0000000078266993"
+            ],
+            "life-span": {
+              "begin": "1964-06-03",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "heavy metal"
+              },
+              {
+                "count": 1,
+                "name": "thrash metal"
+              },
+              {
+                "count": 1,
+                "name": "metal"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/6545b2a5-bbdd-408d-9169-3d7aeade8093?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-17T12:09:22.819909+00:00",
+      "data": {
+        "country": "US",
+        "disambiguation": "co‐founder of Slayer",
+        "begin-area": {
+          "sort-name": "Los Angeles",
+          "disambiguation": "",
+          "name": "Los Angeles",
+          "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+          "type-id": null,
+          "type": null
+        },
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "life-span": {
+          "ended": false,
+          "end": null,
+          "begin": "1964-06-03"
+        },
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "King, Kerry",
+        "relations": [
+          {
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "id": "eb01edd3-5a19-4365-8fa4-8dc5d2621afc",
+              "resource": "https://www.allmusic.com/artist/mn0000079610"
+            },
+            "attribute-values": {},
+            "type": "allmusic",
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "target-credit": "",
+            "attribute-values": {},
+            "type": "bandsintown",
+            "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+            "direction": "forward",
+            "url": {
+              "id": "39044413-ad0a-48ae-9a21-31d5fc8de71a",
+              "resource": "https://www.bandsintown.com/a/1049945"
+            },
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "url": {
+              "resource": "https://www.discogs.com/artist/14551573",
+              "id": "8961f80a-524f-4c72-ae06-7221d66eb098"
+            },
+            "direction": "forward",
+            "attribute-values": {},
+            "type": "discogs",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {}
+          },
+          {
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "7a5ac842-2041-4661-96c1-2c8ea4d5403c",
+              "resource": "https://www.discogs.com/artist/251588"
+            },
+            "direction": "forward",
+            "attribute-values": {},
+            "type": "discogs",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4"
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "direction": "forward",
+            "url": {
+              "resource": "https://open.spotify.com/artist/6r1McS7CU46TsVEh1ckGuH",
+              "id": "164cc660-5f38-4c3e-ae78-4a372abd2743"
+            },
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "type": "free streaming",
+            "target-credit": ""
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "url": {
+              "id": "463e3570-190c-4305-88eb-4c243e23e562",
+              "resource": "https://www.deezer.com/artist/4420135"
+            },
+            "direction": "forward",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "type": "free streaming",
+            "target-credit": ""
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+            "attribute-values": {},
+            "type": "IMDb",
+            "url": {
+              "resource": "https://www.imdb.com/name/nm1324954/",
+              "id": "274e2460-f8bf-478c-a8b9-e7241a309e6a"
+            },
+            "direction": "forward",
+            "target-credit": ""
+          },
+          {
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.last.fm/music/Kerry+King",
+              "id": "3a88313e-ce54-4a47-a5cb-c9d7a387abe3"
+            },
+            "direction": "forward",
+            "type": "last.fm",
+            "attribute-values": {},
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f"
+          },
+          {
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "attribute-values": {},
+            "type": "lyrics",
+            "url": {
+              "id": "6ab87d84-6ac6-4da5-8e4d-7fd993198372",
+              "resource": "https://genius.com/artists/Kerry-king"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "begin": null
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://kerrykingofficial.com/",
+              "id": "c54d47e6-0d01-4edd-81ea-fbfa1263bc33"
+            },
+            "direction": "forward",
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "type": "official homepage",
+            "attribute-values": {},
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "attribute-values": {},
+            "type": "other databases",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "direction": "forward",
+            "url": {
+              "resource": "https://rateyourmusic.com/artist/kerry_king",
+              "id": "030239a4-2fd1-40a0-b6c4-00e4e8975c06"
+            },
+            "target-credit": ""
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "type": "other databases",
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "url": {
+              "id": "d328e211-b1f4-44b5-883a-163e907f9cac",
+              "resource": "https://www.metal-archives.com/bands/Kerry_King/3540544858"
+            },
+            "direction": "forward",
+            "target-credit": ""
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "d9d30ef3-ccfe-42b2-9440-51eee7f538bf",
+              "resource": "https://www.musik-sammler.de/artist/kerry-king-8/"
+            },
+            "direction": "forward",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "type": "other databases",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.spirit-of-metal.com/en/band/Kerry_King",
+              "id": "5348d3ee-5dd3-444e-95e8-fc86fb3670f3"
+            },
+            "type": "other databases",
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "target-credit": "",
+            "type": "purchase for download",
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "url": {
+              "id": "353273b7-12a2-45de-85b4-64268325ce2d",
+              "resource": "https://itunes.apple.com/us/artist/id28181124"
+            },
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type": "purchase for download",
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "url": {
+              "resource": "https://open.qobuz.com/artist/160032",
+              "id": "3483819c-7168-4820-ac83-84f0279ed1d9"
+            },
+            "direction": "forward"
+          },
+          {
+            "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+            "type": "secondhandsongs",
+            "attribute-values": {},
+            "url": {
+              "id": "d4ea545f-1842-4ace-90e6-0bdce02bc64c",
+              "resource": "https://secondhandsongs.com/artist/3458"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "begin": null
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "b8382983-0b15-453d-89f0-6f02317e43ce",
+              "resource": "https://www.setlist.fm/setlists/kerry-king-73d68eb1.html"
+            },
+            "direction": "forward",
+            "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+            "attribute-values": {},
+            "type": "setlistfm",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "direction": "forward",
+            "url": {
+              "id": "dd080639-f425-4438-9aef-7a6c2ce37c3e",
+              "resource": "https://twitter.com/KerryKingMusic"
+            },
+            "attribute-values": {},
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "target-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "type": "social network",
+            "attribute-values": {},
+            "url": {
+              "resource": "https://www.facebook.com/KerryKingOfficial",
+              "id": "553464f0-d2ac-405f-842f-78e5c1d13a8f"
+            },
+            "direction": "forward",
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "type": "social network",
+            "direction": "forward",
+            "url": {
+              "id": "480332c7-a2bf-4590-9216-f003425af3e3",
+              "resource": "https://www.instagram.com/kerrykingmusic/"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "begin": null
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "ff33b26d-4468-43b0-abce-b68ffd68fa02",
+              "resource": "https://www.tiktok.com/@kerrykingofficial"
+            },
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "type": "social network"
+          },
+          {
+            "url": {
+              "id": "c43f5518-2e20-4ed9-aeaa-bbaa43f9e0fe",
+              "resource": "https://www.songkick.com/artists/1661042"
+            },
+            "direction": "forward",
+            "attribute-values": {},
+            "type": "songkick",
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "resource": "https://soundcloud.com/kerryking-music",
+              "id": "5454f86d-f74d-4906-a59e-0fb0c222cbbb"
+            },
+            "direction": "forward",
+            "type": "soundcloud",
+            "attribute-values": {},
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710"
+          },
+          {
+            "direction": "forward",
+            "url": {
+              "id": "80ca59e1-d7bc-49ce-a829-d8a93f508a35",
+              "resource": "https://music.amazon.com/artists/B001Q9IMC2"
+            },
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "type": "streaming",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false
+          },
+          {
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "type": "streaming",
+            "attribute-values": {},
+            "direction": "forward",
+            "url": {
+              "resource": "https://music.apple.com/us/artist/28181124",
+              "id": "9e3d6dab-d270-45f3-98bc-feb81e69fbaf"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null
+          },
+          {
+            "url": {
+              "id": "3483819c-7168-4820-ac83-84f0279ed1d9",
+              "resource": "https://open.qobuz.com/artist/160032"
+            },
+            "direction": "forward",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "type": "streaming",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false
+          },
+          {
+            "url": {
+              "id": "ea8fd117-a27d-4c30-a9dd-dd128dffc9bc",
+              "resource": "https://tidal.com/artist/13103178"
+            },
+            "direction": "forward",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "type": "streaming",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "direction": "forward",
+            "url": {
+              "id": "76d861eb-47c6-484e-874e-834d3c3886d2",
+              "resource": "https://www.ticketmaster.com/artist/3107689"
+            },
+            "type-id": "34beaf28-cbdd-4bf7-bc41-e7de18135245",
+            "attribute-values": {},
+            "type": "ticketing",
+            "target-credit": ""
+          },
+          {
+            "target-credit": "",
+            "attribute-values": {},
+            "type": "VIAF",
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "url": {
+              "id": "3fef7449-8363-4d2e-ae9a-7c0db3ae15d7",
+              "resource": "http://viaf.org/viaf/87448840"
+            },
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "attribute-values": {},
+            "type": "wikidata",
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "direction": "forward",
+            "url": {
+              "id": "8034b325-04c4-4a7d-add8-d2a297963f7d",
+              "resource": "https://www.wikidata.org/wiki/Q297210"
+            },
+            "target-credit": ""
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.youtube.com/@KerryKingOfficial",
+              "id": "9fbb46a3-bf6b-4169-921e-8f95e0798291"
+            },
+            "direction": "forward",
+            "type": "youtube",
+            "attribute-values": {},
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "ee9ff995-a4ef-4f59-a37f-055220572789",
+              "resource": "https://music.youtube.com/channel/UCW0KO-oJE2sA94BjlRDY76Q"
+            },
+            "direction": "forward",
+            "attribute-values": {},
+            "type": "youtube music",
+            "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4"
+          }
+        ],
+        "isnis": [
+          "0000000078266993"
+        ],
+        "name": "Kerry King",
+        "gender": "Male",
+        "end-area": null,
+        "area": {
+          "type-id": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type": null,
+          "disambiguation": "",
+          "name": "United States",
+          "sort-name": "United States"
+        },
+        "ipis": [
+          "00127009304"
+        ],
+        "id": "6545b2a5-bbdd-408d-9169-3d7aeade8093"
+      }
     }
   }
 }

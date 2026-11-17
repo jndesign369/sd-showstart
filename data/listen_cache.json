@@ -3177,6 +3177,17 @@
         "release_url": "https://thedrowns.bandcamp.com/album/harsh-reality"
       },
       "reason": null
+    },
+    "https://officialmegadeth.bandcamp.com/": {
+      "checked_at": "2026-11-17T12:09:37.455976+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://officialmegadeth.bandcamp.com/track/promises-conspiracies-and-lies",
+        "listen_service": "Bandcamp",
+        "listen_title": "Serpent From Eden featuring Nick Menza - Promises, Conspiracies, and Lies",
+        "release_url": "https://officialmegadeth.bandcamp.com/album/serpent-from-eden-featuring-nick-menza"
+      },
+      "reason": null
     }
   }
 }
