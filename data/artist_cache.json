@@ -425972,6 +425972,962 @@
         "disambiguation": "",
         "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Worlds Worst\\\"\"}": {
+      "fetched_at": "2026-11-18T11:58:54.286963+00:00",
+      "data": {
+        "created": "2026-11-18T11:58:54.835Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "af58f826-1c07-41d4-89e7-9b8e6c1265e0",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Worlds Worst",
+            "sort-name": "Worlds Worst",
+            "area": {
+              "id": "e5936529-76b1-449e-a2e9-6ed98fe8d0d9",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Salt Lake City",
+              "sort-name": "Salt Lake City",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/af58f826-1c07-41d4-89e7-9b8e6c1265e0?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-18T11:58:54.286963+00:00",
+      "data": {
+        "country": "US",
+        "disambiguation": "",
+        "begin-area": null,
+        "gender-id": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "life-span": {
+          "ended": false,
+          "end": null,
+          "begin": null
+        },
+        "gender": null,
+        "name": "Worlds Worst",
+        "sort-name": "Worlds Worst",
+        "relations": [
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "type": "bandcamp",
+            "attribute-values": {},
+            "direction": "forward",
+            "url": {
+              "resource": "https://worldsworstslc.bandcamp.com/",
+              "id": "d44da5c9-2bb1-48c8-9bc0-dbecd274d86a"
+            }
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "type": "free streaming",
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "url": {
+              "resource": "https://open.spotify.com/artist/61WE20UoQujMRZqzTOq3sI",
+              "id": "f7aceacd-ee36-471c-a04a-c9376033638c"
+            },
+            "target-credit": ""
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "attribute-values": {},
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "url": {
+              "id": "dd7cb249-39ed-42b5-b00e-0a4ab016dd9f",
+              "resource": "https://www.deezer.com/artist/90805482"
+            },
+            "direction": "forward",
+            "target-credit": ""
+          },
+          {
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "6e07d6d3-7792-421d-b23e-5ee69ffec941",
+              "resource": "http://worldsworst.band/"
+            },
+            "direction": "forward",
+            "attribute-values": {},
+            "type": "official homepage",
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15"
+          },
+          {
+            "direction": "forward",
+            "url": {
+              "resource": "https://rateyourmusic.com/artist/worlds-worst",
+              "id": "0914c25b-1ec1-4c4b-9b84-06820e408703"
+            },
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "type": "other databases",
+            "attribute-values": {},
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url"
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "type": "social network",
+            "url": {
+              "id": "767cdc9c-ac62-4eb4-a8c4-c160006f336e",
+              "resource": "https://twitter.com/worldsworstslc"
+            },
+            "direction": "forward"
+          },
+          {
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "id": "e8361c0f-498b-42a9-849d-883b34f0075b",
+              "resource": "https://www.instagram.com/worlds_worst/"
+            },
+            "attribute-values": {},
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "target-credit": "",
+            "attribute-values": {},
+            "type": "streaming",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "url": {
+              "id": "7be72250-5c8a-43a3-ab91-8eb40aacebf8",
+              "resource": "https://music.apple.com/gb/artist/1507146670"
+            },
+            "direction": "forward",
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "attribute-values": {},
+            "type": "streaming",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "url": {
+              "id": "5cce08ec-0e24-46aa-99dc-1c79d35e0c84",
+              "resource": "https://tidal.com/artist/19024072"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          }
+        ],
+        "isnis": [],
+        "id": "af58f826-1c07-41d4-89e7-9b8e6c1265e0",
+        "end-area": null,
+        "area": {
+          "disambiguation": "",
+          "name": "Salt Lake City",
+          "sort-name": "Salt Lake City",
+          "type-id": null,
+          "id": "e5936529-76b1-449e-a2e9-6ed98fe8d0d9",
+          "type": null
+        },
+        "ipis": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Sasha Keable\\\"\"}": {
+      "fetched_at": "2026-11-18T11:58:54.286963+00:00",
+      "data": {
+        "created": "2026-11-18T11:59:00.725Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "c2b7f5ad-0db8-4e6d-b228-5598d6b17717",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Sasha Keable",
+            "sort-name": "Keable, Sasha",
+            "gender": "female",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000430349035"
+            ],
+            "life-span": {
+              "begin": "1994",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "soul"
+              },
+              {
+                "count": 1,
+                "name": "r&b"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/c2b7f5ad-0db8-4e6d-b228-5598d6b17717?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-18T11:58:54.286963+00:00",
+      "data": {
+        "isnis": [
+          "0000000430349035"
+        ],
+        "sort-name": "Keable, Sasha",
+        "relations": [
+          {
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "url": {
+              "id": "06c9c0ea-7212-403f-b641-de1ecaa61fcc",
+              "resource": "https://www.discogs.com/artist/3242909"
+            },
+            "direction": "forward",
+            "attribute-values": {},
+            "type": "discogs",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "target-credit": ""
+          },
+          {
+            "url": {
+              "resource": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf",
+              "id": "b1ea05c8-3c86-417a-a32f-246ef771fd1c"
+            },
+            "direction": "forward",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "type": "free streaming",
+            "attribute-values": {},
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url"
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "type": "free streaming",
+            "direction": "forward",
+            "url": {
+              "id": "ff5c1595-9b73-4d6d-aad1-2f02a77f509c",
+              "resource": "https://www.deezer.com/artist/4750386"
+            },
+            "target-credit": ""
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "resource": "http://muzikum.eu/en/122-15030/sasha-keable/lyrics.html",
+              "id": "4d0a226d-3720-4d53-bf53-86848e258ee4"
+            },
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "type": "lyrics",
+            "attribute-values": {}
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "attribute-values": {},
+            "type": "official homepage",
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "direction": "forward",
+            "url": {
+              "resource": "http://www.sashakeable.com/",
+              "id": "4fee174c-6e65-4880-9df3-e0028e377c48"
+            },
+            "target-credit": ""
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://twitter.com/sashakeable",
+              "id": "ce3ff991-027d-427c-8eb5-b558171ec63c"
+            },
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "type": "social network",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "type": "social network",
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.facebook.com/SashaKeable",
+              "id": "01c056a7-ea14-4502-850e-b649d4f3449e"
+            },
+            "target-credit": ""
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.instagram.com/sashakeable/",
+              "id": "8d67ad1f-43cf-4f8b-bd62-0b8f9e420a29"
+            },
+            "direction": "forward",
+            "attribute-values": {},
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "url": {
+              "id": "8b8bcf09-5714-4095-a094-352ad3c1a84b",
+              "resource": "https://soundcloud.com/sasha-keable"
+            },
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "type": "soundcloud",
+            "attribute-values": {},
+            "target-credit": ""
+          },
+          {
+            "direction": "forward",
+            "url": {
+              "resource": "https://music.apple.com/gb/artist/325850892",
+              "id": "7c67bed9-724c-4a19-974a-bd105ab8078f"
+            },
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "type": "streaming",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url"
+          },
+          {
+            "type": "streaming",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "url": {
+              "id": "1426a4f3-8d52-4b07-83f2-e7fa15ab85dd",
+              "resource": "https://tidal.com/artist/6017246"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "eb66f586-507a-48ee-9946-a35bafcb5590",
+              "resource": "https://www.wikidata.org/wiki/Q16745366"
+            },
+            "direction": "forward",
+            "attribute-values": {},
+            "type": "wikidata",
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698"
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.youtube.com/channel/UC1_Ej3EWAay6ACKFS8eYfNg",
+              "id": "b487b6c5-bd59-453a-92a3-d2fbdad76449"
+            },
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "type": "youtube",
+            "attribute-values": {},
+            "target-credit": ""
+          }
+        ],
+        "gender": "Female",
+        "name": "Sasha Keable",
+        "ipis": [],
+        "area": {
+          "sort-name": "United Kingdom",
+          "disambiguation": "",
+          "name": "United Kingdom",
+          "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+          "type-id": null,
+          "type": null,
+          "iso-3166-1-codes": [
+            "GB"
+          ]
+        },
+        "end-area": null,
+        "id": "c2b7f5ad-0db8-4e6d-b228-5598d6b17717",
+        "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+        "begin-area": null,
+        "country": "GB",
+        "disambiguation": "",
+        "life-span": {
+          "end": null,
+          "begin": "1994",
+          "ended": false
+        },
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"EJ Ross\\\"\"}": {
+      "fetched_at": "2026-11-18T11:58:54.286963+00:00",
+      "data": {
+        "created": "2026-11-18T11:59:02.925Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "4d90e280-39f0-4f8f-997e-1be4d7faf89e",
+            "score": 100,
+            "name": "EJ Ross",
+            "sort-name": "EJ Ross",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/4d90e280-39f0-4f8f-997e-1be4d7faf89e?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-18T11:58:54.286963+00:00",
+      "data": {
+        "ipis": [],
+        "end-area": null,
+        "life-span": {
+          "end": null,
+          "begin": null,
+          "ended": false
+        },
+        "id": "4d90e280-39f0-4f8f-997e-1be4d7faf89e",
+        "begin-area": null,
+        "gender-id": null,
+        "isnis": [],
+        "area": null,
+        "disambiguation": "",
+        "name": "EJ Ross",
+        "sort-name": "EJ Ross",
+        "type-id": null,
+        "gender": null,
+        "type": null,
+        "relations": [],
+        "country": null
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Ryley Walker\\\"\"}": {
+      "fetched_at": "2026-11-18T11:58:54.286963+00:00",
+      "data": {
+        "created": "2026-11-18T11:59:05.137Z",
+        "count": 2,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "795d12c3-099e-4195-8f40-6764472db494",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Ryley Walker",
+            "sort-name": "Walker, Ryley",
+            "gender": "male",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "8b3205bc-1e33-425e-bcc3-88d015924e64",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Rockford",
+              "sort-name": "Rockford",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "US singer‐songwriter/guitarist",
+            "life-span": {
+              "begin": "1989-07-21",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "indie folk"
+              },
+              {
+                "count": 1,
+                "name": "indie rock"
+              },
+              {
+                "count": 1,
+                "name": "singer-songwriter"
+              }
+            ]
+          },
+          {
+            "id": "09eae148-ebe0-4f89-ad26-b71c03b2ee0e",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 70,
+            "name": "Bill MacKay & Ryley Walker",
+            "sort-name": "Bill MacKay & Ryley Walker",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/795d12c3-099e-4195-8f40-6764472db494?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-18T11:58:54.286963+00:00",
+      "data": {
+        "disambiguation": "US singer‐songwriter/guitarist",
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "gender": "Male",
+        "sort-name": "Walker, Ryley",
+        "name": "Ryley Walker",
+        "isnis": [],
+        "end-area": null,
+        "life-span": {
+          "begin": "1989-07-21",
+          "ended": false,
+          "end": null
+        },
+        "country": "US",
+        "relations": [
+          {
+            "end": null,
+            "source-credit": "",
+            "ended": false,
+            "url": {
+              "id": "c1753275-7cba-4403-b176-8a3234b14cae",
+              "resource": "https://www.allmusic.com/artist/mn0003009676"
+            },
+            "attribute-values": {},
+            "type": "allmusic",
+            "begin": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "target-credit": "",
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "attribute-ids": {}
+          },
+          {
+            "ended": false,
+            "source-credit": "",
+            "end": null,
+            "url": {
+              "id": "9b9d5c25-1113-4cba-a71c-0138768532b9",
+              "resource": "https://ryleywalker.bandcamp.com/"
+            },
+            "target-type": "url",
+            "direction": "forward",
+            "begin": null,
+            "type": "bandcamp",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "target-credit": "",
+            "attributes": []
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "ended": false,
+            "url": {
+              "id": "e3119bb6-ccc9-4b6c-9067-8cc0088cff1f",
+              "resource": "https://www.discogs.com/artist/2306305"
+            },
+            "attribute-values": {},
+            "type": "discogs",
+            "begin": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "target-credit": "",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attribute-ids": {}
+          },
+          {
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "url": {
+              "id": "a0637765-780a-489d-90ed-da82e2210698",
+              "resource": "https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc"
+            },
+            "type": "free streaming",
+            "attribute-values": {},
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "attributes": [],
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-ids": {},
+            "target-credit": ""
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "begin": null,
+            "type": "free streaming",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "target-credit": "",
+            "attributes": [],
+            "ended": false,
+            "source-credit": "",
+            "end": null,
+            "url": {
+              "id": "326fbff0-b404-4a6c-8b5e-3c3532ca3606",
+              "resource": "https://www.deezer.com/artist/5174803"
+            }
+          },
+          {
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "url": {
+              "resource": "http://ryleywalker.com/",
+              "id": "49f53104-9d11-4150-bf7f-12840a2ae8fd"
+            },
+            "type": "official homepage",
+            "attribute-values": {},
+            "target-type": "url",
+            "direction": "forward",
+            "begin": null,
+            "attributes": [],
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "attribute-ids": {},
+            "target-credit": ""
+          },
+          {
+            "direction": "forward",
+            "begin": null,
+            "target-type": "url",
+            "attribute-values": {},
+            "type": "other databases",
+            "target-credit": "",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-ids": {},
+            "attributes": [],
+            "source-credit": "",
+            "ended": false,
+            "end": null,
+            "url": {
+              "id": "39530081-9fe9-4e88-8dd4-3aba5404f5ab",
+              "resource": "https://d-nb.info/gnd/1247497690"
+            }
+          },
+          {
+            "url": {
+              "id": "a0bfb3cc-c508-4ca6-97d0-c4cc7c926b15",
+              "resource": "https://rateyourmusic.com/artist/ryley_walker"
+            },
+            "ended": false,
+            "source-credit": "",
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-ids": {},
+            "target-credit": "",
+            "attributes": [],
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "type": "other databases",
+            "attribute-values": {}
+          },
+          {
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-ids": {},
+            "target-credit": "",
+            "attributes": [],
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "type": "social network",
+            "attribute-values": {},
+            "url": {
+              "id": "6655819d-fd6d-40fe-9064-fb2dc112e429",
+              "resource": "https://twitter.com/ryleywalker"
+            },
+            "ended": false,
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "begin": null,
+            "type": "social network",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-ids": {},
+            "target-credit": "",
+            "attributes": [],
+            "ended": false,
+            "source-credit": "",
+            "end": null,
+            "url": {
+              "resource": "https://www.facebook.com/ryleywalkerjams",
+              "id": "e34787de-9395-4951-b61f-ca1c0317629a"
+            }
+          },
+          {
+            "target-credit": "",
+            "attribute-ids": {},
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "attributes": [],
+            "direction": "forward",
+            "begin": null,
+            "target-type": "url",
+            "attribute-values": {},
+            "type": "songkick",
+            "url": {
+              "id": "7913bc13-aadf-48ef-b708-20cda99fa9ec",
+              "resource": "https://www.songkick.com/artists/3723841"
+            },
+            "source-credit": "",
+            "ended": false,
+            "end": null
+          },
+          {
+            "url": {
+              "id": "4e0a0f9e-86bf-4d3b-a659-bd8a1c8d89ff",
+              "resource": "https://soundcloud.com/Ryley-Walker"
+            },
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "target-credit": "",
+            "type": "soundcloud",
+            "attribute-values": {},
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward"
+          },
+          {
+            "url": {
+              "id": "915ef544-2ada-4b92-b62a-db8cfc7b39bb",
+              "resource": "http://viaf.org/viaf/315605496"
+            },
+            "ended": false,
+            "source-credit": "",
+            "end": null,
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "attribute-ids": {},
+            "target-credit": "",
+            "attributes": [],
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "type": "VIAF",
+            "attribute-values": {}
+          },
+          {
+            "attributes": [],
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "wikidata",
+            "attribute-values": {},
+            "target-type": "url",
+            "direction": "forward",
+            "begin": null,
+            "url": {
+              "resource": "https://www.wikidata.org/wiki/Q19787209",
+              "id": "5f2a3c7b-f12b-4985-9d25-17a58ecd50ae"
+            },
+            "end": null,
+            "ended": false,
+            "source-credit": ""
+          }
+        ],
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "795d12c3-099e-4195-8f40-6764472db494",
+        "area": {
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States",
+          "disambiguation": "",
+          "type-id": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "name": "United States",
+          "type": null
+        },
+        "type": "Person",
+        "begin-area": {
+          "sort-name": "Rockford",
+          "type-id": null,
+          "id": "8b3205bc-1e33-425e-bcc3-88d015924e64",
+          "disambiguation": "",
+          "type": null,
+          "name": "Rockford"
+        },
+        "ipis": []
+      }
     }
   }
 }

@@ -1,171 +1,11 @@
 {
- "generated_at": "2026-11-17T15:01:46-08:00",
+ "generated_at": "2026-11-18T03:58:54-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
   "updated": "November 17, 2026"
  },
  "shows": [
-  {
-   "id": "belly-up-tavern:2026-11-17:rachael-vilray",
-   "date": "2026-11-17",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Rachael & Vilray",
-    "Taylor Ashton"
-   ],
-   "artists": [
-    {
-     "name": "Rachael & Vilray",
-     "mbid": "17883a96-8ae6-49c0-8e38-442ffd69cd67",
-     "official_url": "https://rachaelandvilray.com/",
-     "listen_url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Taylor Ashton",
-     "mbid": "62373a0d-6b57-4781-931f-5f1ff848dd74",
-     "official_url": "http://taylorashton.net/",
-     "listen_url": "https://taylorashton.bandcamp.com/track/for-you",
-     "listen_service": "Bandcamp",
-     "listen_title": "For You"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "cal-coast-credit-union-open-air-theatre:2026-11-17:alice-cooper",
-   "date": "2026-11-17",
-   "venue": "Cal Coast Credit Union Open Air Theatre",
-   "city": "San Diego",
-   "performers": [
-    "Alice Cooper"
-   ],
-   "artists": [
-    {
-     "name": "Alice Cooper",
-     "mbid": "ee58c59f-8e7f-4430-b8ca-236c4d3745ae",
-     "official_url": "https://alicecooper.com/",
-     "listen_url": "https://alicecooper.bandcamp.com/track/woman-of-mass-distraction",
-     "listen_service": "Bandcamp",
-     "listen_title": "Woman of Mass Distraction"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "house-of-blues:2026-11-17:r-z",
-   "date": "2026-11-17",
-   "venue": "House of Blues",
-   "city": "San Diego",
-   "performers": [
-    "R\u00f8z"
-   ],
-   "artists": [
-    {
-     "name": "R\u00f8z",
-     "mbid": "ccdc29ad-db99-46f0-9136-683184aed6e1",
-     "official_url": "http://www.rozvitalis.ru/",
-     "listen_url": "https://rozvitalis.bandcamp.com/track/jungle-waltz-4",
-     "listen_service": "Bandcamp",
-     "listen_title": "Jungle Waltz"
-    }
-   ],
-   "venue_url": "https://www.houseofblues.com/sandiego"
-  },
-  {
-   "id": "lou-lou-s:2026-11-17:haley-heynderickx",
-   "date": "2026-11-17",
-   "venue": "Lou Lou's",
-   "city": "San Diego",
-   "performers": [
-    "HALEY HEYNDERICKX",
-    "GREG MENDEZ"
-   ],
-   "artists": [
-    {
-     "name": "HALEY HEYNDERICKX",
-     "mbid": "f0805df4-1541-48b1-8482-4c789f83cfcf",
-     "official_url": "https://www.haley-heynderickx.com/",
-     "listen_url": "https://haleyheynderickx.bandcamp.com/track/song-for-alicia",
-     "listen_service": "Bandcamp",
-     "listen_title": "Song for Alicia"
-    },
-    {
-     "name": "GREG MENDEZ",
-     "mbid": "0bc7da45-734e-47a3-95b9-6c61193d780c",
-     "listen_url": "https://gregmendez.bandcamp.com/track/i-wanna-feel-pretty",
-     "listen_service": "Bandcamp",
-     "listen_title": "I Wanna Feel Pretty"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "music-box:2026-11-17:john-craigie",
-   "date": "2026-11-17",
-   "venue": "Music Box",
-   "city": "San Diego",
-   "performers": [
-    "John Craigie"
-   ],
-   "artists": [
-    {
-     "name": "John Craigie",
-     "mbid": "89b381cf-89f4-43d7-b85b-f53efb2bd1a8",
-     "official_url": "https://johncraigiemusic.com/",
-     "listen_url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.musicboxsd.com/"
-  },
-  {
-   "id": "soma:2026-11-17:isaiah-rashad",
-   "date": "2026-11-17",
-   "venue": "SOMA",
-   "city": "San Diego",
-   "performers": [
-    "Isaiah Rashad"
-   ],
-   "artists": [
-    {
-     "name": "Isaiah Rashad",
-     "mbid": "37547347-ea75-45fa-9766-ff36b44d8147",
-     "listen_url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.somasandiego.com/"
-  },
-  {
-   "id": "soda-bar:2026-11-17:sofie-royer",
-   "date": "2026-11-17",
-   "venue": "Soda Bar",
-   "city": "San Diego",
-   "performers": [
-    "Sofie Royer",
-    "Rebounder"
-   ],
-   "artists": [
-    {
-     "name": "Sofie Royer",
-     "mbid": "82392a3e-a389-4fd2-93cc-9a5796206648",
-     "official_url": "https://www.sofie.info/",
-     "listen_url": "https://sofieroyer.bandcamp.com/track/leave-on-the-light",
-     "listen_service": "Bandcamp",
-     "listen_title": "Leave on the light"
-    },
-    {
-     "name": "Rebounder",
-     "mbid": "7c2b6fde-7d0f-4ff6-ae1b-ba1693a2c3b5",
-     "listen_url": "https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://sodabarmusic.com/"
-  },
   {
    "id": "casbah:2026-11-18:dame",
    "date": "2026-11-18",
@@ -11397,7 +11237,12 @@
      "listen_title": "Introduction"
     },
     {
-     "name": "Worlds Worst"
+     "name": "Worlds Worst",
+     "mbid": "af58f826-1c07-41d4-89e7-9b8e6c1265e0",
+     "official_url": "http://worldsworst.band/",
+     "listen_url": "https://worldsworstslc.bandcamp.com/track/motor-mouth",
+     "listen_service": "Bandcamp",
+     "listen_title": "Motor Mouth"
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
@@ -11769,10 +11614,15 @@
    ],
    "artists": [
     {
-     "name": "Sasha Keable"
+     "name": "Sasha Keable",
+     "mbid": "c2b7f5ad-0db8-4e6d-b228-5598d6b17717",
+     "official_url": "http://www.sashakeable.com/",
+     "listen_url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf",
+     "listen_service": "Spotify"
     },
     {
-     "name": "EJ Ross"
+     "name": "EJ Ross",
+     "mbid": "4d90e280-39f0-4f8f-997e-1be4d7faf89e"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -12284,7 +12134,12 @@
    ],
    "artists": [
     {
-     "name": "Ryley Walker"
+     "name": "Ryley Walker",
+     "mbid": "795d12c3-099e-4195-8f40-6764472db494",
+     "official_url": "http://ryleywalker.com/",
+     "listen_url": "https://ryleywalker.bandcamp.com/track/cloud-of-beaujolais",
+     "listen_service": "Bandcamp",
+     "listen_title": "Cloud of Beaujolais"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"

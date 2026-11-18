@@ -326,7 +326,7 @@
       "reason": null
     },
     "https://dontyoudaretouchmygalaxy.bandcamp.com/": {
-      "checked_at": "2026-11-16T23:48:00.283351+00:00",
+      "checked_at": "2026-11-18T11:59:06.892982+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -706,7 +706,7 @@
       "reason": null
     },
     "https://minitrees.bandcamp.com/": {
-      "checked_at": "2026-11-16T23:48:00.283351+00:00",
+      "checked_at": "2026-11-18T11:59:06.892982+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1427,7 +1427,7 @@
       "reason": null
     },
     "https://cruecifer.bandcamp.com/": {
-      "checked_at": "2026-11-16T23:48:00.283351+00:00",
+      "checked_at": "2026-11-18T11:59:06.892982+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -1466,7 +1466,7 @@
       "reason": null
     },
     "https://bucketheadpikes.bandcamp.com/": {
-      "checked_at": "2026-11-16T23:48:00.283351+00:00",
+      "checked_at": "2026-11-18T11:59:06.892982+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1879,7 +1879,7 @@
       "reason": null
     },
     "https://rayburger.bandcamp.com/": {
-      "checked_at": "2026-11-16T23:48:00.283351+00:00",
+      "checked_at": "2026-11-18T11:59:06.892982+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2127,7 +2127,7 @@
       "reason": null
     },
     "https://theaggrolites.bandcamp.com/": {
-      "checked_at": "2026-11-16T23:48:00.283351+00:00",
+      "checked_at": "2026-11-18T11:59:06.892982+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2342,7 +2342,7 @@
       "reason": null
     },
     "https://worldsendgirlfriend.bandcamp.com/": {
-      "checked_at": "2026-11-16T23:48:00.283351+00:00",
+      "checked_at": "2026-11-18T11:59:06.892982+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -3041,7 +3041,7 @@
       "reason": null
     },
     "https://a-perfect-circle.bandcamp.com/": {
-      "checked_at": "2026-11-16T23:48:00.283351+00:00",
+      "checked_at": "2026-11-18T11:59:06.892982+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -3296,6 +3296,28 @@
         "listen_service": "Bandcamp",
         "listen_title": "Introduction",
         "release_url": "https://knumears.bandcamp.com/album/directions"
+      },
+      "reason": null
+    },
+    "https://worldsworstslc.bandcamp.com/": {
+      "checked_at": "2026-11-18T11:59:06.892982+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://worldsworstslc.bandcamp.com/track/motor-mouth",
+        "listen_service": "Bandcamp",
+        "listen_title": "Motor Mouth",
+        "release_url": "https://worldsworstslc.bandcamp.com/track/motor-mouth"
+      },
+      "reason": null
+    },
+    "https://ryleywalker.bandcamp.com/": {
+      "checked_at": "2026-11-18T11:59:06.892982+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://ryleywalker.bandcamp.com/track/cloud-of-beaujolais",
+        "listen_service": "Bandcamp",
+        "listen_title": "Cloud of Beaujolais",
+        "release_url": "https://ryleywalker.bandcamp.com/album/darkening-the-glass"
       },
       "reason": null
     }
