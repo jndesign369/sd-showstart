@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T03:58:54-08:00",
+ "generated_at": "2026-11-18T14:39:22-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 17, 2026"
+  "updated": "November 18, 2026"
  },
  "shows": [
   {
@@ -29,24 +29,6 @@
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
-  },
-  {
-   "id": "house-of-blues:2026-11-18:gavn",
-   "date": "2026-11-18",
-   "venue": "House of Blues",
-   "city": "San Diego",
-   "performers": [
-    "gavn!"
-   ],
-   "artists": [
-    {
-     "name": "gavn!",
-     "mbid": "c2da0d7c-56b9-42c1-b142-a3fa3060c2a8",
-     "listen_url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
    "id": "humphreys-backstage-live:2026-11-18:bo-the-hobos",
@@ -161,6 +143,22 @@
      "official_url": "https://www.softmachine.org/",
      "listen_url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds",
      "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "whistle-stop:2026-11-18:lord-howler",
+   "date": "2026-11-18",
+   "venue": "Whistle Stop",
+   "city": "San Diego",
+   "performers": [
+    "Lord Howler"
+   ],
+   "artists": [
+    {
+     "name": "Lord Howler",
+     "mbid": "ab84dedf-6fe6-4fbe-9948-0699aa5e5469"
     }
    ],
    "venue_url": null
@@ -1075,6 +1073,21 @@
    "venue_url": null
   },
   {
+   "id": "lou-lou-s:2026-11-22:matt-smith-dj-caalaman-logan-kane-nicole-mccabe",
+   "date": "2026-11-22",
+   "venue": "Lou Lou's",
+   "city": "San Diego",
+   "performers": [
+    "MATT SMITH // DJ CAALAMAN // LOGAN KANE // NICOLE McCABE"
+   ],
+   "artists": [
+    {
+     "name": "MATT SMITH // DJ CAALAMAN // LOGAN KANE // NICOLE McCABE"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "music-box:2026-11-22:the-wrecks",
    "date": "2026-11-22",
    "venue": "Music Box",
@@ -1236,6 +1249,21 @@
     },
     {
      "name": "Space Wizards In Space"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "whistle-stop:2026-11-22:shawn-rohlf",
+   "date": "2026-11-22",
+   "venue": "Whistle Stop",
+   "city": "San Diego",
+   "performers": [
+    "Shawn Rohlf"
+   ],
+   "artists": [
+    {
+     "name": "Shawn Rohlf"
     }
    ],
    "venue_url": null
@@ -2569,6 +2597,26 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
+   "id": "the-banshee:2026-12-02:alter",
+   "date": "2026-12-02",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Alter"
+   ],
+   "artists": [
+    {
+     "name": "Alter",
+     "mbid": "60a23fda-a440-4ab9-a344-7dfdd2ed341a",
+     "official_url": "http://www.alterbridge.com/",
+     "listen_url": "https://alterbridge.bandcamp.com/track/silent-divide",
+     "listen_service": "Bandcamp",
+     "listen_title": "Silent Divide"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "the-holding-company:2026-12-02:the-vault",
    "date": "2026-12-02",
    "venue": "The Holding Company",
@@ -2581,6 +2629,21 @@
      "name": "The Vault",
      "mbid": "a0bba489-81b1-4987-9c45-fb2fe167a631",
      "official_url": "http://thevaultproject.blogspot.com/"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "3oz-dive-club:2026-12-03:velvet-tide-erika-casarin",
+   "date": "2026-12-03",
+   "venue": "3OZ Dive Club",
+   "city": "San Diego",
+   "performers": [
+    "Velvet Tide: Erika Casarin"
+   ],
+   "artists": [
+    {
+     "name": "Velvet Tide: Erika Casarin"
     }
    ],
    "venue_url": null
@@ -2771,6 +2834,44 @@
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
+  },
+  {
+   "id": "whistle-stop:2026-12-03:dagmar-zuniga",
+   "date": "2026-12-03",
+   "venue": "Whistle Stop",
+   "city": "San Diego",
+   "performers": [
+    "Dagmar Zuniga"
+   ],
+   "artists": [
+    {
+     "name": "Dagmar Zuniga",
+     "mbid": "9542584f-d6c4-4e8b-bb14-bba52bd15b32",
+     "listen_url": "https://dagmarzuniga.bandcamp.com/track/even-god-gets-stuck-in-devotion-featuring-austyn-wohlers",
+     "listen_service": "Bandcamp",
+     "listen_title": "Even God Gets Stuck In Devotion featuring Austyn Wohlers"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "3oz-dive-club:2026-12-04:x3butterfly",
+   "date": "2026-12-04",
+   "venue": "3OZ Dive Club",
+   "city": "San Diego",
+   "performers": [
+    "x3butterfly"
+   ],
+   "artists": [
+    {
+     "name": "x3butterfly",
+     "mbid": "e9c5a439-a314-43f1-a0fa-890dd96aaeea",
+     "listen_url": "https://x3butterfly.bandcamp.com/track/critical-conjecture",
+     "listen_service": "Bandcamp",
+     "listen_title": "Critical Conjecture"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "harrah-s-resort-southern-california:2026-12-04:tuan-hung-nguyen",
@@ -3456,6 +3557,28 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
+   "id": "whistle-stop:2026-12-06:sister-psycho",
+   "date": "2026-12-06",
+   "venue": "Whistle Stop",
+   "city": "San Diego",
+   "performers": [
+    "Sister Psycho",
+    "Dale Crover"
+   ],
+   "artists": [
+    {
+     "name": "Sister Psycho"
+    },
+    {
+     "name": "Dale Crover",
+     "mbid": "9b93a71b-1484-4bea-b096-f660c1161f8a",
+     "listen_url": "https://open.spotify.com/artist/4IRzt4Zde0xpbbc2BtsRGm",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2026-12-07:mack-geiger",
    "date": "2026-12-07",
    "venue": "Belly Up Tavern",
@@ -4100,27 +4223,16 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
-   "id": "nova-sd:2026-12-11:marie-vaunt",
+   "id": "nova-sd:2026-12-11:marie-vaunt-t78",
    "date": "2026-12-11",
    "venue": "Nova SD",
    "city": "San Diego",
    "performers": [
-    "Marie Vaunt",
-    "T78"
+    "Marie Vaunt t78"
    ],
    "artists": [
     {
-     "name": "Marie Vaunt",
-     "mbid": "b60392c4-6c78-45d0-8f9d-7ef9b81fac47",
-     "official_url": "https://marievaunt.com/",
-     "listen_url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "T78",
-     "mbid": "6259a169-891b-4276-8337-954aa835690c",
-     "listen_url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z",
-     "listen_service": "Spotify"
+     "name": "Marie Vaunt t78"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -4462,6 +4574,29 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "soda-bar:2026-12-13:alyce-aylin",
+   "date": "2026-12-13",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Alyce Aylin",
+    "The Mailroom",
+    "Wick Hauser"
+   ],
+   "artists": [
+    {
+     "name": "Alyce Aylin"
+    },
+    {
+     "name": "The Mailroom"
+    },
+    {
+     "name": "Wick Hauser"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "casbah:2026-12-14:golden-lion",
    "date": "2026-12-14",
    "venue": "Casbah",
@@ -4694,6 +4829,31 @@
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
+  },
+  {
+   "id": "the-holding-company:2026-12-16:the-tones",
+   "date": "2026-12-16",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "The Tones",
+    "Poolside"
+   ],
+   "artists": [
+    {
+     "name": "The Tones",
+     "mbid": "80721b51-3c9e-48cc-809b-d10d28537046"
+    },
+    {
+     "name": "Poolside",
+     "mbid": "dbfbd2a1-3f61-40b9-9558-21a96e32f721",
+     "official_url": "http://poolsidemusic.com/",
+     "listen_url": "https://poolside.bandcamp.com/track/bedroom-eyes",
+     "listen_service": "Bandcamp",
+     "listen_title": "Bedroom Eyes"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "balboa-theatre:2026-12-17:dave-koz",
@@ -5036,21 +5196,16 @@
    "venue_url": "https://bellyup.com/"
   },
   {
-   "id": "nova-sd:2026-12-19:svdden-death",
+   "id": "nova-sd:2026-12-19:svdden-death-prosecute",
    "date": "2026-12-19",
    "venue": "Nova SD",
    "city": "San Diego",
    "performers": [
-    "SVDDEN DEATH"
+    "SVDDEN DEATH Prosecute"
    ],
    "artists": [
     {
-     "name": "SVDDEN DEATH",
-     "mbid": "b8fe4acb-c28e-44be-aff9-ebf572f85d47",
-     "official_url": "http://www.svddendeath.com/",
-     "listen_url": "https://svddendeath.bandcamp.com/track/slb-2026-bass-canyon-vip",
-     "listen_service": "Bandcamp",
-     "listen_title": "SLB 2026 BASS CANYON VIP"
+     "name": "SVDDEN DEATH Prosecute"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -6152,6 +6307,25 @@
    "venue_url": null
   },
   {
+   "id": "3oz-dive-club:2027-01-08:egyptian-lover",
+   "date": "2027-01-08",
+   "venue": "3OZ Dive Club",
+   "city": "San Diego",
+   "performers": [
+    "Egyptian Lover"
+   ],
+   "artists": [
+    {
+     "name": "Egyptian Lover",
+     "mbid": "31200780-d9e5-4c34-a022-064410996ee0",
+     "listen_url": "https://thegyptianlover.bandcamp.com/track/lets-get-down-tonight-instrumental",
+     "listen_service": "Bandcamp",
+     "listen_title": "Let's Get Down Tonight (Instrumental)"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2027-01-08:full-strength",
    "date": "2027-01-08",
    "venue": "Belly Up Tavern",
@@ -6470,6 +6644,28 @@
    "venue_url": "https://sodabarmusic.com/"
   },
   {
+   "id": "3oz-dive-club:2027-01-15:omnidisc-showcase-danny-daze",
+   "date": "2027-01-15",
+   "venue": "3OZ Dive Club",
+   "city": "San Diego",
+   "performers": [
+    "Omnidisc Showcase - Danny Daze",
+    "Shokh"
+   ],
+   "artists": [
+    {
+     "name": "Omnidisc Showcase - Danny Daze"
+    },
+    {
+     "name": "Shokh",
+     "mbid": "27dd5f20-7415-444f-b0c8-d635f70731b6",
+     "listen_url": "https://open.spotify.com/artist/4ufIEPfenNRKqn9as7ITyC",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2027-01-15:the-record-company",
    "date": "2027-01-15",
    "venue": "Belly Up Tavern",
@@ -6534,7 +6730,9 @@
    "city": "San Diego",
    "performers": [
     "Home Grown",
-    "Allister"
+    "Allister",
+    "Good Terms",
+    "Trxvis"
    ],
    "artists": [
     {
@@ -6551,6 +6749,18 @@
      "listen_url": "https://allisterbrimble.bandcamp.com/track/amiga-40",
      "listen_service": "Bandcamp",
      "listen_title": "Amiga 40"
+    },
+    {
+     "name": "Good Terms",
+     "mbid": "f6273305-7947-4565-b791-cc968c8c7c0b",
+     "official_url": "https://goodtermsband.com/",
+     "listen_url": "https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Trxvis",
+     "mbid": "9cb553e4-a0aa-4dbc-bbdf-bb451bb0517e",
+     "official_url": "https://www.trxvis.com/"
     }
    ],
    "venue_url": "https://www.observatorysd.com"
@@ -6626,6 +6836,24 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "nova-sd:2027-01-16:noizu",
+   "date": "2027-01-16",
+   "venue": "Nova SD",
+   "city": "San Diego",
+   "performers": [
+    "Noizu"
+   ],
+   "artists": [
+    {
+     "name": "Noizu",
+     "mbid": "d0f31126-6b12-4d5a-a08b-c31af0287c71",
+     "listen_url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://novasandiego.com/"
   },
   {
    "id": "soda-bar:2027-01-16:jeffrey-silverstein",
@@ -6860,6 +7088,38 @@
     }
    ],
    "venue_url": "https://www.sandiegosymphony.org/"
+  },
+  {
+   "id": "soda-bar:2027-01-20:headworm",
+   "date": "2027-01-20",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Headworm",
+    "Brendan Lane & the Sugar Packets",
+    "Beans",
+    "Desire 4"
+   ],
+   "artists": [
+    {
+     "name": "Headworm"
+    },
+    {
+     "name": "Brendan Lane & the Sugar Packets"
+    },
+    {
+     "name": "Beans",
+     "mbid": "94232a04-13fb-40a1-a21a-303fb0643623",
+     "official_url": "http://www.adoredandexploited.com/",
+     "listen_url": "https://beansiswack.bandcamp.com/track/zwaard-1",
+     "listen_service": "Bandcamp",
+     "listen_title": "ZWAARD 1"
+    },
+    {
+     "name": "Desire 4"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "belly-up-tavern:2027-01-21:dogs-in-a-pile",
@@ -8064,10 +8324,10 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
-   "id": "soda-bar:2027-02-09:eddie-9v",
+   "id": "belly-up-tavern:2027-02-09:eddie-9v",
    "date": "2027-02-09",
-   "venue": "Soda Bar",
-   "city": "San Diego",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
    "performers": [
     "Eddie 9V"
    ],
@@ -8081,7 +8341,7 @@
      "listen_title": "Whole Lot Coming For You"
     }
    ],
-   "venue_url": "https://sodabarmusic.com/"
+   "venue_url": "https://bellyup.com/"
   },
   {
    "id": "belly-up-tavern:2027-02-10:ottmar-liebert-luna-negra",
@@ -8383,6 +8643,27 @@
     }
    ],
    "venue_url": "https://www.observatorysd.com"
+  },
+  {
+   "id": "belly-up-tavern:2027-02-13:dead-man-s-party",
+   "date": "2027-02-13",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "Dead Man's Party",
+    "Black-52s"
+   ],
+   "artists": [
+    {
+     "name": "Dead Man's Party",
+     "mbid": "7ad47089-4732-4406-909d-19fff066685b",
+     "official_url": "http://deadmansparty.com/"
+    },
+    {
+     "name": "Black-52s"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
   },
   {
    "id": "house-of-blues:2027-02-13:save-ferris",
@@ -8767,6 +9048,24 @@
    "venue_url": null
   },
   {
+   "id": "the-tower-bar:2027-02-20:bitchkiss",
+   "date": "2027-02-20",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "Bitchkiss"
+   ],
+   "artists": [
+    {
+     "name": "Bitchkiss",
+     "mbid": "80a35daa-0979-49f9-b792-1c7e4b050334",
+     "listen_url": "https://open.spotify.com/artist/4lBtPuxCaNLSGm2yENVOxW",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2027-02-21:steve-poltz",
    "date": "2027-02-21",
    "venue": "Belly Up Tavern",
@@ -9001,6 +9300,21 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
+   "id": "soda-bar:2027-02-24:trever-m-keith-lilly-hiatt",
+   "date": "2027-02-24",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Trever M. Keith & Lilly Hiatt"
+   ],
+   "artists": [
+    {
+     "name": "Trever M. Keith & Lilly Hiatt"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "belly-up-tavern:2027-02-25:paco-versailles",
    "date": "2027-02-25",
    "venue": "Belly Up Tavern",
@@ -9065,6 +9379,24 @@
     }
    ],
    "venue_url": null
+  },
+  {
+   "id": "the-observatory-north-park:2027-02-25:the-altons",
+   "date": "2027-02-25",
+   "venue": "The Observatory North Park",
+   "city": "San Diego",
+   "performers": [
+    "The Altons"
+   ],
+   "artists": [
+    {
+     "name": "The Altons",
+     "mbid": "32775e1d-30f3-415a-9062-94fb98599708",
+     "listen_url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.observatorysd.com"
   },
   {
    "id": "belly-up-tavern:2027-02-26:the-brothers-comatose",
@@ -9207,6 +9539,37 @@
     }
    ],
    "venue_url": "https://quartyardsd.com/"
+  },
+  {
+   "id": "soma:2027-02-27:daily-bread",
+   "date": "2027-02-27",
+   "venue": "SOMA",
+   "city": "San Diego",
+   "performers": [
+    "Daily Bread",
+    "Thought Process",
+    "Motifv"
+   ],
+   "artists": [
+    {
+     "name": "Daily Bread",
+     "mbid": "defd5f38-2374-494a-8467-094dd994e825",
+     "listen_url": "https://dailybreadatl.bandcamp.com/track/repeat-message",
+     "listen_service": "Bandcamp",
+     "listen_title": "Repeat Message"
+    },
+    {
+     "name": "Thought Process",
+     "mbid": "1666ed7f-c66d-491a-874a-1536385d5267"
+    },
+    {
+     "name": "Motifv",
+     "mbid": "578290bd-165d-4c0c-85a5-d3b402d40e2c",
+     "listen_url": "https://open.spotify.com/artist/3Q3g3xC2lDdLo3a04uK3Wp",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.somasandiego.com/"
   },
   {
    "id": "the-holding-company:2027-02-27:alt-bloom-doublecamp",
@@ -9598,6 +9961,21 @@
    "venue_url": "https://sodabarmusic.com/"
   },
   {
+   "id": "belly-up-tavern:2027-03-04:nena-anderson-s-dolly-parton-valentine",
+   "date": "2027-03-04",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "Nena Anderson\u2019s \u201cDolly Parton Valentine\u201d"
+   ],
+   "artists": [
+    {
+     "name": "Nena Anderson\u2019s \u201cDolly Parton Valentine\u201d"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
+  },
+  {
    "id": "casbah:2027-03-04:crooked-fingers",
    "date": "2027-03-04",
    "venue": "Casbah",
@@ -9875,6 +10253,41 @@
    "venue_url": "https://quartyardsd.com/"
   },
   {
+   "id": "soda-bar:2027-03-06:dying-fetus",
+   "date": "2027-03-06",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Dying Fetus",
+    "Cryptopsy",
+    "Gorgasm"
+   ],
+   "artists": [
+    {
+     "name": "Dying Fetus",
+     "mbid": "f76167bb-c117-4022-8b6b-54c796edf5c9",
+     "official_url": "https://dyingfetusband.com/",
+     "listen_url": "https://dyingfetus.bandcamp.com/track/into-the-cesspool",
+     "listen_service": "Bandcamp",
+     "listen_title": "Into The Cesspool"
+    },
+    {
+     "name": "Cryptopsy",
+     "mbid": "756af95c-8793-4546-a93f-f3581b5b1c8d",
+     "listen_url": "https://cryptopsyofficial.bandcamp.com/track/blasphemy-made-fresh-medley",
+     "listen_service": "Bandcamp",
+     "listen_title": "Blasphemy Made Fresh (Medley)"
+    },
+    {
+     "name": "Gorgasm",
+     "mbid": "076274aa-2510-4a7b-ad01-db7c98cc9e69",
+     "listen_url": "https://open.spotify.com/artist/2Pq0WuEVUvv1G7s7S4XNVs",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "the-holding-company:2027-03-06:marlon-asher",
    "date": "2027-03-06",
    "venue": "The Holding Company",
@@ -9931,6 +10344,25 @@
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
+   "id": "house-of-blues:2027-03-07:sam-burchfield",
+   "date": "2027-03-07",
+   "venue": "House of Blues",
+   "city": "San Diego",
+   "performers": [
+    "Sam Burchfield"
+   ],
+   "artists": [
+    {
+     "name": "Sam Burchfield",
+     "mbid": "3e62b6e9-b187-436e-9119-3b7461d8c1af",
+     "official_url": "https://www.samburchfield.com/",
+     "listen_url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
    "id": "soma:2027-03-07:codefendants",
@@ -10539,14 +10971,18 @@
    "venue_url": "https://sodabarmusic.com/"
   },
   {
-   "id": "the-holding-company:2027-03-19:punk-rock-rodeo-hotel-weekend-passes",
+   "id": "the-holding-company:2027-03-19:punk-rock-rodeo-weekend-passes",
    "date": "2027-03-19",
    "venue": "The Holding Company",
    "city": "San Diego",
    "performers": [
+    "Punk Rock Rodeo Weekend Passes",
     "Punk Rock Rodeo Hotel / Weekend Passes"
    ],
    "artists": [
+    {
+     "name": "Punk Rock Rodeo Weekend Passes"
+    },
     {
      "name": "Punk Rock Rodeo Hotel / Weekend Passes"
     }
@@ -11002,6 +11438,24 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "the-magnolia:2027-03-31:xscape",
+   "date": "2027-03-31",
+   "venue": "The Magnolia",
+   "city": "El Cajon",
+   "performers": [
+    "Xscape"
+   ],
+   "artists": [
+    {
+     "name": "Xscape",
+     "mbid": "cf905ea4-8e81-40d0-9cf9-7aa2af41fa3e",
+     "listen_url": "https://open.spotify.com/artist/3kykbzl1m7Jt9Peg9P9COk",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.magnoliasd.com/"
+  },
+  {
    "id": "house-of-blues:2027-04-01:earth-to-eve",
    "date": "2027-04-01",
    "venue": "House of Blues",
@@ -11099,6 +11553,25 @@
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
+   "id": "belly-up-tavern:2027-04-04:the-devil-makes-three",
+   "date": "2027-04-04",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "The Devil Makes Three"
+   ],
+   "artists": [
+    {
+     "name": "The Devil Makes Three",
+     "mbid": "66e5bc0f-7cc6-4e44-937b-4a92466f3c37",
+     "official_url": "http://thedevilmakesthree.com/",
+     "listen_url": "https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
   },
   {
    "id": "soma:2027-04-04:delta-sleep",
@@ -11380,6 +11853,25 @@
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
+  },
+  {
+   "id": "music-box:2027-04-15:son-rompe-pera",
+   "date": "2027-04-15",
+   "venue": "Music Box",
+   "city": "San Diego",
+   "performers": [
+    "Son Rompe Pera"
+   ],
+   "artists": [
+    {
+     "name": "Son Rompe Pera",
+     "mbid": "060cb78e-53bb-43a2-a6c6-0e9922f68a5e",
+     "listen_url": "https://sonrompepera.bandcamp.com/track/arboledas",
+     "listen_service": "Bandcamp",
+     "listen_title": "Arboledas"
+    }
+   ],
+   "venue_url": "https://www.musicboxsd.com/"
   },
   {
    "id": "belly-up-tavern:2027-04-16:the-castellows",
@@ -11943,6 +12435,37 @@
    "venue_url": null
   },
   {
+   "id": "jacobs-music-center:2027-05-02:deva-premal",
+   "date": "2027-05-02",
+   "venue": "Jacobs Music Center",
+   "city": "San Diego",
+   "performers": [
+    "Deva Premal",
+    "Miten",
+    "Dr. Bruce Lipton"
+   ],
+   "artists": [
+    {
+     "name": "Deva Premal",
+     "mbid": "6b5fc710-83cc-45ca-94b8-05d7dacee2ba",
+     "official_url": "https://devapremalmiten.com/",
+     "listen_url": "https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Miten",
+     "mbid": "e9dfeb51-3728-46ed-b728-69d8fa18862d",
+     "official_url": "http://devapremalmiten.com/",
+     "listen_url": "https://open.spotify.com/artist/4jrXM6oLQfV9L458Luwc3P",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Dr. Bruce Lipton"
+    }
+   ],
+   "venue_url": "https://www.sandiegosymphony.org/"
+  },
+  {
    "id": "belly-up-tavern:2027-05-04:al-stewart",
    "date": "2027-05-04",
    "venue": "Belly Up Tavern",
@@ -12169,6 +12692,21 @@
      "listen_url": "https://rosegardenfuneralparty.bandcamp.com/track/void",
      "listen_service": "Bandcamp",
      "listen_title": "Void"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
+   "id": "casbah:2027-05-13:north-america-2027-peel-dream-magazine",
+   "date": "2027-05-13",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "North America 2027 Peel Dream Magazine"
+   ],
+   "artists": [
+    {
+     "name": "North America 2027 Peel Dream Magazine"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -12527,6 +13065,25 @@
     }
    ],
    "venue_url": null
+  },
+  {
+   "id": "casbah:2027-05-23:madra-salach",
+   "date": "2027-05-23",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Madra Salach"
+   ],
+   "artists": [
+    {
+     "name": "Madra Salach",
+     "mbid": "83d40c8f-6940-4510-864e-6126644a44f3",
+     "official_url": "https://madrasalach.store/",
+     "listen_url": "https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "viejas-arena:2027-05-23:calvin-harris",
@@ -12901,6 +13458,62 @@
      "mbid": "d0935f00-6341-4c92-b462-4296a2f34345",
      "listen_url": "https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW",
      "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "petco-park:2027-07-18:durand-jones-the-indications",
+   "date": "2027-07-18",
+   "venue": "Petco Park",
+   "city": "San Diego",
+   "performers": [
+    "Durand Jones & The Indications",
+    "The Teskey Brothers"
+   ],
+   "artists": [
+    {
+     "name": "Durand Jones & The Indications",
+     "mbid": "5da8d9b1-af89-43a3-a519-8e32ec21e7f5",
+     "official_url": "https://www.durandjonesandtheindications.com/",
+     "listen_url": "https://durandjonesandtheindications.bandcamp.com/track/lets-take-our-time",
+     "listen_service": "Bandcamp",
+     "listen_title": "Let's Take Our Time"
+    },
+    {
+     "name": "The Teskey Brothers",
+     "mbid": "7d8fb539-811e-4491-a3f7-f56d3ef35e7a",
+     "official_url": "http://www.theteskeybrothers.com/",
+     "listen_url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "petco-park-gallagher-square:2027-07-18:the-teskey-brothers",
+   "date": "2027-07-18",
+   "venue": "Petco Park - Gallagher Square",
+   "city": "San Diego",
+   "performers": [
+    "The Teskey Brothers",
+    "Durand Jones & The Indications"
+   ],
+   "artists": [
+    {
+     "name": "The Teskey Brothers",
+     "mbid": "7d8fb539-811e-4491-a3f7-f56d3ef35e7a",
+     "official_url": "http://www.theteskeybrothers.com/",
+     "listen_url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Durand Jones & The Indications",
+     "mbid": "5da8d9b1-af89-43a3-a519-8e32ec21e7f5",
+     "official_url": "https://www.durandjonesandtheindications.com/",
+     "listen_url": "https://durandjonesandtheindications.bandcamp.com/track/lets-take-our-time",
+     "listen_service": "Bandcamp",
+     "listen_title": "Let's Take Our Time"
     }
    ],
    "venue_url": null

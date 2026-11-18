@@ -3320,6 +3320,122 @@
         "release_url": "https://ryleywalker.bandcamp.com/album/darkening-the-glass"
       },
       "reason": null
+    },
+    "https://alterbridge.bandcamp.com/": {
+      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://alterbridge.bandcamp.com/track/silent-divide",
+        "listen_service": "Bandcamp",
+        "listen_title": "Silent Divide",
+        "release_url": "https://alterbridge.bandcamp.com/album/alter-bridge"
+      },
+      "reason": null
+    },
+    "https://x3butterfly.bandcamp.com/": {
+      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://x3butterfly.bandcamp.com/track/critical-conjecture",
+        "listen_service": "Bandcamp",
+        "listen_title": "Critical Conjecture",
+        "release_url": "https://x3butterfly.bandcamp.com/track/critical-conjecture"
+      },
+      "reason": null
+    },
+    "https://poolside.bandcamp.com/": {
+      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://poolside.bandcamp.com/track/bedroom-eyes",
+        "listen_service": "Bandcamp",
+        "listen_title": "Bedroom Eyes",
+        "release_url": "https://poolside.bandcamp.com/album/bedroom-eyes"
+      },
+      "reason": null
+    },
+    "https://thegyptianlover.bandcamp.com/": {
+      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://thegyptianlover.bandcamp.com/track/lets-get-down-tonight-instrumental",
+        "listen_service": "Bandcamp",
+        "listen_title": "Let's Get Down Tonight (Instrumental)",
+        "release_url": "https://thegyptianlover.bandcamp.com/album/1987-instrumentals"
+      },
+      "reason": null
+    },
+    "https://beansiswack.bandcamp.com/": {
+      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://beansiswack.bandcamp.com/track/zwaard-1",
+        "listen_service": "Bandcamp",
+        "listen_title": "ZWAARD 1",
+        "release_url": "https://beansiswack.bandcamp.com/album/zwaard"
+      },
+      "reason": null
+    },
+    "https://dailybreadatl.bandcamp.com/": {
+      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://dailybreadatl.bandcamp.com/track/repeat-message",
+        "listen_service": "Bandcamp",
+        "listen_title": "Repeat Message",
+        "release_url": "https://dailybreadatl.bandcamp.com/album/vanishing-point"
+      },
+      "reason": null
+    },
+    "https://dyingfetus.bandcamp.com/": {
+      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://dyingfetus.bandcamp.com/track/into-the-cesspool",
+        "listen_service": "Bandcamp",
+        "listen_title": "Into The Cesspool",
+        "release_url": "https://dyingfetus.bandcamp.com/album/into-the-cesspool-single"
+      },
+      "reason": null
+    },
+    "https://cryptopsyofficial.bandcamp.com/": {
+      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://cryptopsyofficial.bandcamp.com/track/blasphemy-made-fresh-medley",
+        "listen_service": "Bandcamp",
+        "listen_title": "Blasphemy Made Fresh (Medley)",
+        "release_url": "https://cryptopsyofficial.bandcamp.com/track/blasphemy-made-fresh-medley"
+      },
+      "reason": null
+    },
+    "https://sonrompepera.bandcamp.com/": {
+      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://sonrompepera.bandcamp.com/track/arboledas",
+        "listen_service": "Bandcamp",
+        "listen_title": "Arboledas",
+        "release_url": "https://sonrompepera.bandcamp.com/album/marimbazos-de-oro"
+      },
+      "reason": null
+    },
+    "https://durandjonesandtheindications.bandcamp.com/": {
+      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://durandjonesandtheindications.bandcamp.com/track/lets-take-our-time",
+        "listen_service": "Bandcamp",
+        "listen_title": "Let's Take Our Time",
+        "release_url": "https://durandjonesandtheindications.bandcamp.com/track/lets-take-our-time"
+      },
+      "reason": null
+    },
+    "https://theteskeybrothers.bandcamp.com/": {
+      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": null,
+      "reason": "no_streamable_track"
     }
   }
 }
