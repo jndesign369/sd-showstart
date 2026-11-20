@@ -1,234 +1,11 @@
 {
- "generated_at": "2026-11-19T03:56:00-08:00",
+ "generated_at": "2026-11-20T03:57:41-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 18, 2026"
+  "updated": "November 19, 2026"
  },
  "shows": [
-  {
-   "id": "casbah:2026-11-19:sam-ritchie",
-   "date": "2026-11-19",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "Sam Ritchie",
-    "Leavers",
-    "spacewizardinspace"
-   ],
-   "artists": [
-    {
-     "name": "Sam Ritchie",
-     "mbid": "f5ac05e2-25c9-415b-9dfd-fa6a30134253"
-    },
-    {
-     "name": "Leavers",
-     "mbid": "a61b39ea-ef3a-4140-8cc0-a82b7a87ba5f"
-    },
-    {
-     "name": "spacewizardinspace",
-     "mbid": "b97075d0-63b0-4e0b-a23e-57e64dae4f48"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
-  },
-  {
-   "id": "house-of-blues:2026-11-19:yana",
-   "date": "2026-11-19",
-   "venue": "House of Blues",
-   "city": "San Diego",
-   "performers": [
-    "Yana",
-    "Emma Andersen"
-   ],
-   "artists": [
-    {
-     "name": "Yana",
-     "mbid": "7032684f-a49f-4afc-ba13-e26433f88b2a",
-     "official_url": "http://www.yanakay.com/",
-     "listen_url": "https://open.spotify.com/artist/0GyF4FQoW5Csur4cN21nK9",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Emma Andersen",
-     "mbid": "b923b780-e3e6-4725-adea-d778fcc3a4f9",
-     "listen_url": "https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.houseofblues.com/sandiego"
-  },
-  {
-   "id": "humphreys-backstage-live:2026-11-19:blue-healers",
-   "date": "2026-11-19",
-   "venue": "Humphreys Backstage Live",
-   "city": "San Diego",
-   "performers": [
-    "Blue Healers"
-   ],
-   "artists": [
-    {
-     "name": "Blue Healers",
-     "mbid": "5199e9f7-a795-4a25-a362-dcf9cc3d76f5"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "lou-lou-s:2026-11-19:gilbert-castellanos-the-new-latin-jazz-sextet-supperclub",
-   "date": "2026-11-19",
-   "venue": "Lou Lou's",
-   "city": "San Diego",
-   "performers": [
-    "GILBERT CASTELLANOS & THE NEW LATIN JAZZ SEXTET - SUPPERCLUB"
-   ],
-   "artists": [
-    {
-     "name": "GILBERT CASTELLANOS & THE NEW LATIN JAZZ SEXTET - SUPPERCLUB"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "petco-park:2026-11-19:steve-lacy",
-   "date": "2026-11-19",
-   "venue": "Petco Park",
-   "city": "San Diego",
-   "performers": [
-    "Steve Lacy"
-   ],
-   "artists": [
-    {
-     "name": "Steve Lacy",
-     "mbid": "ca9766a0-1c30-43e6-a213-bac1334efc4a",
-     "listen_url": "https://open.spotify.com/artist/1BEsuwAkTQMG50TeHB5qny",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "soma:2026-11-19:isaiah-rashad",
-   "date": "2026-11-19",
-   "venue": "SOMA",
-   "city": "San Diego",
-   "performers": [
-    "Isaiah Rashad"
-   ],
-   "artists": [
-    {
-     "name": "Isaiah Rashad",
-     "mbid": "37547347-ea75-45fa-9766-ff36b44d8147",
-     "listen_url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.somasandiego.com/"
-  },
-  {
-   "id": "soda-bar:2026-11-19:mark-william-lewis",
-   "date": "2026-11-19",
-   "venue": "Soda Bar",
-   "city": "San Diego",
-   "performers": [
-    "Mark William Lewis",
-    "claire rousay"
-   ],
-   "artists": [
-    {
-     "name": "Mark William Lewis",
-     "mbid": "bba25c2a-a43a-4774-9bfa-306b6c4fb6b3",
-     "official_url": "https://markwilliamlewis.net/",
-     "listen_url": "https://markwilliamlewis.bandcamp.com/track/attack-attach",
-     "listen_service": "Bandcamp",
-     "listen_title": "Attack Attach"
-    },
-    {
-     "name": "claire rousay",
-     "mbid": "cc94a0fe-e3f0-4217-a5f8-a70d4ccf39e7",
-     "official_url": "https://clairerousay.com/",
-     "listen_url": "https://clairerousay.bandcamp.com/track/can-t-we-have-both",
-     "listen_service": "Bandcamp",
-     "listen_title": "can\u2019t we have both"
-    }
-   ],
-   "venue_url": "https://sodabarmusic.com/"
-  },
-  {
-   "id": "the-banshee:2026-11-19:sky-is-alright",
-   "date": "2026-11-19",
-   "venue": "The Banshee",
-   "city": "San Diego",
-   "performers": [
-    "Sky is Alright",
-    "Sleeplike",
-    "Suzies Casket",
-    "Brainwash*"
-   ],
-   "artists": [
-    {
-     "name": "Sky is Alright"
-    },
-    {
-     "name": "Sleeplike",
-     "mbid": "3b2b1756-cc21-40a1-9c4f-76557004063a",
-     "listen_url": "https://sleeplikex.bandcamp.com/track/yes-yes",
-     "listen_service": "Bandcamp",
-     "listen_title": "yes yes"
-    },
-    {
-     "name": "Suzies Casket"
-    },
-    {
-     "name": "Brainwash*",
-     "mbid": "d8f742ed-8c25-4808-9c7a-891475f73344"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "the-kensington-club:2026-11-19:vamp",
-   "date": "2026-11-19",
-   "venue": "The Kensington Club",
-   "city": "San Diego",
-   "performers": [
-    "Vamp"
-   ],
-   "artists": [
-    {
-     "name": "Vamp",
-     "mbid": "dd3d5cef-feda-4dd4-aa15-bee252134dd6",
-     "official_url": "http://www.vamp.no/",
-     "listen_url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": null
-  },
-  {
-   "id": "the-observatory-north-park:2026-11-19:manic-street-preachers",
-   "date": "2026-11-19",
-   "venue": "The Observatory North Park",
-   "city": "San Diego",
-   "performers": [
-    "Manic Street Preachers",
-    "Benches"
-   ],
-   "artists": [
-    {
-     "name": "Manic Street Preachers",
-     "mbid": "32efea44-6cb5-4b4f-bdaa-c8b8f6cef981",
-     "official_url": "https://www.sonymusic.co.uk/artist/manic-street-preachers/",
-     "listen_url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Benches",
-     "mbid": "904f6d75-b3cb-48df-bad8-f91afddf9295"
-    }
-   ],
-   "venue_url": "https://www.observatorysd.com"
-  },
   {
    "id": "balboa-theatre:2026-11-20:los-terricolas-de-nestor-daniel",
    "date": "2026-11-20",
@@ -1387,6 +1164,21 @@
    "venue_url": null
   },
   {
+   "id": "lou-lou-s:2026-11-25:real-friends-featuring-miles-medina-bella-fiasco",
+   "date": "2026-11-25",
+   "venue": "Lou Lou's",
+   "city": "San Diego",
+   "performers": [
+    "Real Friends Featuring Miles Medina & Bella Fiasco"
+   ],
+   "artists": [
+    {
+     "name": "Real Friends Featuring Miles Medina & Bella Fiasco"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "soma:2026-11-25:george-clanton",
    "date": "2026-11-25",
    "venue": "SOMA",
@@ -2342,6 +2134,30 @@
    "venue_url": "https://sodabarmusic.com/"
   },
   {
+   "id": "the-banshee:2026-12-01:fieldrush",
+   "date": "2026-12-01",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Fieldrush",
+    "Bed Bug Guru",
+    "Loitering - Presented by SDS"
+   ],
+   "artists": [
+    {
+     "name": "Fieldrush"
+    },
+    {
+     "name": "Bed Bug Guru",
+     "mbid": "376b5afc-c429-4507-ba40-1dc05b7c7449"
+    },
+    {
+     "name": "Loitering - Presented by SDS"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2026-12-02:squirrel-nut-zippers",
    "date": "2026-12-02",
    "venue": "Belly Up Tavern",
@@ -2703,7 +2519,8 @@
    "venue": "3OZ Dive Club",
    "city": "San Diego",
    "performers": [
-    "x3butterfly"
+    "x3butterfly",
+    "Hoochie"
    ],
    "artists": [
     {
@@ -2712,6 +2529,10 @@
      "listen_url": "https://x3butterfly.bandcamp.com/track/critical-conjecture",
      "listen_service": "Bandcamp",
      "listen_title": "Critical Conjecture"
+    },
+    {
+     "name": "Hoochie",
+     "mbid": "5a42d072-01bf-4060-8a10-906b1cb939a9"
     }
    ],
    "venue_url": null
@@ -4680,7 +4501,7 @@
    "city": "San Diego",
    "performers": [
     "The Tones",
-    "Poolside"
+    "Pool Surfers"
    ],
    "artists": [
     {
@@ -4688,12 +4509,7 @@
      "mbid": "80721b51-3c9e-48cc-809b-d10d28537046"
     },
     {
-     "name": "Poolside",
-     "mbid": "dbfbd2a1-3f61-40b9-9558-21a96e32f721",
-     "official_url": "http://poolsidemusic.com/",
-     "listen_url": "https://poolside.bandcamp.com/track/bedroom-eyes",
-     "listen_service": "Bandcamp",
-     "listen_title": "Bedroom Eyes"
+     "name": "Pool Surfers"
     }
    ],
    "venue_url": null
@@ -5432,6 +5248,47 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
+   "id": "belly-up-tavern:2026-12-26:jimmy-s-buffet-a-pirate-looks-at-80-birthday-bash",
+   "date": "2026-12-26",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "Jimmy's Buffet: A Pirate Looks at 80 Birthday Bash"
+   ],
+   "artists": [
+    {
+     "name": "Jimmy's Buffet: A Pirate Looks at 80 Birthday Bash"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "casbah:2026-12-26:big-sandy-and-his-fly-rite-boys",
+   "date": "2026-12-26",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Big Sandy and His Fly-Rite Boys",
+    "James Intveld"
+   ],
+   "artists": [
+    {
+     "name": "Big Sandy and His Fly-Rite Boys",
+     "mbid": "d82c3082-a1aa-4751-b10f-019859d4669e",
+     "official_url": "http://www.bigsandy.net/",
+     "listen_url": "https://bigsandyandhisflyriteboys.bandcamp.com/track/power-of-the-45",
+     "listen_service": "Bandcamp",
+     "listen_title": "Power of the 45"
+    },
+    {
+     "name": "James Intveld",
+     "mbid": "14dc5e33-d1d3-44f0-b2fa-163a42a0acdd",
+     "official_url": "http://www.jamesintveld.com/"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "nova-sd:2026-12-26:tyga",
    "date": "2026-12-26",
    "venue": "Nova SD",
@@ -5972,6 +5829,23 @@
    "venue_url": "https://www.casbahmusic.com/"
   },
   {
+   "id": "house-of-blues:2027-01-02:fan-halen",
+   "date": "2027-01-02",
+   "venue": "House of Blues",
+   "city": "San Diego",
+   "performers": [
+    "Fan Halen"
+   ],
+   "artists": [
+    {
+     "name": "Fan Halen",
+     "mbid": "ed92e1cb-a382-4a1a-a2b9-0b06b4174f5b",
+     "official_url": "http://www.fanhalen.net/"
+    }
+   ],
+   "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
    "id": "nova-sd:2027-01-02:nghtmre",
    "date": "2027-01-02",
    "venue": "Nova SD",
@@ -6225,6 +6099,25 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
+   "id": "quartyard:2027-01-08:salsa-under-the-stars",
+   "date": "2027-01-08",
+   "venue": "Quartyard",
+   "city": "San Diego",
+   "performers": [
+    "Salsa Under the Stars",
+    "Manny Cepeda Orchestra Quartet"
+   ],
+   "artists": [
+    {
+     "name": "Salsa Under the Stars"
+    },
+    {
+     "name": "Manny Cepeda Orchestra Quartet"
+    }
+   ],
+   "venue_url": "https://quartyardsd.com/"
+  },
+  {
    "id": "the-magnolia:2027-01-08:who-s-bad",
    "date": "2027-01-08",
    "venue": "The Magnolia",
@@ -6359,6 +6252,29 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "casbah:2027-01-11:casbah-residency-night-1-josephine-starr",
+   "date": "2027-01-11",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Casbah Residency Night #1 Josephine Starr",
+    "Hypno Toads",
+    "Vurv"
+   ],
+   "artists": [
+    {
+     "name": "Casbah Residency Night #1 Josephine Starr"
+    },
+    {
+     "name": "Hypno Toads"
+    },
+    {
+     "name": "Vurv"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "balboa-theatre:2027-01-12:beth-hart",
@@ -6894,6 +6810,29 @@
    "venue_url": null
   },
   {
+   "id": "casbah:2027-01-18:casbah-residency-night-2-josephine-starr",
+   "date": "2027-01-18",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Casbah Residency Night #2 Josephine Starr",
+    "Go Scarlet",
+    "Hi-Five Ghost"
+   ],
+   "artists": [
+    {
+     "name": "Casbah Residency Night #2 Josephine Starr"
+    },
+    {
+     "name": "Go Scarlet"
+    },
+    {
+     "name": "Hi-Five Ghost"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "belly-up-tavern:2027-01-19:bebel-gilberto",
    "date": "2027-01-19",
    "venue": "Belly Up Tavern",
@@ -6985,6 +6924,24 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "house-of-blues:2027-01-21:alan-vuong",
+   "date": "2027-01-21",
+   "venue": "House of Blues",
+   "city": "San Diego",
+   "performers": [
+    "Alan Vuong"
+   ],
+   "artists": [
+    {
+     "name": "Alan Vuong",
+     "mbid": "780bef1e-bc48-4635-9859-23e1d52ec669",
+     "listen_url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
    "id": "soda-bar:2027-01-21:the-drowns",
@@ -8016,19 +7973,16 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
-   "id": "nova-sd:2027-02-06:habstrakt",
+   "id": "nova-sd:2027-02-06:habstrakt-control-freak",
    "date": "2027-02-06",
    "venue": "Nova SD",
    "city": "San Diego",
    "performers": [
-    "Habstrakt"
+    "Habstrakt Control Freak"
    ],
    "artists": [
     {
-     "name": "Habstrakt",
-     "mbid": "0288aeff-5cf1-48b6-8a5a-b8709f0c9ef7",
-     "listen_url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn",
-     "listen_service": "Spotify"
+     "name": "Habstrakt Control Freak"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -8052,6 +8006,25 @@
     }
    ],
    "venue_url": "https://quartyardsd.com/"
+  },
+  {
+   "id": "soda-bar:2027-02-06:death-valley-girls",
+   "date": "2027-02-06",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Death Valley Girls"
+   ],
+   "artists": [
+    {
+     "name": "Death Valley Girls",
+     "mbid": "987c6ccf-d4c5-4f23-938a-c0a21782803d",
+     "listen_url": "https://deathvalleygirls.bandcamp.com/track/welcome-to-earth",
+     "listen_service": "Bandcamp",
+     "listen_title": "Welcome to Earth"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-observatory-north-park:2027-02-06:puzzle",
@@ -10627,6 +10600,25 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "house-of-blues:2027-03-14:southall",
+   "date": "2027-03-14",
+   "venue": "House of Blues",
+   "city": "San Diego",
+   "performers": [
+    "Southall"
+   ],
+   "artists": [
+    {
+     "name": "Southall",
+     "mbid": "05b35e22-e7fc-452c-8923-169f03388cfd",
+     "official_url": "https://readsouthall.com/",
+     "listen_url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
    "id": "belly-up-tavern:2027-03-15:young-dubliners",
    "date": "2027-03-15",
    "venue": "Belly Up Tavern",
@@ -10699,6 +10691,26 @@
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
+  },
+  {
+   "id": "the-observatory-north-park:2027-03-16:sevendust",
+   "date": "2027-03-16",
+   "venue": "The Observatory North Park",
+   "city": "San Diego",
+   "performers": [
+    "Sevendust"
+   ],
+   "artists": [
+    {
+     "name": "Sevendust",
+     "mbid": "52b9e109-44a0-45eb-a197-226c4abab232",
+     "official_url": "https://sevendust.com/",
+     "listen_url": "https://sevendust.bandcamp.com/track/unbreakable",
+     "listen_service": "Bandcamp",
+     "listen_title": "Unbreakable"
+    }
+   ],
+   "venue_url": "https://www.observatorysd.com"
   },
   {
    "id": "house-of-blues:2027-03-17:tori-kelly",
@@ -11434,6 +11446,24 @@
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
+  },
+  {
+   "id": "the-holding-company:2027-04-04:drakulas",
+   "date": "2027-04-04",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "Drakulas"
+   ],
+   "artists": [
+    {
+     "name": "Drakulas",
+     "mbid": "fc55716e-84e1-45be-a1c9-f47427046c08",
+     "listen_url": "https://open.spotify.com/artist/7IAgtmu2mbfjwkqNIeRviN",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "belly-up-tavern:2027-04-06:the-palms",
@@ -13372,6 +13402,38 @@
    "artists": [
     {
      "name": "Gaby Aparicio"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "humphreys-concerts-by-the-bay:2027-08-07:ben-rector",
+   "date": "2027-08-07",
+   "venue": "Humphreys Concerts By the Bay",
+   "city": "San Diego",
+   "performers": [
+    "Ben Rector",
+    "Jon McLaughlin",
+    "Josh Jenkins"
+   ],
+   "artists": [
+    {
+     "name": "Ben Rector",
+     "mbid": "9f478f13-554c-49fc-b5f6-fcf110010c39",
+     "official_url": "http://www.benrectormusic.com/",
+     "listen_url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Jon McLaughlin",
+     "mbid": "3c2c34c6-11de-48b2-947d-6b8f96d59844",
+     "official_url": "http://www.jonmcl.com/",
+     "listen_url": "https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Josh Jenkins",
+     "mbid": "ae9a1d4b-a226-4eda-8a33-becf8e9aaf71"
     }
    ],
    "venue_url": null

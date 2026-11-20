@@ -326,7 +326,7 @@
       "reason": null
     },
     "https://dontyoudaretouchmygalaxy.bandcamp.com/": {
-      "checked_at": "2026-11-18T11:59:06.892982+00:00",
+      "checked_at": "2026-11-20T11:59:21.957561+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -706,7 +706,7 @@
       "reason": null
     },
     "https://minitrees.bandcamp.com/": {
-      "checked_at": "2026-11-18T11:59:06.892982+00:00",
+      "checked_at": "2026-11-20T11:59:21.957561+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1427,7 +1427,7 @@
       "reason": null
     },
     "https://cruecifer.bandcamp.com/": {
-      "checked_at": "2026-11-18T11:59:06.892982+00:00",
+      "checked_at": "2026-11-20T11:59:21.957561+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -1466,7 +1466,7 @@
       "reason": null
     },
     "https://bucketheadpikes.bandcamp.com/": {
-      "checked_at": "2026-11-18T11:59:06.892982+00:00",
+      "checked_at": "2026-11-20T11:59:21.957561+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1879,7 +1879,7 @@
       "reason": null
     },
     "https://rayburger.bandcamp.com/": {
-      "checked_at": "2026-11-18T11:59:06.892982+00:00",
+      "checked_at": "2026-11-20T11:59:21.957561+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2127,7 +2127,7 @@
       "reason": null
     },
     "https://theaggrolites.bandcamp.com/": {
-      "checked_at": "2026-11-18T11:59:06.892982+00:00",
+      "checked_at": "2026-11-20T11:59:21.957561+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2342,7 +2342,7 @@
       "reason": null
     },
     "https://worldsendgirlfriend.bandcamp.com/": {
-      "checked_at": "2026-11-18T11:59:06.892982+00:00",
+      "checked_at": "2026-11-20T11:59:21.957561+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -3041,7 +3041,7 @@
       "reason": null
     },
     "https://a-perfect-circle.bandcamp.com/": {
-      "checked_at": "2026-11-18T11:59:06.892982+00:00",
+      "checked_at": "2026-11-20T11:59:21.957561+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -3432,10 +3432,43 @@
       "reason": null
     },
     "https://theteskeybrothers.bandcamp.com/": {
-      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "checked_at": "2026-11-20T11:59:21.957561+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
+    },
+    "https://bigsandyandhisflyriteboys.bandcamp.com/": {
+      "checked_at": "2026-11-20T11:59:21.957561+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://bigsandyandhisflyriteboys.bandcamp.com/track/power-of-the-45",
+        "listen_service": "Bandcamp",
+        "listen_title": "Power of the 45",
+        "release_url": "https://bigsandyandhisflyriteboys.bandcamp.com/album/turntable-matinee"
+      },
+      "reason": null
+    },
+    "https://deathvalleygirls.bandcamp.com/": {
+      "checked_at": "2026-11-20T11:59:21.957561+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://deathvalleygirls.bandcamp.com/track/welcome-to-earth",
+        "listen_service": "Bandcamp",
+        "listen_title": "Welcome to Earth",
+        "release_url": "https://deathvalleygirls.bandcamp.com/album/welcome-to-earth"
+      },
+      "reason": null
+    },
+    "https://sevendust.bandcamp.com/": {
+      "checked_at": "2026-11-20T11:59:21.957561+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://sevendust.bandcamp.com/track/unbreakable",
+        "listen_service": "Bandcamp",
+        "listen_title": "Unbreakable",
+        "release_url": "https://sevendust.bandcamp.com/album/one"
+      },
+      "reason": null
     }
   }
 }

@@ -438860,6 +438860,4397 @@
         "isnis": [],
         "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Real Friends Featuring Miles Medina & Bella Fiasco\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:57:46.652Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Fieldrush\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:57:46.778Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Bed Bug Guru\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:57:52.978Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "376b5afc-c429-4507-ba40-1dc05b7c7449",
+            "score": 100,
+            "name": "Bed Bug Guru",
+            "sort-name": "Bed Bug Guru",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/376b5afc-c429-4507-ba40-1dc05b7c7449?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "gender": null,
+        "ipis": [],
+        "country": "US",
+        "type": null,
+        "life-span": {
+          "begin": null,
+          "end": null,
+          "ended": false
+        },
+        "type-id": null,
+        "isnis": [],
+        "sort-name": "Bed Bug Guru",
+        "begin-area": null,
+        "gender-id": null,
+        "name": "Bed Bug Guru",
+        "relations": [
+          {
+            "begin": null,
+            "type": "soundcloud",
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "attribute-ids": {},
+            "end": null,
+            "ended": false,
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "attribute-values": {},
+            "source-credit": "",
+            "url": {
+              "resource": "https://soundcloud.com/bedbugguru",
+              "id": "52643e14-eb62-44eb-82eb-34201d9e8d5c"
+            },
+            "target-type": "url"
+          }
+        ],
+        "id": "376b5afc-c429-4507-ba40-1dc05b7c7449",
+        "end-area": null,
+        "area": {
+          "name": "United States",
+          "type": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "United States"
+        },
+        "disambiguation": ""
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Loitering - Presented by SDS\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:57:59.389Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Hoochie\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:04.624Z",
+        "count": 15,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "5a42d072-01bf-4060-8a10-906b1cb939a9",
+            "score": 100,
+            "name": "Hoochie",
+            "sort-name": "Hoochie",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "74325f3f-5af3-4b1c-b6aa-98b079c94457",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 91,
+            "name": "Hoochie Mama",
+            "sort-name": "Hoochie Mama",
+            "country": "FR",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "France",
+              "sort-name": "France",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "France",
+              "sort-name": "France",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "begin": "2010",
+              "end": "2011",
+              "ended": true
+            }
+          },
+          {
+            "id": "25a1bc06-7d11-45d3-afb0-9b0977baf08d",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 91,
+            "name": "Hoochie Krew",
+            "sort-name": "Hoochie Krew",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "4583eb40-68e4-4dd9-9200-a91e38d28c75",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 91,
+            "name": "The Hoochie Coochie Men",
+            "sort-name": "Hoochie Coochie Men, The",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "1de8971b-d74d-49bf-a4dd-1e1f2ca97fd8",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 90,
+            "name": "Hoochie Koo",
+            "sort-name": "Hoochie Koo",
+            "area": {
+              "id": "4dc3fa97-cf9b-43f0-bec9-fcc52d6215d5",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Milwaukee",
+              "sort-name": "Milwaukee",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "785ff672-4ed8-4baf-b28b-be612866aac3",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 90,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Miss Hoochie",
+            "sort-name": "Hoochie, Miss",
+            "gender": "female",
+            "area": {
+              "id": "f934c8da-e40e-4056-8f8c-212e68fdcaec",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "Texas",
+              "sort-name": "Texas",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Dallas DJ",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "65c318e1-5319-465c-b98c-bad8452b215a",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 86,
+            "name": "Hoochie Coochie Band",
+            "sort-name": "Hoochie Coochie Band",
+            "country": "CZ",
+            "area": {
+              "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Czechia",
+              "sort-name": "Czechia",
+              "life-span": {
+                "begin": "1993-01-01",
+                "ended": null
+              }
+            },
+            "disambiguation": "Czech blues band",
+            "life-span": {
+              "begin": "1995",
+              "ended": null
+            }
+          },
+          {
+            "id": "eb1ee685-458e-44b3-9983-447717698afe",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 86,
+            "name": "Hoochie Coochie Band",
+            "sort-name": "Hoochie Coochie Band",
+            "country": "ES",
+            "area": {
+              "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Spain",
+              "sort-name": "Spain",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "f2a280ad-c868-4ead-b00f-671f5b9d1e78",
+              "type": "Island",
+              "type-id": "3f8e7b66-058b-369b-9834-ffa5fcba5641",
+              "name": "Menorca",
+              "sort-name": "Menorca",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Spanish blues band from Menorca",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "bd7d19ea-8797-40dc-9b24-5ee075e28f36",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 85,
+            "name": "The Hoochie Coochies",
+            "sort-name": "Hoochie Coochies, The",
+            "country": "ZA",
+            "area": {
+              "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "South Africa",
+              "sort-name": "South Africa",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "garage rock",
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "garage rock"
+              }
+            ]
+          },
+          {
+            "id": "c30fec32-e391-4790-aeac-a77af612681b",
+            "score": 85,
+            "name": "Hoochie Koochie Baby",
+            "sort-name": "Hoochie Koochie Baby",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/5a42d072-01bf-4060-8a10-906b1cb939a9?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "name": "Hoochie",
+        "gender": null,
+        "area": null,
+        "sort-name": "Hoochie",
+        "gender-id": null,
+        "end-area": null,
+        "type": null,
+        "country": null,
+        "isnis": [],
+        "disambiguation": "",
+        "type-id": null,
+        "life-span": {
+          "begin": null,
+          "ended": false,
+          "end": null
+        },
+        "id": "5a42d072-01bf-4060-8a10-906b1cb939a9",
+        "relations": [],
+        "begin-area": null,
+        "ipis": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Pool Surfers\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:05.849Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Jimmy's Buffet: A Pirate Looks at 80 Birthday Bash\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:06.950Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Big Sandy and His Fly-Rite Boys\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:13.148Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "d82c3082-a1aa-4751-b10f-019859d4669e",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Big Sandy and His Fly-Rite Boys",
+            "sort-name": "Big Sandy and His Fly-Rite Boys",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "7f1cf724-b398-42f8-aa82-ecd190736ebf",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Anaheim",
+              "sort-name": "Anaheim",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "begin": "1991",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Big Sandy & The Fly-Rite Boys",
+                "name": "Big Sandy & The Fly-Rite Boys",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/d82c3082-a1aa-4751-b10f-019859d4669e?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "gender": null,
+        "gender-id": null,
+        "disambiguation": "",
+        "sort-name": "Big Sandy and His Fly-Rite Boys",
+        "end-area": null,
+        "isnis": [],
+        "name": "Big Sandy and His Fly-Rite Boys",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "relations": [
+          {
+            "attributes": [],
+            "target-credit": "",
+            "attribute-ids": {},
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "attribute-values": {},
+            "type": "allmusic",
+            "begin": null,
+            "direction": "forward",
+            "target-type": "url",
+            "url": {
+              "id": "4d2083e9-2155-4f7b-9b17-ae4eebcc2ab0",
+              "resource": "https://www.allmusic.com/artist/mn0000051512"
+            },
+            "end": null,
+            "source-credit": "",
+            "ended": false
+          },
+          {
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "url": {
+              "id": "6ab19f5b-cc94-46d5-b3c8-23e9ac9fbc7c",
+              "resource": "https://bigsandyandhisflyriteboys.bandcamp.com/"
+            },
+            "type": "bandcamp",
+            "attribute-values": {},
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "attributes": [],
+            "attribute-ids": {},
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "target-credit": ""
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "ended": false,
+            "url": {
+              "resource": "https://www.discogs.com/artist/469020",
+              "id": "41573d22-8ff0-4951-b23d-ca5fe2949f47"
+            },
+            "attribute-values": {},
+            "type": "discogs",
+            "begin": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "target-credit": "",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attribute-ids": {}
+          },
+          {
+            "ended": false,
+            "source-credit": "",
+            "end": null,
+            "url": {
+              "resource": "https://www.last.fm/music/Big+Sandy+&+His+Fly-Rite+Boys",
+              "id": "676b7f0b-f2f6-4ab5-921f-a21c53ee7df9"
+            },
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "type": "last.fm",
+            "attribute-values": {},
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "attribute-ids": {},
+            "target-credit": "",
+            "attributes": []
+          },
+          {
+            "attribute-values": {},
+            "type": "myspace",
+            "begin": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "target-credit": "",
+            "attribute-ids": {},
+            "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+            "end": null,
+            "source-credit": "",
+            "ended": false,
+            "url": {
+              "id": "53ca2ca9-ab95-4b90-8095-5865eac8a829",
+              "resource": "https://myspace.com/bigsandyandhisflyriteboys"
+            }
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "ended": false,
+            "url": {
+              "resource": "http://www.bigsandy.net/",
+              "id": "b8632c76-00e1-4570-833c-5c93138db9b0"
+            },
+            "attribute-values": {},
+            "type": "official homepage",
+            "begin": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "target-credit": "",
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "attribute-ids": {}
+          },
+          {
+            "attributes": [],
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "other databases",
+            "attribute-values": {},
+            "target-type": "url",
+            "direction": "forward",
+            "begin": null,
+            "url": {
+              "id": "a4334aad-8925-4b80-8070-9c2f472ff3c8",
+              "resource": "https://rateyourmusic.com/artist/big_sandy_and_his_fly_rite_boys"
+            },
+            "end": null,
+            "ended": false,
+            "source-credit": ""
+          },
+          {
+            "attributes": [],
+            "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "purchase for mail-order",
+            "attribute-values": {},
+            "target-type": "url",
+            "direction": "forward",
+            "begin": null,
+            "url": {
+              "resource": "http://www.hightone.com/index.php?manufacturers_id=13",
+              "id": "c53ba304-fe43-453e-9e46-3677a2e42950"
+            },
+            "end": null,
+            "ended": false,
+            "source-credit": ""
+          },
+          {
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "url": {
+              "id": "f7c87483-24ed-4c2a-831b-4f320ca11024",
+              "resource": "https://www.wikidata.org/wiki/Q4906267"
+            },
+            "type": "wikidata",
+            "attribute-values": {},
+            "target-type": "url",
+            "direction": "forward",
+            "begin": null,
+            "attributes": [],
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-ids": {},
+            "target-credit": ""
+          }
+        ],
+        "country": "US",
+        "life-span": {
+          "end": null,
+          "ended": false,
+          "begin": "1991"
+        },
+        "area": {
+          "type": null,
+          "name": "United States",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98"
+        },
+        "id": "d82c3082-a1aa-4751-b10f-019859d4669e",
+        "ipis": [],
+        "begin-area": {
+          "type-id": null,
+          "id": "7f1cf724-b398-42f8-aa82-ecd190736ebf",
+          "sort-name": "Anaheim",
+          "disambiguation": "",
+          "type": null,
+          "name": "Anaheim"
+        },
+        "type": "Group"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"James Intveld\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:14.370Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "14dc5e33-d1d3-44f0-b2fa-163a42a0acdd",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "James Intveld",
+            "sort-name": "Intveld, James",
+            "gender": "male",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "6e48ed63-326d-4546-ab95-d16332390a9a",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Venlo",
+              "sort-name": "Venlo",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "ipis": [
+              "00130443027"
+            ],
+            "life-span": {
+              "begin": "1959",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "crybaby"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/14dc5e33-d1d3-44f0-b2fa-163a42a0acdd?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "isnis": [],
+        "sort-name": "Intveld, James",
+        "id": "14dc5e33-d1d3-44f0-b2fa-163a42a0acdd",
+        "area": {
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type": null,
+          "name": "United States",
+          "sort-name": "United States",
+          "disambiguation": "",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type-id": null
+        },
+        "gender": "Male",
+        "disambiguation": "",
+        "country": "US",
+        "ipis": [
+          "00130443027"
+        ],
+        "name": "James Intveld",
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "type": "Person",
+        "life-span": {
+          "begin": "1959",
+          "end": null,
+          "ended": false
+        },
+        "begin-area": {
+          "name": "Venlo",
+          "type": null,
+          "sort-name": "Venlo",
+          "id": "6e48ed63-326d-4546-ab95-d16332390a9a",
+          "disambiguation": "",
+          "type-id": null
+        },
+        "relations": [
+          {
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "allmusic",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.allmusic.com/artist/mn0000122939",
+              "id": "52553be1-f252-4ccd-afff-935321cd0812"
+            },
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "attribute-values": {}
+          },
+          {
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "biography",
+            "target-type": "url",
+            "url": {
+              "id": "81b1b10d-397e-428b-aead-f145d3adf4a8",
+              "resource": "http://www.rockabilly.nl/references/messages/james_intveld.htm"
+            },
+            "target-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+            "attribute-values": {}
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "f4a67a99-3a0a-4b70-b043-b270620a5db9",
+              "resource": "https://www.discogs.com/artist/415014"
+            },
+            "type": "discogs",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward"
+          },
+          {
+            "type": "IMDb",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "resource": "https://www.imdb.com/name/nm0409454/",
+              "id": "0d77b13b-4e3e-46df-8012-4d139d7a89c0"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "attribute-values": {},
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+            "end": null
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "8e19ada5-5768-4aeb-b662-dceef3d2349c",
+              "resource": "https://www.last.fm/music/James%20Intveld"
+            },
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "last.fm",
+            "target-type": "url",
+            "end": null,
+            "attribute-values": {},
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": []
+          },
+          {
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "attribute-values": {},
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "end": null,
+            "type": "official homepage",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "id": "85b472a0-cb44-4e30-897c-18adbcf412e7",
+              "resource": "http://www.jamesintveld.com/"
+            },
+            "target-credit": ""
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://rateyourmusic.com/artist/james_intveld",
+              "id": "7bce90d7-57da-4903-9913-319fdea22ff0"
+            },
+            "type": "other databases",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {}
+          },
+          {
+            "target-type": "url",
+            "type": "wikidata",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "url": {
+              "resource": "https://www.wikidata.org/wiki/Q5823787",
+              "id": "d6d5e7ec-4240-49bf-8a2e-9965ba9a97a8"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-values": {},
+            "end": null
+          }
+        ],
+        "end-area": null
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Fan Halen\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:16.597Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "ed92e1cb-a382-4a1a-a2b9-0b06b4174f5b",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Fan Halen",
+            "sort-name": "Fan Halen",
+            "area": {
+              "id": "ae0110b6-13d4-4998-9116-5b926287aa23",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "California",
+              "sort-name": "California",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "\"The World's Most Authentic Tribute to Van Halen\"",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/ed92e1cb-a382-4a1a-a2b9-0b06b4174f5b?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "type": "Group",
+        "gender-id": null,
+        "end-area": null,
+        "begin-area": null,
+        "relations": [
+          {
+            "end": null,
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "resource": "http://www.fanhalen.net/",
+              "id": "6dc80ea4-7132-4ed8-9d0b-3a0b99328f58"
+            },
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "official homepage"
+          },
+          {
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "social network",
+            "target-type": "url",
+            "url": {
+              "id": "63a701c3-582b-4563-8d50-db6a15b81377",
+              "resource": "https://twitter.com/fanhalentribute"
+            },
+            "target-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {}
+          },
+          {
+            "end": null,
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.facebook.com/fanhalen",
+              "id": "c1b16a01-5c1e-4494-a69b-5dca542993ce"
+            },
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "social network"
+          },
+          {
+            "url": {
+              "resource": "https://www.instagram.com/fanhalen/",
+              "id": "26efda26-313f-4a8d-a55c-2c08e5f191fc"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "social network",
+            "target-type": "url",
+            "end": null,
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": []
+          },
+          {
+            "end": null,
+            "attribute-values": {},
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "resource": "https://www.youtube.com/@vhtribute",
+              "id": "7e19378b-930b-43ac-8eeb-c2fdb92ea9f3"
+            },
+            "target-credit": "",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "youtube"
+          }
+        ],
+        "life-span": {
+          "end": null,
+          "ended": false,
+          "begin": null
+        },
+        "disambiguation": "\"The World's Most Authentic Tribute to Van Halen\"",
+        "country": "US",
+        "name": "Fan Halen",
+        "ipis": [],
+        "area": {
+          "iso-3166-2-codes": [
+            "US-CA"
+          ],
+          "type": null,
+          "type-id": null,
+          "id": "ae0110b6-13d4-4998-9116-5b926287aa23",
+          "sort-name": "California",
+          "disambiguation": "",
+          "name": "California"
+        },
+        "gender": null,
+        "id": "ed92e1cb-a382-4a1a-a2b9-0b06b4174f5b",
+        "sort-name": "Fan Halen",
+        "isnis": [],
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Salsa Under the Stars\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:18.768Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Manny Cepeda Orchestra Quartet\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:24.970Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Casbah Residency Night #1 Josephine Starr\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:25.091Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Vurv\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:31.290Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Casbah Residency Night #2 Josephine Starr\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:36.538Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Hi-Five Ghost\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:36.661Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Alan Vuong\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:37.880Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "780bef1e-bc48-4635-9859-23e1d52ec669",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Alan Vuong",
+            "sort-name": "Vuong, Alan",
+            "gender": "male",
+            "area": {
+              "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Los Angeles",
+              "sort-name": "Los Angeles",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "r&b artist",
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "r&b"
+              },
+              {
+                "count": 1,
+                "name": "contemporary r&b"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/780bef1e-bc48-4635-9859-23e1d52ec669?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Alan Vuong",
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "gender": "Male",
+        "sort-name": "Vuong, Alan",
+        "type": "Person",
+        "isnis": [],
+        "end-area": null,
+        "area": {
+          "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+          "name": "Los Angeles",
+          "type-id": null,
+          "sort-name": "Los Angeles",
+          "type": null,
+          "disambiguation": ""
+        },
+        "id": "780bef1e-bc48-4635-9859-23e1d52ec669",
+        "life-span": {
+          "ended": false,
+          "end": null,
+          "begin": null
+        },
+        "begin-area": null,
+        "ipis": [],
+        "relations": [
+          {
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "target-credit": "",
+            "type": "free streaming",
+            "begin": null,
+            "attribute-values": {},
+            "attributes": [],
+            "target-type": "url",
+            "end": null,
+            "source-credit": "",
+            "url": {
+              "resource": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8",
+              "id": "d09a3e7a-0f1c-4214-bfcb-a7aa63cddb70"
+            },
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "attribute-ids": {},
+            "target-type": "url",
+            "attributes": [],
+            "ended": false,
+            "end": null,
+            "source-credit": "",
+            "url": {
+              "id": "b6b7f5b7-7788-4ddd-a9b6-03a857356c3d",
+              "resource": "https://www.last.fm/music/Alan+Vuong"
+            },
+            "target-credit": "",
+            "type": "last.fm",
+            "begin": null,
+            "attribute-values": {},
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "direction": "forward"
+          },
+          {
+            "attribute-ids": {},
+            "attributes": [],
+            "target-type": "url",
+            "url": {
+              "resource": "https://music.apple.com/us/artist/1482064787",
+              "id": "b8b0372e-68e6-4f14-97a2-7cb22bcce6ef"
+            },
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-credit": "",
+            "type": "purchase for download",
+            "attribute-values": {},
+            "begin": null,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "direction": "forward"
+          },
+          {
+            "attribute-values": {},
+            "begin": null,
+            "type": "social network",
+            "target-credit": "",
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-ids": {},
+            "source-credit": "",
+            "end": null,
+            "url": {
+              "id": "1c070920-db11-42a0-90a6-f3f5f25ce751",
+              "resource": "https://www.instagram.com/alanvuong_/"
+            },
+            "ended": false,
+            "attributes": [],
+            "target-type": "url"
+          },
+          {
+            "begin": null,
+            "attribute-values": {},
+            "target-credit": "",
+            "type": "soundcloud",
+            "direction": "forward",
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "attribute-ids": {},
+            "source-credit": "",
+            "url": {
+              "resource": "https://soundcloud.com/user-av3is",
+              "id": "9bd27b65-77b7-4775-949c-62d9b378ed13"
+            },
+            "end": null,
+            "ended": false,
+            "attributes": [],
+            "target-type": "url"
+          }
+        ],
+        "disambiguation": "r&b artist"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Habstrakt Control Freak\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:45.059Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Death Valley Girls\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:45.185Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "987c6ccf-d4c5-4f23-938a-c0a21782803d",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Death Valley Girls",
+            "sort-name": "Death Valley Girls",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Los Angeles",
+              "sort-name": "Los Angeles",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "US garage rock band",
+            "isnis": [
+              "0000000469518609"
+            ],
+            "life-span": {
+              "begin": "2013",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 2,
+                "name": "garage rock"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/987c6ccf-d4c5-4f23-938a-c0a21782803d?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "isnis": [
+          "0000000469518609"
+        ],
+        "sort-name": "Death Valley Girls",
+        "id": "987c6ccf-d4c5-4f23-938a-c0a21782803d",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "gender": null,
+        "area": {
+          "type-id": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "disambiguation": "",
+          "sort-name": "United States",
+          "name": "United States",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ]
+        },
+        "name": "Death Valley Girls",
+        "ipis": [],
+        "disambiguation": "US garage rock band",
+        "country": "US",
+        "end-area": null,
+        "life-span": {
+          "end": null,
+          "ended": false,
+          "begin": "2013"
+        },
+        "relations": [
+          {
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "attribute-values": {},
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "allmusic",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.allmusic.com/artist/mn0003280118",
+              "id": "953ac702-6d72-4a0f-813c-b66a81c30e2f"
+            }
+          },
+          {
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "bandcamp",
+            "target-type": "url",
+            "target-credit": "",
+            "url": {
+              "id": "a465aaa4-bd4f-4eef-9536-cef9df2eb510",
+              "resource": "https://deathvalleygirls.bandcamp.com/"
+            },
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "attribute-values": {}
+          },
+          {
+            "end": null,
+            "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "url": {
+              "id": "9df7e693-1b9b-4cfe-8f36-45e48de892ff",
+              "resource": "https://www.bandsintown.com/a/6384528"
+            },
+            "target-credit": "",
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "bandsintown"
+          },
+          {
+            "type": "discogs",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.discogs.com/artist/3725528",
+              "id": "25bd86ef-dc46-4aa4-9b2f-44e23b701854"
+            },
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "attribute-values": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "end": null
+          },
+          {
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "free streaming",
+            "url": {
+              "resource": "https://open.spotify.com/artist/0EvAIYxDOmvxkCv35jfmS9",
+              "id": "f8439540-79f1-4f44-bdb8-2b8794dcc412"
+            },
+            "target-credit": ""
+          },
+          {
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "target-credit": "",
+            "url": {
+              "id": "8031b5e6-5aa2-4713-90d4-c5c2dd1ab836",
+              "resource": "https://www.deezer.com/artist/6557219"
+            },
+            "target-type": "url",
+            "type": "free streaming",
+            "ended": false,
+            "source-credit": "",
+            "begin": null
+          },
+          {
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "last.fm",
+            "target-type": "url",
+            "url": {
+              "id": "e7076aa4-5e2b-4a68-914b-7b900aa0f57c",
+              "resource": "https://www.last.fm/music/Death+Valley+Girls"
+            },
+            "target-credit": "",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "attribute-values": {}
+          },
+          {
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "lyrics",
+            "target-credit": "",
+            "url": {
+              "id": "15cde792-6549-423c-a02f-bb5e24fd3431",
+              "resource": "https://genius.com/artists/Death-valley-girls"
+            },
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed"
+          },
+          {
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "other databases",
+            "target-type": "url",
+            "target-credit": "",
+            "url": {
+              "id": "989026a5-f0ae-4f07-9d1e-01dfb8b0b167",
+              "resource": "http://id.loc.gov/authorities/names/no2018170083"
+            }
+          },
+          {
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "other databases",
+            "target-credit": "",
+            "url": {
+              "id": "7a1179e5-9966-4b9a-b1a7-5e262247198b",
+              "resource": "https://rateyourmusic.com/artist/death-valley-girls"
+            }
+          },
+          {
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "other databases",
+            "url": {
+              "resource": "https://www.worldcat.org/identities/lccn-no2018170083/",
+              "id": "2f4123bc-7d7c-4f37-8366-8fb3dc575afb"
+            },
+            "target-credit": ""
+          },
+          {
+            "url": {
+              "resource": "https://play.google.com/store/music/artist?id=A3vd4jowryhyonlw6frvt37pqca",
+              "id": "9122ada2-68a8-48a5-a779-c35cd4b27bcc"
+            },
+            "target-credit": "",
+            "type": "purchase for download",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": true,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "end": "2020-10-12",
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward"
+          },
+          {
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "purchase for download",
+            "target-type": "url",
+            "url": {
+              "id": "a9242626-5dff-4f85-bb3a-64951bf799cc",
+              "resource": "https://itunes.apple.com/us/artist/id911576522"
+            },
+            "target-credit": ""
+          },
+          {
+            "url": {
+              "id": "f2f585ce-af52-426f-9f7a-1739fbfd11d4",
+              "resource": "https://open.qobuz.com/artist/2254921"
+            },
+            "target-credit": "",
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "purchase for download",
+            "end": null,
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": []
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "654193ef-43ad-4b6c-ae35-ea3ed322e0ad",
+              "resource": "https://twitter.com/deathvalleygrls"
+            },
+            "target-type": "url",
+            "type": "social network",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {}
+          },
+          {
+            "type": "social network",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.facebook.com/pages/Death-Valley-Girls/626395517387657",
+              "id": "f8eae441-a403-439b-a459-e9ae9a1ec787"
+            },
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "end": null
+          },
+          {
+            "url": {
+              "id": "f922309d-938f-405f-a8ec-b590231c4623",
+              "resource": "https://www.instagram.com/deathvalleygirls/"
+            },
+            "target-credit": "",
+            "type": "social network",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward"
+          },
+          {
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "songkick",
+            "url": {
+              "resource": "https://www.songkick.com/artists/6760199",
+              "id": "255c3bb6-ec8c-4a0d-bcb5-91bc7d911b0c"
+            },
+            "target-credit": "",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "attribute-values": {}
+          },
+          {
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "soundcloud",
+            "target-type": "url",
+            "url": {
+              "id": "30e4ed51-91dd-49c0-956e-491afcf2ec16",
+              "resource": "https://soundcloud.com/deathvalleygirls/"
+            },
+            "target-credit": ""
+          },
+          {
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "streaming",
+            "url": {
+              "id": "0fdbaea0-503a-4f05-b07b-898c3d529e89",
+              "resource": "https://music.apple.com/us/artist/911576522"
+            },
+            "target-credit": ""
+          },
+          {
+            "end": null,
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "f2f585ce-af52-426f-9f7a-1739fbfd11d4",
+              "resource": "https://open.qobuz.com/artist/2254921"
+            },
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "streaming",
+            "target-type": "url"
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://tidal.com/artist/5936819",
+              "id": "21551a96-d1f2-4438-b2cd-d22ab6d27910"
+            },
+            "target-type": "url",
+            "type": "streaming",
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward"
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "d454481c-4c4a-45c2-823f-058f07256e8f",
+              "resource": "http://viaf.org/viaf/2318154592507943370007"
+            },
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "VIAF",
+            "target-type": "url",
+            "end": null,
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "attribute-values": {},
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": []
+          },
+          {
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "wikidata",
+            "target-type": "url",
+            "url": {
+              "id": "4926944d-081d-4d7d-8171-16b373673e3c",
+              "resource": "https://www.wikidata.org/wiki/Q121832830"
+            },
+            "target-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698"
+          }
+        ],
+        "begin-area": {
+          "name": "Los Angeles",
+          "type-id": null,
+          "type": null,
+          "disambiguation": "",
+          "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+          "sort-name": "Los Angeles"
+        },
+        "type": "Group",
+        "gender-id": null
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Southall\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:58:56.760Z",
+        "count": 16,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "05b35e22-e7fc-452c-8923-169f03388cfd",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Southall",
+            "sort-name": "Southall",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "formerly the Read Southall Band",
+            "life-span": {
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Southall, Read",
+                "name": "Read Southall",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Southall",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Southall",
+                "locale": "en_US",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 1,
+                "name": "red dirt"
+              }
+            ]
+          },
+          {
+            "id": "1aa3dacf-1044-4f01-97cf-ebe899f7987f",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 83,
+            "name": "Southall Riot",
+            "sort-name": "Southall Riot",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "begin": "1998",
+              "ended": null
+            }
+          },
+          {
+            "id": "5cc8a7ca-2647-4be5-bec6-44e62231a412",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 82,
+            "name": "Cat Southall",
+            "sort-name": "Southall, Cat",
+            "area": {
+              "id": "f0b226db-8e22-40e6-9a53-d839cfec6228",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Cardiff",
+              "sort-name": "Cardiff",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Southall, Catrin Wyn",
+                "name": "Catrin Wyn Southall",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          },
+          {
+            "id": "88fcc3e6-3bbd-406c-9a5e-e62ac9811747",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 82,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Brian Southall",
+            "sort-name": "Southall, Brian",
+            "gender": "male",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Detroit",
+              "sort-name": "Detroit",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "begin": "1982-02-16",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Southall, Brian Michael",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Brian Michael Southall",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          },
+          {
+            "id": "f0465170-d961-4b12-9d9d-88575caaf46b",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 82,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "James Southall",
+            "sort-name": "Southall, James",
+            "gender": "male",
+            "disambiguation": "painter",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "f70762bd-4c88-4253-ad22-2db9de78d19a",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 82,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "James Southall",
+            "sort-name": "Southall, James",
+            "gender": "male",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "pianist / conductor",
+            "life-span": {
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "James Southall Wilson",
+                "name": "James Southall Wilson",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          },
+          {
+            "id": "84998328-1893-4424-833a-a0ff0c6c2652",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 82,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Lee Southall",
+            "sort-name": "Southall, Lee",
+            "gender": "male",
+            "ipis": [
+              "00429391048"
+            ],
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "585e1d35-8424-418b-aed6-596f147f2d91",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 82,
+            "name": "Geoff Southall",
+            "sort-name": "Southall, Geoff",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "5247b62d-aa4f-405a-95c0-6a263feb4f0e",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 82,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Max Southall",
+            "sort-name": "Southall, Max",
+            "gender": "male",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "a7251dbd-388c-4fdf-a294-1bcde106ddf7",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "West Sussex",
+              "sort-name": "West Sussex",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "7692fd14-de55-4392-9162-22adb5c03de3",
+            "score": 82,
+            "name": "Henry Southall",
+            "sort-name": "Henry Southall",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/05b35e22-e7fc-452c-8923-169f03388cfd?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "type": "Group",
+        "gender": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Southall",
+        "name": "Southall",
+        "country": "US",
+        "relations": [
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "discogs",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attribute-ids": {},
+            "direction": "forward",
+            "begin": null,
+            "url": {
+              "resource": "https://www.discogs.com/artist/8617830",
+              "id": "d0fde3a8-6ead-4b55-92a6-a6659f1c51b4"
+            },
+            "target-credit": "",
+            "ended": false,
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "source-credit": "",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "type": "free streaming",
+            "attributes": [],
+            "attribute-values": {},
+            "ended": false,
+            "url": {
+              "id": "f06eba48-20f0-43ea-8701-84ce37754c80",
+              "resource": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+            },
+            "target-credit": "",
+            "end": null,
+            "target-type": "url",
+            "begin": null
+          },
+          {
+            "attribute-values": {},
+            "attributes": [],
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type": "free streaming",
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "end": null,
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "f5843dd5-05e9-4f53-b828-dda995094bb7",
+              "resource": "https://www.deezer.com/artist/10762172"
+            }
+          },
+          {
+            "end": null,
+            "target-type": "url",
+            "url": {
+              "resource": "https://readsouthall.com/",
+              "id": "bf337f49-ee4d-4b30-b672-565de1547efc"
+            },
+            "target-credit": "",
+            "ended": false,
+            "begin": null,
+            "type": "official homepage",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": []
+          }
+        ],
+        "disambiguation": "formerly the Read Southall Band",
+        "area": {
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States",
+          "type-id": null,
+          "disambiguation": ""
+        },
+        "gender-id": null,
+        "begin-area": null,
+        "id": "05b35e22-e7fc-452c-8923-169f03388cfd",
+        "life-span": {
+          "ended": false,
+          "end": null,
+          "begin": null
+        },
+        "isnis": [],
+        "ipis": [],
+        "end-area": null
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Sevendust\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:59:03.086Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "52b9e109-44a0-45eb-a197-226c4abab232",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Sevendust",
+            "sort-name": "Sevendust",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "26e0e534-19ea-4645-bfb3-1aa4e83a4046",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Atlanta",
+              "sort-name": "Atlanta",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000106625659"
+            ],
+            "life-span": {
+              "begin": "1994",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "heavy metal"
+              },
+              {
+                "count": 3,
+                "name": "hard rock"
+              },
+              {
+                "count": 6,
+                "name": "nu metal"
+              },
+              {
+                "count": 3,
+                "name": "alternative metal"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/52b9e109-44a0-45eb-a197-226c4abab232?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "isnis": [
+          "0000000106625659"
+        ],
+        "life-span": {
+          "ended": false,
+          "end": null,
+          "begin": "1994"
+        },
+        "id": "52b9e109-44a0-45eb-a197-226c4abab232",
+        "begin-area": {
+          "type-id": null,
+          "sort-name": "Atlanta",
+          "name": "Atlanta",
+          "id": "26e0e534-19ea-4645-bfb3-1aa4e83a4046",
+          "type": null,
+          "disambiguation": ""
+        },
+        "gender-id": null,
+        "end-area": null,
+        "ipis": [],
+        "country": "US",
+        "relations": [
+          {
+            "begin": null,
+            "url": {
+              "id": "cf37a1b5-48b9-4968-861d-3e407592373b",
+              "resource": "https://www.allmusic.com/artist/mn0000016132"
+            },
+            "target-credit": "",
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "allmusic",
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "attribute-ids": {},
+            "direction": "forward"
+          },
+          {
+            "attribute-values": {},
+            "attributes": [],
+            "type": "bandcamp",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "source-credit": "",
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "url": {
+              "resource": "https://sevendust.bandcamp.com/",
+              "id": "7b6c52c7-3d6d-4642-ac15-4d5ea7bea596"
+            },
+            "target-credit": "",
+            "ended": false
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "bandsintown",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.bandsintown.com/a/789",
+              "id": "9383863d-b80e-4217-92f9-7c1c2d8c510f"
+            },
+            "ended": false,
+            "end": null,
+            "target-type": "url"
+          },
+          {
+            "begin": null,
+            "ended": true,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.bbc.co.uk/music/artists/52b9e109-44a0-45eb-a197-226c4abab232",
+              "id": "9dc913ad-17d3-40e1-b264-9c346b5faa42"
+            },
+            "target-type": "url",
+            "end": "2020-11-19",
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type": "BBC Music page"
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "discogs",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "url": {
+              "resource": "https://www.discogs.com/artist/230569",
+              "id": "b1f710dd-7ad8-4db7-816b-ccc2f4643a02"
+            },
+            "target-credit": "",
+            "ended": false,
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+            "type": "fanpage",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "id": "27cb9f8b-a00e-44e8-9af9-f6ff2f1b4498",
+              "resource": "http://sevendust_fans.livejournal.com/"
+            },
+            "target-credit": "",
+            "end": null,
+            "target-type": "url"
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "fanpage",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "http://www.fieldofsolitude.com/",
+              "id": "32702fba-eaad-48ec-8085-8b48a3fbae52"
+            },
+            "ended": true,
+            "end": null,
+            "target-type": "url"
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type": "free streaming",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "id": "2bb33002-fd55-445b-88c6-df48f23ac988",
+              "resource": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "attribute-values": {},
+            "attributes": [],
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type": "free streaming",
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "end": null,
+            "ended": false,
+            "url": {
+              "resource": "https://www.deezer.com/artist/3118",
+              "id": "45afeadf-e253-4ae6-947c-a696eca7e00e"
+            },
+            "target-credit": ""
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "type": "free streaming",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "resource": "http://www.pandora.com/sevendust",
+              "id": "cd9fce15-b099-4c62-b054-01a3d28766cd"
+            },
+            "target-credit": "",
+            "end": null,
+            "target-type": "url"
+          },
+          {
+            "type": "IMDb",
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+            "attribute-ids": {},
+            "direction": "forward",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": [],
+            "target-type": "url",
+            "end": null,
+            "target-credit": "",
+            "url": {
+              "id": "16d5cc41-6698-4bf8-a8ab-d0eba11ba1ba",
+              "resource": "https://www.imdb.com/name/nm1672689/"
+            },
+            "ended": false,
+            "begin": null
+          },
+          {
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "b202b011-32d8-425a-a0a9-53fb5ae6b5ee",
+              "resource": "https://www.last.fm/music/Sevendust"
+            },
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "source-credit": "",
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type": "last.fm",
+            "attributes": [],
+            "attribute-values": {}
+          },
+          {
+            "attribute-values": {},
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "type": "lyrics",
+            "source-credit": "",
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "url": {
+              "resource": "https://genius.com/artists/Sevendust",
+              "id": "58a9e4f5-14e1-43c8-8873-2f086ae080eb"
+            },
+            "target-credit": ""
+          },
+          {
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type": "lyrics",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": [],
+            "target-type": "url",
+            "end": null,
+            "ended": false,
+            "url": {
+              "id": "45c88f82-52b9-4d4d-aa11-ff8ec469d84b",
+              "resource": "https://www.musixmatch.com/artist/Sevendust"
+            },
+            "target-credit": "",
+            "begin": null
+          },
+          {
+            "begin": null,
+            "target-type": "url",
+            "end": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://myspace.com/sevendust",
+              "id": "72effb65-fa8f-4417-801d-90fbaf169cab"
+            },
+            "ended": false,
+            "attribute-values": {},
+            "attributes": [],
+            "type": "myspace",
+            "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+            "attribute-ids": {},
+            "direction": "forward",
+            "source-credit": ""
+          },
+          {
+            "source-credit": "",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "type": "official homepage",
+            "attributes": [],
+            "attribute-values": {},
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "resource": "https://sevendust.com/",
+              "id": "0e7e0cb1-ad42-42d8-9a9c-d1fff00145db"
+            },
+            "end": null,
+            "target-type": "url",
+            "begin": null
+          },
+          {
+            "attribute-values": {},
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "type": "other databases",
+            "source-credit": "",
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "url": {
+              "resource": "https://imvdb.com/n/sevendust",
+              "id": "8610880e-800e-41d9-88c2-8488354d42ae"
+            },
+            "target-credit": ""
+          },
+          {
+            "source-credit": "",
+            "type": "other databases",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attributes": [],
+            "attribute-values": {},
+            "url": {
+              "id": "f1caf04a-6b54-4b5c-9d39-02c733e25034",
+              "resource": "https://musicmoz.org/Bands_and_Artists/S/Sevendust/"
+            },
+            "target-credit": "",
+            "ended": false,
+            "end": null,
+            "target-type": "url",
+            "begin": null
+          },
+          {
+            "ended": false,
+            "url": {
+              "resource": "https://rateyourmusic.com/artist/sevendust",
+              "id": "45e877d6-2812-490c-9f1e-0893d3fc87fc"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "source-credit": "",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type": "other databases",
+            "attributes": [],
+            "attribute-values": {}
+          },
+          {
+            "begin": null,
+            "url": {
+              "id": "26b96158-2737-488d-9b62-b9aa2a92caf7",
+              "resource": "https://www.livefans.jp/artists/56886"
+            },
+            "target-credit": "",
+            "ended": false,
+            "end": null,
+            "target-type": "url",
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "other databases",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+          },
+          {
+            "attribute-values": {},
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "type": "other databases",
+            "source-credit": "",
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.metalmusicarchives.com/artist/sevendust",
+              "id": "384c70d3-4d69-473b-b3a4-da7c3bc47342"
+            }
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "type": "other databases",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "resource": "https://www.musik-sammler.de/artist/sevendust/",
+              "id": "cd720946-b8ca-4a9e-8a0b-ac718b9e8dc6"
+            },
+            "target-credit": "",
+            "end": null,
+            "target-type": "url"
+          },
+          {
+            "target-type": "url",
+            "end": null,
+            "url": {
+              "resource": "https://www.muziekweb.nl/Link/M00000059475/POPULAR/",
+              "id": "6672f4c5-0f1e-4348-aafc-024494a8e180"
+            },
+            "target-credit": "",
+            "ended": false,
+            "begin": null,
+            "type": "other databases",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "direction": "forward",
+            "attribute-ids": {},
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": []
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "type": "other databases",
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.spirit-of-metal.com/en/band/Sevendust",
+              "id": "ea838849-a3e6-44b7-a79f-ead4c6adbd49"
+            },
+            "end": null,
+            "target-type": "url"
+          },
+          {
+            "source-credit": "",
+            "type": "other databases",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "attribute-values": {},
+            "url": {
+              "id": "e7c65604-f081-4b6e-8704-c6a3a8243f2b",
+              "resource": "https://www.whosampled.com/Sevendust/"
+            },
+            "target-credit": "",
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "begin": null
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "purchase for download",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "direction": "forward",
+            "attribute-ids": {},
+            "begin": null,
+            "url": {
+              "resource": "https://play.google.com/store/music/artist?id=Ard65wv54t2r4jclyj26wxrvxru",
+              "id": "e8e3ad62-95bf-4275-a8a9-f20946db5f90"
+            },
+            "target-credit": "",
+            "ended": true,
+            "target-type": "url",
+            "end": "2020-10-12"
+          },
+          {
+            "source-credit": "",
+            "type": "purchase for download",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attributes": [],
+            "attribute-values": {},
+            "url": {
+              "resource": "https://itunes.apple.com/us/artist/id13125174",
+              "id": "e3631964-6bfc-4f3f-8989-cc2fa831f677"
+            },
+            "target-credit": "",
+            "ended": false,
+            "end": null,
+            "target-type": "url",
+            "begin": null
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "type": "purchase for download",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "id": "6a7e1889-015f-4a35-bfc0-c36396857e4b",
+              "resource": "https://mora.jp/artist/229959/"
+            },
+            "target-credit": "",
+            "end": null,
+            "target-type": "url"
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "type": "purchase for download",
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "3c5c088f-8841-4b20-a68b-37d58a421b1f",
+              "resource": "https://mora.jp/artist/323303/"
+            },
+            "end": null,
+            "target-type": "url"
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "purchase for download",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-ids": {},
+            "direction": "forward",
+            "begin": null,
+            "url": {
+              "resource": "https://www.qobuz.com/gb-en/interpreter/sevendust/download-streaming-albums",
+              "id": "59f42a59-4d49-4b7c-8c7d-56027dfd8d26"
+            },
+            "target-credit": "",
+            "ended": false,
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "source-credit": "",
+            "type": "purchase for download",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attributes": [],
+            "attribute-values": {},
+            "target-credit": "",
+            "url": {
+              "id": "1b820e56-81e4-4709-b8d5-3aa3130d9ff3",
+              "resource": "https://www.7digital.com/artist/sevendust"
+            },
+            "ended": true,
+            "end": null,
+            "target-type": "url",
+            "begin": null
+          },
+          {
+            "source-credit": "",
+            "type": "purchase for mail-order",
+            "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "attribute-values": {},
+            "url": {
+              "id": "42939b75-0349-4591-99e4-4102e9ed0986",
+              "resource": "https://www.amazon.com/-/e/B000AQ09JG"
+            },
+            "target-credit": "",
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "begin": null
+          },
+          {
+            "source-credit": "",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+            "type": "purchase for mail-order",
+            "attributes": [],
+            "attribute-values": {},
+            "ended": false,
+            "url": {
+              "id": "c1fefc5c-2b5f-4383-a91d-6acf949a8de5",
+              "resource": "https://www.cdjapan.co.jp/person/700170361"
+            },
+            "target-credit": "",
+            "end": null,
+            "target-type": "url",
+            "begin": null
+          },
+          {
+            "attribute-values": {},
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581",
+            "type": "purevolume",
+            "source-credit": "",
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "ended": true,
+            "url": {
+              "id": "090ae253-0a84-487f-b518-62a4db5d24c5",
+              "resource": "http://www.purevolume.com/sevendust"
+            },
+            "target-credit": ""
+          },
+          {
+            "source-credit": "",
+            "type": "secondhandsongs",
+            "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "attribute-values": {},
+            "url": {
+              "id": "0e9382c6-5c1c-47e0-8d01-444b5ae68eb8",
+              "resource": "https://secondhandsongs.com/artist/12051"
+            },
+            "target-credit": "",
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "begin": null
+          },
+          {
+            "attribute-values": {},
+            "attributes": [],
+            "type": "setlistfm",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+            "source-credit": "",
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "url": {
+              "resource": "https://www.setlist.fm/setlists/sevendust-13d6995d.html",
+              "id": "453db986-89f3-437e-91ba-cf6f92ff1ce6"
+            },
+            "target-credit": "",
+            "ended": false
+          },
+          {
+            "begin": null,
+            "ended": false,
+            "url": {
+              "id": "e833e8c2-8394-414e-87d6-f2889c08a28b",
+              "resource": "https://twitter.com/sevendust"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "end": null,
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type": "social network"
+          },
+          {
+            "target-type": "url",
+            "end": null,
+            "target-credit": "",
+            "url": {
+              "id": "70fe6e3c-ea10-41d0-a4be-35bdb0d1a147",
+              "resource": "https://www.facebook.com/sevendustofficial"
+            },
+            "ended": false,
+            "begin": null,
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "direction": "forward",
+            "attribute-ids": {},
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": []
+          },
+          {
+            "source-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type": "social network",
+            "attributes": [],
+            "attribute-values": {},
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "8adffd57-2be9-44b6-94de-ad66703222e9",
+              "resource": "https://www.instagram.com/sevendustofficial/"
+            },
+            "target-type": "url",
+            "end": null,
+            "begin": null
+          },
+          {
+            "target-type": "url",
+            "end": null,
+            "ended": false,
+            "url": {
+              "resource": "https://www.songkick.com/artists/280948",
+              "id": "9d893f70-fcb6-4888-a1f5-523326972536"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type": "songkick",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": []
+          },
+          {
+            "target-type": "url",
+            "end": null,
+            "url": {
+              "id": "eedf7be0-313d-468f-9404-bea1c13fa35b",
+              "resource": "https://soundcloud.com/sevendust"
+            },
+            "target-credit": "",
+            "ended": false,
+            "begin": null,
+            "type": "soundcloud",
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "attribute-ids": {},
+            "direction": "forward",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": []
+          },
+          {
+            "ended": false,
+            "url": {
+              "resource": "https://music.amazon.com/artists/B000TE0AR0",
+              "id": "df21e635-3414-4a23-a56a-7f40b1026f41"
+            },
+            "target-credit": "",
+            "end": null,
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "type": "streaming",
+            "attributes": [],
+            "attribute-values": {}
+          },
+          {
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type": "streaming",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "resource": "https://music.apple.com/us/artist/13125174",
+              "id": "3356e687-f7cc-4320-99d7-86160d1a0183"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "attribute-values": {},
+            "attributes": [],
+            "type": "streaming",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "direction": "forward",
+            "attribute-ids": {},
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "end": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://tidal.com/artist/35441",
+              "id": "a6027aae-32a5-49f2-a60a-6ce5a36dc0e5"
+            },
+            "ended": false
+          },
+          {
+            "begin": null,
+            "ended": true,
+            "url": {
+              "resource": "https://us.napster.com/artist/sevendust",
+              "id": "10b4c500-4999-4347-8264-09b9af5683bd"
+            },
+            "target-credit": "",
+            "end": null,
+            "target-type": "url",
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "type": "streaming"
+          },
+          {
+            "attribute-values": {},
+            "attributes": [],
+            "type": "VIAF",
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "direction": "forward",
+            "attribute-ids": {},
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "end": null,
+            "url": {
+              "id": "1ea30e6c-c8a2-4d22-a8b3-5035d1d3d53c",
+              "resource": "http://viaf.org/viaf/133314900"
+            },
+            "target-credit": "",
+            "ended": false
+          },
+          {
+            "target-type": "url",
+            "end": null,
+            "ended": false,
+            "url": {
+              "id": "d6e34eef-0f69-42f2-8edc-9fd40f0d1839",
+              "resource": "https://www.wikidata.org/wiki/Q741801"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type": "wikidata",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": []
+          },
+          {
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.youtube.com/channel/UCA48CJ7jsQc2hG2FG0735Mg",
+              "id": "439d56ac-892d-4dc3-b696-6eacb21aed15"
+            },
+            "target-type": "url",
+            "end": null,
+            "begin": "2009-10-11",
+            "source-credit": "",
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type": "youtube",
+            "attributes": [],
+            "attribute-values": {}
+          },
+          {
+            "begin": null,
+            "target-type": "url",
+            "end": null,
+            "url": {
+              "id": "5b01e54d-2b7e-4be0-b34f-3f2c47b5f787",
+              "resource": "https://music.youtube.com/channel/UCA48CJ7jsQc2hG2FG0735Mg"
+            },
+            "target-credit": "",
+            "ended": false,
+            "attribute-values": {},
+            "attributes": [],
+            "type": "youtube music",
+            "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+            "direction": "forward",
+            "attribute-ids": {},
+            "source-credit": ""
+          }
+        ],
+        "name": "Sevendust",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Sevendust",
+        "gender": null,
+        "type": "Group",
+        "area": {
+          "disambiguation": "",
+          "type-id": null,
+          "sort-name": "United States",
+          "name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type": null
+        },
+        "disambiguation": ""
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Drakulas\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:59:09.410Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "fc55716e-84e1-45be-a1c9-f47427046c08",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Drakulas",
+            "sort-name": "Drakulas",
+            "area": {
+              "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Austin",
+              "sort-name": "Austin",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/fc55716e-84e1-45be-a1c9-f47427046c08?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "life-span": {
+          "end": null,
+          "begin": null,
+          "ended": false
+        },
+        "country": "US",
+        "disambiguation": "",
+        "gender-id": null,
+        "begin-area": null,
+        "id": "fc55716e-84e1-45be-a1c9-f47427046c08",
+        "end-area": null,
+        "ipis": [],
+        "area": {
+          "sort-name": "Austin",
+          "name": "Austin",
+          "disambiguation": "",
+          "type": null,
+          "type-id": null,
+          "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5"
+        },
+        "gender": null,
+        "name": "Drakulas",
+        "sort-name": "Drakulas",
+        "relations": [
+          {
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.discogs.com/artist/4501844",
+              "id": "f01b4d6a-ac37-471d-b5f8-61395a399659"
+            },
+            "direction": "forward",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "type": "discogs",
+            "attribute-values": {}
+          },
+          {
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type": "free streaming",
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "url": {
+              "id": "1f65525e-1e7e-4a33-bb98-02432e7f58cf",
+              "resource": "https://open.spotify.com/artist/7IAgtmu2mbfjwkqNIeRviN"
+            },
+            "direction": "forward"
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "type": "free streaming",
+            "attribute-values": {},
+            "direction": "forward",
+            "url": {
+              "id": "6d6ec24d-3fdd-4e89-9ed7-40f4fe0eec23",
+              "resource": "https://www.deezer.com/artist/8443832"
+            }
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "direction": "forward",
+            "url": {
+              "id": "b769b96b-fc19-4d98-bd5e-77eb6c8b0add",
+              "resource": "https://www.setlist.fm/setlists/drakulas-5bc133e0.html"
+            },
+            "type": "setlistfm",
+            "attribute-values": {},
+            "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+            "target-credit": ""
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "1caab485-1ac5-44e8-8f6d-832d34ab2fa9",
+              "resource": "https://twitter.com/drax_tx"
+            },
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "type": "social network"
+          },
+          {
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.facebook.com/drakulastx",
+              "id": "4ed9e8e7-40ea-4329-8316-d5ca18170179"
+            },
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "type": "social network",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://music.apple.com/au/artist/987304347",
+              "id": "fbe06acb-ec71-4d0d-a189-6a1192eb00c8"
+            },
+            "direction": "forward",
+            "type": "streaming",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "url": {
+              "resource": "https://tidal.com/artist/6830378",
+              "id": "3464624e-ddbc-43ac-ac71-07e95d5cc83a"
+            },
+            "direction": "forward",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "type": "streaming",
+            "attribute-values": {},
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false
+          }
+        ],
+        "isnis": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Ben Rector\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:59:10.632Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "9f478f13-554c-49fc-b5f6-fcf110010c39",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Ben Rector",
+            "sort-name": "Rector, Ben",
+            "gender": "male",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "ca61e235-0f31-4c0e-8963-8232222ef6a8",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Oklahoma City",
+              "sort-name": "Oklahoma City",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "ipis": [
+              "00616267350"
+            ],
+            "life-span": {
+              "begin": "1986-11-06",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "pop"
+              },
+              {
+                "count": 1,
+                "name": "pop rock"
+              },
+              {
+                "count": 0,
+                "name": "singer/songwriter"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/9f478f13-554c-49fc-b5f6-fcf110010c39?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "type": "Person",
+        "ipis": [
+          "00616267350"
+        ],
+        "begin-area": {
+          "id": "ca61e235-0f31-4c0e-8963-8232222ef6a8",
+          "type-id": null,
+          "sort-name": "Oklahoma City",
+          "name": "Oklahoma City",
+          "type": null,
+          "disambiguation": ""
+        },
+        "area": {
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type": null,
+          "name": "United States",
+          "type-id": null,
+          "disambiguation": "",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States"
+        },
+        "id": "9f478f13-554c-49fc-b5f6-fcf110010c39",
+        "name": "Ben Rector",
+        "end-area": null,
+        "isnis": [],
+        "country": "US",
+        "life-span": {
+          "begin": "1986-11-06",
+          "ended": false,
+          "end": null
+        },
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "relations": [
+          {
+            "source-credit": "",
+            "ended": false,
+            "end": null,
+            "url": {
+              "id": "b1c3cb5d-fe8f-4a4c-9529-6f4e3cebb378",
+              "resource": "https://www.allmusic.com/artist/mn0002536650"
+            },
+            "direction": "forward",
+            "begin": null,
+            "target-type": "url",
+            "attribute-values": {},
+            "type": "allmusic",
+            "target-credit": "",
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "attribute-ids": {},
+            "attributes": []
+          },
+          {
+            "type": "discogs",
+            "attribute-values": {},
+            "target-type": "url",
+            "direction": "forward",
+            "begin": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "target-credit": "",
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "url": {
+              "id": "5affcaf8-1ed0-49ff-8427-02afdd17564b",
+              "resource": "https://www.discogs.com/artist/2001091"
+            }
+          },
+          {
+            "attributes": [],
+            "attribute-ids": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "target-credit": "",
+            "type": "free streaming",
+            "attribute-values": {},
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "url": {
+              "id": "779586d6-3dbf-4b25-a4da-38d12b548147",
+              "resource": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+            },
+            "end": null,
+            "ended": false,
+            "source-credit": ""
+          },
+          {
+            "attributes": [],
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-ids": {},
+            "target-credit": "",
+            "type": "free streaming",
+            "attribute-values": {},
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "url": {
+              "id": "f1761f30-3135-439e-a46d-95591e9b6960",
+              "resource": "https://www.deezer.com/artist/389999"
+            },
+            "end": null,
+            "ended": false,
+            "source-credit": ""
+          },
+          {
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "url": {
+              "id": "38f1b3fb-401e-4dac-9377-3406ea2b64cd",
+              "resource": "http://www.benrectormusic.com/"
+            },
+            "type": "official homepage",
+            "attribute-values": {},
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "attributes": [],
+            "attribute-ids": {},
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "target-credit": ""
+          },
+          {
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "url": {
+              "id": "f290f756-58f8-44b0-a649-89df0ac2f38b",
+              "resource": "https://rateyourmusic.com/artist/ben_rector"
+            },
+            "type": "other databases",
+            "attribute-values": {},
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "attributes": [],
+            "attribute-ids": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "target-credit": ""
+          },
+          {
+            "url": {
+              "id": "6c6ccbe1-29b8-4de8-b738-4aec847832ad",
+              "resource": "https://itunes.apple.com/us/artist/id285154089"
+            },
+            "source-credit": "",
+            "ended": false,
+            "end": null,
+            "target-credit": "",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-ids": {},
+            "attributes": [],
+            "begin": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attribute-values": {},
+            "type": "purchase for download"
+          },
+          {
+            "target-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-ids": {},
+            "attributes": [],
+            "begin": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attribute-values": {},
+            "type": "social network",
+            "url": {
+              "resource": "https://plus.google.com/104415548174561781740",
+              "id": "4cbe5f31-5fc2-45a2-94b0-2c5cfafc1967"
+            },
+            "source-credit": "",
+            "ended": true,
+            "end": "2019-04"
+          },
+          {
+            "source-credit": "",
+            "ended": false,
+            "end": null,
+            "url": {
+              "resource": "https://twitter.com/benrector",
+              "id": "b6b7a58e-b41f-4a55-99f3-8fb9be95dbc2"
+            },
+            "direction": "forward",
+            "begin": null,
+            "target-type": "url",
+            "attribute-values": {},
+            "type": "social network",
+            "target-credit": "",
+            "attribute-ids": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attributes": []
+          },
+          {
+            "url": {
+              "id": "04d85439-6c68-4f45-9fd8-cea289a9daa3",
+              "resource": "https://www.facebook.com/benrector"
+            },
+            "ended": false,
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "target-credit": "",
+            "attributes": [],
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward",
+            "type": "social network",
+            "attribute-values": {}
+          },
+          {
+            "url": {
+              "id": "16765e02-cfd7-41a9-82ac-e978176e2cbc",
+              "resource": "https://www.instagram.com/ben_rector/"
+            },
+            "end": null,
+            "ended": false,
+            "source-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "target-credit": "",
+            "type": "social network",
+            "attribute-values": {},
+            "target-type": "url",
+            "begin": null,
+            "direction": "forward"
+          },
+          {
+            "source-credit": "",
+            "ended": false,
+            "end": null,
+            "url": {
+              "resource": "https://www.tiktok.com/@ben_rector",
+              "id": "54acfb0a-5d1b-4612-9e6e-7588f438e1e3"
+            },
+            "direction": "forward",
+            "begin": null,
+            "target-type": "url",
+            "attribute-values": {},
+            "type": "social network",
+            "target-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-ids": {},
+            "attributes": []
+          },
+          {
+            "target-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-ids": {},
+            "attributes": [],
+            "begin": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attribute-values": {},
+            "type": "streaming",
+            "url": {
+              "resource": "https://tidal.com/artist/4535723",
+              "id": "c5dde1af-f500-482e-8cb8-e74b4f178bb4"
+            },
+            "source-credit": "",
+            "ended": false,
+            "end": null
+          },
+          {
+            "target-credit": "",
+            "attribute-ids": {},
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attributes": [],
+            "direction": "forward",
+            "begin": null,
+            "target-type": "url",
+            "attribute-values": {},
+            "type": "wikidata",
+            "url": {
+              "id": "6aeec04f-9946-4e81-b5c0-859164d516da",
+              "resource": "https://www.wikidata.org/wiki/Q4886334"
+            },
+            "source-credit": "",
+            "ended": false,
+            "end": null
+          },
+          {
+            "url": {
+              "resource": "https://www.youtube.com/channel/UCFSmphaPv6bT6CI3htrfu3Q",
+              "id": "739d9988-9810-4848-b97e-898ca000e24b"
+            },
+            "source-credit": "",
+            "ended": false,
+            "end": null,
+            "target-credit": "",
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "attribute-ids": {},
+            "attributes": [],
+            "direction": "forward",
+            "begin": null,
+            "target-type": "url",
+            "attribute-values": {},
+            "type": "youtube"
+          }
+        ],
+        "disambiguation": "",
+        "gender": "Male",
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "sort-name": "Rector, Ben"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Jon McLaughlin\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:59:12.835Z",
+        "count": 2,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "3c2c34c6-11de-48b2-947d-6b8f96d59844",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Jon McLaughlin",
+            "sort-name": "McLaughlin, Jon",
+            "gender": "male",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "93261886-83c1-4ed4-9428-72f8cbdb6d5f",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Anderson",
+              "sort-name": "Anderson",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000051154094"
+            ],
+            "life-span": {
+              "begin": "1982-09-27",
+              "ended": null
+            }
+          },
+          {
+            "id": "0adeaec5-eb00-4664-b723-c37fa9f7ff4a",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 86,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Jon McLaughlin",
+            "sort-name": "McLaughlin, Jon",
+            "gender": "male",
+            "disambiguation": "painter",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/3c2c34c6-11de-48b2-947d-6b8f96d59844?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "ipis": [],
+        "begin-area": {
+          "name": "Anderson",
+          "disambiguation": "",
+          "type-id": null,
+          "sort-name": "Anderson",
+          "id": "93261886-83c1-4ed4-9428-72f8cbdb6d5f",
+          "type": null
+        },
+        "relations": [
+          {
+            "type": "allmusic",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.allmusic.com/artist/mn0000256536",
+              "id": "b38aa737-e7e0-44f1-aa59-18944c19b409"
+            },
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "source-credit": "",
+            "attribute-values": {}
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "id": "20ed0f8a-f0ee-4082-b0cd-347a350e6d92",
+              "resource": "https://www.bbc.co.uk/music/artists/3c2c34c6-11de-48b2-947d-6b8f96d59844"
+            },
+            "target-credit": "",
+            "type": "BBC Music page",
+            "attribute-ids": {},
+            "ended": true,
+            "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": "2020-11-19",
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "ended": false,
+            "attribute-ids": {},
+            "type": "discogs",
+            "target-credit": "",
+            "url": {
+              "id": "6291a3de-2066-4ba8-9781-186a8821319d",
+              "resource": "https://www.discogs.com/artist/1072430"
+            },
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4"
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "http://www.jonmclaughlin.com.br/",
+              "id": "f1913333-7a55-4c43-bab1-abcf15c962fe"
+            },
+            "type": "fanpage",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "id": "5fcea4e0-21c8-4a58-b29b-bf32087e904d",
+              "resource": "https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7"
+            },
+            "target-credit": "",
+            "type": "free streaming",
+            "attribute-ids": {},
+            "ended": false
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "type": "free streaming",
+            "begin": null,
+            "url": {
+              "id": "0beb659a-443e-4fd5-a298-d3c9996b19b1",
+              "resource": "https://www.deezer.com/artist/14535"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+          },
+          {
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "url": {
+              "resource": "https://www.imdb.com/name/nm2683296/",
+              "id": "5b6e2163-99dc-4441-9d6c-3c057a26adb6"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type": "IMDb",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "url": {
+              "resource": "https://www.last.fm/music/Jon+McLaughlin",
+              "id": "6de696ed-58ee-4c2e-bd0c-ff06e2d8dee0"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "last.fm"
+          },
+          {
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "myspace",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "e5978808-026e-45dd-aee1-07a1f9799611",
+              "resource": "https://myspace.com/jonmclaughlin"
+            }
+          },
+          {
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "url": {
+              "id": "17f33e13-c727-47d6-9bb7-25586ddfc77b",
+              "resource": "http://www.jonmcl.com/"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type": "official homepage",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "35b3a50f-bf0e-4309-a3b4-58eeed8cee6a",
+            "ended": false,
+            "attribute-ids": {},
+            "type": "online community",
+            "url": {
+              "id": "f02cd905-5598-4424-8839-b871ded55771",
+              "resource": "http://www.imeem.com/jonmclaughlin"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "url": {
+              "resource": "https://rateyourmusic.com/artist/jon_mclaughlin",
+              "id": "a90a717d-7706-4737-b455-b313d703074f"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type": "other databases",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "attribute-ids": {},
+            "ended": true,
+            "type": "purevolume",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "http://www.purevolume.com/jonmclaughlin",
+              "id": "7f116b84-2ddb-48c9-ade4-110246f00ed4"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "target-type": "url",
+            "end": "2018-06-30",
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581"
+          },
+          {
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "source-credit": "",
+            "attribute-values": {},
+            "type": "social network",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "resource": "http://joncclaughlin.hi5.com/",
+              "id": "d284a699-dd85-455f-af9b-235de13260df"
+            },
+            "target-credit": "",
+            "begin": null
+          },
+          {
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "resource": "https://twitter.com/jonmclaughlin",
+              "id": "dcef97a1-8724-4977-94d5-a6e485f3879a"
+            },
+            "begin": null,
+            "type": "social network",
+            "ended": false,
+            "attribute-ids": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward"
+          },
+          {
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.facebook.com/jonmclaughlin",
+              "id": "3f029e40-3665-4917-89f6-7805267a2f65"
+            },
+            "begin": null,
+            "type": "social network",
+            "ended": false,
+            "attribute-ids": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward"
+          },
+          {
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.reverbnation.com/jonmclaughlin",
+              "id": "139b0394-09ab-43be-88cf-5f9b825c0c60"
+            },
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "social network"
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "ended": false,
+            "attribute-ids": {},
+            "type": "social network",
+            "url": {
+              "resource": "http://virb.com/jonmclaughlin",
+              "id": "c5a77459-45ea-477c-8001-9420ac7cea54"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "resource": "http://www.bebo.com/JonMcLaughlinMusic",
+              "id": "e8c7225c-8d5e-4786-b88a-fdd43ba1d607"
+            },
+            "begin": null,
+            "type": "social network",
+            "ended": false,
+            "attribute-ids": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward"
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "cc7e05aa-65c5-4684-a892-161e7dd3c4e2",
+              "resource": "https://www.songkick.com/artists/297742"
+            },
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "songkick",
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "http://viaf.org/viaf/171275820",
+              "id": "789aebda-d999-4e85-b2f7-85a05c46d4ab"
+            },
+            "type": "VIAF",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "type": "wikidata",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "resource": "https://www.wikidata.org/wiki/Q773246",
+              "id": "2c7e7830-96fd-4391-909c-a0e18829a52b"
+            },
+            "target-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-values": {},
+            "source-credit": ""
+          },
+          {
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "url": {
+              "id": "1054bea0-7167-4895-a299-ee5729da28fa",
+              "resource": "https://www.youtube.com/channel/UCahNtid_dbjKGHntxKp7tWw"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "youtube"
+          }
+        ],
+        "life-span": {
+          "begin": "1982-09-27",
+          "ended": false,
+          "end": null
+        },
+        "id": "3c2c34c6-11de-48b2-947d-6b8f96d59844",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "US",
+        "isnis": [
+          "0000000051154094"
+        ],
+        "end-area": null,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "sort-name": "McLaughlin, Jon",
+        "area": {
+          "name": "United States",
+          "disambiguation": "",
+          "type-id": null,
+          "sort-name": "United States",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": null
+        },
+        "gender": "Male",
+        "name": "Jon McLaughlin"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Josh Jenkins\\\"\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "created": "2026-11-20T11:59:15.059Z",
+        "count": 3,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "ae9a1d4b-a226-4eda-8a33-becf8e9aaf71",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Josh Jenkins",
+            "sort-name": "Jenkins, Josh",
+            "gender": "male",
+            "ipis": [
+              "00534177259"
+            ],
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "2527164c-e650-46f4-b249-4c35932a14d4",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 98,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Josh Jenkins",
+            "sort-name": "Jenkins, Josh",
+            "gender": "male",
+            "area": {
+              "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Toronto",
+              "sort-name": "Toronto",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "sound engineer",
+            "life-span": {
+              "begin": "1981-07-12",
+              "ended": null
+            }
+          },
+          {
+            "id": "302362f8-32eb-4763-a992-64878ae0f5b8",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 98,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Josh Jenkins",
+            "sort-name": "Josh Jenkins",
+            "gender": "male",
+            "area": {
+              "id": "aea52d9d-c90c-4a2d-b52f-8af05d223dff",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Bury St Edmunds",
+              "sort-name": "Bury St Edmunds",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Leader singer of Wake Atlas.",
+            "life-span": {
+              "begin": "1995",
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/ae9a1d4b-a226-4eda-8a33-becf8e9aaf71?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-20T11:57:41.245643+00:00",
+      "data": {
+        "sort-name": "Jenkins, Josh",
+        "disambiguation": "",
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "gender": "Male",
+        "life-span": {
+          "end": null,
+          "ended": false,
+          "begin": null
+        },
+        "country": null,
+        "relations": [],
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Josh Jenkins",
+        "isnis": [],
+        "end-area": null,
+        "id": "ae9a1d4b-a226-4eda-8a33-becf8e9aaf71",
+        "area": null,
+        "type": "Person",
+        "begin-area": null,
+        "ipis": [
+          "00534177259"
+        ]
+      }
     }
   }
 }
