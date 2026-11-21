@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-21T03:29:02-08:00",
+ "generated_at": "2026-11-21T12:57:19-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 19, 2026"
+  "updated": "November 21, 2026"
  },
  "shows": [
   {
@@ -869,26 +869,6 @@
    "venue_url": null
   },
   {
-   "id": "soma:2026-11-25:george-clanton",
-   "date": "2026-11-25",
-   "venue": "SOMA",
-   "city": "San Diego",
-   "performers": [
-    "George Clanton"
-   ],
-   "artists": [
-    {
-     "name": "George Clanton",
-     "mbid": "9abcc01c-dcf1-4d74-bc55-d81922157956",
-     "official_url": "http://www.georgeclanton.com/",
-     "listen_url": "https://georgeclanton.bandcamp.com/track/summer-2000-baby",
-     "listen_service": "Bandcamp",
-     "listen_title": "Summer 2000 Baby"
-    }
-   ],
-   "venue_url": "https://www.somasandiego.com/"
-  },
-  {
    "id": "soda-bar:2026-11-25:the-amalgamated",
    "date": "2026-11-25",
    "venue": "Soda Bar",
@@ -1047,6 +1027,21 @@
     {
      "name": "Wildside",
      "mbid": "b49f390d-7206-4040-b55d-57bc975fcb17"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "lou-lou-s:2026-11-27:the-palladium-mambo-orchestra",
+   "date": "2026-11-27",
+   "venue": "Lou Lou's",
+   "city": "San Diego",
+   "performers": [
+    "THE PALLADIUM MAMBO ORCHESTRA"
+   ],
+   "artists": [
+    {
+     "name": "THE PALLADIUM MAMBO ORCHESTRA"
     }
    ],
    "venue_url": null
@@ -1689,6 +1684,30 @@
    "venue_url": null
   },
   {
+   "id": "whistle-stop:2026-11-29:gary-wilson",
+   "date": "2026-11-29",
+   "venue": "Whistle Stop",
+   "city": "San Diego",
+   "performers": [
+    "Gary Wilson",
+    "Fountain Plaza"
+   ],
+   "artists": [
+    {
+     "name": "Gary Wilson",
+     "mbid": "90089f6c-419c-486d-a293-7463dc877f68",
+     "official_url": "http://www.sixpointfour.com/",
+     "listen_url": "https://garywilsonmusic.bandcamp.com/track/lisa-wants-to-talk-to-you",
+     "listen_service": "Bandcamp",
+     "listen_title": "Lisa Wants To Talk To You"
+    },
+    {
+     "name": "Fountain Plaza"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2026-11-30:the-james-hunter-six",
    "date": "2026-11-30",
    "venue": "Belly Up Tavern",
@@ -2190,7 +2209,8 @@
    "venue": "Whistle Stop",
    "city": "San Diego",
    "performers": [
-    "Dagmar Zuniga"
+    "Dagmar Zuniga",
+    "Dj Mitchum Yacoub"
    ],
    "artists": [
     {
@@ -2199,6 +2219,9 @@
      "listen_url": "https://dagmarzuniga.bandcamp.com/track/even-god-gets-stuck-in-devotion-featuring-austyn-wohlers",
      "listen_service": "Bandcamp",
      "listen_title": "Even God Gets Stuck In Devotion featuring Austyn Wohlers"
+    },
+    {
+     "name": "Dj Mitchum Yacoub"
     }
    ],
    "venue_url": null
@@ -2223,6 +2246,21 @@
     {
      "name": "Hoochie",
      "mbid": "5a42d072-01bf-4060-8a10-906b1cb939a9"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "dizzy-s-jazz:2026-12-04:afrotruko",
+   "date": "2026-12-04",
+   "venue": "Dizzy's Jazz",
+   "city": "San Diego",
+   "performers": [
+    "AFROTRUKO!"
+   ],
+   "artists": [
+    {
+     "name": "AFROTRUKO!"
     }
    ],
    "venue_url": null
@@ -2989,6 +3027,33 @@
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-banshee:2026-12-07:defuco",
+   "date": "2026-12-07",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Defuco",
+    "Lotto RPG",
+    "Pillow Girls",
+    "Blue Park Suites"
+   ],
+   "artists": [
+    {
+     "name": "Defuco"
+    },
+    {
+     "name": "Lotto RPG"
+    },
+    {
+     "name": "Pillow Girls"
+    },
+    {
+     "name": "Blue Park Suites"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "casbah:2026-12-08:moon-panda",
@@ -3827,6 +3892,29 @@
    "venue_url": "https://thesoundsd.com/"
   },
   {
+   "id": "the-tower-bar:2026-12-12:the-zeros",
+   "date": "2026-12-12",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "The Zeros",
+    "Juvenile Wrecks",
+    "Homless Sexuals"
+   ],
+   "artists": [
+    {
+     "name": "The Zeros"
+    },
+    {
+     "name": "Juvenile Wrecks"
+    },
+    {
+     "name": "Homless Sexuals"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2026-12-13:the-bobby-lees",
    "date": "2026-12-13",
    "venue": "Belly Up Tavern",
@@ -4086,6 +4174,29 @@
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
+  },
+  {
+   "id": "soda-bar:2026-12-15:fight-naked",
+   "date": "2026-12-15",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Fight Naked",
+    "Crawl Space Junior",
+    "Mothafunka"
+   ],
+   "artists": [
+    {
+     "name": "Fight Naked"
+    },
+    {
+     "name": "Crawl Space Junior"
+    },
+    {
+     "name": "Mothafunka"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "viejas-arena:2026-12-15:tyla",
@@ -5519,18 +5630,16 @@
    "venue_url": "https://www.casbahmusic.com/"
   },
   {
-   "id": "house-of-blues:2027-01-02:fan-halen",
+   "id": "house-of-blues:2027-01-02:boy-band-all-stars",
    "date": "2027-01-02",
    "venue": "House of Blues",
    "city": "San Diego",
    "performers": [
-    "Fan Halen"
+    "Boy Band All Stars"
    ],
    "artists": [
     {
-     "name": "Fan Halen",
-     "mbid": "ed92e1cb-a382-4a1a-a2b9-0b06b4174f5b",
-     "official_url": "http://www.fanhalen.net/"
+     "name": "Boy Band All Stars"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -5595,6 +5704,57 @@
     }
    ],
    "venue_url": null
+  },
+  {
+   "id": "belly-up-tavern:2027-01-06:joel-rafael",
+   "date": "2027-01-06",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "Joel Rafael",
+    "Calamity",
+    "Dan Gindling",
+    "JT Moring Cohort",
+    "Lindsay White",
+    "Lisa Sanders & Brown Sugar",
+    "Mark Montijo",
+    "Peggy Watson & David Beldock",
+    "Shawn Rholf",
+    "James Lee Stanley"
+   ],
+   "artists": [
+    {
+     "name": "Joel Rafael"
+    },
+    {
+     "name": "Calamity"
+    },
+    {
+     "name": "Dan Gindling"
+    },
+    {
+     "name": "JT Moring Cohort"
+    },
+    {
+     "name": "Lindsay White"
+    },
+    {
+     "name": "Lisa Sanders & Brown Sugar"
+    },
+    {
+     "name": "Mark Montijo"
+    },
+    {
+     "name": "Peggy Watson & David Beldock"
+    },
+    {
+     "name": "Shawn Rholf"
+    },
+    {
+     "name": "James Lee Stanley"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
   },
   {
    "id": "music-box:2027-01-06:seapoodle",
@@ -5806,6 +5966,29 @@
     }
    ],
    "venue_url": "https://quartyardsd.com/"
+  },
+  {
+   "id": "soda-bar:2027-01-08:sun-burnette",
+   "date": "2027-01-08",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Sun Burnette",
+    "In Mazes",
+    "Cory Lomberg"
+   ],
+   "artists": [
+    {
+     "name": "Sun Burnette"
+    },
+    {
+     "name": "In Mazes"
+    },
+    {
+     "name": "Cory Lomberg"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-magnolia:2027-01-08:who-s-bad",
@@ -6375,7 +6558,8 @@
    "city": "San Diego",
    "performers": [
     "Teenage Bottlerocket",
-    "Brendan Kelly"
+    "Brendan Kelly",
+    "Sorry Baby"
    ],
    "artists": [
     {
@@ -6389,6 +6573,9 @@
     {
      "name": "Brendan Kelly",
      "mbid": "500b3d37-6518-4b53-ad14-00f5ded1db5a"
+    },
+    {
+     "name": "Sorry Baby"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -7028,6 +7215,21 @@
    "venue_url": "https://www.somasandiego.com/"
   },
   {
+   "id": "soda-bar:2027-01-27:tony-jupiter",
+   "date": "2027-01-27",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Tony Jupiter"
+   ],
+   "artists": [
+    {
+     "name": "Tony Jupiter"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
+  },
+  {
    "id": "belly-up-tavern:2027-01-28:five-for-fighting",
    "date": "2027-01-28",
    "venue": "Belly Up Tavern",
@@ -7230,6 +7432,25 @@
     }
    ],
    "venue_url": "https://www.musicboxsd.com/"
+  },
+  {
+   "id": "nova-sd:2027-01-29:infekt",
+   "date": "2027-01-29",
+   "venue": "Nova SD",
+   "city": "San Diego",
+   "performers": [
+    "Infekt",
+    "The Resistance"
+   ],
+   "artists": [
+    {
+     "name": "Infekt"
+    },
+    {
+     "name": "The Resistance"
+    }
+   ],
+   "venue_url": "https://novasandiego.com/"
   },
   {
    "id": "soma:2027-01-29:flo",
@@ -8100,17 +8321,16 @@
    "venue_url": "https://novasandiego.com/"
   },
   {
-   "id": "the-holding-company:2027-02-12:the-transit-war",
+   "id": "the-holding-company:2027-02-12:the-transit-war-love-war",
    "date": "2027-02-12",
    "venue": "The Holding Company",
    "city": "San Diego",
    "performers": [
-    "The Transit War"
+    "The Transit War: Love & War"
    ],
    "artists": [
     {
-     "name": "The Transit War",
-     "mbid": "aa537361-c0b1-4331-9c52-c8c8178a5801"
+     "name": "The Transit War: Love & War"
     }
    ],
    "venue_url": null
@@ -9703,6 +9923,21 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "house-of-blues:2027-03-06:love-letter",
+   "date": "2027-03-06",
+   "venue": "House of Blues",
+   "city": "San Diego",
+   "performers": [
+    "Love Letter"
+   ],
+   "artists": [
+    {
+     "name": "Love Letter"
+    }
+   ],
+   "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
    "id": "music-box:2027-03-06:moontricks",
    "date": "2027-03-06",
    "venue": "Music Box",
@@ -10101,6 +10336,21 @@
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "nova-sd:2027-03-12:barely-alive",
+   "date": "2027-03-12",
+   "venue": "Nova SD",
+   "city": "San Diego",
+   "performers": [
+    "Barely Alive"
+   ],
+   "artists": [
+    {
+     "name": "Barely Alive"
+    }
+   ],
+   "venue_url": "https://novasandiego.com/"
   },
   {
    "id": "soma:2027-03-12:liquid-stranger",
@@ -10922,6 +11172,26 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "soma:2027-03-27:george-clanton",
+   "date": "2027-03-27",
+   "venue": "SOMA",
+   "city": "San Diego",
+   "performers": [
+    "George Clanton"
+   ],
+   "artists": [
+    {
+     "name": "George Clanton",
+     "mbid": "9abcc01c-dcf1-4d74-bc55-d81922157956",
+     "official_url": "http://www.georgeclanton.com/",
+     "listen_url": "https://georgeclanton.bandcamp.com/track/summer-2000-baby",
+     "listen_service": "Bandcamp",
+     "listen_title": "Summer 2000 Baby"
+    }
+   ],
+   "venue_url": "https://www.somasandiego.com/"
   },
   {
    "id": "belly-up-tavern:2027-03-28:the-paladins",
@@ -11760,6 +12030,25 @@
    "venue_url": "https://www.houseofblues.com/sandiego"
   },
   {
+   "id": "belly-up-tavern:2027-04-26:conor-oberst",
+   "date": "2027-04-26",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "Conor Oberst"
+   ],
+   "artists": [
+    {
+     "name": "Conor Oberst",
+     "mbid": "0eee89dc-7d86-4a15-97be-011652c49288",
+     "official_url": "http://www.conoroberst.com/",
+     "listen_url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
+  },
+  {
    "id": "the-magnolia:2027-04-27:tony-hadley",
    "date": "2027-04-27",
    "venue": "The Magnolia",
@@ -11906,6 +12195,21 @@
     }
    ],
    "venue_url": null
+  },
+  {
+   "id": "casbah:2027-05-01:ron-gallo",
+   "date": "2027-05-01",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Ron Gallo"
+   ],
+   "artists": [
+    {
+     "name": "Ron Gallo"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "soma:2027-05-01:the-interrupters",
@@ -12823,6 +13127,21 @@
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-banshee:2027-06-18:uncle-strut",
+   "date": "2027-06-18",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Uncle Strut"
+   ],
+   "artists": [
+    {
+     "name": "Uncle Strut"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "queen-bee-s:2027-06-19:summer-nights",

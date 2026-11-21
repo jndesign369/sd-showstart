@@ -443251,6 +443251,33 @@
           "00534177259"
         ]
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"THE PALLADIUM MAMBO ORCHESTRA\\\"\"}": {
+      "fetched_at": "2026-11-21T20:57:19.887987+00:00",
+      "data": {
+        "created": "2026-11-21T20:57:20.294Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Fountain Plaza\\\"\"}": {
+      "fetched_at": "2026-11-21T20:57:19.887987+00:00",
+      "data": {
+        "created": "2026-11-21T20:57:26.194Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Dj Mitchum Yacoub\\\"\"}": {
+      "fetched_at": "2026-11-21T20:57:19.887987+00:00",
+      "data": {
+        "created": "2026-11-21T20:57:26.343Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
     }
   }
 }

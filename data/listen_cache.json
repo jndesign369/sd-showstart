@@ -706,7 +706,7 @@
       "reason": null
     },
     "https://minitrees.bandcamp.com/": {
-      "checked_at": "2026-11-20T11:59:21.957561+00:00",
+      "checked_at": "2026-11-21T20:57:58.425273+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1427,7 +1427,7 @@
       "reason": null
     },
     "https://cruecifer.bandcamp.com/": {
-      "checked_at": "2026-11-20T11:59:21.957561+00:00",
+      "checked_at": "2026-11-21T20:57:58.425273+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -1466,7 +1466,7 @@
       "reason": null
     },
     "https://bucketheadpikes.bandcamp.com/": {
-      "checked_at": "2026-11-20T11:59:21.957561+00:00",
+      "checked_at": "2026-11-21T20:57:58.425273+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1879,7 +1879,7 @@
       "reason": null
     },
     "https://rayburger.bandcamp.com/": {
-      "checked_at": "2026-11-20T11:59:21.957561+00:00",
+      "checked_at": "2026-11-21T20:57:58.425273+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2127,7 +2127,7 @@
       "reason": null
     },
     "https://theaggrolites.bandcamp.com/": {
-      "checked_at": "2026-11-20T11:59:21.957561+00:00",
+      "checked_at": "2026-11-21T20:57:58.425273+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2342,7 +2342,7 @@
       "reason": null
     },
     "https://worldsendgirlfriend.bandcamp.com/": {
-      "checked_at": "2026-11-20T11:59:21.957561+00:00",
+      "checked_at": "2026-11-21T20:57:58.425273+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -3041,7 +3041,7 @@
       "reason": null
     },
     "https://a-perfect-circle.bandcamp.com/": {
-      "checked_at": "2026-11-20T11:59:21.957561+00:00",
+      "checked_at": "2026-11-21T20:57:58.425273+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -3432,7 +3432,7 @@
       "reason": null
     },
     "https://theteskeybrothers.bandcamp.com/": {
-      "checked_at": "2026-11-20T11:59:21.957561+00:00",
+      "checked_at": "2026-11-21T20:57:58.425273+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
