@@ -161,6 +161,25 @@ def fetch(session: requests.Session, url: str):
     return response.text
 
 
+def attach_venue_links(shows, links):
+    """Match configured venues without case/whitespace sensitivity.
+
+    Keep the full city match ahead of the San Diego/SD alias. Never guess a
+    website or merge identically named venues in different cities.
+    """
+    def key(value):
+        return re.sub(r"\s*,\s*", ", ", " ".join(value.split())).casefold()
+
+    normalized = {key(name): url for name, url in links.items()}
+    for show in shows:
+        keys = [f"{show['venue']}, {show['city']}"]
+        if key(show["city"]) == "san diego":
+            keys.append(f"{show['venue']}, SD")
+        show["venue_url"] = next(
+            (normalized[key(name)] for name in keys if key(name) in normalized), None)
+    return shows
+
+
 def collect(*, online=True, html_pair=None, sleep=time.sleep):
     session = requests.Session()
     session.headers.update({"User-Agent": USER_AGENT})
@@ -174,11 +193,7 @@ def collect(*, online=True, html_pair=None, sleep=time.sleep):
     weeks = parse_weeks(html.unescape(index_html))
     shows = dedupe(parse_venues(venues_html, today(), weeks))
     links = load_json(ROOT / "venue_links.json", {})
-    for show in shows:
-        keys = [f"{show['venue']}, {show['city']}"]
-        if show["city"] == "San Diego":
-            keys.append(f"{show['venue']}, SD")
-        show["venue_url"] = next((links[k] for k in keys if k in links), None)
+    attach_venue_links(shows, links)
     return {
         "generated_at": datetime_now().isoformat(timespec="seconds"),
         "source": {

@@ -45,8 +45,10 @@ MusicBrainz for new names or responses older than its 30-day cache lifetime.
 
 ## Keeping it accurate
 
-- Missing venue link? Add the venue (spelled exactly as ConcertsSD spells it,
-  including the city) to `venue_links.json`.
+- Missing venue link? Add the venue and city to `venue_links.json`. Matching
+  ignores capitalization and extra whitespace; San Diego also accepts `SD`.
+  Different cities remain distinct. Verified mappings and special venue labels
+  are documented in `docs/venue-link-audit.md`.
 - Wrong or missing artist homepage? MusicBrainz results are accepted
   automatically; fix the source of truth at musicbrainz.org and the next
   cache refresh (30 days) picks it up.

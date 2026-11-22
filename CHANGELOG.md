@@ -4,6 +4,16 @@ This file tracks downloadable kit releases, not daily listing refreshes on a
 running website. The first numbered release establishes a baseline for the
 previously unnumbered kit; no historical version numbers have been invented.
 
+## v0.4.3 (2026-11-22)
+
+- Add verified official venue/operator websites for 18 unconfigured venues.
+- Correct Humphreys Concerts By the Bay and make venue lookup insensitive to
+  capitalization and incidental whitespace, preserving city distinctions.
+- Apply the links to the saved listing snapshot without changing show facts,
+  artist links, listening links, or source collection timestamps.
+- Record verification sources in docs/venue-link-audit.md and add regression
+  coverage for the 19 repaired mappings and lookup behavior.
+
 ## v0.4.2 (2026-11-13)
 
 - Add separate new-tab listen links beside artists, including plain-text names.

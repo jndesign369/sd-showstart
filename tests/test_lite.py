@@ -1,5 +1,6 @@
 """Offline tests for the simplified ConcertsSD pipeline."""
 import json
+import copy
 import sys
 import unittest
 from datetime import date, datetime, timezone
@@ -76,6 +77,78 @@ class CollectTests(unittest.TestCase):
         venues = [{"venue": "V", "city": "San Diego",
                    "events": [{"date": "2026-11-09", "performers": ["A"]}]}] * 2
         self.assertEqual(len(collect.dedupe(venues)), 1)
+
+
+class VenueLinkTests(unittest.TestCase):
+    def test_humphreys_capitalization(self):
+        shows = [{"venue": "Humphreys Concerts By the Bay", "city": "San Diego"}]
+        collect.attach_venue_links(shows, {
+            "Humphreys Concerts By The Bay, SD": "https://www.humphreysconcerts.com/"})
+        self.assertEqual(shows[0]["venue_url"], "https://www.humphreysconcerts.com/")
+
+    def test_incidental_whitespace(self):
+        shows = [{"venue": "  Humphreys  Concerts By the Bay  ", "city": " San  Diego "}]
+        collect.attach_venue_links(shows, {
+            "Humphreys Concerts By The Bay,SD": "https://www.humphreysconcerts.com/"})
+        self.assertEqual(shows[0]["venue_url"], "https://www.humphreysconcerts.com/")
+
+    def test_full_city_precedes_sd_alias(self):
+        shows = [{"venue": "Same Venue", "city": "San Diego"}]
+        collect.attach_venue_links(shows, {
+            "Same Venue, SD": "https://alias.example.com/",
+            "Same Venue, San Diego": "https://full.example.com/"})
+        self.assertEqual(shows[0]["venue_url"], "https://full.example.com/")
+
+    def test_cities_not_conflated_and_missing_stays_unlinked(self):
+        shows = [{"venue": "Same Venue", "city": "Chula Vista", "venue_url": "old"},
+                 {"venue": "Unknown", "city": "San Diego"}]
+        collect.attach_venue_links(shows, {"Same Venue, SD": "https://example.com/"})
+        self.assertTrue(all(s["venue_url"] is None for s in shows))
+
+    def test_only_venue_url_changes(self):
+        shows = [{"venue": "Same Venue", "city": "San Diego", "date": "2027-01-01",
+                  "performers": ["Artist"], "artists": [
+                      {"name": "Artist", "official_url": "https://example.com/",
+                       "listen_url": "https://band.bandcamp.com/track/song"}]}]
+        original = copy.deepcopy(shows)
+        collect.attach_venue_links(shows, {"Same Venue, SD": "https://venue.example.com/"})
+        del shows[0]["venue_url"]
+        self.assertEqual(shows, original)
+
+    def test_all_audited_missing_venues_have_configured_links(self):
+        names = [
+            ("3OZ Dive Club", "San Diego"),
+            ("Cal Coast Credit Union Open Air Theatre", "San Diego"),
+            ("Dizzy's Jazz", "San Diego"),
+            ("Harrah's Resort Southern California", "Valley Center"),
+            ("Humphreys Backstage Live", "San Diego"),
+            ("Humphreys Concerts By the Bay", "San Diego"),
+            ("Lou Lou's", "San Diego"),
+            ("North Island Credit Union Amphitheatre", "Chula Vista"),
+            ("Pacific Highlands Ranch", "San Diego"),
+            ("Petco Park", "San Diego"),
+            ("Petco Park - Gallagher Square", "San Diego"),
+            ("Queen Bee's", "San Diego"),
+            ("Temper Fest, Petco Park", "San Diego"),
+            ("The Banshee", "San Diego"),
+            ("The Holding Company", "San Diego"),
+            ("The Kensington Club", "San Diego"),
+            ("The Tower Bar", "San Diego"),
+            ("Viejas Arena", "San Diego"),
+            ("Whistle Stop", "San Diego")]
+        shows = [{"venue": venue, "city": city} for venue, city in names]
+        links = collect.load_json(ROOT / "venue_links.json", {})
+        collect.attach_venue_links(shows, links)
+        for show in shows:
+            with self.subTest(venue=show["venue"]):
+                self.assertTrue((show["venue_url"] or "").startswith("https://"))
+        by_name = {s["venue"]: s["venue_url"] for s in shows}
+        self.assertEqual(by_name["Temper Fest, Petco Park"], by_name["Petco Park"])
+        self.assertEqual(by_name["Petco Park - Gallagher Square"],
+                         "https://www.mlb.com/padres/ballpark/gallagher-square")
+        self.assertEqual(by_name["Pacific Highlands Ranch"], "https://phrvillage.com/")
+        self.assertEqual(by_name["Humphreys Concerts By the Bay"],
+                         "https://www.humphreysconcerts.com/")
 
 
 class EnrichTests(unittest.TestCase):
