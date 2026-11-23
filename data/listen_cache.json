@@ -40,7 +40,7 @@
       "reason": null
     },
     "https://softvein.bandcamp.com/": {
-      "checked_at": "2026-11-13T16:24:39.506138+00:00",
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://softvein.bandcamp.com/track/another-summer",
@@ -106,7 +106,7 @@
       "reason": null
     },
     "https://sunramusic.bandcamp.com/": {
-      "checked_at": "2026-11-13T16:24:39.506138+00:00",
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://sunramusic.bandcamp.com/track/heliocentric-worlds",
@@ -706,7 +706,7 @@
       "reason": null
     },
     "https://minitrees.bandcamp.com/": {
-      "checked_at": "2026-11-21T20:57:58.425273+00:00",
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1427,7 +1427,7 @@
       "reason": null
     },
     "https://cruecifer.bandcamp.com/": {
-      "checked_at": "2026-11-21T20:57:58.425273+00:00",
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -1466,7 +1466,7 @@
       "reason": null
     },
     "https://bucketheadpikes.bandcamp.com/": {
-      "checked_at": "2026-11-21T20:57:58.425273+00:00",
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1879,7 +1879,7 @@
       "reason": null
     },
     "https://rayburger.bandcamp.com/": {
-      "checked_at": "2026-11-21T20:57:58.425273+00:00",
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2127,7 +2127,7 @@
       "reason": null
     },
     "https://theaggrolites.bandcamp.com/": {
-      "checked_at": "2026-11-21T20:57:58.425273+00:00",
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2342,7 +2342,7 @@
       "reason": null
     },
     "https://worldsendgirlfriend.bandcamp.com/": {
-      "checked_at": "2026-11-21T20:57:58.425273+00:00",
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -3041,7 +3041,7 @@
       "reason": null
     },
     "https://a-perfect-circle.bandcamp.com/": {
-      "checked_at": "2026-11-21T20:57:58.425273+00:00",
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -3168,7 +3168,7 @@
       "reason": null
     },
     "https://thedrowns.bandcamp.com/": {
-      "checked_at": "2026-11-15T11:19:00.774593+00:00",
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://thedrowns.bandcamp.com/track/always-a-bastard",
@@ -3432,7 +3432,7 @@
       "reason": null
     },
     "https://theteskeybrothers.bandcamp.com/": {
-      "checked_at": "2026-11-21T20:57:58.425273+00:00",
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -3467,6 +3467,50 @@
         "listen_service": "Bandcamp",
         "listen_title": "Unbreakable",
         "release_url": "https://sevendust.bandcamp.com/album/one"
+      },
+      "reason": null
+    },
+    "https://doofcake.bandcamp.com/": {
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://doofcake.bandcamp.com/track/the-better-times",
+        "listen_service": "Bandcamp",
+        "listen_title": "Karl August Kaljuste - The Better Times",
+        "release_url": "https://doofcake.bandcamp.com/track/the-better-times"
+      },
+      "reason": null
+    },
+    "https://infektdubstep.bandcamp.com/": {
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://infektdubstep.bandcamp.com/track/unity-w-yinyandy",
+        "listen_service": "Bandcamp",
+        "listen_title": "UNITY (w/ yinyandy)",
+        "release_url": "https://infektdubstep.bandcamp.com/track/unity-w-yinyandy"
+      },
+      "reason": null
+    },
+    "https://rongallo.bandcamp.com/": {
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://rongallo.bandcamp.com/track/yellow-5",
+        "listen_service": "Bandcamp",
+        "listen_title": "Yellow 5",
+        "release_url": "https://rongallo.bandcamp.com/album/yellow-5-ep"
+      },
+      "reason": null
+    },
+    "https://unclestrut.bandcamp.com/": {
+      "checked_at": "2026-11-23T13:22:52.567665+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://unclestrut.bandcamp.com/track/another-yesterday",
+        "listen_service": "Bandcamp",
+        "listen_title": "Another Yesterday",
+        "release_url": "https://unclestrut.bandcamp.com/track/another-yesterday"
       },
       "reason": null
     }

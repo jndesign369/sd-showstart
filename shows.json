@@ -1,583 +1,11 @@
 {
- "generated_at": "2026-11-21T12:57:19-08:00",
+ "generated_at": "2026-11-23T05:19:58-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
   "updated": "November 21, 2026"
  },
  "shows": [
-  {
-   "id": "3oz-dive-club:2026-11-21:void-presented-by-pushin-promotions",
-   "date": "2026-11-21",
-   "venue": "3OZ Dive Club",
-   "city": "San Diego",
-   "performers": [
-    "VOID - Presented by Pushin Promotions"
-   ],
-   "artists": [
-    {
-     "name": "VOID - Presented by Pushin Promotions"
-    }
-   ],
-   "venue_url": "https://3ozdiveclub.com/"
-  },
-  {
-   "id": "belly-up-tavern:2026-11-21:kbong",
-   "date": "2026-11-21",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Kbong",
-    "Johnny Cosmic"
-   ],
-   "artists": [
-    {
-     "name": "Kbong"
-    },
-    {
-     "name": "Johnny Cosmic",
-     "mbid": "05569649-d9b6-4562-ad0c-f58e0b12c75f",
-     "listen_url": "https://johnnycosmic.bandcamp.com/track/golden-soul",
-     "listen_service": "Bandcamp",
-     "listen_title": "Golden Soul"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "casbah:2026-11-21:sure-fire-soul-ensemble",
-   "date": "2026-11-21",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "Sure Fire Soul Ensemble",
-    "The Styletones"
-   ],
-   "artists": [
-    {
-     "name": "Sure Fire Soul Ensemble",
-     "mbid": "b085ad5c-a13a-434b-9168-a46faf54902c",
-     "listen_url": "https://thesurefiresoulensemble.bandcamp.com/track/makin-moves",
-     "listen_service": "Bandcamp",
-     "listen_title": "Makin' Moves"
-    },
-    {
-     "name": "The Styletones",
-     "mbid": "e647d839-35ef-4cf3-96e7-69d7eebf8ec3"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
-  },
-  {
-   "id": "house-of-blues:2026-11-21:mr-fantasy",
-   "date": "2026-11-21",
-   "venue": "House of Blues",
-   "city": "San Diego",
-   "performers": [
-    "Mr. Fantasy",
-    "Peach Tree Rascals",
-    "RC AVENUE"
-   ],
-   "artists": [
-    {
-     "name": "Mr. Fantasy",
-     "mbid": "f8b8042c-12fb-4161-85e2-65cc3ae2eb72",
-     "official_url": "https://realmrfantasy.com/",
-     "listen_url": "https://open.spotify.com/artist/34te8NejkffLcYjn9kiAiH",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Peach Tree Rascals",
-     "mbid": "49e3f8be-6c8d-4e4b-b8dd-af5571cc82ce",
-     "listen_url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "RC AVENUE",
-     "mbid": "8bd9241b-3a46-408f-81e1-c0a69b68fbac",
-     "listen_url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.houseofblues.com/sandiego"
-  },
-  {
-   "id": "humphreys-backstage-live:2026-11-21:the-party-crashers",
-   "date": "2026-11-21",
-   "venue": "Humphreys Backstage Live",
-   "city": "San Diego",
-   "performers": [
-    "The Party Crashers",
-    "Toga Party Band"
-   ],
-   "artists": [
-    {
-     "name": "The Party Crashers",
-     "mbid": "2804e01e-c206-4adf-91cf-8e8b853a2134"
-    },
-    {
-     "name": "Toga Party Band"
-    }
-   ],
-   "venue_url": "https://www.humphreysbackstagelive.com/"
-  },
-  {
-   "id": "music-box:2026-11-21:son-volt",
-   "date": "2026-11-21",
-   "venue": "Music Box",
-   "city": "San Diego",
-   "performers": [
-    "Son Volt",
-    "Kelly Willis"
-   ],
-   "artists": [
-    {
-     "name": "Son Volt",
-     "mbid": "ecbd1331-95b6-4a77-b739-b4bd8ef222a7",
-     "official_url": "http://www.sonvolt.net/",
-     "listen_url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Kelly Willis",
-     "mbid": "1d10aad6-714a-40a5-8f6e-14be37ac3498",
-     "official_url": "http://www.kellywillis.com/",
-     "listen_url": "https://open.spotify.com/artist/2WG7Z6CpNehgR1WGgjKF0E",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.musicboxsd.com/"
-  },
-  {
-   "id": "the-banshee:2026-11-21:animated-violence",
-   "date": "2026-11-21",
-   "venue": "The Banshee",
-   "city": "San Diego",
-   "performers": [
-    "Animated Violence",
-    "Cobarde",
-    "Gruntwork",
-    "Recvrse",
-    "Bone Splitter",
-    "Ghee"
-   ],
-   "artists": [
-    {
-     "name": "Animated Violence"
-    },
-    {
-     "name": "Cobarde",
-     "mbid": "3a7add24-0291-4619-8fdd-052b5d1a686c",
-     "official_url": "http://capitancobarde.com/"
-    },
-    {
-     "name": "Gruntwork"
-    },
-    {
-     "name": "Recvrse"
-    },
-    {
-     "name": "Bone Splitter",
-     "mbid": "f837db70-38b4-442f-af95-e2e465ffd5a2",
-     "listen_url": "https://bonesplitter.bandcamp.com/track/slaughter-of-the-cro-magnon",
-     "listen_service": "Bandcamp",
-     "listen_title": "SLAUGHTER OF THE CRO-MAGNON"
-    },
-    {
-     "name": "Ghee",
-     "mbid": "a2e3ac7b-4185-43ee-a3d5-13ceb45897f3",
-     "listen_url": "https://open.spotify.com/artist/3brL6NPSZHYrJNzeUKcVbL",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://thebansheebar.com/"
-  },
-  {
-   "id": "the-kensington-club:2026-11-21:the-overdrives",
-   "date": "2026-11-21",
-   "venue": "The Kensington Club",
-   "city": "San Diego",
-   "performers": [
-    "The Overdrives",
-    "Dresden'S Burning",
-    "Koko Beach"
-   ],
-   "artists": [
-    {
-     "name": "The Overdrives",
-     "mbid": "0bdebbea-6ac4-4ed0-89d1-195c2c19d218"
-    },
-    {
-     "name": "Dresden'S Burning"
-    },
-    {
-     "name": "Koko Beach"
-    }
-   ],
-   "venue_url": "https://www.kensingtonclub1935.com/"
-  },
-  {
-   "id": "the-observatory-north-park:2026-11-21:senses-fail",
-   "date": "2026-11-21",
-   "venue": "The Observatory North Park",
-   "city": "San Diego",
-   "performers": [
-    "Senses Fail",
-    "Koyo",
-    "Initiate"
-   ],
-   "artists": [
-    {
-     "name": "Senses Fail",
-     "mbid": "b4946461-dacb-4aa9-a77c-7b3231317794",
-     "official_url": "https://sensesfail.com/",
-     "listen_url": "https://sensesfail.bandcamp.com/track/the-burial-of-the-dead",
-     "listen_service": "Bandcamp",
-     "listen_title": "The Burial of the Dead"
-    },
-    {
-     "name": "Koyo",
-     "mbid": "52f7e7ff-2e09-47e0-87f3-edcd69b327ae",
-     "official_url": "https://koyolihc.com/",
-     "listen_url": "https://koyolihc.bandcamp.com/track/barely-here",
-     "listen_service": "Bandcamp",
-     "listen_title": "Barely Here"
-    },
-    {
-     "name": "Initiate",
-     "mbid": "5c71fee2-fe75-4fb9-9b8f-e3a792d3bf35",
-     "listen_url": "https://initiatehc.bandcamp.com/track/burn-after-reading",
-     "listen_service": "Bandcamp",
-     "listen_title": "Burn After Reading"
-    }
-   ],
-   "venue_url": "https://www.observatorysd.com"
-  },
-  {
-   "id": "the-sound:2026-11-21:houndmouth",
-   "date": "2026-11-21",
-   "venue": "The Sound",
-   "city": "Del Mar",
-   "performers": [
-    "Houndmouth",
-    "Dogpark"
-   ],
-   "artists": [
-    {
-     "name": "Houndmouth",
-     "mbid": "4a18f60f-7aa9-4476-8d0f-84981d8ccb60",
-     "official_url": "http://houndmouth.com/",
-     "listen_url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Dogpark",
-     "mbid": "8c8b7177-4c03-4cb4-858c-b071f5de013e",
-     "official_url": "https://www.dogparkofficial.com/",
-     "listen_url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://thesoundsd.com/"
-  },
-  {
-   "id": "the-tower-bar:2026-11-21:the-loons",
-   "date": "2026-11-21",
-   "venue": "The Tower Bar",
-   "city": "San Diego",
-   "performers": [
-    "The Loons",
-    "The Wyld Gooms",
-    "DJ Tony The Tyger"
-   ],
-   "artists": [
-    {
-     "name": "The Loons",
-     "mbid": "f99ce775-875a-4dc0-9bd8-e7bc2a7aaf2a"
-    },
-    {
-     "name": "The Wyld Gooms",
-     "mbid": "adb66361-1033-4e92-b229-4afc78b0499e"
-    },
-    {
-     "name": "DJ Tony The Tyger"
-    }
-   ],
-   "venue_url": "https://www.thetowerbar.com/"
-  },
-  {
-   "id": "belly-up-tavern:2026-11-22:andrew-mcmahon-and-his-piano-featuring-very-special-guest-ivory-layne",
-   "date": "2026-11-22",
-   "venue": "Belly Up Tavern",
-   "city": "Solana Beach",
-   "performers": [
-    "Andrew McMahon and his piano featuring very special guest Ivory Layne"
-   ],
-   "artists": [
-    {
-     "name": "Andrew McMahon and his piano featuring very special guest Ivory Layne"
-    }
-   ],
-   "venue_url": "https://bellyup.com/"
-  },
-  {
-   "id": "casbah:2026-11-22:flor-de-toloache",
-   "date": "2026-11-22",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "Flor de Toloache"
-   ],
-   "artists": [
-    {
-     "name": "Flor de Toloache",
-     "mbid": "01ecc7a3-2f46-4205-908e-11b1492c2245",
-     "official_url": "http://mariachinyc.com/",
-     "listen_url": "https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
-  },
-  {
-   "id": "house-of-blues:2026-11-22:eiv-r",
-   "date": "2026-11-22",
-   "venue": "House of Blues",
-   "city": "San Diego",
-   "performers": [
-    "Eiv\u00f8r",
-    "midori jaeger"
-   ],
-   "artists": [
-    {
-     "name": "Eiv\u00f8r",
-     "mbid": "cdcc26ed-818f-4c95-b177-b56ac1410f8f",
-     "official_url": "https://www.eivor.com/",
-     "listen_url": "https://eivor.bandcamp.com/track/og-m-nin-gr-t-and-the-moon-cried",
-     "listen_service": "Bandcamp",
-     "listen_title": "Og m\u00e1nin gr\u00e6t / And The Moon Cried"
-    },
-    {
-     "name": "midori jaeger",
-     "mbid": "06dccd80-5531-4349-ac0f-f826e58ff49a",
-     "listen_url": "https://midorijaeger.bandcamp.com/track/planted-2",
-     "listen_service": "Bandcamp",
-     "listen_title": "planted"
-    }
-   ],
-   "venue_url": "https://www.houseofblues.com/sandiego"
-  },
-  {
-   "id": "humphreys-backstage-live:2026-11-22:tony-exum-jr",
-   "date": "2026-11-22",
-   "venue": "Humphreys Backstage Live",
-   "city": "San Diego",
-   "performers": [
-    "Tony Exum Jr."
-   ],
-   "artists": [
-    {
-     "name": "Tony Exum Jr."
-    }
-   ],
-   "venue_url": "https://www.humphreysbackstagelive.com/"
-  },
-  {
-   "id": "lou-lou-s:2026-11-22:matt-smith-dj-caalaman-logan-kane-nicole-mccabe",
-   "date": "2026-11-22",
-   "venue": "Lou Lou's",
-   "city": "San Diego",
-   "performers": [
-    "MATT SMITH // DJ CAALAMAN // LOGAN KANE // NICOLE McCABE"
-   ],
-   "artists": [
-    {
-     "name": "MATT SMITH // DJ CAALAMAN // LOGAN KANE // NICOLE McCABE"
-    }
-   ],
-   "venue_url": "https://www.loulousclub.com/"
-  },
-  {
-   "id": "music-box:2026-11-22:the-wrecks",
-   "date": "2026-11-22",
-   "venue": "Music Box",
-   "city": "San Diego",
-   "performers": [
-    "The Wrecks",
-    "Worry Club",
-    "Kid Sistr"
-   ],
-   "artists": [
-    {
-     "name": "The Wrecks",
-     "mbid": "3f194516-6f0d-4d26-b631-71117f3bc41d",
-     "official_url": "https://www.wearethewrecks.com/",
-     "listen_url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Worry Club",
-     "mbid": "f22bdda8-0cb0-4973-ae53-6a51c3b50e79",
-     "official_url": "https://www.worryclub.com/",
-     "listen_url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Kid Sistr",
-     "mbid": "d16dcd17-340a-4e9a-b160-180469aeb4d7",
-     "listen_url": "https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.musicboxsd.com/"
-  },
-  {
-   "id": "quartyard:2026-11-22:breakfast-for-dinner",
-   "date": "2026-11-22",
-   "venue": "Quartyard",
-   "city": "San Diego",
-   "performers": [
-    "BREAKFAST FOR DINNER",
-    "HICKIES"
-   ],
-   "artists": [
-    {
-     "name": "BREAKFAST FOR DINNER",
-     "mbid": "4442ed13-8945-40d4-b437-779e0e63b9db"
-    },
-    {
-     "name": "HICKIES"
-    }
-   ],
-   "venue_url": "https://quartyardsd.com/"
-  },
-  {
-   "id": "soda-bar:2026-11-22:the-goddamn-gallows",
-   "date": "2026-11-22",
-   "venue": "Soda Bar",
-   "city": "San Diego",
-   "performers": [
-    "The Goddamn Gallows",
-    "King Sickabilly"
-   ],
-   "artists": [
-    {
-     "name": "The Goddamn Gallows",
-     "mbid": "89eb8924-fad2-401d-b812-c6c1b3ccba23",
-     "official_url": "http://www.thegoddamngallows.com/",
-     "listen_url": "https://open.spotify.com/artist/2U05isWo2NVpmgI2BF72l3",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "King Sickabilly"
-    }
-   ],
-   "venue_url": "https://sodabarmusic.com/"
-  },
-  {
-   "id": "the-banshee:2026-11-22:tristan-brooks",
-   "date": "2026-11-22",
-   "venue": "The Banshee",
-   "city": "San Diego",
-   "performers": [
-    "Tristan Brooks",
-    "Randall Edwards",
-    "Shyah Preis"
-   ],
-   "artists": [
-    {
-     "name": "Tristan Brooks"
-    },
-    {
-     "name": "Randall Edwards",
-     "mbid": "e2647325-6b58-4401-8093-b8e0b73e1d52"
-    },
-    {
-     "name": "Shyah Preis"
-    }
-   ],
-   "venue_url": "https://thebansheebar.com/"
-  },
-  {
-   "id": "the-holding-company:2026-11-22:surf-sunday",
-   "date": "2026-11-22",
-   "venue": "The Holding Company",
-   "city": "San Diego",
-   "performers": [
-    "Surf Sunday",
-    "Jimmy Dale"
-   ],
-   "artists": [
-    {
-     "name": "Surf Sunday"
-    },
-    {
-     "name": "Jimmy Dale",
-     "mbid": "1af2f7a8-5b8d-40bf-88f9-d60a2efb867c"
-    }
-   ],
-   "venue_url": "https://theholdingcompanyob.com/"
-  },
-  {
-   "id": "the-sound:2026-11-22:clara-la-san",
-   "date": "2026-11-22",
-   "venue": "The Sound",
-   "city": "Del Mar",
-   "performers": [
-    "Clara La San",
-    "SAUSHA"
-   ],
-   "artists": [
-    {
-     "name": "Clara La San",
-     "mbid": "56393a36-155f-4f50-adbe-45f4a26c40bf",
-     "listen_url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "SAUSHA",
-     "mbid": "f65aeffe-5184-48f9-bb27-829c61e18a2e",
-     "listen_url": "https://sausha.bandcamp.com/track/evidencia",
-     "listen_service": "Bandcamp",
-     "listen_title": "Evidencia"
-    }
-   ],
-   "venue_url": "https://thesoundsd.com/"
-  },
-  {
-   "id": "the-tower-bar:2026-11-22:drugs",
-   "date": "2026-11-22",
-   "venue": "The Tower Bar",
-   "city": "San Diego",
-   "performers": [
-    "&drugs",
-    "Space Wizards In Space"
-   ],
-   "artists": [
-    {
-     "name": "&drugs"
-    },
-    {
-     "name": "Space Wizards In Space"
-    }
-   ],
-   "venue_url": "https://www.thetowerbar.com/"
-  },
-  {
-   "id": "whistle-stop:2026-11-22:shawn-rohlf",
-   "date": "2026-11-22",
-   "venue": "Whistle Stop",
-   "city": "San Diego",
-   "performers": [
-    "Shawn Rohlf"
-   ],
-   "artists": [
-    {
-     "name": "Shawn Rohlf"
-    }
-   ],
-   "venue_url": "https://whistlestopbar.com/"
-  },
   {
    "id": "casbah:2026-11-23:city-mouse",
    "date": "2026-11-23",
@@ -3903,7 +3331,10 @@
    ],
    "artists": [
     {
-     "name": "The Zeros"
+     "name": "The Zeros",
+     "mbid": "170ad651-7b80-4baf-b772-43841efab031",
+     "listen_url": "https://open.spotify.com/artist/39KwCUfxTyIasDijrgwhRn",
+     "listen_service": "Spotify"
     },
     {
      "name": "Juvenile Wrecks"
@@ -4190,7 +3621,8 @@
      "name": "Fight Naked"
     },
     {
-     "name": "Crawl Space Junior"
+     "name": "Crawl Space Junior",
+     "mbid": "25794b45-230d-41f9-9faf-8c75e665fefa"
     },
     {
      "name": "Mothafunka"
@@ -5724,10 +5156,18 @@
    ],
    "artists": [
     {
-     "name": "Joel Rafael"
+     "name": "Joel Rafael",
+     "mbid": "64655743-5b82-49fd-8cac-83ce5aaf972b",
+     "official_url": "http://www.joelrafael.com/",
+     "listen_url": "https://open.spotify.com/artist/5IrGlonoT4oaG6fuL9rytI",
+     "listen_service": "Spotify"
     },
     {
-     "name": "Calamity"
+     "name": "Calamity",
+     "mbid": "ca071cd1-a344-4b13-8b5b-5a610dbb0589",
+     "listen_url": "https://doofcake.bandcamp.com/track/the-better-times",
+     "listen_service": "Bandcamp",
+     "listen_title": "Karl August Kaljuste - The Better Times"
     },
     {
      "name": "Dan Gindling"
@@ -5739,7 +5179,8 @@
      "name": "Lindsay White"
     },
     {
-     "name": "Lisa Sanders & Brown Sugar"
+     "name": "Lisa Sanders & Brown Sugar",
+     "mbid": "6728eaf7-6ef0-4b6f-97fb-aadcf4183762"
     },
     {
      "name": "Mark Montijo"
@@ -5751,7 +5192,9 @@
      "name": "Shawn Rholf"
     },
     {
-     "name": "James Lee Stanley"
+     "name": "James Lee Stanley",
+     "mbid": "00ddeeba-11a8-46a9-bcac-0e5fbc4f4008",
+     "official_url": "https://jamesleestanley.com/"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -7224,7 +6667,8 @@
    ],
    "artists": [
     {
-     "name": "Tony Jupiter"
+     "name": "Tony Jupiter",
+     "mbid": "c0606331-4a88-46aa-95f5-a4736bfad3d1"
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
@@ -7444,10 +6888,16 @@
    ],
    "artists": [
     {
-     "name": "Infekt"
+     "name": "Infekt",
+     "mbid": "41d95b1d-643b-441d-bc9e-aa3ad732b7b1",
+     "official_url": "https://infektdubstep.com/",
+     "listen_url": "https://infektdubstep.bandcamp.com/track/unity-w-yinyandy",
+     "listen_service": "Bandcamp",
+     "listen_title": "UNITY (w/ yinyandy)"
     },
     {
-     "name": "The Resistance"
+     "name": "The Resistance",
+     "mbid": "785cc25b-de4e-47a1-a9de-8b9b9cc999ff"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -9932,7 +9382,10 @@
    ],
    "artists": [
     {
-     "name": "Love Letter"
+     "name": "Love Letter",
+     "mbid": "5b9dca0e-64e9-4036-b9a2-567cbca9d1ce",
+     "listen_url": "https://open.spotify.com/artist/58dOfabvkhScGZJNO2HONt",
+     "listen_service": "Spotify"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -10347,7 +9800,11 @@
    ],
    "artists": [
     {
-     "name": "Barely Alive"
+     "name": "Barely Alive",
+     "mbid": "3a0719ac-28d4-4202-8362-fe76acc2f6a6",
+     "official_url": "http://barelyalivemusic.com/",
+     "listen_url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3",
+     "listen_service": "Spotify"
     }
    ],
    "venue_url": "https://novasandiego.com/"
@@ -12206,7 +11663,12 @@
    ],
    "artists": [
     {
-     "name": "Ron Gallo"
+     "name": "Ron Gallo",
+     "mbid": "d0acf0a0-d4fe-458f-be0c-efa88198ed7a",
+     "official_url": "http://rongallomusic.com/",
+     "listen_url": "https://rongallo.bandcamp.com/track/yellow-5",
+     "listen_service": "Bandcamp",
+     "listen_title": "Yellow 5"
     }
    ],
    "venue_url": "https://www.casbahmusic.com/"
@@ -13138,7 +12600,12 @@
    ],
    "artists": [
     {
-     "name": "Uncle Strut"
+     "name": "Uncle Strut",
+     "mbid": "a51ed7ca-783a-4992-9a80-543676e3edd5",
+     "official_url": "https://unclestrut.com/",
+     "listen_url": "https://unclestrut.bandcamp.com/track/another-yesterday",
+     "listen_service": "Bandcamp",
+     "listen_title": "Another Yesterday"
     }
    ],
    "venue_url": "https://thebansheebar.com/"
@@ -13565,6 +13032,55 @@
     }
    ],
    "venue_url": "https://www.balboatheatre.org/"
+  },
+  {
+   "id": "the-kensington-club:2027-11-13:soft-vein",
+   "date": "2027-11-13",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Soft Vein"
+   ],
+   "artists": [
+    {
+     "name": "Soft Vein",
+     "mbid": "b7a6bbb4-12a3-4890-8445-20c81d72db1a",
+     "official_url": "https://www.softvein.net/",
+     "listen_url": "https://softvein.bandcamp.com/track/another-summer",
+     "listen_service": "Bandcamp",
+     "listen_title": "Another Summer"
+    }
+   ],
+   "venue_url": "https://www.kensingtonclub1935.com/"
+  },
+  {
+   "id": "the-kensington-club:2027-11-14:ra",
+   "date": "2027-11-14",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Ra",
+    "Seashell Radio",
+    "The Cabriolets"
+   ],
+   "artists": [
+    {
+     "name": "Ra",
+     "mbid": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
+     "official_url": "http://www.sunra.com/",
+     "listen_url": "https://sunramusic.bandcamp.com/track/heliocentric-worlds",
+     "listen_service": "Bandcamp",
+     "listen_title": "Heliocentric Worlds"
+    },
+    {
+     "name": "Seashell Radio"
+    },
+    {
+     "name": "The Cabriolets",
+     "mbid": "34b606b2-ccee-46e1-8b39-3de61aa2e09d"
+    }
+   ],
+   "venue_url": "https://www.kensingtonclub1935.com/"
   }
  ]
 }

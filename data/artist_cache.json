@@ -443278,6 +443278,4197 @@
         "offset": 0,
         "artists": []
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"AFROTRUKO!\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:20:30.252Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Defuco\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:20:30.431Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Lotto RPG\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:20:31.530Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Pillow Girls\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:20:32.628Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"The Zeros\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:20:33.734Z",
+        "count": 5,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "170ad651-7b80-4baf-b772-43841efab031",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "The Zeros",
+            "sort-name": "Zeros, The",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "ee0f2b6b-61ae-45fa-9ed6-3dee8e4f7321",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Chula Vista",
+              "sort-name": "Chula Vista",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "1970's USA punk band",
+            "life-span": {
+              "begin": "1976",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Zeros",
+                "name": "Zeros",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          },
+          {
+            "id": "fa3ec8b5-7967-4bbf-9fcf-8d6b1bef39d6",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 96,
+            "name": "The Zeros",
+            "sort-name": "Zeros, The",
+            "area": {
+              "id": "96bbe327-f9cd-42e0-a689-eb9febe1693f",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Hollywood",
+              "sort-name": "Hollywood",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "8122f7d2-5219-41b1-a644-43da518532fb",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Elizabeth",
+              "sort-name": "Elizabeth",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "USA punk/glam band",
+            "life-span": {
+              "begin": "1982",
+              "end": "1997",
+              "ended": true
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "punk"
+              },
+              {
+                "count": 1,
+                "name": "glam"
+              }
+            ]
+          },
+          {
+            "id": "69492a3d-225d-4eaf-a929-f0f84d2d1f70",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 92,
+            "name": "The Zeros",
+            "sort-name": "Zeros, The",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "afdf771e-35ec-4279-be90-cbf169294be3",
+              "type": "District",
+              "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+              "name": "Walthamstow",
+              "sort-name": "Walthamstow",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "UK punk band",
+            "life-span": {
+              "begin": "1977",
+              "end": "1979",
+              "ended": true
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "punk"
+              }
+            ]
+          },
+          {
+            "id": "d30327c9-e58d-428b-9d7e-4d371cc0f105",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 89,
+            "name": "The Zeros",
+            "sort-name": "Zeros, The",
+            "country": "ZA",
+            "area": {
+              "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "South Africa",
+              "sort-name": "South Africa",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "South Africa",
+              "sort-name": "South Africa",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "South African garage rock band",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "33d86a5c-0d8c-4a46-899d-98671fcd2a38",
+            "score": 75,
+            "name": "Count Downe & The Zeros",
+            "sort-name": "Downe, Count & Zeros, The",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/170ad651-7b80-4baf-b772-43841efab031?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "life-span": {
+          "ended": false,
+          "begin": "1976",
+          "end": null
+        },
+        "begin-area": {
+          "disambiguation": "",
+          "name": "Chula Vista",
+          "sort-name": "Chula Vista",
+          "type-id": null,
+          "id": "ee0f2b6b-61ae-45fa-9ed6-3dee8e4f7321",
+          "type": null
+        },
+        "gender-id": null,
+        "country": "US",
+        "disambiguation": "1970's USA punk band",
+        "id": "170ad651-7b80-4baf-b772-43841efab031",
+        "area": {
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type-id": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "sort-name": "United States",
+          "name": "United States",
+          "disambiguation": ""
+        },
+        "ipis": [],
+        "end-area": null,
+        "name": "The Zeros",
+        "gender": null,
+        "isnis": [],
+        "relations": [
+          {
+            "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+            "type": "biography",
+            "attribute-values": {},
+            "direction": "forward",
+            "url": {
+              "resource": "http://dic.academic.ru/dic.nsf/enwiki/2053422",
+              "id": "96fd9828-f456-45ef-b8b4-1041c6ac968d"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "begin": null
+          },
+          {
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "type": "discogs",
+            "attribute-values": {},
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.discogs.com/artist/261758",
+              "id": "33d8ede0-7708-43a8-8c58-022acdc1ef56"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "type": "free streaming",
+            "attribute-values": {},
+            "url": {
+              "resource": "https://open.spotify.com/artist/39KwCUfxTyIasDijrgwhRn",
+              "id": "8e469830-7f2d-48d6-ade6-0c0e336f7a47"
+            },
+            "direction": "forward"
+          },
+          {
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "83dd91ba-15b9-4477-b881-2df37eb4b399",
+              "resource": "https://www.deezer.com/artist/248712"
+            },
+            "direction": "forward",
+            "type": "free streaming",
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "attribute-values": {},
+            "type": "other databases",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "url": {
+              "id": "5505c3c8-3b88-4134-81c1-b08eca3638fc",
+              "resource": "https://rateyourmusic.com/artist/zeros"
+            },
+            "direction": "forward",
+            "target-credit": ""
+          },
+          {
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "id": "30a3d601-14e0-4036-9d01-b3e46225146e",
+              "resource": "https://open.qobuz.com/artist/1493376"
+            },
+            "type": "purchase for download",
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203"
+          },
+          {
+            "direction": "forward",
+            "url": {
+              "resource": "https://music.apple.com/gb/artist/13828290",
+              "id": "f84a11b3-17ca-4836-9eac-85e590535940"
+            },
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "type": "streaming",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url"
+          },
+          {
+            "target-credit": "",
+            "type": "streaming",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "direction": "forward",
+            "url": {
+              "resource": "https://open.qobuz.com/artist/1493376",
+              "id": "30a3d601-14e0-4036-9d01-b3e46225146e"
+            },
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "type": "streaming",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "url": {
+              "resource": "https://tidal.com/artist/3607668",
+              "id": "28ae8e0b-c080-4efa-bed0-71cd5e4627b6"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type": "wikidata",
+            "attribute-values": {},
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "direction": "forward",
+            "url": {
+              "id": "ea81d53d-6a37-4d70-918c-d0e28684b457",
+              "resource": "https://www.wikidata.org/wiki/Q3523472"
+            }
+          }
+        ],
+        "sort-name": "Zeros, The"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Juvenile Wrecks\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:21:06.402Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Homless Sexuals\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:21:06.576Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Crawl Space Junior\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:21:12.835Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "25794b45-230d-41f9-9faf-8c75e665fefa",
+            "score": 100,
+            "name": "Crawl Space Junior",
+            "sort-name": "Crawl Space Junior",
+            "area": {
+              "id": "82f3a697-ba65-404d-a1ed-360147af7d10",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "San Diego",
+              "sort-name": "San Diego",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/25794b45-230d-41f9-9faf-8c75e665fefa?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "gender": null,
+        "name": "Crawl Space Junior",
+        "sort-name": "Crawl Space Junior",
+        "relations": [],
+        "isnis": [],
+        "id": "25794b45-230d-41f9-9faf-8c75e665fefa",
+        "end-area": null,
+        "area": {
+          "sort-name": "San Diego",
+          "name": "San Diego",
+          "disambiguation": "",
+          "type": null,
+          "type-id": null,
+          "id": "82f3a697-ba65-404d-a1ed-360147af7d10"
+        },
+        "ipis": [],
+        "disambiguation": "",
+        "country": "US",
+        "gender-id": null,
+        "begin-area": null,
+        "type-id": null,
+        "type": null,
+        "life-span": {
+          "begin": null,
+          "end": null,
+          "ended": false
+        }
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Mothafunka\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:21:29.430Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Boy Band All Stars\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:21:29.702Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Joel Rafael\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:21:30.799Z",
+        "count": 2,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "64655743-5b82-49fd-8cac-83ce5aaf972b",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Joel Rafael",
+            "sort-name": "Rafael, Joel",
+            "gender": "male",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Chicago",
+              "sort-name": "Chicago",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000081295648"
+            ],
+            "life-span": {
+              "begin": "1949",
+              "ended": null
+            }
+          },
+          {
+            "id": "8c49a23f-3fb1-46a5-8034-c8ff09fd4a4b",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 89,
+            "name": "Joel Rafael Band",
+            "sort-name": "Joel Rafael Band",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/64655743-5b82-49fd-8cac-83ce5aaf972b?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "end-area": null,
+        "ipis": [],
+        "isnis": [
+          "0000000081295648"
+        ],
+        "id": "64655743-5b82-49fd-8cac-83ce5aaf972b",
+        "life-span": {
+          "ended": false,
+          "begin": "1949",
+          "end": null
+        },
+        "begin-area": {
+          "type": null,
+          "name": "Chicago",
+          "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+          "type-id": null,
+          "sort-name": "Chicago",
+          "disambiguation": ""
+        },
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "area": {
+          "disambiguation": "",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "name": "United States",
+          "type-id": null,
+          "sort-name": "United States"
+        },
+        "disambiguation": "",
+        "country": "US",
+        "relations": [
+          {
+            "ended": false,
+            "url": {
+              "resource": "https://www.allmusic.com/artist/mn0000689836",
+              "id": "a06a5878-32bd-4bf9-a181-5de050ac2d82"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "source-credit": "",
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type": "allmusic",
+            "attributes": [],
+            "attribute-values": {}
+          },
+          {
+            "begin": null,
+            "url": {
+              "id": "cd0cdc59-67bf-44b2-bee9-ef3d9bc09346",
+              "resource": "https://www.discogs.com/artist/2996364"
+            },
+            "target-credit": "",
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "discogs",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "direction": "forward",
+            "attribute-ids": {}
+          },
+          {
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "attribute-ids": {},
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": [],
+            "target-type": "url",
+            "end": null,
+            "url": {
+              "id": "42cd66e0-839a-4d90-ad42-a3cdccf247ca",
+              "resource": "https://open.spotify.com/artist/5IrGlonoT4oaG6fuL9rytI"
+            },
+            "target-credit": "",
+            "ended": false,
+            "begin": null
+          },
+          {
+            "begin": null,
+            "url": {
+              "resource": "https://www.deezer.com/artist/414960",
+              "id": "7ad5e39d-4b4f-4d7b-9f42-42bce06e950b"
+            },
+            "target-credit": "",
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "attribute-ids": {}
+          },
+          {
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "b0df1426-bf1e-4cc0-a59c-2d774f0aba6c",
+              "resource": "https://commons.wikimedia.org/wiki/File:Joel_Rafael_2_2006.jpg"
+            },
+            "target-type": "url",
+            "end": null,
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type": "image"
+          },
+          {
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "bafa0717-a43f-434b-bd98-a228bdb20dfd",
+              "resource": "https://www.last.fm/music/Joel%20Rafael"
+            },
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "last.fm",
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "attribute-ids": {},
+            "direction": "forward"
+          },
+          {
+            "attribute-values": {},
+            "attributes": [],
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type": "official homepage",
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "end": null,
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "3d7c0e4b-2548-4ccf-8368-1aa22adc5534",
+              "resource": "http://www.joelrafael.com/"
+            }
+          },
+          {
+            "type": "other databases",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": [],
+            "end": null,
+            "target-type": "url",
+            "target-credit": "",
+            "url": {
+              "resource": "http://id.loc.gov/authorities/names/no2002049497",
+              "id": "cff3be69-6df0-4091-8781-f07607e7f808"
+            },
+            "ended": false,
+            "begin": null
+          },
+          {
+            "ended": false,
+            "url": {
+              "id": "9aa9f9ed-2fef-40a2-aab6-98815ab72d93",
+              "resource": "https://catalogue.bnf.fr/ark:/12148/cb15828012k"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "source-credit": "",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type": "other databases",
+            "attributes": [],
+            "attribute-values": {}
+          },
+          {
+            "begin": null,
+            "ended": false,
+            "url": {
+              "id": "be53cdd2-deea-4939-a71b-729eb4419741",
+              "resource": "https://d-nb.info/gnd/1071419412"
+            },
+            "target-credit": "",
+            "end": null,
+            "target-type": "url",
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "type": "other databases"
+          },
+          {
+            "attribute-values": {},
+            "attributes": [],
+            "type": "other databases",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-ids": {},
+            "direction": "forward",
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "end": null,
+            "url": {
+              "id": "d27397cb-ed95-40ba-9506-5e569663d9a2",
+              "resource": "https://www.worldcat.org/identities/lccn-no2002049497/"
+            },
+            "target-credit": "",
+            "ended": false
+          },
+          {
+            "source-credit": "",
+            "type": "purchase for download",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attributes": [],
+            "attribute-values": {},
+            "target-credit": "",
+            "url": {
+              "resource": "https://itunes.apple.com/us/artist/id120502231",
+              "id": "4c1a0d47-28b6-4b3d-8190-d7e98717cfb9"
+            },
+            "ended": false,
+            "end": null,
+            "target-type": "url",
+            "begin": null
+          },
+          {
+            "begin": null,
+            "target-type": "url",
+            "end": null,
+            "url": {
+              "resource": "https://twitter.com/joelrafaelmusic",
+              "id": "b394faf9-8e47-4710-a7c2-87df9538e021"
+            },
+            "target-credit": "",
+            "ended": false,
+            "attribute-values": {},
+            "attributes": [],
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "direction": "forward",
+            "attribute-ids": {},
+            "source-credit": ""
+          },
+          {
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "fdc76b7a-9289-44af-9fbc-dd88eb70adce",
+              "resource": "https://www.facebook.com/pages/Joel-Rafael/105604942806057"
+            },
+            "ended": false,
+            "end": null,
+            "target-type": "url",
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "social network",
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+          },
+          {
+            "url": {
+              "id": "642f3299-d08b-4ef0-992d-7a2302f435ed",
+              "resource": "https://www.instagram.com/joelrafaelofficial/"
+            },
+            "target-credit": "",
+            "ended": false,
+            "end": null,
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "type": "social network",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attributes": [],
+            "attribute-values": {}
+          },
+          {
+            "target-type": "url",
+            "end": null,
+            "ended": false,
+            "url": {
+              "resource": "https://www.songkick.com/artists/4416533",
+              "id": "89b95882-a010-4fa4-964e-481a5226d769"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "attribute-ids": {},
+            "direction": "forward",
+            "type": "songkick",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": []
+          },
+          {
+            "attribute-values": {},
+            "attributes": [],
+            "type": "VIAF",
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "direction": "forward",
+            "attribute-ids": {},
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "end": null,
+            "target-credit": "",
+            "url": {
+              "id": "9ea432a4-746b-4aae-b029-9e1fbdcf9450",
+              "resource": "http://viaf.org/viaf/51356960"
+            },
+            "ended": false
+          },
+          {
+            "begin": null,
+            "url": {
+              "id": "d0d858a9-7aa6-4b88-9355-3a3b6aacdfe7",
+              "resource": "https://www.wikidata.org/wiki/Q6213867"
+            },
+            "target-credit": "",
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "attributes": [],
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "wikidata",
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "direction": "forward",
+            "attribute-ids": {}
+          },
+          {
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "type": "youtube",
+            "source-credit": "",
+            "attribute-values": {},
+            "attributes": [],
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "a09728da-8124-412a-a3d7-bcd1f8293cac",
+              "resource": "https://www.youtube.com/channel/UCxEDMOPybpQtEn3Ke5K7p_A"
+            },
+            "begin": null
+          }
+        ],
+        "name": "Joel Rafael",
+        "sort-name": "Rafael, Joel",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "gender": "Male",
+        "type": "Person"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Calamity\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:21:42.406Z",
+        "count": 45,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "ca071cd1-a344-4b13-8b5b-5a610dbb0589",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "name": "Calamity",
+            "sort-name": "Calamity",
+            "country": "EE",
+            "area": {
+              "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Estonia",
+              "sort-name": "Estonia",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Estonian ambiance artist",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "ee8ae674-50a3-43cd-8c2b-d620c8786725",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 99,
+            "name": "Calamity",
+            "sort-name": "Calamity",
+            "country": "PR",
+            "area": {
+              "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Puerto Rico",
+              "sort-name": "Puerto Rico",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "3e9c0f9c-ac05-4e24-88d3-5fc880dd74c5",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Caguas",
+              "sort-name": "Caguas",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Thrash Metal, Puerto Rico",
+            "life-span": {
+              "begin": "2014",
+              "ended": null
+            }
+          },
+          {
+            "id": "5c63fbb6-ca63-4297-ac4d-555a1b0df3ed",
+            "score": 97,
+            "name": "Calamity",
+            "sort-name": "Calamity",
+            "area": {
+              "id": "6f0b20a9-8e35-4fd5-92bc-57017570a9ce",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "Tochigi",
+              "sort-name": "Tochigi",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Japanese Crust Punk",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "59426945-41aa-4972-8f98-d459c6976870",
+            "score": 97,
+            "name": "Calamity",
+            "sort-name": "Calamity",
+            "disambiguation": "Rapper who collaborated with Yung Squalla",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "13c1675d-ed21-4196-ab4c-d1cfe0917779",
+            "score": 97,
+            "name": "Calamity",
+            "sort-name": "Calamity",
+            "country": "BE",
+            "area": {
+              "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Belgium",
+              "sort-name": "Belgium",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Belgian, active ca. 1989",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "5ef843bd-61e1-4544-b283-0a0f98336cf3",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 97,
+            "name": "Calamity",
+            "sort-name": "Calamity",
+            "area": {
+              "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Memphis",
+              "sort-name": "Memphis",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Memphis, TN hardcore",
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "hardcore punk"
+              }
+            ]
+          },
+          {
+            "id": "ce9754e5-c6ea-4b41-8bb4-2edf0705c78d",
+            "score": 97,
+            "name": "Calamity",
+            "sort-name": "Calamity",
+            "disambiguation": "Italien disco band",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "46c9dbaf-3855-47f1-bf0a-6fbfb5b4ccc0",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 97,
+            "name": "NATURAL CALAMITY",
+            "sort-name": "NATURAL CALAMITY",
+            "country": "JP",
+            "area": {
+              "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Japan",
+              "sort-name": "Japan",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "8dc97297-ac95-4d33-82bc-e07fab26fb5f",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "Tokyo",
+              "sort-name": "Tokyo",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000096918334"
+            ],
+            "life-span": {
+              "begin": "1991",
+              "ended": null
+            }
+          },
+          {
+            "id": "a7ca17c4-b1a8-4801-bd19-e813e1ae39b1",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 94,
+            "name": "Calamity Jane",
+            "sort-name": "Calamity Jane",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Portland",
+              "sort-name": "Portland",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "89-92 Portland grunge band",
+            "life-span": {
+              "begin": "1989",
+              "end": "1992",
+              "ended": true
+            }
+          },
+          {
+            "id": "463d5bce-8739-4a49-b303-56da027a0c22",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 91,
+            "name": "The Calamity",
+            "sort-name": "Calamity, The",
+            "disambiguation": "British punk-folk-noise band",
+            "life-span": {
+              "begin": "2012",
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/ca071cd1-a344-4b13-8b5b-5a610dbb0589?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "disambiguation": "Estonian ambiance artist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "relations": [
+          {
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "id": "c4e66d32-ddfa-4e55-85b9-d28240b8c6a9",
+              "resource": "https://doofcake.bandcamp.com/"
+            },
+            "target-credit": "",
+            "type": "bandcamp",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          }
+        ],
+        "life-span": {
+          "ended": false,
+          "begin": null,
+          "end": null
+        },
+        "id": "ca071cd1-a344-4b13-8b5b-5a610dbb0589",
+        "ipis": [],
+        "begin-area": null,
+        "name": "Calamity",
+        "gender": null,
+        "sort-name": "Calamity",
+        "area": {
+          "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+          "iso-3166-1-codes": [
+            "EE"
+          ],
+          "sort-name": "Estonia",
+          "type": null,
+          "name": "Estonia",
+          "disambiguation": "",
+          "type-id": null
+        },
+        "end-area": null,
+        "type": "Person",
+        "country": "EE",
+        "isnis": [],
+        "gender-id": null
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Dan Gindling\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:21:43.762Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"JT Moring Cohort\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:21:44.934Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Lindsay White\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:21:51.050Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Lisa Sanders & Brown Sugar\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:21:56.383Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "6728eaf7-6ef0-4b6f-97fb-aadcf4183762",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Lisa Sanders & Brown Sugar",
+            "sort-name": "Sanders, Lisa & Sugar, Brown",
+            "area": {
+              "id": "82f3a697-ba65-404d-a1ed-360147af7d10",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "San Diego",
+              "sort-name": "San Diego",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/6728eaf7-6ef0-4b6f-97fb-aadcf4183762?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "life-span": {
+          "end": null,
+          "begin": null,
+          "ended": false
+        },
+        "begin-area": null,
+        "gender-id": null,
+        "country": "US",
+        "disambiguation": "",
+        "id": "6728eaf7-6ef0-4b6f-97fb-aadcf4183762",
+        "area": {
+          "id": "82f3a697-ba65-404d-a1ed-360147af7d10",
+          "type-id": null,
+          "type": null,
+          "disambiguation": "",
+          "name": "San Diego",
+          "sort-name": "San Diego"
+        },
+        "ipis": [],
+        "end-area": null,
+        "gender": null,
+        "name": "Lisa Sanders & Brown Sugar",
+        "isnis": [],
+        "relations": [
+          {
+            "type": "social network",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.facebook.com/LisasandersBrownsugar",
+              "id": "c4dece1e-5532-4531-99db-99563945251e"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          }
+        ],
+        "sort-name": "Sanders, Lisa & Sugar, Brown"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Mark Montijo\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:21:57.659Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Peggy Watson & David Beldock\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:21:58.759Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Shawn Rholf\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:22:05.018Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"James Lee Stanley\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:22:10.348Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "00ddeeba-11a8-46a9-bcac-0e5fbc4f4008",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "James Lee Stanley",
+            "sort-name": "Stanley, James Lee",
+            "gender": "male",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Philadelphia",
+              "sort-name": "Philadelphia",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000057467489"
+            ],
+            "life-span": {
+              "begin": "1946-04-30",
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/00ddeeba-11a8-46a9-bcac-0e5fbc4f4008?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "sort-name": "Stanley, James Lee",
+        "relations": [
+          {
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "attribute-values": {},
+            "type": "allmusic",
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "url": {
+              "id": "0a697ccb-0371-44df-ae31-58ef23175b94",
+              "resource": "https://www.allmusic.com/artist/mn0000124971"
+            },
+            "direction": "forward"
+          },
+          {
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.discogs.com/artist/461534",
+              "id": "e36eab8f-7f53-441e-a7dc-c0388d3f7f3d"
+            },
+            "type": "discogs",
+            "attribute-values": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type": "IMDb",
+            "attribute-values": {},
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+            "url": {
+              "resource": "https://www.imdb.com/name/nm0822508/",
+              "id": "f103db76-e448-4236-aa4e-868391fffd04"
+            },
+            "direction": "forward"
+          },
+          {
+            "target-credit": "",
+            "type": "last.fm",
+            "attribute-values": {},
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "direction": "forward",
+            "url": {
+              "id": "0ede817c-55be-41db-82a9-28db1e9f70a3",
+              "resource": "https://www.last.fm/music/James+Lee+Stanley"
+            },
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "url": {
+              "resource": "https://jamesleestanley.com/",
+              "id": "06699934-e922-4852-9083-2016b1a59176"
+            },
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "type": "official homepage",
+            "attribute-values": {},
+            "target-credit": ""
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "c06a1e98-b867-4a1a-9ab5-213559da285e",
+              "resource": "https://rateyourmusic.com/artist/james_lee_stanley"
+            },
+            "direction": "forward",
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "type": "other databases",
+            "attribute-values": {},
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "id": "ced466bb-e51a-400b-81d3-2180ac10895f",
+              "resource": "https://www.setlist.fm/setlists/james-lee-stanley-7bd3ce9c.html"
+            },
+            "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+            "attribute-values": {},
+            "type": "setlistfm",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "resource": "https://twitter.com/jamesleestanley",
+              "id": "7efd68ef-f705-4976-a783-22e9d7feab76"
+            },
+            "attribute-values": {},
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "attribute-values": {},
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "url": {
+              "id": "4c35eded-4252-4257-84d1-b37523959be7",
+              "resource": "https://www.facebook.com/James-Lee-Stanley-204118426762"
+            },
+            "direction": "forward",
+            "target-credit": ""
+          },
+          {
+            "target-credit": "",
+            "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+            "attribute-values": {},
+            "type": "VIAF",
+            "direction": "forward",
+            "url": {
+              "resource": "http://viaf.org/viaf/79856416",
+              "id": "6465bc09-9e88-4861-b9d8-7ffd24d328fd"
+            },
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "url": {
+              "id": "15f17407-ce0c-4c48-888b-c83fef36fc77",
+              "resource": "https://www.wikidata.org/wiki/Q15452701"
+            },
+            "direction": "forward",
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-values": {},
+            "type": "wikidata",
+            "target-credit": ""
+          }
+        ],
+        "isnis": [
+          "0000000057467489"
+        ],
+        "name": "James Lee Stanley",
+        "gender": "Male",
+        "end-area": null,
+        "area": {
+          "type-id": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type": null,
+          "disambiguation": "",
+          "name": "United States",
+          "sort-name": "United States"
+        },
+        "ipis": [],
+        "id": "00ddeeba-11a8-46a9-bcac-0e5fbc4f4008",
+        "disambiguation": "",
+        "country": "US",
+        "begin-area": {
+          "type": null,
+          "type-id": null,
+          "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+          "name": "Philadelphia",
+          "disambiguation": "",
+          "sort-name": "Philadelphia"
+        },
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "life-span": {
+          "ended": false,
+          "end": null,
+          "begin": "1946-04-30"
+        },
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Sun Burnette\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:22:11.675Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Cory Lomberg\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:22:12.725Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Sorry Baby\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:22:19.076Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Tony Jupiter\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:22:24.410Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "c0606331-4a88-46aa-95f5-a4736bfad3d1",
+            "score": 100,
+            "name": "Tony Jupiter",
+            "sort-name": "Tony Jupiter",
+            "area": {
+              "id": "b1a61563-a0c7-4bca-af23-66892a3c0115",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "El Paso",
+              "sort-name": "El Paso",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/c0606331-4a88-46aa-95f5-a4736bfad3d1?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "country": "US",
+        "type-id": null,
+        "name": "Tony Jupiter",
+        "gender-id": null,
+        "gender": null,
+        "sort-name": "Tony Jupiter",
+        "isnis": [],
+        "type": null,
+        "end-area": null,
+        "area": {
+          "id": "b1a61563-a0c7-4bca-af23-66892a3c0115",
+          "type-id": null,
+          "name": "El Paso",
+          "sort-name": "El Paso",
+          "type": null,
+          "disambiguation": ""
+        },
+        "id": "c0606331-4a88-46aa-95f5-a4736bfad3d1",
+        "ipis": [],
+        "life-span": {
+          "begin": null,
+          "end": null,
+          "ended": false
+        },
+        "begin-area": null,
+        "relations": [
+          {
+            "begin": null,
+            "attribute-values": {},
+            "target-credit": "",
+            "type": "social network",
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-ids": {},
+            "ended": false,
+            "end": null,
+            "source-credit": "",
+            "url": {
+              "id": "2ad3cc3c-86f0-4d89-9270-d17fe35bbfc2",
+              "resource": "https://www.instagram.com/tony__jupiter/"
+            },
+            "target-type": "url",
+            "attributes": []
+          }
+        ],
+        "disambiguation": ""
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Infekt\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:22:25.770Z",
+        "count": 6,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "41d95b1d-643b-441d-bc9e-aa3ad732b7b1",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "INFEKT",
+            "sort-name": "INFEKT",
+            "gender": "male",
+            "area": {
+              "id": "c3cc624e-b963-49cf-ad0b-e318cb341963",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Montréal",
+              "sort-name": "Montréal",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Germany",
+              "sort-name": "Germany",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "German dubstep producer and DJ",
+            "life-span": {
+              "begin": "1997",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "argus the dragon",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "argus the dragon",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Fial, Christian",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Christian Fial",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 1,
+                "name": "electronic"
+              },
+              {
+                "count": 3,
+                "name": "dubstep"
+              },
+              {
+                "count": 0,
+                "name": "riddim dubstep"
+              }
+            ]
+          },
+          {
+            "id": "f4573b57-6a79-4d5f-8ba0-f9f12e242cc5",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 86,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "infekt",
+            "sort-name": "infekt",
+            "gender": "male",
+            "disambiguation": "German Rapper",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "e7559cfb-953f-4ae4-861f-4115c112fa80",
+            "score": 86,
+            "name": "Infekt",
+            "sort-name": "Infekt",
+            "disambiguation": "Hard House Type",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "42068d70-6c3d-4234-b903-2b69d08bbfab",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 78,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Glatteis Infekt",
+            "sort-name": "Glatteis Infekt",
+            "gender": "male",
+            "disambiguation": "Ice",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "c94c2f95-b13e-449b-8af2-9224b51658ac",
+            "score": 78,
+            "name": "Nano Infekt",
+            "sort-name": "Nano Infekt",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "932c9431-1d2e-49c7-bb05-24a7846db861",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 78,
+            "name": "Sekt Infekt",
+            "sort-name": "Sekt Infekt",
+            "country": "FR",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "France",
+              "sort-name": "France",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "hip hop"
+              },
+              {
+                "count": 1,
+                "name": "underground hip hop"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/41d95b1d-643b-441d-bc9e-aa3ad732b7b1?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "gender": "Male",
+        "name": "INFEKT",
+        "type": "Person",
+        "country": "CA",
+        "isnis": [],
+        "end-area": null,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "sort-name": "INFEKT",
+        "area": {
+          "disambiguation": "city",
+          "name": "Montréal",
+          "type-id": null,
+          "sort-name": "Montréal",
+          "id": "c3cc624e-b963-49cf-ad0b-e318cb341963",
+          "type": null
+        },
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "German dubstep producer and DJ",
+        "ipis": [],
+        "begin-area": {
+          "iso-3166-1-codes": [
+            "DE"
+          ],
+          "sort-name": "Germany",
+          "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+          "type": null,
+          "name": "Germany",
+          "disambiguation": "",
+          "type-id": null
+        },
+        "relations": [
+          {
+            "type": "bandcamp",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "eae5e061-e5fe-4453-a606-27c6fe05d44d",
+              "resource": "https://infektdubstep.bandcamp.com/"
+            },
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "attribute-values": {},
+            "source-credit": ""
+          },
+          {
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://infektdubstep.com/",
+              "id": "8ee110c8-ba2d-47b5-8d77-343261ef80cc"
+            },
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "blog",
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "ended": false,
+            "attribute-ids": {},
+            "type": "discogs",
+            "target-credit": "",
+            "url": {
+              "id": "3f4f213f-5815-46f2-a23e-72011a96726e",
+              "resource": "https://www.discogs.com/artist/4193882"
+            },
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4"
+          },
+          {
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "resource": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl",
+              "id": "b25684f9-adca-4ccc-9f5a-b9e31c16f735"
+            },
+            "target-credit": "",
+            "type": "free streaming",
+            "attribute-ids": {},
+            "ended": false
+          },
+          {
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-ids": {},
+            "ended": false,
+            "type": "free streaming",
+            "begin": null,
+            "url": {
+              "resource": "https://www.deezer.com/artist/4740692",
+              "id": "07bc8323-1d45-4d39-bd96-4305a7275271"
+            },
+            "target-credit": "",
+            "attributes": []
+          },
+          {
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://infektdubstep.com/",
+              "id": "8ee110c8-ba2d-47b5-8d77-343261ef80cc"
+            },
+            "type": "official homepage",
+            "attribute-ids": {},
+            "ended": false
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "type": "patronage",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "1c17da69-bb82-46a6-92d5-296195fa1645",
+              "resource": "https://www.patreon.com/infektdubstep"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "6f77d54e-1d81-4e1a-9ea5-37947577151b"
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "ended": false,
+            "attribute-ids": {},
+            "type": "purchase for download",
+            "target-credit": "",
+            "url": {
+              "id": "40cc996f-e5d0-41a3-8750-6a4e50943068",
+              "resource": "https://music.apple.com/de/artist/329193923"
+            },
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "0fc5a56b-b1c1-4753-bc5a-1ee5eaaa7ad6",
+              "resource": "https://open.qobuz.com/artist/1954917"
+            },
+            "type": "purchase for download",
+            "attribute-ids": {},
+            "ended": false
+          },
+          {
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "19835fe6-c46e-49ef-86b3-08d021440eed",
+              "resource": "https://www.beatport.com/artist/infekt/1820"
+            },
+            "begin": null,
+            "type": "purchase for download",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+            "attribute-values": {},
+            "source-credit": "",
+            "type": "setlistfm",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "9b118eb3-9997-40c2-9f6f-923d54026695",
+              "resource": "https://www.setlist.fm/setlists/infekt-73cedeb1.html"
+            }
+          },
+          {
+            "type": "social network",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "id": "e3d5e96c-6536-4059-8b37-9765fe292240",
+              "resource": "https://twitter.com/infektdubstep"
+            },
+            "target-credit": "",
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "source-credit": "",
+            "attribute-values": {}
+          },
+          {
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "url": {
+              "resource": "https://www.facebook.com/infektdubstep",
+              "id": "747e838d-6f01-4f42-9e29-1bc259e67b46"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "social network"
+          },
+          {
+            "url": {
+              "id": "6a9117ee-1b8f-4ea5-aca5-bbb17c0ed381",
+              "resource": "https://www.instagram.com/infektdubstep/"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "social network",
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null
+          },
+          {
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "url": {
+              "resource": "https://soundcloud.com/infektdubstep",
+              "id": "3e3322d9-f099-43ec-9ffb-f694b1305c3b"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type": "soundcloud",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "ended": false,
+            "attribute-ids": {},
+            "type": "streaming",
+            "url": {
+              "resource": "https://music.apple.com/de/artist/329193923",
+              "id": "40cc996f-e5d0-41a3-8750-6a4e50943068"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+          },
+          {
+            "type": "streaming",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "resource": "https://music.apple.com/gb/artist/1453048408",
+              "id": "f1122a0f-a0d9-47c7-9bd2-0424783d2efd"
+            },
+            "target-credit": "",
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "source-credit": ""
+          },
+          {
+            "url": {
+              "resource": "https://open.qobuz.com/artist/1954917",
+              "id": "0fc5a56b-b1c1-4753-bc5a-1ee5eaaa7ad6"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "streaming",
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null
+          },
+          {
+            "ended": false,
+            "attribute-ids": {},
+            "type": "streaming",
+            "target-credit": "",
+            "url": {
+              "resource": "https://tidal.com/artist/5109338",
+              "id": "f5ff0759-97b0-4201-9192-b925044f57ec"
+            },
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+          },
+          {
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "url": {
+              "id": "1f45eb0f-0762-41c7-9deb-7e50f3ec9657",
+              "resource": "https://www.youtube.com/channel/UCsHiRKtWLjTcqxTF8_GtmcQ"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type": "youtube",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "ended": false,
+            "attribute-ids": {},
+            "type": "youtube music",
+            "target-credit": "",
+            "url": {
+              "id": "15729cfb-0cb3-42c7-8faa-a36adcf31c50",
+              "resource": "https://music.youtube.com/channel/UCv0GPYTAiqLSqW1BLRYTfEQ"
+            },
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4"
+          }
+        ],
+        "life-span": {
+          "begin": "1997",
+          "ended": false,
+          "end": null
+        },
+        "id": "41d95b1d-643b-441d-bc9e-aa3ad732b7b1"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"The Resistance\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:22:33.087Z",
+        "count": 17,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "785cc25b-de4e-47a1-a9de-8b9b9cc999ff",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "The Resistance",
+            "sort-name": "Resistance, The",
+            "country": "SE",
+            "area": {
+              "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Sweden",
+              "sort-name": "Sweden",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Swedish metal band",
+            "life-span": {
+              "begin": "2011",
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Incorrect form",
+                "name": "Resistance",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Resistance (SWE)",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "The Resistance (SWE)",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          },
+          {
+            "id": "7fbcda69-e2c2-4e28-813e-3ca53b7ee4e0",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 96,
+            "name": "The Resistance",
+            "sort-name": "Resistance, The",
+            "country": "CA",
+            "area": {
+              "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Canada",
+              "sort-name": "Canada",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "81960a9f-d81a-4ccb-9417-b4bc15224bc8",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Selkirk",
+              "sort-name": "Selkirk",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Canadian punk band",
+            "life-span": {
+              "begin": "2002",
+              "end": "2007",
+              "ended": true
+            }
+          },
+          {
+            "id": "23ce0f1f-b261-47ef-923f-9e01355c68df",
+            "score": 92,
+            "name": "The Resistance",
+            "sort-name": "Resistance, The",
+            "country": "NL",
+            "area": {
+              "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Netherlands",
+              "sort-name": "Netherlands",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "hardstyle, Jeroen van Bodegom",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "103d515f-3b54-4ec9-9f0e-f3a9388a1a1f",
+            "score": 92,
+            "name": "The Resistance",
+            "sort-name": "Resistance, The",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "christian rappers",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "55f7bb32-8834-4f8f-b380-a25bb90f4304",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 91,
+            "name": "The Resistance",
+            "sort-name": "Resistance, The",
+            "area": {
+              "id": "11ba7f4f-3fb9-4b4b-a72f-ab1cd9c37d99",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Cambridge",
+              "sort-name": "Cambridge",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "The Psychedelic Resistance",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "e7afe8cb-7353-45b0-82b0-bdafe00828b3",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 91,
+            "name": "The Resistance",
+            "sort-name": "The Resistance",
+            "disambiguation": "Trance/techno collaboration between EverLight and Tasso",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "a1948211-049a-4cd7-acc3-08d87f9219d8",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 91,
+            "name": "The Resistance",
+            "sort-name": "The Resistance",
+            "area": {
+              "id": "6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Vancouver",
+              "sort-name": "Vancouver",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "80s Vancouver punk band",
+            "life-span": {
+              "ended": true
+            }
+          },
+          {
+            "id": "b944dc0e-0278-42a5-b22e-1f974760beb5",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 91,
+            "name": "The Resistance",
+            "sort-name": "The Resistance",
+            "area": {
+              "id": "c3cc624e-b963-49cf-ad0b-e318cb341963",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Montréal",
+              "sort-name": "Montréal",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Punk band from Montréal",
+            "life-span": {
+              "begin": "2013",
+              "ended": null
+            }
+          },
+          {
+            "id": "5a589678-9368-43df-827c-0b415556f17b",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 91,
+            "name": "THE RESISTANCE",
+            "sort-name": "RESISTANCE, THE",
+            "disambiguation": "dubstep / riddim group",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "782b1594-6b4f-4d05-9a76-32f8d60b3173",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 91,
+            "name": "The Resistance",
+            "sort-name": "The Resistance",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "e0343b8e-1eff-47ee-a64f-2e3df0d8e8e8",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Eugene",
+              "sort-name": "Eugene",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Post-punk band from Oregon",
+            "life-span": {
+              "ended": true
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "post-punk"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/785cc25b-de4e-47a1-a9de-8b9b9cc999ff?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "disambiguation": "Swedish metal band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "relations": [
+          {
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "resource": "https://www.metal-archives.com/bands/The_Resistance/3540358780",
+              "id": "fa2e1afc-2746-4f6a-bb5e-64858d6a91f6"
+            },
+            "target-credit": "",
+            "type": "other databases",
+            "attribute-ids": {},
+            "ended": false,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "direction": "forward",
+            "target-type": "url"
+          },
+          {
+            "type": "social network",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "id": "91729f49-9627-40d3-99bf-186bd03a37cd",
+              "resource": "https://www.facebook.com/theresistanceswe"
+            },
+            "target-credit": "",
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "source-credit": ""
+          },
+          {
+            "type": "wikidata",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "resource": "https://www.wikidata.org/wiki/Q3988979",
+              "id": "0227a41f-7ee5-4876-a4c1-509b13bde932"
+            },
+            "target-credit": "",
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-values": {},
+            "source-credit": ""
+          },
+          {
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "begin": null,
+            "url": {
+              "resource": "https://en.wikipedia.org/wiki/The_Resistance_(Swedish_band)",
+              "id": "499491ab-cf64-4b88-8e35-0863ed602c35"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "wikipedia"
+          }
+        ],
+        "life-span": {
+          "begin": "2011",
+          "ended": false,
+          "end": null
+        },
+        "id": "785cc25b-de4e-47a1-a9de-8b9b9cc999ff",
+        "ipis": [],
+        "begin-area": null,
+        "name": "The Resistance",
+        "gender": null,
+        "sort-name": "Resistance, The",
+        "area": {
+          "name": "Sweden",
+          "disambiguation": "",
+          "type-id": null,
+          "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+          "iso-3166-1-codes": [
+            "SE"
+          ],
+          "sort-name": "Sweden",
+          "type": null
+        },
+        "end-area": null,
+        "type": "Group",
+        "country": "SE",
+        "isnis": [],
+        "gender-id": null
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"The Transit War: Love & War\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:22:34.367Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Love Letter\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:22:40.658Z",
+        "count": 13,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "5b9dca0e-64e9-4036-b9a2-567cbca9d1ce",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Love Letter",
+            "sort-name": "Love Letter",
+            "area": {
+              "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Los Angeles",
+              "sort-name": "Los Angeles",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "California screamo/post-hardcore",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "6b5e8c2d-6c09-462b-9535-fe21a0ae61ae",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 99,
+            "name": "Love Letter",
+            "sort-name": "Love Letter",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Melo hardcore band with ex members of Defeater",
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "post-hardcore"
+              }
+            ]
+          },
+          {
+            "id": "382f82dd-94ab-4202-94c8-3e638f6efa41",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 98,
+            "name": "Love Letter",
+            "sort-name": "Love Letter",
+            "disambiguation": "alternative rock",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "e9ef0393-3872-4c97-b604-af11435b48ca",
+            "score": 97,
+            "name": "Love Letter",
+            "sort-name": "Love Letter",
+            "disambiguation": "Just Dance",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "5f120b88-2fc3-499c-b4d9-e0b542be75e5",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 97,
+            "name": "love letter",
+            "sort-name": "love letter",
+            "country": "JP",
+            "area": {
+              "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Japan",
+              "sort-name": "Japan",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Japanese visual kei",
+            "life-span": {
+              "begin": "2000-05-01",
+              "ended": true
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "visual kei"
+              }
+            ]
+          },
+          {
+            "id": "aa472da6-117e-4c19-8f5a-71b8bb806550",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 90,
+            "name": "The Love Letter Band",
+            "sort-name": "Love Letter Band, The",
+            "life-span": {
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "The Loveletter Band",
+                "name": "The Loveletter Band",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          },
+          {
+            "id": "4438c3ca-3739-4967-8eaa-c4ae560588d8",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 90,
+            "name": "vivid[love]letter",
+            "sort-name": "vivid[love]letter",
+            "area": {
+              "id": "30bcaa92-9870-4798-be1a-4e0036755316",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Osaka",
+              "sort-name": "Osaka",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Japanese visual kei",
+            "life-span": {
+              "begin": "1998",
+              "end": "2004",
+              "ended": true
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "visual kei"
+              }
+            ]
+          },
+          {
+            "id": "88fc3bda-4f72-4f58-bc8c-dba554329e35",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 89,
+            "name": "Love Letter Lost",
+            "sort-name": "Love Letter Lost",
+            "area": {
+              "id": "689306d8-34dd-4081-afa6-88c9d49117e2",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Guangzhou",
+              "sort-name": "Guangzhou",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "dbb17fd5-e25b-4df8-a24f-6a60dc85bab7",
+            "score": 89,
+            "name": "undefined love letter",
+            "sort-name": "undefined love letter",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "a286f4f6-54c1-49e5-a281-7e071ce85cbf",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 89,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Love Letter Lane",
+            "sort-name": "Love Letter Lane",
+            "gender": "male",
+            "disambiguation": "brennon lane",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/5b9dca0e-64e9-4036-b9a2-567cbca9d1ce?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "area": {
+          "type": null,
+          "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+          "sort-name": "Los Angeles",
+          "type-id": null,
+          "disambiguation": "",
+          "name": "Los Angeles"
+        },
+        "sort-name": "Love Letter",
+        "gender-id": null,
+        "end-area": null,
+        "type": "Group",
+        "isnis": [],
+        "country": "US",
+        "name": "Love Letter",
+        "gender": null,
+        "id": "5b9dca0e-64e9-4036-b9a2-567cbca9d1ce",
+        "life-span": {
+          "end": null,
+          "begin": null,
+          "ended": false
+        },
+        "relations": [
+          {
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "id": "0608b58d-5b47-4bba-acb2-a2d50ed8a9ce",
+              "resource": "https://open.spotify.com/artist/58dOfabvkhScGZJNO2HONt"
+            },
+            "target-credit": "",
+            "type": "free streaming",
+            "attribute-ids": {},
+            "ended": false
+          },
+          {
+            "ended": false,
+            "attribute-ids": {},
+            "type": "social network",
+            "target-credit": "",
+            "url": {
+              "id": "04b38279-2fdc-4bb1-87eb-3cd5b7559c91",
+              "resource": "https://www.instagram.com/love_letter_band/"
+            },
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+          }
+        ],
+        "begin-area": null,
+        "ipis": [],
+        "disambiguation": "California screamo/post-hardcore",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Barely Alive\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:22:47.090Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "3a0719ac-28d4-4202-8362-fe76acc2f6a6",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "BARELY ALIVE",
+            "sort-name": "BARELY ALIVE",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "05f68b4c-10f3-49b5-b28c-260a1b707043",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "Massachusetts",
+              "sort-name": "Massachusetts",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "US electronic music production duo",
+            "isnis": [
+              "0000000470992404"
+            ],
+            "life-span": {
+              "begin": "2013",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 3,
+                "name": "electronic"
+              },
+              {
+                "count": 6,
+                "name": "dubstep"
+              },
+              {
+                "count": 1,
+                "name": "electro house"
+              },
+              {
+                "count": 2,
+                "name": "edm"
+              },
+              {
+                "count": 2,
+                "name": "brostep"
+              },
+              {
+                "count": 1,
+                "name": "trap"
+              },
+              {
+                "count": 2,
+                "name": "complextro"
+              },
+              {
+                "count": 1,
+                "name": "riddim dubstep"
+              },
+              {
+                "count": 1,
+                "name": "briddim"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/3a0719ac-28d4-4202-8362-fe76acc2f6a6?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "country": "US",
+        "disambiguation": "US electronic music production duo",
+        "begin-area": {
+          "sort-name": "Massachusetts",
+          "iso-3166-2-codes": [
+            "US-MA"
+          ],
+          "name": "Massachusetts",
+          "disambiguation": "",
+          "type": null,
+          "id": "05f68b4c-10f3-49b5-b28c-260a1b707043",
+          "type-id": null
+        },
+        "gender-id": null,
+        "life-span": {
+          "ended": false,
+          "begin": "2013",
+          "end": null
+        },
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "sort-name": "BARELY ALIVE",
+        "relations": [
+          {
+            "attribute-values": {},
+            "type": "bandsintown",
+            "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+            "url": {
+              "resource": "https://www.bandsintown.com/a/1519791",
+              "id": "d2186ae9-85db-40e9-b0c8-93fe12aef981"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "target-credit": "",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attribute-values": {},
+            "type": "discogs",
+            "url": {
+              "resource": "https://www.discogs.com/artist/3619817",
+              "id": "6d5a75f5-741d-4659-a1a7-5e8861cd0646"
+            },
+            "direction": "forward",
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type": "free streaming",
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "url": {
+              "id": "0b3326e7-aa28-4481-973f-1bf498347f0c",
+              "resource": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+            }
+          },
+          {
+            "target-credit": "",
+            "type": "free streaming",
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "url": {
+              "id": "b5600556-63c9-439c-a5f5-6207c16a8169",
+              "resource": "https://www.deezer.com/artist/4630087"
+            },
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "url": {
+              "id": "c8a7a379-27c7-4bf0-9ee4-de20fe1238e1",
+              "resource": "https://genius.com/artists/Barely-alive"
+            },
+            "direction": "forward",
+            "type": "lyrics",
+            "attribute-values": {},
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "df164bbe-e4b8-456b-a723-506a8325eb73",
+              "resource": "http://barelyalivemusic.com/"
+            },
+            "direction": "forward",
+            "type": "official homepage",
+            "attribute-values": {},
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "b26c0589-bb76-4d86-8ba1-dc905423ecbc",
+              "resource": "https://rateyourmusic.com/artist/barely_alive"
+            },
+            "direction": "forward",
+            "type": "other databases",
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "attribute-ids": {},
+            "ended": true,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": "2020-10-12",
+            "target-credit": "",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "type": "purchase for download",
+            "url": {
+              "resource": "https://play.google.com/store/music/artist?id=Ad2gh5kl3tkyiro2m4hnuybrseu",
+              "id": "d3dd75cc-289a-4f85-800e-70c4d6418cb9"
+            },
+            "direction": "forward"
+          },
+          {
+            "type": "purchase for download",
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "direction": "forward",
+            "url": {
+              "resource": "https://itunes.apple.com/us/artist/id634813449",
+              "id": "08049005-c205-4d3a-9ecd-1c22617562bb"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "id": "1c31e634-af9d-4a9e-a71b-203b453cd82d",
+              "resource": "https://open.qobuz.com/artist/1288685"
+            },
+            "type": "purchase for download",
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "type": "purchase for download",
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "direction": "forward",
+            "url": {
+              "id": "2a8b6393-b603-4049-ad93-107b8f239081",
+              "resource": "https://us.7digital.com/artist/barely-alive"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.beatport.com/artist/barely-alive/328639",
+              "id": "6b00c634-ee54-46c1-98f5-1fd5dc052bfc"
+            },
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "type": "purchase for download",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type": "purchase for download",
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "direction": "forward",
+            "url": {
+              "id": "8f1b6208-da8b-4357-8913-0d9600cb8b73",
+              "resource": "http://www.junodownload.com/artists/Barely+Alive/"
+            }
+          },
+          {
+            "target-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "type": "social network",
+            "direction": "forward",
+            "url": {
+              "resource": "https://twitter.com/BarelyAliveUS",
+              "id": "0c1b88f9-5227-444d-93b4-faca636b1c6e"
+            },
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.facebook.com/barelyalivemusic",
+              "id": "39451e3f-d5af-491e-8a77-9f85236a3d8a"
+            },
+            "type": "social network",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "direction": "forward",
+            "url": {
+              "id": "016dfd1d-338e-4d32-982a-f20d71ed2fe8",
+              "resource": "https://www.instagram.com/BarelyAlive/"
+            },
+            "attribute-values": {},
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "target-credit": ""
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": true,
+            "attribute-ids": {},
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.instagram.com/BarelyAliveUS/",
+              "id": "171b96b9-9d31-4083-8191-7923a477e2d2"
+            },
+            "type": "social network",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "target-credit": ""
+          },
+          {
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type": "songkick",
+            "attribute-values": {},
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "direction": "forward",
+            "url": {
+              "id": "40413f1a-cd73-4f79-a557-b9941a10c8fa",
+              "resource": "https://www.songkick.com/artists/8052073"
+            }
+          },
+          {
+            "attribute-values": {},
+            "type": "soundcloud",
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "direction": "forward",
+            "url": {
+              "id": "4b6225a8-dac2-4c9f-8c82-16021b07004f",
+              "resource": "https://soundcloud.com/barelyalive"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "direction": "forward",
+            "url": {
+              "resource": "https://music.apple.com/us/artist/634813449",
+              "id": "7c5e2675-7bc6-447f-bc96-31768f3cbc19"
+            },
+            "type": "streaming",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "target-credit": ""
+          },
+          {
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "type": "streaming",
+            "attribute-values": {},
+            "direction": "forward",
+            "url": {
+              "resource": "https://open.qobuz.com/artist/1288685",
+              "id": "1c31e634-af9d-4a9e-a71b-203b453cd82d"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null
+          },
+          {
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "id": "c5ffa80a-06a8-45f8-a68b-3ff3e249ac1d",
+              "resource": "https://tidal.com/artist/4895016"
+            },
+            "type": "streaming",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "type": "streaming",
+            "direction": "forward",
+            "url": {
+              "id": "729dff8e-c0e4-430a-8201-a045bd655068",
+              "resource": "https://tidal.com/artist/82063911"
+            }
+          },
+          {
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "type": "wikidata",
+            "attribute-values": {},
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "url": {
+              "id": "c1081926-5a20-4805-b961-d4c9c6f9e5dc",
+              "resource": "https://www.wikidata.org/wiki/Q104431809"
+            },
+            "direction": "forward",
+            "target-credit": ""
+          },
+          {
+            "attribute-values": {},
+            "type": "youtube",
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "url": {
+              "resource": "https://www.youtube.com/channel/UC9YL0Ynyj0f7tdX3ns5OQBw",
+              "id": "ab5368a9-566b-4f17-944d-c90d3aade72d"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+            "attribute-values": {},
+            "type": "youtube music",
+            "direction": "forward",
+            "url": {
+              "resource": "https://music.youtube.com/channel/UCa0Qet1jCEeMzPHrsmdw8TQ",
+              "id": "113a82dd-db9e-4bbd-ac1a-8486bb86cd14"
+            }
+          }
+        ],
+        "isnis": [
+          "0000000470992404"
+        ],
+        "gender": null,
+        "name": "BARELY ALIVE",
+        "end-area": null,
+        "ipis": [],
+        "area": {
+          "sort-name": "United States",
+          "disambiguation": "",
+          "name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type-id": null,
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ]
+        },
+        "id": "3a0719ac-28d4-4202-8362-fe76acc2f6a6"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Ron Gallo\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:22:48.372Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "d0acf0a0-d4fe-458f-be0c-efa88198ed7a",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Ron Gallo",
+            "sort-name": "Gallo, Ron",
+            "gender": "male",
+            "area": {
+              "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Philadelphia",
+              "sort-name": "Philadelphia",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "a36544c1-cb40-4f44-9e0e-7a5a69e403a8",
+              "type": "Subdivision",
+              "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+              "name": "New Jersey",
+              "sort-name": "New Jersey",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "000000046315519X"
+            ],
+            "life-span": {
+              "begin": "1987",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "singer-songwriter"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "/artist/d0acf0a0-d4fe-458f-be0c-efa88198ed7a?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "area": {
+          "name": "Philadelphia",
+          "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+          "type": null,
+          "sort-name": "Philadelphia",
+          "disambiguation": "",
+          "type-id": null
+        },
+        "gender": "Male",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Gallo, Ron",
+        "id": "d0acf0a0-d4fe-458f-be0c-efa88198ed7a",
+        "isnis": [
+          "000000046315519X"
+        ],
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "type": "Person",
+        "relations": [
+          {
+            "target-type": "url",
+            "type": "allmusic",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "url": {
+              "resource": "https://www.allmusic.com/artist/mn0002469081",
+              "id": "2c1a13d5-8c92-4c23-8194-81d7d8f4164e"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "end": null
+          },
+          {
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "bandcamp",
+            "target-credit": "",
+            "url": {
+              "id": "e364aa1f-d60f-4f5c-94a8-b0167aecfc69",
+              "resource": "https://rongallo.bandcamp.com/"
+            },
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88"
+          },
+          {
+            "attribute-values": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "target-credit": "",
+            "url": {
+              "id": "6440223e-473c-4742-bda7-032fb4ccb2ab",
+              "resource": "https://www.discogs.com/artist/5535617"
+            },
+            "target-type": "url",
+            "type": "discogs",
+            "ended": false,
+            "begin": null,
+            "source-credit": ""
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "79287556-a953-41af-b95f-f36167eb578a",
+              "resource": "https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg"
+            },
+            "type": "free streaming",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {}
+          },
+          {
+            "url": {
+              "resource": "https://www.deezer.com/artist/6037684",
+              "id": "afb8fa02-6824-4eba-9568-ff9a66a66c79"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "free streaming",
+            "target-type": "url",
+            "end": null,
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": []
+          },
+          {
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "IMDb",
+            "target-type": "url",
+            "url": {
+              "resource": "https://www.imdb.com/name/nm6463660/",
+              "id": "f211abfd-a85a-4259-958e-4877cb8e7536"
+            },
+            "target-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+            "attribute-values": {}
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "7c2f2f87-2251-4b2b-8e63-1b88c72adfb9",
+              "resource": "https://genius.com/artists/Ron-gallo"
+            },
+            "target-type": "url",
+            "type": "lyrics",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {}
+          },
+          {
+            "end": null,
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "attribute-values": {},
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "id": "637a3167-610e-4908-b664-b7fe44b330da",
+              "resource": "http://rongallomusic.com/"
+            },
+            "target-credit": "",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "official homepage"
+          },
+          {
+            "end": null,
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "url": {
+              "resource": "https://rateyourmusic.com/artist/ron-gallo",
+              "id": "4ce9ea13-6ea0-4bbf-a78e-55b2fd3ddf16"
+            },
+            "target-credit": "",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "other databases",
+            "target-type": "url"
+          },
+          {
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "purchase for download",
+            "target-type": "url",
+            "url": {
+              "resource": "https://open.qobuz.com/artist/1989741",
+              "id": "26eef174-8ea5-4b86-86c3-987a5e17d51a"
+            },
+            "target-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {}
+          },
+          {
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "target-credit": "",
+            "url": {
+              "resource": "https://twitter.com/rongallo",
+              "id": "6ae6a372-f681-4917-8e0b-d9508bf60a83"
+            },
+            "target-type": "url",
+            "type": "social network",
+            "ended": false,
+            "begin": null,
+            "source-credit": ""
+          },
+          {
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "social network",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.facebook.com/rongallomusic",
+              "id": "ede648f9-1c14-41d4-b03f-af57aa2bcb9f"
+            }
+          },
+          {
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "attribute-values": {},
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "soundcloud",
+            "target-credit": "",
+            "url": {
+              "resource": "https://soundcloud.com/rongallo",
+              "id": "cf862c2b-3d5f-48b1-8655-33bd88850269"
+            }
+          },
+          {
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "streaming",
+            "target-type": "url",
+            "url": {
+              "id": "26eef174-8ea5-4b86-86c3-987a5e17d51a",
+              "resource": "https://open.qobuz.com/artist/1989741"
+            },
+            "target-credit": "",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {}
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "cd2eb79b-e7e3-49ab-9b4a-c2e65846a728",
+              "resource": "https://tidal.com/artist/5780896"
+            },
+            "type": "streaming",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {}
+          },
+          {
+            "url": {
+              "id": "88c6449a-49d2-4b6f-8466-f9fa1766cf8f",
+              "resource": "https://www.wikidata.org/wiki/Q30315658"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "type": "wikidata",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {}
+          },
+          {
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "attribute-values": {},
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "end": null,
+            "target-type": "url",
+            "type": "youtube",
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.youtube.com/channel/UChos03-WlfQVaPCuAPH3XQg",
+              "id": "3eef11a5-34f3-4ae6-a098-88643b21586f"
+            }
+          }
+        ],
+        "begin-area": {
+          "name": "New Jersey",
+          "disambiguation": "",
+          "sort-name": "New Jersey",
+          "id": "a36544c1-cb40-4f44-9e0e-7a5a69e403a8",
+          "type-id": null,
+          "type": null,
+          "iso-3166-2-codes": [
+            "US-NJ"
+          ]
+        },
+        "life-span": {
+          "begin": "1987",
+          "ended": false,
+          "end": null
+        },
+        "end-area": null,
+        "disambiguation": "",
+        "country": "US",
+        "ipis": [],
+        "name": "Ron Gallo"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Uncle Strut\\\"\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "created": "2026-11-23T13:22:50.614Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "a51ed7ca-783a-4992-9a80-543676e3edd5",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Uncle Strut",
+            "sort-name": "Uncle Strut",
+            "area": {
+              "id": "6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Vancouver",
+              "sort-name": "Vancouver",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/a51ed7ca-783a-4992-9a80-543676e3edd5?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-23T13:19:58.977297+00:00",
+      "data": {
+        "relations": [
+          {
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "bandcamp",
+            "url": {
+              "id": "b5058523-cfe0-4e79-89b6-5546ca3c188d",
+              "resource": "https://unclestrut.bandcamp.com/"
+            },
+            "target-credit": "",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "attribute-values": {}
+          },
+          {
+            "type": "free streaming",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "id": "3f054ba0-f789-4116-9b96-a3e0f456b2b8",
+              "resource": "https://open.spotify.com/artist/6laNc8Rd1uBO9Coxv0EZez"
+            },
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "end": null
+          },
+          {
+            "end": null,
+            "attribute-values": {},
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "615f2d3f-d1a3-43a9-90fb-27115c71c6d3",
+              "resource": "https://unclestrut.com/"
+            },
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "official homepage"
+          },
+          {
+            "url": {
+              "resource": "https://www.instagram.com/uncle.strut/",
+              "id": "e6afea0b-a0b0-46a4-a590-b0f08079883b"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "type": "social network",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {}
+          }
+        ],
+        "begin-area": null,
+        "life-span": {
+          "begin": null,
+          "ended": false,
+          "end": null
+        },
+        "end-area": null,
+        "gender-id": null,
+        "type": "Group",
+        "ipis": [],
+        "name": "Uncle Strut",
+        "country": "CA",
+        "disambiguation": "",
+        "gender": null,
+        "area": {
+          "name": "Vancouver",
+          "type-id": null,
+          "type": null,
+          "id": "6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef",
+          "disambiguation": "",
+          "sort-name": "Vancouver"
+        },
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "a51ed7ca-783a-4992-9a80-543676e3edd5",
+        "sort-name": "Uncle Strut",
+        "isnis": []
+      }
     }
   }
 }
