@@ -4,6 +4,11 @@ This file tracks downloadable kit releases, not daily listing refreshes on a
 running website. The first numbered release establishes a baseline for the
 previously unnumbered kit; no historical version numbers have been invented.
 
+## v0.4.4 (2026-11-23)
+
+- Keep the search, venue filter, and result count visible at the top while
+  scrolling, with a dark gray background on desktop and mobile.
+
 ## v0.4.3 (2026-11-22)
 
 - Add verified official venue/operator websites for 18 unconfigured venues.
