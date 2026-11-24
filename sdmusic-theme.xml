@@ -3,7 +3,7 @@
   <!-- Empty color values use the site's light/dark defaults. Use #RGB or #RRGGBB. -->
   <!-- Image paths are relative to this file, e.g. images/pattern.webp, or HTTPS URLs. -->
   <!-- Repeat options: no-repeat, repeat, repeat-x, repeat-y, space, round. -->
-  <background color="" image="" repeat="no-repeat" />
+  <background color="#424242" image="" repeat="no-repeat" />
 
   <!-- Example: color="#0066cc" size="16px". Size supports px, rem, em, or %. -->
   <links color="" size="" />
