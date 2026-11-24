@@ -58,7 +58,8 @@ jobs:
         run: |
           python -c "import json; d=json.load(open('shows.json')); assert d.get('shows'), 'No listings to publish'"
           mkdir -p site
-          cp index.html shows.json VERSION site/
+          cp index.html sdmusic.css sdmusic-theme.js sdmusic-theme.xml shows.json VERSION site/
+          if [ -d images ]; then cp -R images site/; fi
           touch site/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:

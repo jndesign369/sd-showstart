@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sdmusic-theme>
+  <!-- Empty color values use the site's light/dark defaults. Use #RGB or #RRGGBB. -->
+  <!-- Image paths are relative to this file, e.g. images/pattern.webp, or HTTPS URLs. -->
+  <!-- Repeat options: no-repeat, repeat, repeat-x, repeat-y, space, round. -->
+  <background color="" image="" repeat="no-repeat" />
+
+  <!-- Example: color="#0066cc" size="16px". Size supports px, rem, em, or %. -->
+  <links color="" size="" />
+
+  <!-- Blank src hides the image. The 300 x 300 box has 10px of padding on each side. -->
+  <!-- Add a short alt description if the image conveys information. -->
+  <top-image src="" alt="" />
+</sdmusic-theme>

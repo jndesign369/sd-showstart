@@ -36,12 +36,35 @@ python -m unittest discover -s tests
 5. For an immediate refresh: Actions → Update shows → Run workflow,
    leaving “Collect fresh ConcertsSD listings before deploying” checked.
 
-Only `index.html`, `shows.json`, and `VERSION` are deployed. The lookup
-cache, Python scripts, and tests are not part of the public website.
+Only the HTML, theme files, optional `images/` folder, `shows.json`, and
+`VERSION` are deployed. Lookup caches, Python scripts, and tests are not public.
 
 The workflow makes two requests to ConcertsSD per run (their robots.txt asks
 for a 10-second crawl delay, which the collector observes) and only queries
 MusicBrainz for new names or responses older than its 30-day cache lifetime.
+
+## Change the look of the site
+
+Edit `sdmusic-theme.xml`. Empty values keep the default styling and hide the
+top image. Here is a filled-in example:
+
+```xml
+<sdmusic-theme>
+  <background color="#f4f4f4" image="images/pattern.webp" repeat="repeat" />
+  <links color="#0059a6" size="16px" />
+  <top-image src="images/header.webp" alt="San Diego Shows" />
+</sdmusic-theme>
+```
+
+Put your image files in `images/` or supply direct HTTPS URLs. The background
+can repeat in both directions (`repeat`), only horizontally (`repeat-x`), only
+vertically (`repeat-y`), or not at all (`no-repeat`). `space` and `round` are
+also supported. Choose link colors that are readable against your background.
+The top image is centered above the title in a 300 × 300 px square with 10 px
+padding on each side; it scales down on narrow screens without cropping.
+
+Preview changes using a local HTTP server or a hosted preview. Opening
+`index.html` directly from disk won't load the XML or listings.
 
 ## Keeping it accurate
 
@@ -74,7 +97,8 @@ a bounded request budget, and a pause on Bandcamp 429/503 responses. Other
 failed pages are not bypassed. Successful selections cache for seven days;
 misses retry after one day. `python listen.py --offline` only uses fresh
 cached selections and never makes network requests. There are no embeds,
-music SDKs, or third-party requests on the listings page.
+music SDKs, or third-party requests unless you configure remotely hosted theme
+images.
 
 ## Files
 
@@ -83,7 +107,10 @@ music SDKs, or third-party requests on the listings page.
 | `collect.py` | Fetch and parse ConcertsSD's by-venue page |
 | `enrich.py` | MusicBrainz artist-homepage lookups with cache |
 | `venue_links.json` | Venue names to official websites |
-| `index.html` | The whole site |
+| `index.html` | Page markup and listings behavior |
+| `sdmusic.css` | Site styles and defaults |
+| `sdmusic-theme.xml` | Editable colors, image paths, repeat, and link size |
+| `sdmusic-theme.js` | Applies the XML settings to the page |
 | `shows.json` | Generated listings |
 | `data/artist_cache.json` | Generated MusicBrainz response cache |
 | `listen.py` | Background Bandcamp track selection and Spotify fallback |
