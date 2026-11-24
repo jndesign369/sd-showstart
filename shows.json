@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-24T06:00:42-08:00",
+ "generated_at": "2026-11-24T15:58:14-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 23, 2026"
+  "updated": "November 24, 2026"
  },
  "shows": [
   {
@@ -229,16 +229,27 @@
    "venue_url": "https://sodabarmusic.com/"
   },
   {
-   "id": "the-kensington-club:2026-11-25:vinyl-wednesday",
+   "id": "the-kensington-club:2026-11-25:whatevr",
    "date": "2026-11-25",
    "venue": "The Kensington Club",
    "city": "San Diego",
    "performers": [
-    "Vinyl Wednesday"
+    "Whatevr",
+    "Fight Naked",
+    "Negative Ad"
    ],
    "artists": [
     {
-     "name": "Vinyl Wednesday"
+     "name": "Whatevr",
+     "mbid": "ef04a432-a7e3-4aac-89ae-78d3dfbccf30",
+     "listen_url": "https://open.spotify.com/artist/2GwB8DnTnNMofcrjLo2Fd7",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Fight Naked"
+    },
+    {
+     "name": "Negative Ad"
     }
    ],
    "venue_url": "https://www.kensingtonclub1935.com/"
@@ -494,6 +505,21 @@
    "venue_url": "https://theholdingcompanyob.com/"
   },
   {
+   "id": "the-kensington-club:2026-11-27:gothika-cumbia",
+   "date": "2026-11-27",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Gothika Cumbia"
+   ],
+   "artists": [
+    {
+     "name": "Gothika Cumbia"
+    }
+   ],
+   "venue_url": "https://www.kensingtonclub1935.com/"
+  },
+  {
    "id": "the-magnolia:2026-11-27:dweezil-zappa",
    "date": "2026-11-27",
    "venue": "The Magnolia",
@@ -724,16 +750,24 @@
    "venue_url": "https://www.pechangaarenasd.com/"
   },
   {
-   "id": "quartyard:2026-11-28:siesta-fiesta",
+   "id": "quartyard:2026-11-28:doc-martin",
    "date": "2026-11-28",
    "venue": "Quartyard",
    "city": "San Diego",
    "performers": [
-    "SIESTA FIESTA"
+    "Doc Martin",
+    "H Foundation",
+    "Bertin"
    ],
    "artists": [
     {
-     "name": "SIESTA FIESTA"
+     "name": "Doc Martin"
+    },
+    {
+     "name": "H Foundation"
+    },
+    {
+     "name": "Bertin"
     }
    ],
    "venue_url": "https://quartyardsd.com/"
@@ -822,6 +856,33 @@
     }
    ],
    "venue_url": "https://theholdingcompanyob.com/"
+  },
+  {
+   "id": "the-kensington-club:2026-11-28:tardigrade",
+   "date": "2026-11-28",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Tardigrade",
+    "Rio",
+    "Maedhira",
+    "Charlie Freak"
+   ],
+   "artists": [
+    {
+     "name": "Tardigrade"
+    },
+    {
+     "name": "Rio"
+    },
+    {
+     "name": "Maedhira"
+    },
+    {
+     "name": "Charlie Freak"
+    }
+   ],
+   "venue_url": "https://www.kensingtonclub1935.com/"
   },
   {
    "id": "the-observatory-north-park:2026-11-28:agent-orange",
@@ -1012,28 +1073,19 @@
    "venue_url": "https://theholdingcompanyob.com/"
   },
   {
-   "id": "whistle-stop:2026-11-29:gary-wilson",
+   "id": "the-kensington-club:2026-11-29:vinyl-wednesday",
    "date": "2026-11-29",
-   "venue": "Whistle Stop",
+   "venue": "The Kensington Club",
    "city": "San Diego",
    "performers": [
-    "Gary Wilson",
-    "Fountain Plaza"
+    "Vinyl Wednesday"
    ],
    "artists": [
     {
-     "name": "Gary Wilson",
-     "mbid": "90089f6c-419c-486d-a293-7463dc877f68",
-     "official_url": "http://www.sixpointfour.com/",
-     "listen_url": "https://garywilsonmusic.bandcamp.com/track/lisa-wants-to-talk-to-you",
-     "listen_service": "Bandcamp",
-     "listen_title": "Lisa Wants To Talk To You"
-    },
-    {
-     "name": "Fountain Plaza"
+     "name": "Vinyl Wednesday"
     }
    ],
-   "venue_url": "https://whistlestopbar.com/"
+   "venue_url": "https://www.kensingtonclub1935.com/"
   },
   {
    "id": "belly-up-tavern:2026-11-30:the-james-hunter-six",
@@ -1529,6 +1581,29 @@
    "venue_url": "https://theholdingcompanyob.com/"
   },
   {
+   "id": "the-kensington-club:2026-12-03:promised-paradigm",
+   "date": "2026-12-03",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Promised Paradigm",
+    "Outcold",
+    "Candour"
+   ],
+   "artists": [
+    {
+     "name": "Promised Paradigm"
+    },
+    {
+     "name": "Outcold"
+    },
+    {
+     "name": "Candour"
+    }
+   ],
+   "venue_url": "https://www.kensingtonclub1935.com/"
+  },
+  {
    "id": "the-magnolia:2026-12-03:alicia-villarreal",
    "date": "2026-12-03",
    "venue": "The Magnolia",
@@ -1545,29 +1620,6 @@
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
-  },
-  {
-   "id": "whistle-stop:2026-12-03:dagmar-zuniga",
-   "date": "2026-12-03",
-   "venue": "Whistle Stop",
-   "city": "San Diego",
-   "performers": [
-    "Dagmar Zuniga",
-    "Dj Mitchum Yacoub"
-   ],
-   "artists": [
-    {
-     "name": "Dagmar Zuniga",
-     "mbid": "9542584f-d6c4-4e8b-bb14-bba52bd15b32",
-     "listen_url": "https://dagmarzuniga.bandcamp.com/track/even-god-gets-stuck-in-devotion-featuring-austyn-wohlers",
-     "listen_service": "Bandcamp",
-     "listen_title": "Even God Gets Stuck In Devotion featuring Austyn Wohlers"
-    },
-    {
-     "name": "Dj Mitchum Yacoub"
-    }
-   ],
-   "venue_url": "https://whistlestopbar.com/"
   },
   {
    "id": "3oz-dive-club:2026-12-04:x3butterfly",
@@ -1804,6 +1856,29 @@
     }
    ],
    "venue_url": "https://theholdingcompanyob.com/"
+  },
+  {
+   "id": "the-kensington-club:2026-12-04:los-chillones",
+   "date": "2026-12-04",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Los Chillones",
+    "Someday Bloom",
+    "Qecsnha"
+   ],
+   "artists": [
+    {
+     "name": "Los Chillones"
+    },
+    {
+     "name": "Someday Bloom"
+    },
+    {
+     "name": "Qecsnha"
+    }
+   ],
+   "venue_url": "https://www.kensingtonclub1935.com/"
   },
   {
    "id": "the-magnolia:2026-12-04:scott-bradlee-s-postmodern-jukebox",
@@ -2292,28 +2367,6 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
-   "id": "whistle-stop:2026-12-06:sister-psycho",
-   "date": "2026-12-06",
-   "venue": "Whistle Stop",
-   "city": "San Diego",
-   "performers": [
-    "Sister Psycho",
-    "Dale Crover"
-   ],
-   "artists": [
-    {
-     "name": "Sister Psycho"
-    },
-    {
-     "name": "Dale Crover",
-     "mbid": "9b93a71b-1484-4bea-b096-f660c1161f8a",
-     "listen_url": "https://open.spotify.com/artist/4IRzt4Zde0xpbbc2BtsRGm",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://whistlestopbar.com/"
-  },
-  {
    "id": "belly-up-tavern:2026-12-07:mack-geiger",
    "date": "2026-12-07",
    "venue": "Belly Up Tavern",
@@ -2525,7 +2578,8 @@
    "venue": "The Sound",
    "city": "Del Mar",
    "performers": [
-    "Young the Giant"
+    "Young the Giant",
+    "Moondough"
    ],
    "artists": [
     {
@@ -2535,6 +2589,9 @@
      "listen_url": "https://youngthegiant.bandcamp.com/track/evergreen",
      "listen_service": "Bandcamp",
      "listen_title": "Evergreen"
+    },
+    {
+     "name": "Moondough"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
@@ -2638,12 +2695,28 @@
    "venue_url": "https://thebansheebar.com/"
   },
   {
+   "id": "the-kensington-club:2026-12-09:vinyl-wednesday",
+   "date": "2026-12-09",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Vinyl Wednesday"
+   ],
+   "artists": [
+    {
+     "name": "Vinyl Wednesday"
+    }
+   ],
+   "venue_url": "https://www.kensingtonclub1935.com/"
+  },
+  {
    "id": "the-sound:2026-12-09:cannons",
    "date": "2026-12-09",
    "venue": "The Sound",
    "city": "Del Mar",
    "performers": [
-    "Cannons"
+    "Cannons",
+    "Tania Cassette"
    ],
    "artists": [
     {
@@ -2653,6 +2726,9 @@
      "listen_url": "https://cannonstheband.bandcamp.com/track/round-and-round-2",
      "listen_service": "Bandcamp",
      "listen_title": "Round and Round"
+    },
+    {
+     "name": "Tania Cassette"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
@@ -2798,6 +2874,21 @@
     }
    ],
    "venue_url": "https://theholdingcompanyob.com/"
+  },
+  {
+   "id": "the-kensington-club:2026-12-10:feliz-navidead",
+   "date": "2026-12-10",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Feliz Navidead"
+   ],
+   "artists": [
+    {
+     "name": "Feliz Navidead"
+    }
+   ],
+   "venue_url": "https://www.kensingtonclub1935.com/"
   },
   {
    "id": "the-magnolia:2026-12-10:david-bisbal",
@@ -3106,6 +3197,29 @@
     }
    ],
    "venue_url": "https://thebansheebar.com/"
+  },
+  {
+   "id": "the-kensington-club:2026-12-11:oasiz",
+   "date": "2026-12-11",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Oasiz",
+    "Pants",
+    "Stones N' Roses"
+   ],
+   "artists": [
+    {
+     "name": "Oasiz"
+    },
+    {
+     "name": "Pants"
+    },
+    {
+     "name": "Stones N' Roses"
+    }
+   ],
+   "venue_url": "https://www.kensingtonclub1935.com/"
   },
   {
    "id": "the-sound:2026-12-11:the-string-cheese-incident",
@@ -3663,6 +3777,29 @@
    "venue_url": "https://theholdingcompanyob.com/"
   },
   {
+   "id": "the-kensington-club:2026-12-16:vinyl-wednesday",
+   "date": "2026-12-16",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Vinyl Wednesday",
+    "Vamp"
+   ],
+   "artists": [
+    {
+     "name": "Vinyl Wednesday"
+    },
+    {
+     "name": "Vamp",
+     "mbid": "dd3d5cef-feda-4dd4-aa15-bee252134dd6",
+     "official_url": "http://www.vamp.no/",
+     "listen_url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://www.kensingtonclub1935.com/"
+  },
+  {
    "id": "balboa-theatre:2026-12-17:dave-koz",
    "date": "2026-12-17",
    "venue": "Balboa Theatre",
@@ -3942,6 +4079,21 @@
     }
    ],
    "venue_url": "https://theholdingcompanyob.com/"
+  },
+  {
+   "id": "the-kensington-club:2026-12-18:gravebeat",
+   "date": "2026-12-18",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Gravebeat"
+   ],
+   "artists": [
+    {
+     "name": "Gravebeat"
+    }
+   ],
+   "venue_url": "https://www.kensingtonclub1935.com/"
   },
   {
    "id": "the-observatory-north-park:2026-12-18:the-vandals",
@@ -4258,6 +4410,29 @@
    "venue_url": "https://sodabarmusic.com/"
   },
   {
+   "id": "the-banshee:2026-12-20:echo-solstice",
+   "date": "2026-12-20",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Echo Solstice",
+    "Windsprints",
+    "Fox Michaels"
+   ],
+   "artists": [
+    {
+     "name": "Echo Solstice"
+    },
+    {
+     "name": "Windsprints"
+    },
+    {
+     "name": "Fox Michaels"
+    }
+   ],
+   "venue_url": "https://thebansheebar.com/"
+  },
+  {
    "id": "the-holding-company:2026-12-20:authority-zero",
    "date": "2026-12-20",
    "venue": "The Holding Company",
@@ -4396,6 +4571,21 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
+   "id": "the-kensington-club:2026-12-23:vinyl-wednesday",
+   "date": "2026-12-23",
+   "venue": "The Kensington Club",
+   "city": "San Diego",
+   "performers": [
+    "Vinyl Wednesday"
+   ],
+   "artists": [
+    {
+     "name": "Vinyl Wednesday"
+    }
+   ],
+   "venue_url": "https://www.kensingtonclub1935.com/"
+  },
+  {
    "id": "belly-up-tavern:2026-12-26:jimmy-s-buffet-a-pirate-looks-at-80-birthday-bash",
    "date": "2026-12-26",
    "venue": "Belly Up Tavern",
@@ -4486,6 +4676,30 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "soda-bar:2026-12-27:the-erasers",
+   "date": "2026-12-27",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "The Erasers",
+    "Girls Got Nerve",
+    "The Big MT"
+   ],
+   "artists": [
+    {
+     "name": "The Erasers",
+     "mbid": "7e5d5521-cc66-4d8a-a40f-57b592ba2685"
+    },
+    {
+     "name": "Girls Got Nerve"
+    },
+    {
+     "name": "The Big MT"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-banshee:2026-12-27:horse-rider",
@@ -5064,9 +5278,9 @@
     "JT Moring Cohort",
     "Lindsay White",
     "Lisa Sanders & Brown Sugar",
-    "Mark Montijo",
+    "Mark Montijo with Lenny Bole",
     "Peggy Watson & David Beldock",
-    "Shawn Rholf",
+    "Shawn Rohlf",
     "James Lee Stanley"
    ],
    "artists": [
@@ -5098,13 +5312,13 @@
      "mbid": "6728eaf7-6ef0-4b6f-97fb-aadcf4183762"
     },
     {
-     "name": "Mark Montijo"
+     "name": "Mark Montijo with Lenny Bole"
     },
     {
      "name": "Peggy Watson & David Beldock"
     },
     {
-     "name": "Shawn Rholf"
+     "name": "Shawn Rohlf"
     },
     {
      "name": "James Lee Stanley",
@@ -5195,6 +5409,29 @@
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-banshee:2027-01-07:skiimo",
+   "date": "2027-01-07",
+   "venue": "The Banshee",
+   "city": "San Diego",
+   "performers": [
+    "Skiimo",
+    "Fieldrush",
+    "Yujin13."
+   ],
+   "artists": [
+    {
+     "name": "Skiimo"
+    },
+    {
+     "name": "Fieldrush"
+    },
+    {
+     "name": "Yujin13."
+    }
+   ],
+   "venue_url": "https://thebansheebar.com/"
   },
   {
    "id": "the-holding-company:2027-01-07:mustard-plug",
@@ -5347,6 +5584,25 @@
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "the-holding-company:2027-01-08:pretending-chrissie",
+   "date": "2027-01-08",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "Pretending Chrissie",
+    "We Belong"
+   ],
+   "artists": [
+    {
+     "name": "Pretending Chrissie"
+    },
+    {
+     "name": "We Belong"
+    }
+   ],
+   "venue_url": "https://theholdingcompanyob.com/"
   },
   {
    "id": "the-magnolia:2027-01-08:who-s-bad",
@@ -5707,6 +5963,21 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "soma:2027-01-15:underminded",
+   "date": "2027-01-15",
+   "venue": "SOMA",
+   "city": "San Diego",
+   "performers": [
+    "Underminded"
+   ],
+   "artists": [
+    {
+     "name": "Underminded"
+    }
+   ],
+   "venue_url": "https://www.somasandiego.com/"
   },
   {
    "id": "soda-bar:2027-01-15:tara-clerkin-trio",
@@ -6474,6 +6745,33 @@
    "venue_url": "https://www.casbahmusic.com/"
   },
   {
+   "id": "the-holding-company:2027-01-24:sunday-metal-mass-edge-of-destiny",
+   "date": "2027-01-24",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "Sunday Metal Mass: Edge of Destiny",
+    "Slave Remain",
+    "Drug Forlay",
+    "Enola Reven"
+   ],
+   "artists": [
+    {
+     "name": "Sunday Metal Mass: Edge of Destiny"
+    },
+    {
+     "name": "Slave Remain"
+    },
+    {
+     "name": "Drug Forlay"
+    },
+    {
+     "name": "Enola Reven"
+    }
+   ],
+   "venue_url": "https://theholdingcompanyob.com/"
+  },
+  {
    "id": "belly-up-tavern:2027-01-26:five-for-fighting",
    "date": "2027-01-26",
    "venue": "Belly Up Tavern",
@@ -7143,7 +7441,8 @@
    "venue": "House of Blues",
    "city": "San Diego",
    "performers": [
-    "Zach Seabaugh"
+    "Zach Seabaugh",
+    "Luke Tyler Shelton"
    ],
    "artists": [
     {
@@ -7151,6 +7450,9 @@
      "mbid": "d8b01d75-edcf-413c-be0a-35ff3e82cc58",
      "listen_url": "https://open.spotify.com/artist/3bmlmoASHg6ycjrKV05CP2",
      "listen_service": "Spotify"
+    },
+    {
+     "name": "Luke Tyler Shelton"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -12987,55 +13289,6 @@
     }
    ],
    "venue_url": "https://www.balboatheatre.org/"
-  },
-  {
-   "id": "the-kensington-club:2027-11-13:soft-vein",
-   "date": "2027-11-13",
-   "venue": "The Kensington Club",
-   "city": "San Diego",
-   "performers": [
-    "Soft Vein"
-   ],
-   "artists": [
-    {
-     "name": "Soft Vein",
-     "mbid": "b7a6bbb4-12a3-4890-8445-20c81d72db1a",
-     "official_url": "https://www.softvein.net/",
-     "listen_url": "https://softvein.bandcamp.com/track/another-summer",
-     "listen_service": "Bandcamp",
-     "listen_title": "Another Summer"
-    }
-   ],
-   "venue_url": "https://www.kensingtonclub1935.com/"
-  },
-  {
-   "id": "the-kensington-club:2027-11-14:ra",
-   "date": "2027-11-14",
-   "venue": "The Kensington Club",
-   "city": "San Diego",
-   "performers": [
-    "Ra",
-    "Seashell Radio",
-    "The Cabriolets"
-   ],
-   "artists": [
-    {
-     "name": "Ra",
-     "mbid": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
-     "official_url": "http://www.sunra.com/",
-     "listen_url": "https://sunramusic.bandcamp.com/track/heliocentric-worlds",
-     "listen_service": "Bandcamp",
-     "listen_title": "Heliocentric Worlds"
-    },
-    {
-     "name": "Seashell Radio"
-    },
-    {
-     "name": "The Cabriolets",
-     "mbid": "34b606b2-ccee-46e1-8b39-3de61aa2e09d"
-    }
-   ],
-   "venue_url": "https://www.kensingtonclub1935.com/"
   }
  ]
 }

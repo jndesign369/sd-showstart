@@ -448510,6 +448510,320 @@
         "ipis": [],
         "end-area": null
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Whatevr\\\"\"}": {
+      "fetched_at": "2026-11-24T23:58:14.976681+00:00",
+      "data": {
+        "created": "2026-11-24T23:58:20.450Z",
+        "count": 3,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "ef04a432-a7e3-4aac-89ae-78d3dfbccf30",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Whatevr.",
+            "sort-name": "Whatevr.",
+            "gender": "male",
+            "disambiguation": "lo‐fi beatmaker",
+            "life-span": {
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Marcelli, Alessandro",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Alessandro Marcelli",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ],
+            "tags": [
+              {
+                "count": 1,
+                "name": "lo-fi hip hop"
+              }
+            ]
+          },
+          {
+            "id": "1fa1111b-e1ca-47c5-82f9-ecbeffd7f32e",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 95,
+            "name": "Super Whatevr",
+            "sort-name": "Super Whatevr",
+            "area": {
+              "id": "398c6575-6e22-44f9-b93a-349c9f5c8889",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Costa Mesa",
+              "sort-name": "Costa Mesa",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "25d3f2fc-1698-43b6-a2c2-6332a1a7c251",
+            "score": 89,
+            "name": "WeZ WhaTevR",
+            "sort-name": "WeZ WhaTevR",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/ef04a432-a7e3-4aac-89ae-78d3dfbccf30?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-24T23:58:14.976681+00:00",
+      "data": {
+        "disambiguation": "lo‐fi beatmaker",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "life-span": {
+          "end": null,
+          "begin": null,
+          "ended": false
+        },
+        "id": "ef04a432-a7e3-4aac-89ae-78d3dfbccf30",
+        "relations": [
+          {
+            "type": "free streaming",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "a054fa14-50fc-4f1d-8260-e227a74cd456",
+              "resource": "https://audiomack.com/whatevr"
+            },
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "source-credit": ""
+          },
+          {
+            "begin": null,
+            "url": {
+              "resource": "https://open.spotify.com/artist/2GwB8DnTnNMofcrjLo2Fd7",
+              "id": "f9132e2c-b0f2-4ea4-a354-6c7fa0eda095"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "ended": false,
+            "type": "free streaming",
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "direction": "forward",
+            "target-type": "url",
+            "end": null
+          },
+          {
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "source-credit": "",
+            "attribute-values": {},
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "attributes": [],
+            "url": {
+              "resource": "https://www.boomplay.com/artists/16444058",
+              "id": "c7f2343f-0b1d-4743-8aff-f54062be77cf"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type": "free streaming",
+            "ended": false,
+            "attribute-ids": {}
+          },
+          {
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "resource": "https://www.deezer.com/artist/100219952",
+              "id": "dfbd0b03-ac59-4631-9643-5e62da47ff03"
+            },
+            "target-credit": "",
+            "type": "free streaming",
+            "attribute-ids": {},
+            "ended": false
+          },
+          {
+            "type": "purchase for download",
+            "ended": false,
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "id": "6cc1b594-3b6d-4bdb-8634-a8b0c59a1118",
+              "resource": "https://music.apple.com/us/artist/1522742250"
+            },
+            "target-credit": "",
+            "begin": null,
+            "end": null,
+            "target-type": "url",
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "source-credit": ""
+          },
+          {
+            "url": {
+              "id": "21ed5680-3aae-49ab-975a-821e0242fb9f",
+              "resource": "https://us.7digital.com/artist/whatevr-1"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "purchase for download",
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null
+          },
+          {
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "url": {
+              "id": "351d86c8-a2d1-4f8b-b644-081ee53822f9",
+              "resource": "https://www.qobuz.com/us-en/interpreter/whatevr-1/9421363"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "purchase for download"
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "ended": false,
+            "attribute-ids": {},
+            "type": "streaming",
+            "target-credit": "",
+            "url": {
+              "resource": "https://music.amazon.com/artists/B08CN6K1T4",
+              "id": "81d575a6-6c29-47f5-9cb3-b7133a6e72e3"
+            },
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "url": {
+              "resource": "https://music.apple.com/us/artist/1522742250",
+              "id": "6cc1b594-3b6d-4bdb-8634-a8b0c59a1118"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "streaming"
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "type": "streaming",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "b30a0976-f955-45a2-91d8-b6e9e5e6335c",
+              "resource": "https://tidal.com/artist/21428352"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+          },
+          {
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "351d86c8-a2d1-4f8b-b644-081ee53822f9",
+              "resource": "https://www.qobuz.com/us-en/interpreter/whatevr-1/9421363"
+            },
+            "begin": null,
+            "type": "streaming",
+            "ended": false,
+            "attribute-ids": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward"
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://music.youtube.com/channel/UCwL64iIJdfhWHWL6RM2roUQ",
+              "id": "855f2396-0db6-436e-b877-4494963fc376"
+            },
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "attribute-ids": {},
+            "type": "youtube music",
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+            "target-type": "url",
+            "direction": "forward",
+            "end": null
+          }
+        ],
+        "begin-area": null,
+        "ipis": [],
+        "name": "Whatevr.",
+        "gender": "Male",
+        "area": null,
+        "sort-name": "Whatevr.",
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "isnis": [],
+        "type": "Person",
+        "country": null,
+        "end-area": null
+      }
     }
   }
 }
