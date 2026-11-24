@@ -10,5 +10,5 @@
 
   <!-- Blank src hides the image. The 300 x 300 box has 10px of padding on each side. -->
   <!-- Add a short alt description if the image conveys information. -->
-  <top-image src="" alt="" />
+  <top-image src="images/makeunique_bw_300x300.png" alt="Make Unique logo" />
 </sdmusic-theme>
