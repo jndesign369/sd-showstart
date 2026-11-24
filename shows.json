@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-23T05:19:58-08:00",
+ "generated_at": "2026-11-23T18:25:27-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 21, 2026"
+  "updated": "November 23, 2026"
  },
  "shows": [
   {
@@ -1245,6 +1245,21 @@
     }
    ],
    "venue_url": "https://as.sdsu.edu/viejas_arena/"
+  },
+  {
+   "id": "lou-lou-s:2026-12-01:lau-noah-adam-neely",
+   "date": "2026-12-01",
+   "venue": "Lou Lou's",
+   "city": "San Diego",
+   "performers": [
+    "LAU NOAH & ADAM NEELY"
+   ],
+   "artists": [
+    {
+     "name": "LAU NOAH & ADAM NEELY"
+    }
+   ],
+   "venue_url": "https://www.loulousclub.com/"
   },
   {
    "id": "soda-bar:2026-12-01:doc-hammer",
@@ -5451,6 +5466,39 @@
    "venue_url": "https://www.magnoliasd.com/"
   },
   {
+   "id": "the-tower-bar:2027-01-08:punchcard",
+   "date": "2027-01-08",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "PunchCard",
+    "Making Incredible Time",
+    "Hardly Human",
+    "Hooch"
+   ],
+   "artists": [
+    {
+     "name": "PunchCard"
+    },
+    {
+     "name": "Making Incredible Time"
+    },
+    {
+     "name": "Hardly Human",
+     "mbid": "de94b7f1-0ad2-4c16-9a49-c5e4a38672d6"
+    },
+    {
+     "name": "Hooch",
+     "mbid": "abf9640c-076c-4f89-9dad-df9ee851ff29",
+     "official_url": "https://www.moonhooch.com/",
+     "listen_url": "https://moonhooch.bandcamp.com/track/one-planet",
+     "listen_service": "Bandcamp",
+     "listen_title": "One Planet"
+    }
+   ],
+   "venue_url": "https://www.thetowerbar.com/"
+  },
+  {
    "id": "belly-up-tavern:2027-01-09:the-english-beat",
    "date": "2027-01-09",
    "venue": "Belly Up Tavern",
@@ -6739,7 +6787,8 @@
    "venue": "SOMA",
    "city": "San Diego",
    "performers": [
-    "Winona Fighter"
+    "Winona Fighter",
+    "Max Diaz"
    ],
    "artists": [
     {
@@ -6747,6 +6796,12 @@
      "mbid": "18696c37-c6b4-47c0-898b-5db77305b6a7",
      "official_url": "https://winonafighter.com/",
      "listen_url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Max Diaz",
+     "mbid": "999f1412-a09e-42ec-9f96-478bb0040b8c",
+     "listen_url": "https://open.spotify.com/artist/1pS55lIysppNO0zbvF3qlB",
      "listen_service": "Spotify"
     }
    ],

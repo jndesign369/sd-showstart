@@ -447469,6 +447469,1047 @@
         "sort-name": "Uncle Strut",
         "isnis": []
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"LAU NOAH & ADAM NEELY\\\"\"}": {
+      "fetched_at": "2026-11-24T02:25:27.688375+00:00",
+      "data": {
+        "created": "2026-11-24T02:25:28.274Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"PunchCard\\\"\"}": {
+      "fetched_at": "2026-11-24T02:25:27.688375+00:00",
+      "data": {
+        "created": "2026-11-24T02:25:28.952Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Making Incredible Time\\\"\"}": {
+      "fetched_at": "2026-11-24T02:25:27.688375+00:00",
+      "data": {
+        "created": "2026-11-24T02:25:30.119Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Hardly Human\\\"\"}": {
+      "fetched_at": "2026-11-24T02:25:27.688375+00:00",
+      "data": {
+        "created": "2026-11-24T02:25:36.245Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "de94b7f1-0ad2-4c16-9a49-c5e4a38672d6",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Hardly Human",
+            "sort-name": "Human, Hardly",
+            "begin-area": {
+              "id": "82f3a697-ba65-404d-a1ed-360147af7d10",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "San Diego",
+              "sort-name": "San Diego",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "San Diego Pop-Punk",
+            "life-span": {
+              "begin": "2014-01-01",
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/de94b7f1-0ad2-4c16-9a49-c5e4a38672d6?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-24T02:25:27.688375+00:00",
+      "data": {
+        "life-span": {
+          "ended": false,
+          "begin": "2014-01-01",
+          "end": null
+        },
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "San Diego Pop-Punk",
+        "country": null,
+        "begin-area": {
+          "name": "San Diego",
+          "disambiguation": "",
+          "sort-name": "San Diego",
+          "type": null,
+          "id": "82f3a697-ba65-404d-a1ed-360147af7d10",
+          "type-id": null
+        },
+        "gender-id": null,
+        "end-area": null,
+        "area": null,
+        "ipis": [],
+        "id": "de94b7f1-0ad2-4c16-9a49-c5e4a38672d6",
+        "relations": [
+          {
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "attribute-values": {},
+            "type": "social network",
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.facebook.com/hardlyhumanmusic",
+              "id": "4b336775-13ae-47b6-993c-4e29316ee073"
+            }
+          },
+          {
+            "attribute-values": {},
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "url": {
+              "resource": "https://www.instagram.com/hardlyhumanmusic/",
+              "id": "4f8e78e6-3daf-4057-bf72-49fd9ecefaa5"
+            },
+            "direction": "forward",
+            "target-credit": "",
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": []
+          }
+        ],
+        "sort-name": "Human, Hardly",
+        "isnis": [],
+        "gender": null,
+        "name": "Hardly Human"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Hooch\\\"\"}": {
+      "fetched_at": "2026-11-24T02:25:27.688375+00:00",
+      "data": {
+        "created": "2026-11-24T02:25:37.533Z",
+        "count": 15,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "abf9640c-076c-4f89-9dad-df9ee851ff29",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "Moon Hooch",
+            "sort-name": "Moon Hooch",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+              "type": "District",
+              "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+              "name": "Brooklyn",
+              "sort-name": "Brooklyn",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000469830491"
+            ],
+            "life-span": {
+              "begin": "2010",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "jazz"
+              },
+              {
+                "count": 1,
+                "name": "experimental"
+              },
+              {
+                "count": 1,
+                "name": "instrumental"
+              },
+              {
+                "count": 2,
+                "name": "nu jazz"
+              },
+              {
+                "count": 2,
+                "name": "jazz fusion"
+              }
+            ]
+          },
+          {
+            "id": "1f1d7437-f1d9-4a93-a625-869e3b90e809",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 92,
+            "name": "Hooch",
+            "sort-name": "Hooch",
+            "area": {
+              "id": "81752894-60dc-4916-a28b-5e14b60f1a8c",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Birkenhead",
+              "sort-name": "Birkenhead",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "UK hardcore / hard dance producer and DJ",
+            "life-span": {
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "Hooch, DJ",
+                "name": "DJ Hooch",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          },
+          {
+            "id": "12eb0d8e-d4f7-4f66-a272-d52d1a575e9f",
+            "score": 92,
+            "name": "Hooch",
+            "sort-name": "Hooch",
+            "disambiguation": "DNB",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "56f22b33-f4c7-45f3-86cf-4fd3434396d0",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 91,
+            "name": "Hooch",
+            "sort-name": "Hooch",
+            "disambiguation": "Portsmouth UK 20s indie rock band",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "4e362531-fdb8-4020-bf9a-319f32a0a9d3",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 84,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "The Hooch",
+            "sort-name": "Hooch, The",
+            "gender": "male",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "572e4b78-abb7-481d-80bd-043b43f0ccb4",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 84,
+            "name": "Hooch Head",
+            "sort-name": "Hooch Head",
+            "area": {
+              "id": "748b917f-3c83-418e-82e0-ad6ba0e62e39",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Murfreesboro",
+              "sort-name": "Murfreesboro",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "Sludge / Doom metal from Murfreesboro, Tennessee",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "5c7901e3-a360-458c-bea4-a5f855c2768b",
+            "score": 83,
+            "name": "Marla Hooch",
+            "sort-name": "Hooch, Marla",
+            "disambiguation": "feat. w. Fact Pattern",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "5a668b5e-b2d6-4772-bb4a-afb0d9462fc4",
+            "score": 83,
+            "name": "Hooch Crillz",
+            "sort-name": "Hooch Crillz",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "d3b03819-8b41-4daa-98e5-0ab8c8998793",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 83,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Hooch Parkins",
+            "sort-name": "Parkins, Hooch",
+            "gender": "male",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "b6151be6-f9ad-4059-ad1c-f0289bfedf39",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 83,
+            "name": "Hooch Hornball",
+            "sort-name": "Hornball, Hooch",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/abf9640c-076c-4f89-9dad-df9ee851ff29?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-24T02:25:27.688375+00:00",
+      "data": {
+        "area": {
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "type-id": null,
+          "disambiguation": "",
+          "sort-name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "name": "United States"
+        },
+        "gender": null,
+        "isnis": [
+          "0000000469830491"
+        ],
+        "sort-name": "Moon Hooch",
+        "id": "abf9640c-076c-4f89-9dad-df9ee851ff29",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "gender-id": null,
+        "end-area": null,
+        "life-span": {
+          "begin": "2010",
+          "ended": false,
+          "end": null
+        },
+        "relations": [
+          {
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "allmusic",
+            "target-type": "url",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.allmusic.com/artist/mn0003115860",
+              "id": "7b5f795a-db67-4a51-8a37-6bbfc5f72759"
+            }
+          },
+          {
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+            "attribute-values": {},
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "bandcamp",
+            "target-type": "url",
+            "url": {
+              "id": "4032e7fa-4b31-4046-9d69-f5b9dd9940f2",
+              "resource": "https://moonhooch.bandcamp.com/"
+            },
+            "target-credit": ""
+          },
+          {
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "blog",
+            "url": {
+              "id": "87fa971b-1921-4bc0-a4f2-754da4546534",
+              "resource": "http://cookinginthecave.net/"
+            },
+            "target-credit": ""
+          },
+          {
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f",
+            "attribute-values": {},
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "blog",
+            "target-type": "url",
+            "target-credit": "",
+            "url": {
+              "id": "8cf27d6c-3029-4081-8cd6-e55ae7435d94",
+              "resource": "http://moonhooch.blogspot.com/"
+            }
+          },
+          {
+            "end": null,
+            "attribute-values": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "url": {
+              "id": "a315bafa-5b63-430a-8082-dcae84231474",
+              "resource": "https://www.discogs.com/artist/2634054"
+            },
+            "target-credit": "",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "discogs",
+            "target-type": "url"
+          },
+          {
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "free streaming",
+            "target-type": "url",
+            "target-credit": "",
+            "url": {
+              "resource": "https://open.spotify.com/artist/4WoKI3ZPs544x2glFOJRyg",
+              "id": "b26680b7-0ce8-4836-a09d-75765321402e"
+            }
+          },
+          {
+            "attribute-values": {},
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "url": {
+              "resource": "https://www.deezer.com/artist/1612921",
+              "id": "d1db46db-941b-47c2-a1ef-0f70741225e9"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "type": "free streaming",
+            "ended": false,
+            "begin": null,
+            "source-credit": ""
+          },
+          {
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "last.fm",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.last.fm/music/Moon+Hooch",
+              "id": "ff6a8683-aae8-4f95-863f-4a5a3e51141f"
+            },
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "attribute-values": {}
+          },
+          {
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "official homepage",
+            "url": {
+              "resource": "https://www.moonhooch.com/",
+              "id": "92cb045c-933e-45bd-b2d2-0f032e211c75"
+            },
+            "target-credit": "",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15"
+          },
+          {
+            "end": null,
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "target-credit": "",
+            "url": {
+              "id": "d3e757ba-0ba9-437c-a9bf-2a300b218f0c",
+              "resource": "https://rateyourmusic.com/artist/moon_hooch"
+            },
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "other databases"
+          },
+          {
+            "url": {
+              "resource": "https://play.google.com/store/music/artist?id=Abectzyvgm7jilp3jmfytfevjhe",
+              "id": "b9e3f1d7-0703-4392-81a5-1aaef94c4732"
+            },
+            "target-credit": "",
+            "ended": true,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "purchase for download",
+            "end": "2020-10-12",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": []
+          },
+          {
+            "attribute-values": {},
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "end": null,
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "url": {
+              "id": "d7de473a-dc86-4073-bb44-d4760c0e0c00",
+              "resource": "https://itunes.apple.com/us/artist/id467659075"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "type": "purchase for download",
+            "ended": false,
+            "source-credit": "",
+            "begin": null
+          },
+          {
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "end": null,
+            "type": "purchase for download",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.microsoft.com/en-us/store/music/artist/moon-hooch/b18f3e00-0200-11db-89ca-0019b92a3933",
+              "id": "cef6269b-5413-47fc-a9b6-cc8b4e7b11eb"
+            }
+          },
+          {
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "url": {
+              "id": "a9c6946f-fb13-4649-823a-b52528513a67",
+              "resource": "https://www.ptxstore.com/moonhooch/index.php"
+            },
+            "target-credit": "",
+            "type": "purchase for download",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false
+          },
+          {
+            "url": {
+              "resource": "https://www.ptxstore.com/moonhooch/index.php",
+              "id": "a9c6946f-fb13-4649-823a-b52528513a67"
+            },
+            "target-credit": "",
+            "target-type": "url",
+            "type": "purchase for mail-order",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {}
+          },
+          {
+            "url": {
+              "id": "d9f608d1-8198-4b6d-bd6c-8573ddeeeeab",
+              "resource": "https://open.spotify.com/user/moonhooch"
+            },
+            "target-credit": "",
+            "type": "social network",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {}
+          },
+          {
+            "type": "social network",
+            "target-type": "url",
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "url": {
+              "resource": "https://twitter.com/moonhooch",
+              "id": "39b05a0d-09a5-44de-98a4-360f4eb4cd64"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "attribute-ids": {},
+            "direction": "forward",
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "end": null
+          },
+          {
+            "source-credit": "",
+            "begin": null,
+            "ended": false,
+            "type": "social network",
+            "target-type": "url",
+            "target-credit": "",
+            "url": {
+              "id": "9eb0cb61-3ce4-4d2d-a0cf-fdb61d921946",
+              "resource": "https://www.facebook.com/moonhoochmusic"
+            },
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+          },
+          {
+            "target-type": "url",
+            "type": "social network",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.instagram.com/moonhooch/",
+              "id": "9087ff38-581a-40bd-aea2-d00d64c801e8"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "end": null
+          },
+          {
+            "target-type": "url",
+            "type": "songkick",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.songkick.com/artists/3927026",
+              "id": "73cd8a3a-9080-4051-929f-815be0cbdd51"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+            "end": null
+          },
+          {
+            "target-type": "url",
+            "type": "soundcloud",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "5b5821da-bf34-4bf0-ba1c-0d91eb43e18d",
+              "resource": "https://soundcloud.com/moon-hooch"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "attribute-values": {},
+            "end": null
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "resource": "https://tidal.com/artist/4505633",
+              "id": "091e8886-a9d7-4c88-9622-60cdf6e85fd8"
+            },
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "streaming",
+            "end": null,
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": []
+          },
+          {
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "streaming",
+            "target-credit": "",
+            "url": {
+              "id": "794baef8-83cb-46d5-a831-85e4f56cd285",
+              "resource": "https://tidal.com/artist/50357144"
+            },
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+          },
+          {
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-values": {},
+            "end": null,
+            "type": "wikidata",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "url": {
+              "resource": "https://www.wikidata.org/wiki/Q18155671",
+              "id": "eca81389-1846-4aad-82b9-b568a0454fd2"
+            },
+            "target-credit": ""
+          },
+          {
+            "attribute-ids": {},
+            "direction": "forward",
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "ended": false,
+            "source-credit": "",
+            "begin": null,
+            "target-type": "url",
+            "type": "youtube",
+            "url": {
+              "resource": "https://www.youtube.com/channel/UCE1MCex8vr16SM8mUIkoy6w",
+              "id": "92264334-be21-4ebe-824f-42f2e5c073f7"
+            },
+            "target-credit": ""
+          }
+        ],
+        "begin-area": {
+          "name": "Brooklyn",
+          "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+          "type": null,
+          "sort-name": "Brooklyn",
+          "disambiguation": "",
+          "type-id": null
+        },
+        "country": "US",
+        "disambiguation": "",
+        "name": "Moon Hooch",
+        "ipis": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Max Diaz\\\"\"}": {
+      "fetched_at": "2026-11-24T02:25:27.688375+00:00",
+      "data": {
+        "created": "2026-11-24T02:25:39.723Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "999f1412-a09e-42ec-9f96-478bb0040b8c",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Max Diaz",
+            "sort-name": "Diaz, Max",
+            "gender": "male",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "singer‐songwriter, multi‐instrumentalist, and producer based in Houston, TX",
+            "life-span": {
+              "begin": "2004-02-25",
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/999f1412-a09e-42ec-9f96-478bb0040b8c?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-24T02:25:27.688375+00:00",
+      "data": {
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "begin-area": null,
+        "country": "US",
+        "disambiguation": "singer‐songwriter, multi‐instrumentalist, and producer based in Houston, TX",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "life-span": {
+          "begin": "2004-02-25",
+          "end": null,
+          "ended": false
+        },
+        "name": "Max Diaz",
+        "gender": "Male",
+        "isnis": [],
+        "relations": [
+          {
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "attribute-values": {},
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+            "url": {
+              "resource": "https://open.spotify.com/artist/1pS55lIysppNO0zbvF3qlB",
+              "id": "e9c0dabc-bf0b-44a4-9e0a-a71aa570331e"
+            },
+            "direction": "forward"
+          },
+          {
+            "begin": null,
+            "attributes": [],
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.deezer.com/artist/54614602",
+              "id": "57d3e8c7-2f38-44ea-8c84-a398a472c50d"
+            },
+            "direction": "forward",
+            "attribute-values": {},
+            "type": "free streaming",
+            "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+          },
+          {
+            "target-credit": "",
+            "url": {
+              "id": "ccc5497e-af56-4499-8860-c82bfda3acad",
+              "resource": "https://music.apple.com/us/artist/1707816504"
+            },
+            "direction": "forward",
+            "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+            "attribute-values": {},
+            "type": "purchase for download",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "target-credit": "",
+            "attribute-values": {},
+            "type": "social network",
+            "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+            "url": {
+              "id": "392f56b2-5c94-4653-85de-c930d2a12021",
+              "resource": "https://www.instagram.com/themaxdiaz/"
+            },
+            "direction": "forward",
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null
+          },
+          {
+            "target-type": "url",
+            "ended": false,
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type": "soundcloud",
+            "attribute-values": {},
+            "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+            "direction": "forward",
+            "url": {
+              "id": "0aad5108-6623-4905-a114-12d9eeb7eb48",
+              "resource": "https://soundcloud.com/user-442298428"
+            }
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "type": "streaming",
+            "attribute-values": {},
+            "url": {
+              "resource": "https://music.apple.com/us/artist/1707816504",
+              "id": "ccc5497e-af56-4499-8860-c82bfda3acad"
+            },
+            "direction": "forward"
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "begin": null,
+            "attributes": [],
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "direction": "forward",
+            "url": {
+              "id": "fc637800-22a9-4f6a-98d0-ad3e0020ffd7",
+              "resource": "https://tidal.com/artist/10638262"
+            },
+            "attribute-values": {},
+            "type": "streaming",
+            "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+            "target-credit": ""
+          },
+          {
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "direction": "forward",
+            "url": {
+              "resource": "https://www.youtube.com/channel/UCRrvKwkILepL-4pARqZBKKQ",
+              "id": "4cc22900-bb2e-415e-8c7b-7af7efb74271"
+            },
+            "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+            "type": "youtube",
+            "attribute-values": {},
+            "target-credit": ""
+          }
+        ],
+        "sort-name": "Diaz, Max",
+        "id": "999f1412-a09e-42ec-9f96-478bb0040b8c",
+        "area": {
+          "name": "United States",
+          "disambiguation": "",
+          "sort-name": "United States",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ],
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type-id": null
+        },
+        "ipis": [],
+        "end-area": null
+      }
     }
   }
 }
