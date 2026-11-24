@@ -706,7 +706,7 @@
       "reason": null
     },
     "https://minitrees.bandcamp.com/": {
-      "checked_at": "2026-11-23T13:22:52.567665+00:00",
+      "checked_at": "2026-11-24T14:00:42.580224+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1427,7 +1427,7 @@
       "reason": null
     },
     "https://cruecifer.bandcamp.com/": {
-      "checked_at": "2026-11-23T13:22:52.567665+00:00",
+      "checked_at": "2026-11-24T14:00:42.580224+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -1466,7 +1466,7 @@
       "reason": null
     },
     "https://bucketheadpikes.bandcamp.com/": {
-      "checked_at": "2026-11-23T13:22:52.567665+00:00",
+      "checked_at": "2026-11-24T14:00:42.580224+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1879,7 +1879,7 @@
       "reason": null
     },
     "https://rayburger.bandcamp.com/": {
-      "checked_at": "2026-11-23T13:22:52.567665+00:00",
+      "checked_at": "2026-11-24T14:00:42.580224+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2127,7 +2127,7 @@
       "reason": null
     },
     "https://theaggrolites.bandcamp.com/": {
-      "checked_at": "2026-11-23T13:22:52.567665+00:00",
+      "checked_at": "2026-11-24T14:00:42.580224+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2342,7 +2342,7 @@
       "reason": null
     },
     "https://worldsendgirlfriend.bandcamp.com/": {
-      "checked_at": "2026-11-23T13:22:52.567665+00:00",
+      "checked_at": "2026-11-24T14:00:42.580224+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -3041,7 +3041,7 @@
       "reason": null
     },
     "https://a-perfect-circle.bandcamp.com/": {
-      "checked_at": "2026-11-23T13:22:52.567665+00:00",
+      "checked_at": "2026-11-24T14:00:42.580224+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -3179,13 +3179,13 @@
       "reason": null
     },
     "https://officialmegadeth.bandcamp.com/": {
-      "checked_at": "2026-11-17T12:09:37.455976+00:00",
+      "checked_at": "2026-11-24T14:00:42.580224+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
-        "listen_url": "https://officialmegadeth.bandcamp.com/track/promises-conspiracies-and-lies",
+        "listen_url": "https://officialmegadeth.bandcamp.com/track/mirror-in-the-sky",
         "listen_service": "Bandcamp",
-        "listen_title": "Serpent From Eden featuring Nick Menza - Promises, Conspiracies, and Lies",
-        "release_url": "https://officialmegadeth.bandcamp.com/album/serpent-from-eden-featuring-nick-menza"
+        "listen_title": "Jeff Young - Mirror In The Sky",
+        "release_url": "https://officialmegadeth.bandcamp.com/track/mirror-in-the-sky"
       },
       "reason": null
     },
@@ -3432,7 +3432,7 @@
       "reason": null
     },
     "https://theteskeybrothers.bandcamp.com/": {
-      "checked_at": "2026-11-23T13:22:52.567665+00:00",
+      "checked_at": "2026-11-24T14:00:42.580224+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"

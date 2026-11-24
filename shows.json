@@ -1,111 +1,11 @@
 {
- "generated_at": "2026-11-23T18:25:27-08:00",
+ "generated_at": "2026-11-24T06:00:42-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
   "updated": "November 23, 2026"
  },
  "shows": [
-  {
-   "id": "casbah:2026-11-23:city-mouse",
-   "date": "2026-11-23",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "City Mouse",
-    "Pretty Mid",
-    "Substitute Gym Teacher"
-   ],
-   "artists": [
-    {
-     "name": "City Mouse",
-     "mbid": "561275e8-6914-4ec0-82cb-248a6dad88d7",
-     "listen_url": "https://citymouse.bandcamp.com/track/magnitude",
-     "listen_service": "Bandcamp",
-     "listen_title": "Magnitude"
-    },
-    {
-     "name": "Pretty Mid"
-    },
-    {
-     "name": "Substitute Gym Teacher"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
-  },
-  {
-   "id": "house-of-blues:2026-11-23:bodysnatcher",
-   "date": "2026-11-23",
-   "venue": "House of Blues",
-   "city": "San Diego",
-   "performers": [
-    "Bodysnatcher",
-    "Gideon",
-    "Volatile Ways",
-    "Psycho-Frame"
-   ],
-   "artists": [
-    {
-     "name": "Bodysnatcher",
-     "mbid": "70f5a84c-9b0e-4440-ad46-0bbb690c161b",
-     "official_url": "https://bodysnatcherofficial.com/",
-     "listen_url": "https://bodysnatcherfl.bandcamp.com/track/no-funeral",
-     "listen_service": "Bandcamp",
-     "listen_title": "No Funeral"
-    },
-    {
-     "name": "Gideon",
-     "mbid": "cd7df2ab-c974-4438-b440-baf38332d7aa",
-     "official_url": "http://gideonal.com/",
-     "listen_url": "https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "Volatile Ways",
-     "mbid": "800b4846-6095-49db-8c55-c9e1748d00e7",
-     "listen_url": "https://volatileways69.bandcamp.com/track/icon",
-     "listen_service": "Bandcamp",
-     "listen_title": "ICON"
-    },
-    {
-     "name": "Psycho-Frame",
-     "mbid": "2f834210-75a3-475c-9177-3c568cef133b",
-     "official_url": "https://psychoframe.com/",
-     "listen_url": "https://psychoframedc.bandcamp.com/track/a-further-showing-of-violence-feat-vamachara",
-     "listen_service": "Bandcamp",
-     "listen_title": "A FURTHER SHOWING OF VIOLENCE (FEAT. VAMACHARA)"
-    }
-   ],
-   "venue_url": "https://www.houseofblues.com/sandiego"
-  },
-  {
-   "id": "music-box:2026-11-23:pretty-sick",
-   "date": "2026-11-23",
-   "venue": "Music Box",
-   "city": "San Diego",
-   "performers": [
-    "Pretty Sick",
-    "Sex Week"
-   ],
-   "artists": [
-    {
-     "name": "Pretty Sick",
-     "mbid": "d365ffda-2c35-4d8f-8a41-34093d3cd839",
-     "official_url": "https://prettysick.com/",
-     "listen_url": "https://prettysick.bandcamp.com/track/star",
-     "listen_service": "Bandcamp",
-     "listen_title": "Star"
-    },
-    {
-     "name": "Sex Week",
-     "mbid": "48390dfc-0b93-4b8c-99a1-839181300ca0",
-     "listen_url": "https://sexweek.bandcamp.com/track/life-is-a-circle-2",
-     "listen_service": "Bandcamp",
-     "listen_title": "Life is a Circle"
-    }
-   ],
-   "venue_url": "https://www.musicboxsd.com/"
-  },
   {
    "id": "balboa-theatre:2026-11-24:leonid-friends",
    "date": "2026-11-24",
@@ -12200,9 +12100,9 @@
      "name": "Megadeth",
      "mbid": "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e",
      "official_url": "https://www.megadeth.com/",
-     "listen_url": "https://officialmegadeth.bandcamp.com/track/promises-conspiracies-and-lies",
+     "listen_url": "https://officialmegadeth.bandcamp.com/track/mirror-in-the-sky",
      "listen_service": "Bandcamp",
-     "listen_title": "Serpent From Eden featuring Nick Menza - Promises, Conspiracies, and Lies"
+     "listen_title": "Jeff Young - Mirror In The Sky"
     },
     {
      "name": "Anthrax",
