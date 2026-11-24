@@ -81,7 +81,11 @@ a {
   text-decoration: none;
 }
 a:hover { text-decoration: underline; }
-.listen { font-size: var(--theme-link-size, 0.85em); white-space: nowrap; }
+.listen {
+  color: #11E8E2;
+  font-size: calc(var(--theme-link-size, 0.85em) - 1px);
+  white-space: nowrap;
+}
 .empty { padding: 30px 0; color: var(--muted); }
 footer { margin-top: 28px; font-size: 0.8rem; color: var(--muted); }
 footer p { margin: 4px 0; }

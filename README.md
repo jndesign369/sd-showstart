@@ -79,7 +79,7 @@ Preview changes using a local HTTP server or a hosted preview. Opening
 
 ## Listen links
 
-Each artist can have a separate `listen` link, in a new tab. Use the artist's
+Each artist can have a separate `LISTEN UP!` link, in a new tab. Use the artist's
 active MusicBrainz Bandcamp relationship first. Read the first four releases
 in Bandcamp's artist-controlled catalog order (usually newest first), choose
 the first track with a public streaming file, and link to its actual `/track/`

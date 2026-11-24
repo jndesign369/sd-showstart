@@ -39,7 +39,7 @@
   <footer>
     <p>Listing facts collected from <a href="https://concertssd.com/" target="_blank" rel="noopener noreferrer">The List: San Diego (ConcertsSD)</a>; check their site for times, prices, and tickets.</p>
     <p>Artist names link automatically to <a href="https://musicbrainz.org/" target="_blank" rel="noopener noreferrer">MusicBrainz</a> "official homepage" results; no homepage means no link. Venue names link to official venue websites where known.</p>
-    <p>Listen opens a Bandcamp song where available, otherwise Spotify (which may require sign-in or play ads).</p>
+    <p>LISTEN UP! opens a Bandcamp song where available, otherwise Spotify (which may require sign-in or play ads).</p>
     <p id="meta"></p>
   </footer>
 </main>
@@ -92,7 +92,7 @@
         (a.listen_title ? ": " + a.listen_title : "");
       return name + (listen ? ' <a class="listen" href="' + esc(listen) +
         '" target="_blank" rel="noopener noreferrer" title="' + esc(title) +
-        '" aria-label="' + esc(title) + '">listen</a>' : "");
+        '" aria-label="LISTEN UP! ' + esc(title) + '">LISTEN UP!</a>' : "");
     }).join(", ");
   }
 
