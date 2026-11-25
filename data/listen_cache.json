@@ -706,7 +706,7 @@
       "reason": null
     },
     "https://minitrees.bandcamp.com/": {
-      "checked_at": "2026-11-24T14:00:42.580224+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1427,7 +1427,7 @@
       "reason": null
     },
     "https://cruecifer.bandcamp.com/": {
-      "checked_at": "2026-11-24T14:00:42.580224+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -1466,7 +1466,7 @@
       "reason": null
     },
     "https://bucketheadpikes.bandcamp.com/": {
-      "checked_at": "2026-11-24T14:00:42.580224+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1879,7 +1879,7 @@
       "reason": null
     },
     "https://rayburger.bandcamp.com/": {
-      "checked_at": "2026-11-24T14:00:42.580224+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2127,7 +2127,7 @@
       "reason": null
     },
     "https://theaggrolites.bandcamp.com/": {
-      "checked_at": "2026-11-24T14:00:42.580224+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2342,7 +2342,7 @@
       "reason": null
     },
     "https://worldsendgirlfriend.bandcamp.com/": {
-      "checked_at": "2026-11-24T14:00:42.580224+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -3041,7 +3041,7 @@
       "reason": null
     },
     "https://a-perfect-circle.bandcamp.com/": {
-      "checked_at": "2026-11-24T14:00:42.580224+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -3322,7 +3322,7 @@
       "reason": null
     },
     "https://alterbridge.bandcamp.com/": {
-      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://alterbridge.bandcamp.com/track/silent-divide",
@@ -3333,7 +3333,7 @@
       "reason": null
     },
     "https://x3butterfly.bandcamp.com/": {
-      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://x3butterfly.bandcamp.com/track/critical-conjecture",
@@ -3355,7 +3355,7 @@
       "reason": null
     },
     "https://thegyptianlover.bandcamp.com/": {
-      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://thegyptianlover.bandcamp.com/track/lets-get-down-tonight-instrumental",
@@ -3366,7 +3366,7 @@
       "reason": null
     },
     "https://beansiswack.bandcamp.com/": {
-      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://beansiswack.bandcamp.com/track/zwaard-1",
@@ -3377,7 +3377,7 @@
       "reason": null
     },
     "https://dailybreadatl.bandcamp.com/": {
-      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://dailybreadatl.bandcamp.com/track/repeat-message",
@@ -3388,7 +3388,7 @@
       "reason": null
     },
     "https://dyingfetus.bandcamp.com/": {
-      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://dyingfetus.bandcamp.com/track/into-the-cesspool",
@@ -3399,7 +3399,7 @@
       "reason": null
     },
     "https://cryptopsyofficial.bandcamp.com/": {
-      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://cryptopsyofficial.bandcamp.com/track/blasphemy-made-fresh-medley",
@@ -3410,7 +3410,7 @@
       "reason": null
     },
     "https://sonrompepera.bandcamp.com/": {
-      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://sonrompepera.bandcamp.com/track/arboledas",
@@ -3421,7 +3421,7 @@
       "reason": null
     },
     "https://durandjonesandtheindications.bandcamp.com/": {
-      "checked_at": "2026-11-18T22:42:21.690648+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://durandjonesandtheindications.bandcamp.com/track/lets-take-our-time",
@@ -3432,7 +3432,7 @@
       "reason": null
     },
     "https://theteskeybrothers.bandcamp.com/": {
-      "checked_at": "2026-11-24T14:00:42.580224+00:00",
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -3522,6 +3522,50 @@
         "listen_service": "Bandcamp",
         "listen_title": "One Planet",
         "release_url": "https://moonhooch.bandcamp.com/track/one-planet"
+      },
+      "reason": null
+    },
+    "https://charliefreak.bandcamp.com/": {
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://charliefreak.bandcamp.com/track/talk-to-me",
+        "listen_service": "Bandcamp",
+        "listen_title": "Talk To Me",
+        "release_url": "https://charliefreak.bandcamp.com/album/freak-yourself"
+      },
+      "reason": null
+    },
+    "https://moondough.bandcamp.com/": {
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://moondough.bandcamp.com/track/social-disco-dancing",
+        "listen_service": "Bandcamp",
+        "listen_title": "Social Disco Dancing",
+        "release_url": "https://moondough.bandcamp.com/track/social-disco-dancing"
+      },
+      "reason": null
+    },
+    "https://skiimo.bandcamp.com/": {
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://skiimo.bandcamp.com/track/calvins-song",
+        "listen_service": "Bandcamp",
+        "listen_title": "Calvin's Song",
+        "release_url": "https://skiimo.bandcamp.com/album/skiimo-2"
+      },
+      "reason": null
+    },
+    "https://sherane.bandcamp.com/": {
+      "checked_at": "2026-11-25T23:46:18.717659+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://sherane.bandcamp.com/track/only-yours",
+        "listen_service": "Bandcamp",
+        "listen_title": "only yours",
+        "release_url": "https://sherane.bandcamp.com/album/sherane"
       },
       "reason": null
     }

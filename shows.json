@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T05:14:59-08:00",
+ "generated_at": "2026-11-25T15:42:42-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 24, 2026"
+  "updated": "November 25, 2026"
  },
  "shows": [
   {
@@ -792,16 +792,30 @@
    ],
    "artists": [
     {
-     "name": "Tardigrade"
+     "name": "Tardigrade",
+     "mbid": "97fdcb88-aaa3-4b5b-b7f5-a4b910ac9f98",
+     "listen_url": "https://open.spotify.com/artist/5dGlTOmr1BV86oy3YYQ88y",
+     "listen_service": "Spotify"
     },
     {
-     "name": "Rio"
+     "name": "Rio",
+     "mbid": "2f38efa1-ac38-4a24-8f22-1660a55fba40",
+     "official_url": "http://www.rio-music.com/",
+     "listen_url": "https://open.spotify.com/artist/0Ol3Jol2T3lZZVLNNzWPhj",
+     "listen_service": "Spotify"
     },
     {
-     "name": "Maedhira"
+     "name": "Maedhira",
+     "mbid": "909d8762-e773-45a7-a5ac-37a8433fbb51",
+     "listen_url": "https://open.spotify.com/artist/66rP5fIITsTPFvHRdFLAZe",
+     "listen_service": "Spotify"
     },
     {
-     "name": "Charlie Freak"
+     "name": "Charlie Freak",
+     "mbid": "10d0fefe-64d4-4447-81cf-b90ac8f90854",
+     "listen_url": "https://charliefreak.bandcamp.com/track/talk-to-me",
+     "listen_service": "Bandcamp",
+     "listen_title": "Talk To Me"
     }
    ],
    "venue_url": "https://www.kensingtonclub1935.com/"
@@ -1008,6 +1022,30 @@
     }
    ],
    "venue_url": "https://www.kensingtonclub1935.com/"
+  },
+  {
+   "id": "whistle-stop:2026-11-29:gary-wilson",
+   "date": "2026-11-29",
+   "venue": "Whistle Stop",
+   "city": "San Diego",
+   "performers": [
+    "Gary Wilson",
+    "Fountain Plaza"
+   ],
+   "artists": [
+    {
+     "name": "Gary Wilson",
+     "mbid": "90089f6c-419c-486d-a293-7463dc877f68",
+     "official_url": "http://www.sixpointfour.com/",
+     "listen_url": "https://garywilsonmusic.bandcamp.com/track/lisa-wants-to-talk-to-you",
+     "listen_service": "Bandcamp",
+     "listen_title": "Lisa Wants To Talk To You"
+    },
+    {
+     "name": "Fountain Plaza"
+    }
+   ],
+   "venue_url": "https://whistlestopbar.com/"
   },
   {
    "id": "belly-up-tavern:2026-11-30:the-james-hunter-six",
@@ -1517,7 +1555,8 @@
      "name": "Promised Paradigm"
     },
     {
-     "name": "Outcold"
+     "name": "Outcold",
+     "mbid": "5123fac8-ee38-465f-b769-f9c00c7cf991"
     },
     {
      "name": "Candour"
@@ -1542,6 +1581,29 @@
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
+  },
+  {
+   "id": "whistle-stop:2026-12-03:dagmar-zuniga",
+   "date": "2026-12-03",
+   "venue": "Whistle Stop",
+   "city": "San Diego",
+   "performers": [
+    "Dagmar Zuniga",
+    "Dj Mitchum Yacoub"
+   ],
+   "artists": [
+    {
+     "name": "Dagmar Zuniga",
+     "mbid": "9542584f-d6c4-4e8b-bb14-bba52bd15b32",
+     "listen_url": "https://dagmarzuniga.bandcamp.com/track/even-god-gets-stuck-in-devotion-featuring-austyn-wohlers",
+     "listen_service": "Bandcamp",
+     "listen_title": "Even God Gets Stuck In Devotion featuring Austyn Wohlers"
+    },
+    {
+     "name": "Dj Mitchum Yacoub"
+    }
+   ],
+   "venue_url": "https://whistlestopbar.com/"
   },
   {
    "id": "3oz-dive-club:2026-12-04:x3butterfly",
@@ -2289,6 +2351,28 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
+   "id": "whistle-stop:2026-12-06:sister-psycho",
+   "date": "2026-12-06",
+   "venue": "Whistle Stop",
+   "city": "San Diego",
+   "performers": [
+    "Sister Psycho",
+    "Dale Crover"
+   ],
+   "artists": [
+    {
+     "name": "Sister Psycho"
+    },
+    {
+     "name": "Dale Crover",
+     "mbid": "9b93a71b-1484-4bea-b096-f660c1161f8a",
+     "listen_url": "https://open.spotify.com/artist/4IRzt4Zde0xpbbc2BtsRGm",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://whistlestopbar.com/"
+  },
+  {
    "id": "belly-up-tavern:2026-12-07:mack-geiger",
    "date": "2026-12-07",
    "venue": "Belly Up Tavern",
@@ -2513,7 +2597,11 @@
      "listen_title": "Evergreen"
     },
     {
-     "name": "Moondough"
+     "name": "Moondough",
+     "mbid": "708c0f42-ef56-4630-8c00-10fcf2ef5cf9",
+     "listen_url": "https://moondough.bandcamp.com/track/social-disco-dancing",
+     "listen_service": "Bandcamp",
+     "listen_title": "Social Disco Dancing"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
@@ -2650,7 +2738,10 @@
      "listen_title": "Round and Round"
     },
     {
-     "name": "Tania Cassette"
+     "name": "Tania Cassette",
+     "mbid": "bf927b39-5c31-4e0a-9893-89e0517cfd9f",
+     "listen_url": "https://open.spotify.com/artist/7b9ea1qYy8iXBCjGTWphtK",
+     "listen_service": "Spotify"
     }
    ],
    "venue_url": "https://thesoundsd.com/"
@@ -3132,10 +3223,16 @@
    ],
    "artists": [
     {
-     "name": "Oasiz"
+     "name": "Oasiz",
+     "mbid": "b8fa1d05-aa8e-4271-8132-c84a3dac10d1",
+     "official_url": "https://tributeactsmanagement.com/artists/oasiz/"
     },
     {
-     "name": "Pants"
+     "name": "Pants",
+     "mbid": "4e40b975-270b-4f97-b295-8db157f06a77",
+     "official_url": "http://www.stonesthrow.com/jamespants",
+     "listen_url": "https://open.spotify.com/artist/4EtL7r3oJtiNsgpgbvlHcO",
+     "listen_service": "Spotify"
     },
     {
      "name": "Stones N' Roses"
@@ -4493,6 +4590,21 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
+   "id": "the-holding-company:2026-12-23:wiggle-wednesday",
+   "date": "2026-12-23",
+   "venue": "The Holding Company",
+   "city": "San Diego",
+   "performers": [
+    "Wiggle Wednesday"
+   ],
+   "artists": [
+    {
+     "name": "Wiggle Wednesday"
+    }
+   ],
+   "venue_url": "https://theholdingcompanyob.com/"
+  },
+  {
    "id": "the-kensington-club:2026-12-23:vinyl-wednesday",
    "date": "2026-12-23",
    "venue": "The Kensington Club",
@@ -5203,7 +5315,8 @@
     "Mark Montijo with Lenny Bole",
     "Peggy Watson & David Beldock",
     "Shawn Rohlf",
-    "James Lee Stanley"
+    "James Lee Stanley",
+    "Claudia Russell"
    ],
    "artists": [
     {
@@ -5246,6 +5359,11 @@
      "name": "James Lee Stanley",
      "mbid": "00ddeeba-11a8-46a9-bcac-0e5fbc4f4008",
      "official_url": "https://jamesleestanley.com/"
+    },
+    {
+     "name": "Claudia Russell",
+     "mbid": "69c39b31-7c12-4b27-b57d-e955e85d6222",
+     "official_url": "http://www.claudiarussell.com/"
     }
    ],
    "venue_url": "https://bellyup.com/"
@@ -5344,7 +5462,11 @@
    ],
    "artists": [
     {
-     "name": "Skiimo"
+     "name": "Skiimo",
+     "mbid": "893a6c50-8867-4130-abdd-20619b66e1af",
+     "listen_url": "https://skiimo.bandcamp.com/track/calvins-song",
+     "listen_service": "Bandcamp",
+     "listen_title": "Calvin's Song"
     },
     {
      "name": "Fieldrush"
@@ -5896,7 +6018,8 @@
    ],
    "artists": [
     {
-     "name": "Underminded"
+     "name": "Underminded",
+     "mbid": "8412d2af-f875-4ba9-b8ab-db474b986b91"
     }
    ],
    "venue_url": "https://www.somasandiego.com/"
@@ -6333,6 +6456,25 @@
    "venue_url": "https://www.sandiegosymphony.org/"
   },
   {
+   "id": "house-of-blues:2027-01-20:sherane",
+   "date": "2027-01-20",
+   "venue": "House of Blues",
+   "city": "San Diego",
+   "performers": [
+    "Sherane"
+   ],
+   "artists": [
+    {
+     "name": "Sherane",
+     "mbid": "5b864b6c-eb46-474e-aa51-29ece945ec64",
+     "listen_url": "https://sherane.bandcamp.com/track/only-yours",
+     "listen_service": "Bandcamp",
+     "listen_title": "only yours"
+    }
+   ],
+   "venue_url": "https://www.houseofblues.com/sandiego"
+  },
+  {
    "id": "soda-bar:2027-01-20:headworm",
    "date": "2027-01-20",
    "venue": "Soda Bar",
@@ -6392,7 +6534,8 @@
    "venue": "House of Blues",
    "city": "San Diego",
    "performers": [
-    "Alan Vuong"
+    "Alan Vuong",
+    "Cullen Dayne"
    ],
    "artists": [
     {
@@ -6400,6 +6543,9 @@
      "mbid": "780bef1e-bc48-4635-9859-23e1d52ec669",
      "listen_url": "https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8",
      "listen_service": "Spotify"
+    },
+    {
+     "name": "Cullen Dayne"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
@@ -7374,7 +7520,9 @@
      "listen_service": "Spotify"
     },
     {
-     "name": "Luke Tyler Shelton"
+     "name": "Luke Tyler Shelton",
+     "mbid": "18ce3df5-5208-48d2-b5bf-fe6d9e8e38b8",
+     "official_url": "https://luketylershelton.com/"
     }
    ],
    "venue_url": "https://www.houseofblues.com/sandiego"
