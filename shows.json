@@ -1,95 +1,11 @@
 {
- "generated_at": "2026-11-24T15:58:14-08:00",
+ "generated_at": "2026-11-25T05:14:59-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
   "updated": "November 24, 2026"
  },
  "shows": [
-  {
-   "id": "balboa-theatre:2026-11-24:leonid-friends",
-   "date": "2026-11-24",
-   "venue": "Balboa Theatre",
-   "city": "San Diego",
-   "performers": [
-    "Leonid & Friends"
-   ],
-   "artists": [
-    {
-     "name": "Leonid & Friends",
-     "mbid": "28ee30b4-36c0-492d-a8d2-b69d5068f690",
-     "official_url": "http://leonidandf.com/",
-     "listen_url": "https://open.spotify.com/artist/238tF244RAl3ApUAr23NVc",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.balboatheatre.org/"
-  },
-  {
-   "id": "casbah:2026-11-24:open-oscillator-60",
-   "date": "2026-11-24",
-   "venue": "Casbah",
-   "city": "San Diego",
-   "performers": [
-    "Open Oscillator #60"
-   ],
-   "artists": [
-    {
-     "name": "Open Oscillator #60"
-    }
-   ],
-   "venue_url": "https://www.casbahmusic.com/"
-  },
-  {
-   "id": "house-of-blues:2026-11-24:ezcodylee",
-   "date": "2026-11-24",
-   "venue": "House of Blues",
-   "city": "San Diego",
-   "performers": [
-    "ezcodylee",
-    "ninexteen"
-   ],
-   "artists": [
-    {
-     "name": "ezcodylee",
-     "mbid": "c63ab8a1-7eeb-4482-a609-e16fceac21c8",
-     "official_url": "https://ezcodylee.com/",
-     "listen_url": "https://open.spotify.com/artist/4ZmwdJnMTqHie4HvzBd0rC",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "ninexteen",
-     "mbid": "07cb4a09-e729-4d3a-b0a3-0df633d52356",
-     "listen_url": "https://open.spotify.com/artist/1IVzeG8Joy3lJS7SgfaI5f",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.houseofblues.com/sandiego"
-  },
-  {
-   "id": "soda-bar:2026-11-24:elixir",
-   "date": "2026-11-24",
-   "venue": "Soda Bar",
-   "city": "San Diego",
-   "performers": [
-    "Elixir",
-    "Minor Gems",
-    "Viv\u00ed Nubes"
-   ],
-   "artists": [
-    {
-     "name": "Elixir",
-     "mbid": "42071407-d57c-4e51-bc9e-546b010c32b0"
-    },
-    {
-     "name": "Minor Gems"
-    },
-    {
-     "name": "Viv\u00ed Nubes"
-    }
-   ],
-   "venue_url": "https://sodabarmusic.com/"
-  },
   {
    "id": "3oz-dive-club:2026-11-25:3oz-selekts-halo-varga",
    "date": "2026-11-25",
@@ -761,13 +677,19 @@
    ],
    "artists": [
     {
-     "name": "Doc Martin"
+     "name": "Doc Martin",
+     "mbid": "5ee9ad13-a79a-4887-90fe-aa23a1df49f1",
+     "official_url": "https://mn2s.com/booking-agency/dj-roster/doc-martin/"
     },
     {
-     "name": "H Foundation"
+     "name": "H Foundation",
+     "mbid": "19f876ff-f867-48d4-afaa-39663543bdc2",
+     "official_url": "http://www.somarecords.com/artists/hfoundation/"
     },
     {
-     "name": "Bertin"
+     "name": "Bertin",
+     "mbid": "00444e0e-219c-4272-9961-a9a6b18b2bb0",
+     "official_url": "http://velen.chez-alice.fr/bertin/"
     }
    ],
    "venue_url": "https://quartyardsd.com/"

@@ -448824,6 +448824,880 @@
         "country": null,
         "end-area": null
       }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Negative Ad\\\"\"}": {
+      "fetched_at": "2026-11-25T13:15:00.107260+00:00",
+      "data": {
+        "created": "2026-11-25T13:15:05.951Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Gothika Cumbia\\\"\"}": {
+      "fetched_at": "2026-11-25T13:15:00.107260+00:00",
+      "data": {
+        "created": "2026-11-25T13:15:11.248Z",
+        "count": 0,
+        "offset": 0,
+        "artists": []
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Doc Martin\\\"\"}": {
+      "fetched_at": "2026-11-25T13:15:00.107260+00:00",
+      "data": {
+        "created": "2026-11-25T13:15:11.405Z",
+        "count": 1,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "5ee9ad13-a79a-4887-90fe-aa23a1df49f1",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Doc Martin",
+            "sort-name": "Martin, Doc",
+            "gender": "male",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000037349610"
+            ],
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/5ee9ad13-a79a-4887-90fe-aa23a1df49f1?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-25T13:15:00.107260+00:00",
+      "data": {
+        "life-span": {
+          "end": null,
+          "begin": null,
+          "ended": false
+        },
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "begin-area": null,
+        "disambiguation": "",
+        "country": "US",
+        "ipis": [],
+        "area": {
+          "sort-name": "United States",
+          "disambiguation": "",
+          "name": "United States",
+          "type-id": null,
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ]
+        },
+        "end-area": null,
+        "id": "5ee9ad13-a79a-4887-90fe-aa23a1df49f1",
+        "isnis": [
+          "0000000037349610"
+        ],
+        "sort-name": "Martin, Doc",
+        "relations": [
+          {
+            "ended": false,
+            "target-type": "url",
+            "attribute-ids": {},
+            "begin": null,
+            "attributes": [],
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "attribute-values": {},
+            "type": "allmusic",
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "direction": "forward",
+            "url": {
+              "id": "66f9f6af-5033-4804-9760-afd369356c4e",
+              "resource": "https://www.allmusic.com/artist/mn0000168013"
+            }
+          },
+          {
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "source-credit": "",
+            "end": null,
+            "target-credit": "",
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "type": "discogs",
+            "attribute-values": {},
+            "direction": "forward",
+            "url": {
+              "id": "4682a7a5-5a4b-4db2-ae21-b00c79637ccf",
+              "resource": "https://www.discogs.com/artist/3878"
+            }
+          },
+          {
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "resource": "https://commons.wikimedia.org/wiki/File:Dj_Doc_Martin_070303_1.jpg",
+              "id": "d26f8a84-b7c8-4722-8bec-c356fcb4e153"
+            },
+            "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+            "attribute-values": {},
+            "type": "image",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url",
+            "end": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "resource": "https://www.last.fm/music/Doc%20Martin",
+              "id": "238a8550-2176-417d-915f-bbeb07eae70e"
+            },
+            "direction": "forward",
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "attribute-values": {},
+            "type": "last.fm"
+          },
+          {
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "id": "0b6b15d7-fcda-43e2-87ee-119c8c0d9746",
+              "resource": "https://mn2s.com/booking-agency/dj-roster/doc-martin/"
+            },
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "type": "official homepage",
+            "attribute-values": {},
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": ""
+          },
+          {
+            "direction": "forward",
+            "url": {
+              "id": "f574d9ad-3045-454a-80bd-162bb78c7829",
+              "resource": "https://rateyourmusic.com/artist/doc_martin"
+            },
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "type": "other databases",
+            "target-credit": "",
+            "end": null,
+            "source-credit": "",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "ended": false,
+            "target-type": "url"
+          },
+          {
+            "target-credit": "",
+            "direction": "forward",
+            "url": {
+              "id": "e2119fe6-b964-4e6a-bad6-2bec8795f2e6",
+              "resource": "https://www.wikidata.org/wiki/Q111047749"
+            },
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "attribute-values": {},
+            "type": "wikidata",
+            "attributes": [],
+            "begin": null,
+            "attribute-ids": {},
+            "target-type": "url",
+            "ended": false,
+            "end": null,
+            "source-credit": ""
+          }
+        ],
+        "gender": "Male",
+        "name": "Doc Martin"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"H Foundation\\\"\"}": {
+      "fetched_at": "2026-11-25T13:15:00.107260+00:00",
+      "data": {
+        "created": "2026-11-25T13:15:17.841Z",
+        "count": 2,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "19f876ff-f867-48d4-afaa-39663543bdc2",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 100,
+            "name": "H-Foundation",
+            "sort-name": "H-Foundation",
+            "country": "US",
+            "area": {
+              "id": "489ce91b-6658-3307-9877-795b68554c98",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United States",
+              "sort-name": "United States",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "USA house duo",
+            "isnis": [
+              "0000000106695382"
+            ],
+            "life-span": {
+              "ended": null
+            },
+            "aliases": [
+              {
+                "sort-name": "H:Foundation",
+                "name": "H:Foundation",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          },
+          {
+            "id": "b8ac4fdc-513d-42ea-9070-3748f286a51e",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 92,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "H-Foundation",
+            "sort-name": "H-Foundation",
+            "gender": "male",
+            "country": "GB",
+            "area": {
+              "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "United Kingdom",
+              "sort-name": "United Kingdom",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "UK house artist James Harrigan, (Laika / Lima)",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/19f876ff-f867-48d4-afaa-39663543bdc2?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-25T13:15:00.107260+00:00",
+      "data": {
+        "gender": null,
+        "area": {
+          "sort-name": "United States",
+          "id": "489ce91b-6658-3307-9877-795b68554c98",
+          "disambiguation": "",
+          "type-id": null,
+          "name": "United States",
+          "type": null,
+          "iso-3166-1-codes": [
+            "US"
+          ]
+        },
+        "sort-name": "H-Foundation",
+        "id": "19f876ff-f867-48d4-afaa-39663543bdc2",
+        "isnis": [
+          "0000000106695382"
+        ],
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "end-area": null,
+        "relations": [
+          {
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "allmusic",
+            "target-type": "url",
+            "url": {
+              "resource": "https://www.allmusic.com/artist/mn0000546613",
+              "id": "9658deaf-af2f-4371-a3e9-64109974de49"
+            },
+            "target-credit": "",
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+            "attribute-values": {}
+          },
+          {
+            "target-type": "url",
+            "type": "discogs",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-credit": "",
+            "url": {
+              "id": "2fef952c-3bef-4549-a364-d9d8f4e92c21",
+              "resource": "https://www.discogs.com/artist/244"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "end": null
+          },
+          {
+            "url": {
+              "resource": "https://www.last.fm/music/H-Foundation",
+              "id": "eb829445-b531-4bf9-8253-e56a072f19b6"
+            },
+            "target-credit": "",
+            "begin": null,
+            "source-credit": "",
+            "ended": false,
+            "type": "last.fm",
+            "target-type": "url",
+            "end": null,
+            "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+            "attribute-values": {},
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": []
+          },
+          {
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "target-type": "url",
+            "type": "official homepage",
+            "target-credit": "",
+            "url": {
+              "resource": "http://www.somarecords.com/artists/hfoundation/",
+              "id": "46564c45-08d2-4814-a303-793760b22948"
+            },
+            "direction": "forward",
+            "attribute-ids": {},
+            "attributes": [],
+            "end": null,
+            "attribute-values": {},
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15"
+          },
+          {
+            "target-type": "url",
+            "type": "other databases",
+            "ended": false,
+            "begin": null,
+            "source-credit": "",
+            "url": {
+              "resource": "https://ra.co/dj/hfoundation",
+              "id": "7f64f125-74f4-4516-920b-b52b56c1d87c"
+            },
+            "target-credit": "",
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "end": null
+          },
+          {
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+            "attribute-values": {},
+            "end": null,
+            "attributes": [],
+            "direction": "forward",
+            "attribute-ids": {},
+            "target-credit": "",
+            "url": {
+              "id": "47c7c070-744f-466d-9676-ce8b5d12c814",
+              "resource": "https://rateyourmusic.com/artist/h_foundation"
+            },
+            "type": "other databases",
+            "target-type": "url",
+            "begin": null,
+            "source-credit": "",
+            "ended": false
+          }
+        ],
+        "begin-area": null,
+        "life-span": {
+          "end": null,
+          "ended": false,
+          "begin": null
+        },
+        "type": "Group",
+        "gender-id": null,
+        "name": "H-Foundation",
+        "ipis": [],
+        "disambiguation": "USA house duo",
+        "country": "US"
+      }
+    },
+    "/artist/?{\"limit\": 10, \"query\": \"artist:\\\"Bertin\\\"\"}": {
+      "fetched_at": "2026-11-25T13:15:00.107260+00:00",
+      "data": {
+        "created": "2026-11-25T13:15:25.180Z",
+        "count": 40,
+        "offset": 0,
+        "artists": [
+          {
+            "id": "00444e0e-219c-4272-9961-a9a6b18b2bb0",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 100,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Jacques Bertin",
+            "sort-name": "Bertin, Jacques",
+            "gender": "male",
+            "country": "FR",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "France",
+              "sort-name": "France",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "begin": "1946",
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "singer-songwriter"
+              },
+              {
+                "count": 1,
+                "name": "chanson française"
+              }
+            ]
+          },
+          {
+            "id": "3e60c077-32b9-430b-bb63-46160d915d58",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 96,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Bertín Osborne",
+            "sort-name": "Osborne, Bertín",
+            "gender": "male",
+            "country": "ES",
+            "area": {
+              "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Spain",
+              "sort-name": "Spain",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "9ddf829c-48ee-4457-a80d-f7370f24f2ec",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Madrid",
+              "sort-name": "Madrid",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "life-span": {
+              "begin": "1954-12-07",
+              "ended": null
+            }
+          },
+          {
+            "id": "9fad1e1d-e111-475a-98c7-3cbe94168044",
+            "score": 94,
+            "name": "Bertin",
+            "sort-name": "Bertin",
+            "disambiguation": "Bertin van Vliet",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "a38e536e-91c0-4f95-9135-66948df7043d",
+            "type": "Group",
+            "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+            "score": 92,
+            "name": "Bertín y Lalo",
+            "sort-name": "Bertín y Lalo",
+            "area": {
+              "id": "153ada51-1faa-4fcd-ba64-56d57469c977",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Acapulco",
+              "sort-name": "Acapulco",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "dueto",
+            "life-span": {
+              "ended": null
+            },
+            "tags": [
+              {
+                "count": 1,
+                "name": "regional mexicano"
+              },
+              {
+                "count": 1,
+                "name": "bolero-mexicano"
+              },
+              {
+                "count": 1,
+                "name": "bolero"
+              }
+            ]
+          },
+          {
+            "id": "bf0dec6a-a8c5-4011-a9ac-c71774d55402",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 90,
+            "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+            "name": "Louise Bertin",
+            "sort-name": "Bertin, Louise",
+            "gender": "female",
+            "country": "FR",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "France",
+              "sort-name": "France",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "fcd34a1b-4378-4343-9112-d337562d508e",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Bièvres",
+              "sort-name": "Bièvres",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "end-area": {
+              "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Paris",
+              "sort-name": "Paris",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000121382579"
+            ],
+            "life-span": {
+              "begin": "1805-01-15",
+              "end": "1877-04-26",
+              "ended": true
+            }
+          },
+          {
+            "id": "8ef4795f-2dea-46e3-a1cb-7cbfda076a21",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 89,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Pascal Bertin",
+            "sort-name": "Bertin, Pascal",
+            "gender": "male",
+            "country": "FR",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "France",
+              "sort-name": "France",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "countertenor",
+            "isnis": [
+              "0000000050585642"
+            ],
+            "life-span": {
+              "begin": "1970-09",
+              "ended": null
+            }
+          },
+          {
+            "id": "74b053d8-8b9b-4f1e-a696-0b32611dd36b",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 88,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Pierre Bertin",
+            "sort-name": "Bertin, Pierre",
+            "gender": "male",
+            "country": "FR",
+            "area": {
+              "id": "08310658-51eb-3801-80de-5a0739207115",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "France",
+              "sort-name": "France",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "0abacf96-801b-4720-9ad0-6a3c7a90ba1a",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Lille",
+              "sort-name": "Lille",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "end-area": {
+              "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "Paris",
+              "sort-name": "Paris",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "isnis": [
+              "0000000108674972"
+            ],
+            "life-span": {
+              "begin": "1891-10-24",
+              "end": "1984-05-13",
+              "ended": true
+            }
+          },
+          {
+            "id": "bfba163e-564a-46f5-a835-837c20d1cf2b",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 87,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Bertin Christelbauer",
+            "sort-name": "Christelbauer, Bertin",
+            "gender": "male",
+            "country": "AT",
+            "area": {
+              "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+              "type": "Country",
+              "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+              "name": "Austria",
+              "sort-name": "Austria",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "begin-area": {
+              "id": "25b2636f-72e2-40d8-926b-557c74604dd6",
+              "type": "City",
+              "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+              "name": "St. Pölten",
+              "sort-name": "St. Pölten",
+              "life-span": {
+                "ended": null
+              }
+            },
+            "disambiguation": "cellist",
+            "life-span": {
+              "begin": "1978-06-01",
+              "ended": null
+            }
+          },
+          {
+            "id": "47ca01cb-573e-4b86-8617-34fd1e9e45c8",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 87,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "André Bertin",
+            "sort-name": "Bertin, André",
+            "gender": "male",
+            "life-span": {
+              "ended": null
+            }
+          },
+          {
+            "id": "8743c8af-e2a8-4b55-9714-768a5775f6c5",
+            "score": 87,
+            "name": "Benjamin Bertin",
+            "sort-name": "Bertin, Benjamin",
+            "life-span": {
+              "ended": null
+            }
+          }
+        ]
+      }
+    },
+    "/artist/00444e0e-219c-4272-9961-a9a6b18b2bb0?{\"inc\": \"url-rels\"}": {
+      "fetched_at": "2026-11-25T13:15:00.107260+00:00",
+      "data": {
+        "ipis": [],
+        "begin-area": null,
+        "relations": [
+          {
+            "type": "discography page",
+            "attribute-ids": {},
+            "ended": false,
+            "attributes": [],
+            "begin": null,
+            "url": {
+              "id": "5cd406d0-4a8b-4547-a1b0-28a0fe445fef",
+              "resource": "http://www.encyclopedisque.fr/artiste/526.html"
+            },
+            "target-credit": "",
+            "end": null,
+            "direction": "forward",
+            "target-type": "url",
+            "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+            "attribute-values": {},
+            "source-credit": ""
+          },
+          {
+            "attributes": [],
+            "url": {
+              "resource": "https://www.discogs.com/artist/1548253",
+              "id": "73f307df-94bf-40d0-8667-b322b99d9e0f"
+            },
+            "target-credit": "",
+            "begin": null,
+            "type": "discogs",
+            "ended": false,
+            "attribute-ids": {},
+            "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+            "attribute-values": {},
+            "source-credit": "",
+            "end": null,
+            "target-type": "url",
+            "direction": "forward"
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+            "ended": false,
+            "attribute-ids": {},
+            "type": "official homepage",
+            "target-credit": "",
+            "url": {
+              "id": "89f038c7-7c1f-40e3-8cee-53c1f957c9e0",
+              "resource": "http://velen.chez-alice.fr/bertin/"
+            },
+            "begin": null,
+            "attributes": []
+          },
+          {
+            "attribute-ids": {},
+            "ended": false,
+            "type": "other databases",
+            "begin": null,
+            "target-credit": "",
+            "url": {
+              "id": "6d9d9c5e-e0df-460a-9d02-0236f8325bce",
+              "resource": "https://rateyourmusic.com/artist/jacques_bertin"
+            },
+            "attributes": [],
+            "direction": "forward",
+            "target-type": "url",
+            "end": null,
+            "source-credit": "",
+            "attribute-values": {},
+            "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+          },
+          {
+            "target-type": "url",
+            "direction": "forward",
+            "end": null,
+            "attribute-values": {},
+            "source-credit": "",
+            "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+            "ended": false,
+            "attribute-ids": {},
+            "type": "wikidata",
+            "url": {
+              "id": "9b29172e-f032-43b3-b0cb-271c6b5c5b04",
+              "resource": "https://www.wikidata.org/wiki/Q2403708"
+            },
+            "target-credit": "",
+            "begin": null,
+            "attributes": []
+          }
+        ],
+        "life-span": {
+          "begin": "1946",
+          "ended": false,
+          "end": null
+        },
+        "id": "00444e0e-219c-4272-9961-a9a6b18b2bb0",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "FR",
+        "type": "Person",
+        "isnis": [],
+        "end-area": null,
+        "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+        "sort-name": "Bertin, Jacques",
+        "area": {
+          "type": null,
+          "id": "08310658-51eb-3801-80de-5a0739207115",
+          "sort-name": "France",
+          "iso-3166-1-codes": [
+            "FR"
+          ],
+          "type-id": null,
+          "name": "France",
+          "disambiguation": ""
+        },
+        "gender": "Male",
+        "name": "Jacques Bertin"
+      }
     }
   }
 }
