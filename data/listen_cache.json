@@ -3438,7 +3438,7 @@
       "reason": "no_streamable_track"
     },
     "https://bigsandyandhisflyriteboys.bandcamp.com/": {
-      "checked_at": "2026-11-20T11:59:21.957561+00:00",
+      "checked_at": "2026-11-27T12:51:15.516641+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://bigsandyandhisflyriteboys.bandcamp.com/track/power-of-the-45",
@@ -3449,7 +3449,7 @@
       "reason": null
     },
     "https://deathvalleygirls.bandcamp.com/": {
-      "checked_at": "2026-11-20T11:59:21.957561+00:00",
+      "checked_at": "2026-11-27T12:51:15.516641+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://deathvalleygirls.bandcamp.com/track/welcome-to-earth",
@@ -3460,7 +3460,7 @@
       "reason": null
     },
     "https://sevendust.bandcamp.com/": {
-      "checked_at": "2026-11-20T11:59:21.957561+00:00",
+      "checked_at": "2026-11-27T12:51:15.516641+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://sevendust.bandcamp.com/track/unbreakable",

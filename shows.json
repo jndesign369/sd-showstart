@@ -1,50 +1,11 @@
 {
- "generated_at": "2026-11-26T15:55:34-08:00",
+ "generated_at": "2026-11-27T04:51:15-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
   "updated": "November 25, 2026"
  },
  "shows": [
-  {
-   "id": "humphreys-backstage-live:2026-11-26:happy-thanksgiving-closed",
-   "date": "2026-11-26",
-   "venue": "Humphreys Backstage Live",
-   "city": "San Diego",
-   "performers": [
-    "Happy Thanksgiving - Closed"
-   ],
-   "artists": [
-    {
-     "name": "Happy Thanksgiving - Closed"
-    }
-   ],
-   "venue_url": "https://www.humphreysbackstagelive.com/"
-  },
-  {
-   "id": "the-tower-bar:2026-11-26:dj-chuck-terror",
-   "date": "2026-11-26",
-   "venue": "The Tower Bar",
-   "city": "San Diego",
-   "performers": [
-    "DJ Chuck Terror",
-    "Diagnostic",
-    "Mexi.Surf"
-   ],
-   "artists": [
-    {
-     "name": "DJ Chuck Terror"
-    },
-    {
-     "name": "Diagnostic",
-     "mbid": "d173d722-83e1-434f-81a8-b99872f11169"
-    },
-    {
-     "name": "Mexi.Surf"
-    }
-   ],
-   "venue_url": "https://www.thetowerbar.com/"
-  },
   {
    "id": "humphreys-backstage-live:2026-11-27:chris-james-patrick-rynn",
    "date": "2026-11-27",
