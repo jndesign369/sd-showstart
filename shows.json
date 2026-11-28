@@ -1,249 +1,11 @@
 {
- "generated_at": "2026-11-27T15:36:25-08:00",
+ "generated_at": "2026-11-28T04:02:21-08:00",
  "source": {
   "name": "The List: San Diego (ConcertsSD)",
   "url": "https://concertssd.com/",
-  "updated": "November 25, 2026"
+  "updated": "November 27, 2026"
  },
  "shows": [
-  {
-   "id": "humphreys-backstage-live:2026-11-27:chris-james-patrick-rynn",
-   "date": "2026-11-27",
-   "venue": "Humphreys Backstage Live",
-   "city": "San Diego",
-   "performers": [
-    "Chris James & Patrick Rynn",
-    "Wildside"
-   ],
-   "artists": [
-    {
-     "name": "Chris James & Patrick Rynn",
-     "mbid": "7569c166-5240-4ad8-9c22-db30331842ec",
-     "official_url": "http://www.chrisjamesandpatrickrynn.com/"
-    },
-    {
-     "name": "Wildside",
-     "mbid": "b49f390d-7206-4040-b55d-57bc975fcb17"
-    }
-   ],
-   "venue_url": "https://www.humphreysbackstagelive.com/"
-  },
-  {
-   "id": "lou-lou-s:2026-11-27:the-palladium-mambo-orchestra",
-   "date": "2026-11-27",
-   "venue": "Lou Lou's",
-   "city": "San Diego",
-   "performers": [
-    "THE PALLADIUM MAMBO ORCHESTRA"
-   ],
-   "artists": [
-    {
-     "name": "THE PALLADIUM MAMBO ORCHESTRA"
-    }
-   ],
-   "venue_url": "https://www.loulousclub.com/"
-  },
-  {
-   "id": "music-box:2026-11-27:brother-ali",
-   "date": "2026-11-27",
-   "venue": "Music Box",
-   "city": "San Diego",
-   "performers": [
-    "Brother Ali",
-    "Lyrics Born"
-   ],
-   "artists": [
-    {
-     "name": "Brother Ali",
-     "mbid": "e0b267df-9e16-4fd3-abb2-b47e61e7a2aa",
-     "official_url": "http://brotherali.com/",
-     "listen_url": "https://brotherali.bandcamp.com/track/screamin-jay-hawkins",
-     "listen_service": "Bandcamp",
-     "listen_title": "Screamin' Jay Hawkins"
-    },
-    {
-     "name": "Lyrics Born",
-     "mbid": "3fafb3eb-bd69-4463-b6aa-bf88472b6089",
-     "official_url": "http://www.lyricsborn.com/",
-     "listen_url": "https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.musicboxsd.com/"
-  },
-  {
-   "id": "nova-sd:2026-11-27:3ballmty-360",
-   "date": "2026-11-27",
-   "venue": "Nova SD",
-   "city": "San Diego",
-   "performers": [
-    "3BallMTY 360\u00b0"
-   ],
-   "artists": [
-    {
-     "name": "3BallMTY 360\u00b0"
-    }
-   ],
-   "venue_url": "https://novasandiego.com/"
-  },
-  {
-   "id": "pechanga-arena:2026-11-27:cristian-castro",
-   "date": "2026-11-27",
-   "venue": "Pechanga Arena",
-   "city": "San Diego",
-   "performers": [
-    "Cristian Castro"
-   ],
-   "artists": [
-    {
-     "name": "Cristian Castro",
-     "mbid": "8cc00e45-94c9-40e0-882b-0e76dd5b472b",
-     "official_url": "http://www.cristiancastro.com/",
-     "listen_url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.pechangaarenasd.com/"
-  },
-  {
-   "id": "quartyard:2026-11-27:triptophantasia",
-   "date": "2026-11-27",
-   "venue": "Quartyard",
-   "city": "San Diego",
-   "performers": [
-    "Triptophantasia"
-   ],
-   "artists": [
-    {
-     "name": "Triptophantasia"
-    }
-   ],
-   "venue_url": "https://quartyardsd.com/"
-  },
-  {
-   "id": "soda-bar:2026-11-27:hippie-death-cult",
-   "date": "2026-11-27",
-   "venue": "Soda Bar",
-   "city": "San Diego",
-   "performers": [
-    "Hippie Death Cult",
-    "Monarch"
-   ],
-   "artists": [
-    {
-     "name": "Hippie Death Cult",
-     "mbid": "3a020ae9-62e2-4d4f-bc28-fc0965a02f7f",
-     "official_url": "https://www.hippiedeathcultband.com/",
-     "listen_url": "https://hippiedeathcult.bandcamp.com/track/grit-blood-bone",
-     "listen_service": "Bandcamp",
-     "listen_title": "Grit, Blood & Bone"
-    },
-    {
-     "name": "Monarch",
-     "mbid": "fce73a93-bd0b-4449-b275-eade0625f2c4"
-    }
-   ],
-   "venue_url": "https://sodabarmusic.com/"
-  },
-  {
-   "id": "the-holding-company:2026-11-27:the-good",
-   "date": "2026-11-27",
-   "venue": "The Holding Company",
-   "city": "San Diego",
-   "performers": [
-    "The Good"
-   ],
-   "artists": [
-    {
-     "name": "The Good",
-     "mbid": "9d72ddd0-5028-42a4-a60c-cd4ba72b1981",
-     "official_url": "http://www.goodrats.com/"
-    }
-   ],
-   "venue_url": "https://theholdingcompanyob.com/"
-  },
-  {
-   "id": "the-kensington-club:2026-11-27:gothika-cumbia",
-   "date": "2026-11-27",
-   "venue": "The Kensington Club",
-   "city": "San Diego",
-   "performers": [
-    "Gothika Cumbia"
-   ],
-   "artists": [
-    {
-     "name": "Gothika Cumbia"
-    }
-   ],
-   "venue_url": "https://www.kensingtonclub1935.com/"
-  },
-  {
-   "id": "the-magnolia:2026-11-27:dweezil-zappa",
-   "date": "2026-11-27",
-   "venue": "The Magnolia",
-   "city": "El Cajon",
-   "performers": [
-    "Dweezil Zappa"
-   ],
-   "artists": [
-    {
-     "name": "Dweezil Zappa",
-     "mbid": "7f83b479-2030-47c5-937e-d4a8f142f1b1",
-     "official_url": "http://www.dweezilzappaworld.com/",
-     "listen_url": "https://open.spotify.com/artist/4Dbp4J9AFoY5c9LsRPdoVP",
-     "listen_service": "Spotify"
-    }
-   ],
-   "venue_url": "https://www.magnoliasd.com/"
-  },
-  {
-   "id": "the-observatory-north-park:2026-11-27:the-greyboy-allstars",
-   "date": "2026-11-27",
-   "venue": "The Observatory North Park",
-   "city": "San Diego",
-   "performers": [
-    "The Greyboy Allstars",
-    "DJ Greyboy"
-   ],
-   "artists": [
-    {
-     "name": "The Greyboy Allstars",
-     "mbid": "448913ad-9a62-4278-abbe-07b35cae6c73",
-     "official_url": "http://www.greyboyallstars.com/",
-     "listen_url": "https://thegreyboyallstars.bandcamp.com/track/flair",
-     "listen_service": "Bandcamp",
-     "listen_title": "Flair"
-    },
-    {
-     "name": "DJ Greyboy"
-    }
-   ],
-   "venue_url": "https://www.observatorysd.com"
-  },
-  {
-   "id": "the-tower-bar:2026-11-27:dj-sargent-j",
-   "date": "2026-11-27",
-   "venue": "The Tower Bar",
-   "city": "San Diego",
-   "performers": [
-    "DJ Sargent J",
-    "DJ Auranor",
-    "DJ Bones"
-   ],
-   "artists": [
-    {
-     "name": "DJ Sargent J"
-    },
-    {
-     "name": "DJ Auranor"
-    },
-    {
-     "name": "DJ Bones",
-     "mbid": "3cddc5bb-ee10-48f2-a6e3-8d5aae60bc58"
-    }
-   ],
-   "venue_url": "https://www.thetowerbar.com/"
-  },
   {
    "id": "balboa-theatre:2026-11-28:big-bad-voodoo-daddy",
    "date": "2026-11-28",
@@ -841,33 +603,6 @@
    "venue_url": "https://www.casbahmusic.com/"
   },
   {
-   "id": "soda-bar:2026-11-30:the-meteors",
-   "date": "2026-11-30",
-   "venue": "Soda Bar",
-   "city": "San Diego",
-   "performers": [
-    "The Meteors",
-    "The Screamin' Yeehaws",
-    "Rip Carson and the Carcinogenics"
-   ],
-   "artists": [
-    {
-     "name": "The Meteors",
-     "mbid": "8df95482-901f-469f-a268-73b34e05dad9",
-     "official_url": "http://yendor71.com/",
-     "listen_url": "https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9",
-     "listen_service": "Spotify"
-    },
-    {
-     "name": "The Screamin' Yeehaws"
-    },
-    {
-     "name": "Rip Carson and the Carcinogenics"
-    }
-   ],
-   "venue_url": "https://sodabarmusic.com/"
-  },
-  {
    "id": "viejas-arena:2026-11-30:jonas-brothers",
    "date": "2026-11-30",
    "venue": "Viejas Arena",
@@ -1099,6 +834,21 @@
    "venue_url": "https://theholdingcompanyob.com/"
   },
   {
+   "id": "the-tower-bar:2026-12-02:execution-wednesdays",
+   "date": "2026-12-02",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "Execution Wednesdays -"
+   ],
+   "artists": [
+    {
+     "name": "Execution Wednesdays -"
+    }
+   ],
+   "venue_url": "https://www.thetowerbar.com/"
+  },
+  {
    "id": "3oz-dive-club:2026-12-03:velvet-tide-erika-casarin",
    "date": "2026-12-03",
    "venue": "3OZ Dive Club",
@@ -1176,6 +926,21 @@
     }
    ],
    "venue_url": "https://dizzysjazz.com/"
+  },
+  {
+   "id": "lou-lou-s:2026-12-03:gilbert-castellanos-the-new-latin-jazz-sextet-supperclub",
+   "date": "2026-12-03",
+   "venue": "Lou Lou's",
+   "city": "San Diego",
+   "performers": [
+    "GILBERT CASTELLANOS & THE NEW LATIN JAZZ SEXTET - SUPPERCLUB"
+   ],
+   "artists": [
+    {
+     "name": "GILBERT CASTELLANOS & THE NEW LATIN JAZZ SEXTET - SUPPERCLUB"
+    }
+   ],
+   "venue_url": "https://www.loulousclub.com/"
   },
   {
    "id": "music-box:2026-12-03:ripe",
@@ -1346,6 +1111,51 @@
     }
    ],
    "venue_url": "https://whistlestopbar.com/"
+  },
+  {
+   "id": "x:2026-12-04:catharsis",
+   "date": "2026-12-04",
+   "venue": "",
+   "city": "Bikes Del Pueblo",
+   "performers": [
+    "Catharsis",
+    "Habak",
+    "Axe Collector",
+    "Se Vende",
+    "Rx. Pinknoise"
+   ],
+   "artists": [
+    {
+     "name": "Catharsis",
+     "mbid": "a8b82d8f-a73f-443d-a610-c023db1df684",
+     "official_url": "http://catharsis.ru/"
+    },
+    {
+     "name": "Habak",
+     "mbid": "c86cf759-22c4-41b3-9eba-071a0f61b639",
+     "listen_url": "https://habak.bandcamp.com/track/mil-orqui-deas-en-medio-del-desierto",
+     "listen_service": "Bandcamp",
+     "listen_title": "Mil orqui\u0301deas en medio del desierto"
+    },
+    {
+     "name": "Axe Collector",
+     "mbid": "76c2bcaa-6a3d-436e-a902-c1214a362099",
+     "listen_url": "https://axecollector.bandcamp.com/track/unforced-damage",
+     "listen_service": "Bandcamp",
+     "listen_title": "Unforced Damage"
+    },
+    {
+     "name": "Se Vende",
+     "mbid": "bb220947-9ee4-495c-b021-61e6e7918d98",
+     "listen_url": "https://sevende.bandcamp.com/track/wasting-life-naturally",
+     "listen_service": "Bandcamp",
+     "listen_title": "Wasting life, naturally"
+    },
+    {
+     "name": "Rx. Pinknoise"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "3oz-dive-club:2026-12-04:x3butterfly",
@@ -1682,6 +1492,42 @@
     }
    ],
    "venue_url": "https://www.thetowerbar.com/"
+  },
+  {
+   "id": "x:2026-12-05:tiger-lewis",
+   "date": "2026-12-05",
+   "venue": "",
+   "city": "Sound by the Sea",
+   "performers": [
+    "Tiger Lewis",
+    "Worn-Tin",
+    "Floats",
+    "Swede and Skogen"
+   ],
+   "artists": [
+    {
+     "name": "Tiger Lewis"
+    },
+    {
+     "name": "Worn-Tin",
+     "mbid": "880fbb95-a052-4374-8985-ef8aa10e4689",
+     "listen_url": "https://worntin.bandcamp.com/track/ominous-light",
+     "listen_service": "Bandcamp",
+     "listen_title": "Ominous Light"
+    },
+    {
+     "name": "Floats",
+     "mbid": "52d4c368-ec47-412a-a4a6-5e848c66a4ce",
+     "listen_url": "https://open.spotify.com/artist/4U0rW1T9UZvITOSfbMcoBp",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Swede and Skogen",
+     "mbid": "40f23655-e522-43be-8ec6-bc33761b6d70",
+     "official_url": "https://www.swedeandskogen.com/"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "belly-up-tavern:2026-12-05:poncho-sanchez",
@@ -2487,6 +2333,21 @@
     }
    ],
    "venue_url": "https://thesoundsd.com/"
+  },
+  {
+   "id": "the-tower-bar:2026-12-09:execution-wednesdays-hypnotoads",
+   "date": "2026-12-09",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "Execution Wednesdays - Hypnotoads"
+   ],
+   "artists": [
+    {
+     "name": "Execution Wednesdays - Hypnotoads"
+    }
+   ],
+   "venue_url": "https://www.thetowerbar.com/"
   },
   {
    "id": "belly-up-tavern:2026-12-10:jd-mcpherson",
@@ -3632,6 +3493,35 @@
    "venue_url": "https://bellyup.com/"
   },
   {
+   "id": "casbah:2026-12-17:borg",
+   "date": "2026-12-17",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "Borg",
+    "Los Paisanos",
+    "Midnight Strangers"
+   ],
+   "artists": [
+    {
+     "name": "Borg",
+     "mbid": "02b21439-02f9-4d46-9938-27da30088ef4",
+     "official_url": "http://www.andy-borg.de/",
+     "listen_url": "https://open.spotify.com/artist/02cwf63pmoVJ5xtq7JDED4",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Los Paisanos",
+     "mbid": "f519991c-1705-4322-9b38-31e31a0f46d7"
+    },
+    {
+     "name": "Midnight Strangers",
+     "mbid": "985e171a-ec93-49ba-b9eb-cdd744ba127c"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
+  },
+  {
    "id": "dizzy-s-jazz:2026-12-17:sdscpa-jazz-ensembles",
    "date": "2026-12-17",
    "venue": "Dizzy's Jazz",
@@ -3887,6 +3777,21 @@
     }
    ],
    "venue_url": "https://www.observatorysd.com"
+  },
+  {
+   "id": "the-tower-bar:2026-12-18:bloom-room",
+   "date": "2026-12-18",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "Bloom Room"
+   ],
+   "artists": [
+    {
+     "name": "Bloom Room"
+    }
+   ],
+   "venue_url": "https://www.thetowerbar.com/"
   },
   {
    "id": "belly-up-tavern:2026-12-19:gin-blossoms",
@@ -4362,6 +4267,32 @@
    "venue_url": "https://www.kensingtonclub1935.com/"
   },
   {
+   "id": "the-tower-bar:2026-12-23:execution-wednesdays-marujah",
+   "date": "2026-12-23",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "Execution Wednesdays -Marujah",
+    "Sex Panther",
+    "Better Before"
+   ],
+   "artists": [
+    {
+     "name": "Execution Wednesdays -Marujah"
+    },
+    {
+     "name": "Sex Panther",
+     "mbid": "f02cc6c6-d75a-4662-878d-ca0aeb68a4ed",
+     "listen_url": "https://open.spotify.com/artist/0apyqSV6jJXL8QLFjOoiTe",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Better Before"
+    }
+   ],
+   "venue_url": "https://www.thetowerbar.com/"
+  },
+  {
    "id": "belly-up-tavern:2026-12-26:jimmy-s-buffet-a-pirate-looks-at-80-birthday-bash",
    "date": "2026-12-26",
    "venue": "Belly Up Tavern",
@@ -4420,6 +4351,29 @@
     }
    ],
    "venue_url": "https://novasandiego.com/"
+  },
+  {
+   "id": "soda-bar:2026-12-26:fresh-veggies-micro-brass",
+   "date": "2026-12-26",
+   "venue": "Soda Bar",
+   "city": "San Diego",
+   "performers": [
+    "Fresh Veggies Micro Brass",
+    "REZA"
+   ],
+   "artists": [
+    {
+     "name": "Fresh Veggies Micro Brass"
+    },
+    {
+     "name": "REZA",
+     "mbid": "3313c8e6-bbed-4dac-98a4-6e73df753a78",
+     "official_url": "http://rezasadeghi.com/",
+     "listen_url": "https://open.spotify.com/artist/00J3XSB6tD4SGSFflGseDx",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": "https://sodabarmusic.com/"
   },
   {
    "id": "the-holding-company:2026-12-26:safety-orange",
@@ -4533,6 +4487,30 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "casbah:2026-12-30:the-rightovers",
+   "date": "2026-12-30",
+   "venue": "Casbah",
+   "city": "San Diego",
+   "performers": [
+    "The Rightovers",
+    "Magical Animals",
+    "Bobby Ricky"
+   ],
+   "artists": [
+    {
+     "name": "The Rightovers",
+     "mbid": "10c78595-0a43-4fa9-8d4b-0f520e643940"
+    },
+    {
+     "name": "Magical Animals"
+    },
+    {
+     "name": "Bobby Ricky"
+    }
+   ],
+   "venue_url": "https://www.casbahmusic.com/"
   },
   {
    "id": "soda-bar:2026-12-30:thee-heart-tones-x-the-mccharmlys",
@@ -4751,6 +4729,27 @@
     }
    ],
    "venue_url": "https://www.mlb.com/padres/ballpark"
+  },
+  {
+   "id": "the-tower-bar:2026-12-30:execution-wednesdays-a-face",
+   "date": "2026-12-30",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "Execution Wednesdays - A Face",
+    "No Name"
+   ],
+   "artists": [
+    {
+     "name": "Execution Wednesdays - A Face"
+    },
+    {
+     "name": "No Name",
+     "mbid": "f353b91a-2d13-4254-97d1-17ab9599e6e2",
+     "official_url": "http://www.no-name.sk/"
+    }
+   ],
+   "venue_url": "https://www.thetowerbar.com/"
   },
   {
    "id": "belly-up-tavern:2026-12-31:the-floozies",
@@ -5255,6 +5254,30 @@
    "venue_url": "https://theholdingcompanyob.com/"
   },
   {
+   "id": "the-tower-bar:2027-01-07:dj-chuck-terror",
+   "date": "2027-01-07",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "DJ Chuck Terror",
+    "Diagnostic",
+    "Mexi.Surf"
+   ],
+   "artists": [
+    {
+     "name": "DJ Chuck Terror"
+    },
+    {
+     "name": "Diagnostic",
+     "mbid": "d173d722-83e1-434f-81a8-b99872f11169"
+    },
+    {
+     "name": "Mexi.Surf"
+    }
+   ],
+   "venue_url": "https://www.thetowerbar.com/"
+  },
+  {
    "id": "3oz-dive-club:2027-01-08:egyptian-lover",
    "date": "2027-01-08",
    "venue": "3OZ Dive Club",
@@ -5749,6 +5772,21 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "dizzy-s-jazz:2027-01-15:ant-nio-carlo-jobim-centennial",
+   "date": "2027-01-15",
+   "venue": "Dizzy's Jazz",
+   "city": "San Diego",
+   "performers": [
+    "Ant\u00f4nio Carlo Jobim centennial"
+   ],
+   "artists": [
+    {
+     "name": "Ant\u00f4nio Carlo Jobim centennial"
+    }
+   ],
+   "venue_url": "https://dizzysjazz.com/"
   },
   {
    "id": "soma:2027-01-15:underminded",
@@ -7496,6 +7534,38 @@
    "venue_url": "https://thesoundsd.com/"
   },
   {
+   "id": "the-tower-bar:2027-02-06:screamin-yeehaws",
+   "date": "2027-02-06",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "Screamin Yeehaws",
+    "The Eight Ball Truckers",
+    "The Tramplers",
+    "Johnny Wagon",
+    "Rip Carson & The Carcinogenics"
+   ],
+   "artists": [
+    {
+     "name": "Screamin Yeehaws"
+    },
+    {
+     "name": "The Eight Ball Truckers"
+    },
+    {
+     "name": "The Tramplers",
+     "mbid": "2dd206fe-92d4-4cc7-9578-6a18b2b20367"
+    },
+    {
+     "name": "Johnny Wagon"
+    },
+    {
+     "name": "Rip Carson & The Carcinogenics"
+    }
+   ],
+   "venue_url": "https://www.thetowerbar.com/"
+  },
+  {
    "id": "belly-up-tavern:2027-02-07:ladysmith-black-mambazo",
    "date": "2027-02-07",
    "venue": "Belly Up Tavern",
@@ -8205,6 +8275,21 @@
    "venue_url": "https://dizzysjazz.com/"
   },
   {
+   "id": "the-tower-bar:2027-02-19:vermin-class",
+   "date": "2027-02-19",
+   "venue": "The Tower Bar",
+   "city": "San Diego",
+   "performers": [
+    "Vermin Class"
+   ],
+   "artists": [
+    {
+     "name": "Vermin Class"
+    }
+   ],
+   "venue_url": "https://www.thetowerbar.com/"
+  },
+  {
    "id": "belly-up-tavern:2027-02-20:steve-poltz",
    "date": "2027-02-20",
    "venue": "Belly Up Tavern",
@@ -8298,7 +8383,9 @@
    "venue": "The Tower Bar",
    "city": "San Diego",
    "performers": [
-    "Bitchkiss"
+    "Bitchkiss",
+    "DeathBoys",
+    "New Models"
    ],
    "artists": [
     {
@@ -8306,6 +8393,13 @@
      "mbid": "80a35daa-0979-49f9-b792-1c7e4b050334",
      "listen_url": "https://open.spotify.com/artist/4lBtPuxCaNLSGm2yENVOxW",
      "listen_service": "Spotify"
+    },
+    {
+     "name": "DeathBoys"
+    },
+    {
+     "name": "New Models",
+     "mbid": "859df6a8-a336-48ec-9661-7bc8ee2150b2"
     }
    ],
    "venue_url": "https://www.thetowerbar.com/"
@@ -9975,6 +10069,24 @@
    "venue_url": "https://www.observatorysd.com"
   },
   {
+   "id": "x:2027-03-13:three-6-mafia",
+   "date": "2027-03-13",
+   "venue": "",
+   "city": "SeaWorld San Diego",
+   "performers": [
+    "Three 6 Mafia"
+   ],
+   "artists": [
+    {
+     "name": "Three 6 Mafia",
+     "mbid": "a8754ac4-a85e-4f48-a81f-eecd482570ef",
+     "listen_url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "balboa-theatre:2027-03-13:el-as-medina",
    "date": "2027-03-13",
    "venue": "Balboa Theatre",
@@ -10011,6 +10123,357 @@
     }
    ],
    "venue_url": "https://bellyup.com/"
+  },
+  {
+   "id": "crssd:2027-03-13:disco-lines",
+   "date": "2027-03-13",
+   "venue": "CRSSD",
+   "city": "Waterfront Park",
+   "performers": [
+    "Disco Lines",
+    "Eric Prydz",
+    "1tbsp",
+    "Arlo",
+    "CID",
+    "Digitalism",
+    "Eliza Rose",
+    "Kasablanca",
+    "Noga Erez",
+    "R\u00d8Z",
+    "Sophia Stel",
+    "Toro y Moi",
+    "Boris Brejcha",
+    "Dennis Cruz",
+    "DJ Tennis",
+    "Joseph Capriati",
+    "Josh Baker",
+    "Luciano",
+    "Matroda",
+    "Max Dean",
+    "Riordan",
+    "Sosa",
+    "ALISHA b2b Julian Fijma",
+    "Cam Stockman",
+    "Gaskin",
+    "Joss Dean",
+    "Kidoo",
+    "Mella Dee",
+    "Prunk",
+    "Ranger Trucco",
+    "Adam Beyer",
+    "Dubfire b2b Nicole Moudaber",
+    "Indira Paganotto",
+    "Maceo Plex",
+    "Mahmut Orhan",
+    "Sven V\u00e4th",
+    "Benwal",
+    "Dirty South",
+    "DJ HEARTSTRING",
+    "DJ Hell",
+    "Ellen Allien b2b Marcel Dettmann",
+    "Loukeman",
+    "\u00d8TTA",
+    "Sistek",
+    "Sofia Kourtesis b2b Anish Kumar",
+    "STRAWBRY"
+   ],
+   "artists": [
+    {
+     "name": "Disco Lines",
+     "mbid": "9b2f64a8-98ea-433b-bfe0-2675c02b08db",
+     "official_url": "https://discolines.com/",
+     "listen_url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Eric Prydz",
+     "mbid": "35dac7d2-0b1f-470f-9a5a-c53c8821f6d6",
+     "listen_url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "1tbsp",
+     "mbid": "a0d6bf65-d17d-45d6-952a-0c18b103b1fb",
+     "listen_url": "https://1tbsp.bandcamp.com/track/pink-dress",
+     "listen_service": "Bandcamp",
+     "listen_title": "1tbsp, Cherry Chola - Pink Dress"
+    },
+    {
+     "name": "Arlo",
+     "mbid": "b8efe8ac-45db-4a71-bb51-c1503986172f",
+     "official_url": "http://www.arlo.net/",
+     "listen_url": "https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "CID",
+     "mbid": "61999b78-db51-4331-b8d3-7fff1bc8bf70",
+     "official_url": "http://www.josecid.com/",
+     "listen_url": "https://open.spotify.com/artist/1oowLCcSBurZzYTpaR0Ep4",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Digitalism",
+     "mbid": "7b52603c-a84c-4a76-8dc8-899bb4dd9fa7",
+     "official_url": "http://www.thedigitalism.com/",
+     "listen_url": "https://digitalism.bandcamp.com/track/space-invaders",
+     "listen_service": "Bandcamp",
+     "listen_title": "Space Invaders"
+    },
+    {
+     "name": "Eliza Rose",
+     "mbid": "afd9baa6-4402-40c8-91ad-d792ae28e819",
+     "listen_url": "https://elizarose1.bandcamp.com/track/fabriclive-presents-eliza-rose-continuous-mix",
+     "listen_service": "Bandcamp",
+     "listen_title": "FABRICLIVE. presents Eliza Rose [Continuous Mix]"
+    },
+    {
+     "name": "Kasablanca",
+     "mbid": "bdd47361-0508-497a-8c90-55d1de04bd38",
+     "listen_url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Noga Erez",
+     "mbid": "06479724-ee7d-471e-a3d4-4554330a0293",
+     "official_url": "https://nogaerez.com/",
+     "listen_url": "https://nogaerez.bandcamp.com/track/ktd-against-the-machine",
+     "listen_service": "Bandcamp",
+     "listen_title": "KTD (Against The Machine)"
+    },
+    {
+     "name": "R\u00d8Z",
+     "mbid": "ccdc29ad-db99-46f0-9136-683184aed6e1",
+     "official_url": "http://www.rozvitalis.ru/",
+     "listen_url": "https://rozvitalis.bandcamp.com/track/jungle-waltz-4",
+     "listen_service": "Bandcamp",
+     "listen_title": "Jungle Waltz"
+    },
+    {
+     "name": "Sophia Stel",
+     "mbid": "e137e810-ed64-4d74-b2c8-9e24cff43dd3",
+     "official_url": "https://www.sophiastel.net/",
+     "listen_url": "https://sophiastel.bandcamp.com/track/everyone-falls-asleep-in-their-own-time-3",
+     "listen_service": "Bandcamp",
+     "listen_title": "Everyone Falls Asleep In Their Own Time"
+    },
+    {
+     "name": "Toro y Moi",
+     "mbid": "3a6d6481-142d-423f-91d4-55bbfff318ed",
+     "official_url": "http://www.toroymoi.com/",
+     "listen_url": "https://toroymoi.bandcamp.com/track/keynote",
+     "listen_service": "Bandcamp",
+     "listen_title": "Keynote"
+    },
+    {
+     "name": "Boris Brejcha",
+     "mbid": "ae0d1794-c9d3-4436-94fc-ceff6130da2c",
+     "official_url": "http://www.borisbrejcha.de/",
+     "listen_url": "https://borisbrejcha.bandcamp.com/track/die-maschine-auf-diskette-2",
+     "listen_service": "Bandcamp",
+     "listen_title": "Die Maschine auf Diskette 2"
+    },
+    {
+     "name": "Dennis Cruz",
+     "mbid": "f3d44367-7d70-4d76-8099-2f47d99e4348",
+     "official_url": "https://www.denniscruz.net/",
+     "listen_url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "DJ Tennis",
+     "mbid": "e3f7dc2c-40d3-41ee-b120-3b4cd9fe90bd",
+     "listen_url": "https://tennisdj.bandcamp.com/track/cold-hands-italo-mix",
+     "listen_service": "Bandcamp",
+     "listen_title": "Cold Hands (Italo Mix)"
+    },
+    {
+     "name": "Joseph Capriati",
+     "mbid": "b523b6b8-f2ea-4d6c-ba23-f25e02715727",
+     "official_url": "http://www.josephcapriati.com/",
+     "listen_url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Josh Baker",
+     "mbid": "ec4f15e9-0a88-41d4-b73a-9dd972ba8843",
+     "listen_url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Luciano",
+     "mbid": "705076ef-a0c5-472f-bebd-3e72174fcaf4",
+     "official_url": "https://www.pavarottiofficial.com/",
+     "listen_url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Matroda",
+     "mbid": "59deef00-8a8c-4b6d-bb00-15c80b834634",
+     "official_url": "https://www.matrodamusic.com/",
+     "listen_url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Max Dean",
+     "mbid": "94a6d4fa-c2d6-4e53-abe5-bfada0e64168",
+     "listen_url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Riordan",
+     "mbid": "8849686f-e85c-4a0e-903f-664759a9acde",
+     "official_url": "https://rickriordan.com/"
+    },
+    {
+     "name": "Sosa",
+     "mbid": "324b9329-7be6-491f-9ee1-65bfa10c7577",
+     "official_url": "http://www.mercedessosa.com.ar/",
+     "listen_url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "ALISHA b2b Julian Fijma"
+    },
+    {
+     "name": "Cam Stockman",
+     "mbid": "5ad47785-4599-44ab-8039-9ed4c7dc1f47",
+     "listen_url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Gaskin",
+     "mbid": "d30c9c7c-891b-4a39-ab12-7cfa17175a18",
+     "official_url": "https://davebarb.com/"
+    },
+    {
+     "name": "Joss Dean",
+     "mbid": "9ad1fb4d-d403-45bd-adf1-acf3ef238a9a"
+    },
+    {
+     "name": "Kidoo",
+     "mbid": "aed788e8-76c5-4434-8682-6470abf9f72d",
+     "listen_url": "https://kidoo.bandcamp.com/track/kidoo-begining-of-the-end",
+     "listen_service": "Bandcamp",
+     "listen_title": "Kidoo - Begining of the End"
+    },
+    {
+     "name": "Mella Dee",
+     "mbid": "61d1381f-ac8f-4f79-9142-6be6a03896ef",
+     "listen_url": "https://melladee.bandcamp.com/track/no-trouble-extended-mix",
+     "listen_service": "Bandcamp",
+     "listen_title": "Mella Dee, Clementine Douglas - No Trouble (Extended Mix)"
+    },
+    {
+     "name": "Prunk",
+     "mbid": "b15ac763-1e44-4ba6-959c-826b6c409747",
+     "listen_url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Ranger Trucco",
+     "mbid": "39de9c60-14bb-4148-a29e-08df6303476a",
+     "listen_url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Adam Beyer",
+     "mbid": "0d6daf47-0be9-44ee-a9e8-fb5a7b718538",
+     "listen_url": "https://adambeyer.bandcamp.com/track/synchronize-original-mix",
+     "listen_service": "Bandcamp",
+     "listen_title": "Synchronize (Original Mix)"
+    },
+    {
+     "name": "Dubfire b2b Nicole Moudaber"
+    },
+    {
+     "name": "Indira Paganotto",
+     "mbid": "f42c4a7a-f582-4dd2-aa73-819e09f578a1",
+     "listen_url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Maceo Plex",
+     "mbid": "0ab688fd-0943-41cd-a24c-78ec2baad3fd",
+     "listen_url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Mahmut Orhan",
+     "mbid": "cceb5060-80bb-4e0c-9312-5eac20887f3c",
+     "listen_url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Sven V\u00e4th",
+     "mbid": "14008378-5900-4370-831e-3d17f9749caf",
+     "official_url": "http://www.sven-vaeth.de/",
+     "listen_url": "https://svenvaeth.bandcamp.com/track/fusion-wolfgang-haffner-jazz-version",
+     "listen_service": "Bandcamp",
+     "listen_title": "Fusion (Wolfgang Haffner Jazz Version)"
+    },
+    {
+     "name": "Benwal",
+     "mbid": "bfc6febc-a0fc-490c-85cc-a7efdac27270",
+     "listen_url": "https://open.spotify.com/artist/38nG2aneQSUwlhbhXXZhxl",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Dirty South",
+     "mbid": "75411665-b22b-4692-b293-7ad6933869f5",
+     "official_url": "http://dirtysouth.com/",
+     "listen_url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "DJ HEARTSTRING",
+     "mbid": "fe67a450-c5a8-433f-91f0-207d148f7947",
+     "listen_url": "https://djheartstring.bandcamp.com/track/heartcore-dreams-become-reality-2",
+     "listen_service": "Bandcamp",
+     "listen_title": "Heartcore (Dreams Become Reality)"
+    },
+    {
+     "name": "DJ Hell",
+     "mbid": "dceeb024-9254-42c0-9f27-e74d766872e3",
+     "official_url": "https://www.djhell.de/",
+     "listen_url": "https://djhellofficial.bandcamp.com/track/planet-earth-original",
+     "listen_service": "Bandcamp",
+     "listen_title": "Planet Earth (Original)"
+    },
+    {
+     "name": "Ellen Allien b2b Marcel Dettmann"
+    },
+    {
+     "name": "Loukeman",
+     "mbid": "e1f02b74-ea76-4f39-b6db-0d0db0ab5862",
+     "official_url": "https://loukeman.com/",
+     "listen_url": "https://loukeman.bandcamp.com/track/baby-youre-a-star",
+     "listen_service": "Bandcamp",
+     "listen_title": "Baby You're A Star"
+    },
+    {
+     "name": "\u00d8TTA",
+     "mbid": "b817c5c5-0e79-4e7c-a82d-662adb97c9c5",
+     "listen_url": "https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Sistek",
+     "mbid": "7586b937-9af6-49af-ae1d-c85ce51ec832",
+     "listen_url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Sofia Kourtesis b2b Anish Kumar"
+    },
+    {
+     "name": "STRAWBRY",
+     "mbid": "0120b36a-86e3-4cf1-9a1a-8e109c453dba",
+     "listen_url": "https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "pechanga-resort-casino:2027-03-13:los-tigres-del-norte",
@@ -10259,6 +10722,26 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
+   "id": "belly-up-tavern:2027-03-19:wild-child",
+   "date": "2027-03-19",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "Wild Child"
+   ],
+   "artists": [
+    {
+     "name": "Wild Child",
+     "mbid": "65fad55d-b0a7-4364-b947-77d9148cfe64",
+     "official_url": "http://wildchildsounds.com/",
+     "listen_url": "https://wildchildsounds.bandcamp.com/track/ill-be-home-for-christmas",
+     "listen_service": "Bandcamp",
+     "listen_title": "I'll Be Home For Christmas"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
+  },
+  {
    "id": "soda-bar:2027-03-19:spring-2027",
    "date": "2027-03-19",
    "venue": "Soda Bar",
@@ -10337,6 +10820,24 @@
     }
    ],
    "venue_url": "https://www.observatorysd.com"
+  },
+  {
+   "id": "x:2027-03-20:ying-yang-twins",
+   "date": "2027-03-20",
+   "venue": "",
+   "city": "SeaWorld San Diego",
+   "performers": [
+    "Ying Yang Twins"
+   ],
+   "artists": [
+    {
+     "name": "Ying Yang Twins",
+     "mbid": "2e80ba15-ec0f-4bd4-b263-7e0671f38255",
+     "listen_url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "casbah:2027-03-20:caiola",
@@ -10878,6 +11379,25 @@
    "venue_url": "https://theholdingcompanyob.com/"
   },
   {
+   "id": "x:2027-04-03:taking-back-sunday",
+   "date": "2027-04-03",
+   "venue": "",
+   "city": "SeaWorld San Diego",
+   "performers": [
+    "Taking Back Sunday"
+   ],
+   "artists": [
+    {
+     "name": "Taking Back Sunday",
+     "mbid": "350bce49-c21b-4137-b50a-0766ded07e4d",
+     "official_url": "http://www.takingbacksunday.com/",
+     "listen_url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "house-of-blues:2027-04-03:valencia-grace",
    "date": "2027-04-03",
    "venue": "House of Blues",
@@ -11096,6 +11616,25 @@
    "venue_url": "https://theholdingcompanyob.com/"
   },
   {
+   "id": "x:2027-04-10:lil-jon",
+   "date": "2027-04-10",
+   "venue": "",
+   "city": "SeaWorld San Diego",
+   "performers": [
+    "Lil Jon"
+   ],
+   "artists": [
+    {
+     "name": "Lil Jon",
+     "mbid": "a95384b1-6aec-468c-ae0d-8c6daf87c4c2",
+     "official_url": "http://liljon.com/",
+     "listen_url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "belly-up-tavern:2027-04-10:jerry-s-middle-finger",
    "date": "2027-04-10",
    "venue": "Belly Up Tavern",
@@ -11270,6 +11809,21 @@
     }
    ],
    "venue_url": "https://sodabarmusic.com/"
+  },
+  {
+   "id": "belly-up-tavern:2027-04-18:the-uninvited-la-winter",
+   "date": "2027-04-18",
+   "venue": "Belly Up Tavern",
+   "city": "Solana Beach",
+   "performers": [
+    "The Uninvited & LA Winter"
+   ],
+   "artists": [
+    {
+     "name": "The Uninvited & LA Winter"
+    }
+   ],
+   "venue_url": "https://bellyup.com/"
   },
   {
    "id": "petco-park:2027-04-18:jesse-joy",
@@ -12575,6 +13129,25 @@
    "venue_url": "https://www.musicboxsd.com/"
   },
   {
+   "id": "x:2027-06-05:juvenile",
+   "date": "2027-06-05",
+   "venue": "",
+   "city": "SeaWorld San Diego",
+   "performers": [
+    "Juvenile"
+   ],
+   "artists": [
+    {
+     "name": "Juvenile",
+     "mbid": "ba9afaf0-ef3a-42a6-afe0-f924193629bb",
+     "official_url": "http://juviethegreat.com/",
+     "listen_url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "soma:2027-06-05:ocean-alley",
    "date": "2027-06-05",
    "venue": "SOMA",
@@ -12640,6 +13213,25 @@
    "venue_url": "https://www.northislandcreditunionamp.com/"
   },
   {
+   "id": "x:2027-06-12:soulja-boy",
+   "date": "2027-06-12",
+   "venue": "",
+   "city": "SeaWorld San Diego",
+   "performers": [
+    "Soulja Boy"
+   ],
+   "artists": [
+    {
+     "name": "Soulja Boy",
+     "mbid": "29eead4d-3793-4625-8727-c03edbb38b8b",
+     "official_url": "https://www.souljaboy.live/",
+     "listen_url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "soda-bar:2027-06-15:boogie-belgique",
    "date": "2027-06-15",
    "venue": "Soda Bar",
@@ -12680,6 +13272,25 @@
    "venue_url": "https://thebansheebar.com/"
   },
   {
+   "id": "x:2027-06-19:ceelo-green",
+   "date": "2027-06-19",
+   "venue": "",
+   "city": "SeaWorld San Diego",
+   "performers": [
+    "CeeLo Green"
+   ],
+   "artists": [
+    {
+     "name": "CeeLo Green",
+     "mbid": "2c69465c-0f76-45ce-90a2-1ed0fdacc997",
+     "official_url": "https://ceelogreen.com/",
+     "listen_url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "queen-bee-s:2027-06-19:summer-nights",
    "date": "2027-06-19",
    "venue": "Queen Bee's",
@@ -12713,6 +13324,25 @@
     }
    ],
    "venue_url": "https://www.magnoliasd.com/"
+  },
+  {
+   "id": "x:2027-06-26:chingy",
+   "date": "2027-06-26",
+   "venue": "",
+   "city": "SeaWorld San Diego",
+   "performers": [
+    "Chingy"
+   ],
+   "artists": [
+    {
+     "name": "Chingy",
+     "mbid": "2c311e1d-5da3-4ffb-a46e-572981b5849f",
+     "official_url": "http://www.chingyjackpot.com/",
+     "listen_url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "soda-bar:2027-06-26:vlad-holiday",
@@ -12827,6 +13457,24 @@
    "venue_url": "https://theshell.org/"
   },
   {
+   "id": "x:2027-07-10:e-40",
+   "date": "2027-07-10",
+   "venue": "",
+   "city": "SeaWorld San Diego",
+   "performers": [
+    "E-40"
+   ],
+   "artists": [
+    {
+     "name": "E-40",
+     "mbid": "a449973b-074b-4cf0-a4d6-f11fa2d1073f",
+     "listen_url": "https://open.spotify.com/artist/2cS0qxFsZfzynMEq6S99Xt",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "north-island-credit-union-amphitheatre:2027-07-10:stick-figure",
    "date": "2027-07-10",
    "venue": "North Island Credit Union Amphitheatre",
@@ -12879,6 +13527,25 @@
     }
    ],
    "venue_url": "https://www.queenbeessd.com/"
+  },
+  {
+   "id": "x:2027-07-17:keri-hilson",
+   "date": "2027-07-17",
+   "venue": "",
+   "city": "SeaWorld San Diego",
+   "performers": [
+    "Keri Hilson"
+   ],
+   "artists": [
+    {
+     "name": "Keri Hilson",
+     "mbid": "b76c616a-ec0d-4f0c-b986-f249c4a04d77",
+     "official_url": "http://www.kerihilson.com/",
+     "listen_url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "petco-park:2027-07-18:durand-jones-the-indications",
@@ -12937,19 +13604,68 @@
    "venue_url": "https://www.mlb.com/padres/ballpark/gallagher-square"
   },
   {
-   "id": "pacific-highlands-ranch:2027-07-23:gaby-aparicio",
-   "date": "2027-07-23",
-   "venue": "Pacific Highlands Ranch",
-   "city": "San Diego",
+   "id": "x:2027-07-24:travis-porter",
+   "date": "2027-07-24",
+   "venue": "",
+   "city": "SeaWorld San Diego",
    "performers": [
-    "Gaby Aparicio"
+    "Travis Porter",
+    "Iyaz"
    ],
    "artists": [
     {
-     "name": "Gaby Aparicio"
+     "name": "Travis Porter",
+     "mbid": "53423220-42b5-4082-a374-417ce6f8a919",
+     "official_url": "http://wearetravisporter.com/",
+     "listen_url": "https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a",
+     "listen_service": "Spotify"
+    },
+    {
+     "name": "Iyaz",
+     "mbid": "3bf30073-ce4e-4207-88d2-ad83677b0387",
+     "listen_url": "https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C",
+     "listen_service": "Spotify"
     }
    ],
-   "venue_url": "https://phrvillage.com/"
+   "venue_url": null
+  },
+  {
+   "id": "x:2027-07-31:petey-pablo",
+   "date": "2027-07-31",
+   "venue": "",
+   "city": "SeaWorld San Diego",
+   "performers": [
+    "Petey Pablo"
+   ],
+   "artists": [
+    {
+     "name": "Petey Pablo",
+     "mbid": "f9db232d-6513-43b7-b6cd-1d73bcd65a58",
+     "listen_url": "https://peteypablomusic.bandcamp.com/track/brand-new-paper",
+     "listen_service": "Bandcamp",
+     "listen_title": "Brand New Paper"
+    }
+   ],
+   "venue_url": null
+  },
+  {
+   "id": "x:2027-08-07:rick-ross",
+   "date": "2027-08-07",
+   "venue": "",
+   "city": "SeaWorld San Diego",
+   "performers": [
+    "Rick Ross"
+   ],
+   "artists": [
+    {
+     "name": "Rick Ross",
+     "mbid": "13bcb2bb-db37-4397-baf5-e0f085be2d64",
+     "official_url": "http://rickrossdeeperthanrap.com/",
+     "listen_url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
   },
   {
    "id": "humphreys-concerts-by-the-bay:2027-08-07:ben-rector",
@@ -13067,6 +13783,25 @@
    "venue_url": "https://www.humphreysconcerts.com/"
   },
   {
+   "id": "x:2027-08-21:jesse-mccartney",
+   "date": "2027-08-21",
+   "venue": "",
+   "city": "SeaWorld San Diego",
+   "performers": [
+    "Jesse McCartney"
+   ],
+   "artists": [
+    {
+     "name": "Jesse McCartney",
+     "mbid": "9d075d6e-9492-4343-ac95-93a808f61477",
+     "official_url": "http://hollywoodrecords.go.com/jessemccartney/",
+     "listen_url": "https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
+  },
+  {
    "id": "balboa-theatre:2027-08-21:stephen-bishop",
    "date": "2027-08-21",
    "venue": "Balboa Theatre",
@@ -13101,6 +13836,25 @@
     }
    ],
    "venue_url": "https://www.balboatheatre.org/"
+  },
+  {
+   "id": "x:2027-08-28:waka-flocka-flame",
+   "date": "2027-08-28",
+   "venue": "",
+   "city": "SeaWorld San Diego",
+   "performers": [
+    "Waka Flocka Flame"
+   ],
+   "artists": [
+    {
+     "name": "Waka Flocka Flame",
+     "mbid": "59eda569-b380-4958-b98c-051d1667b3e1",
+     "official_url": "https://www.wakaflocka.com/",
+     "listen_url": "https://open.spotify.com/artist/4qv6rQVJL5XhlP349GjrMm",
+     "listen_service": "Spotify"
+    }
+   ],
+   "venue_url": null
   }
  ]
 }

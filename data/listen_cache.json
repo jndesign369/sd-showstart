@@ -238,7 +238,7 @@
       "reason": null
     },
     "https://rozvitalis.bandcamp.com/": {
-      "checked_at": "2026-11-13T16:24:39.506138+00:00",
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": {
         "listen_url": "https://rozvitalis.bandcamp.com/track/jungle-waltz-4",
@@ -706,7 +706,7 @@
       "reason": null
     },
     "https://minitrees.bandcamp.com/": {
-      "checked_at": "2026-11-26T23:55:34.457607+00:00",
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1427,7 +1427,7 @@
       "reason": null
     },
     "https://cruecifer.bandcamp.com/": {
-      "checked_at": "2026-11-26T23:55:34.457607+00:00",
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -1466,7 +1466,7 @@
       "reason": null
     },
     "https://bucketheadpikes.bandcamp.com/": {
-      "checked_at": "2026-11-26T23:55:34.457607+00:00",
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -1879,7 +1879,7 @@
       "reason": null
     },
     "https://rayburger.bandcamp.com/": {
-      "checked_at": "2026-11-26T23:55:34.457607+00:00",
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2127,7 +2127,7 @@
       "reason": null
     },
     "https://theaggrolites.bandcamp.com/": {
-      "checked_at": "2026-11-26T23:55:34.457607+00:00",
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -2342,7 +2342,7 @@
       "reason": null
     },
     "https://worldsendgirlfriend.bandcamp.com/": {
-      "checked_at": "2026-11-26T23:55:34.457607+00:00",
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -3041,7 +3041,7 @@
       "reason": null
     },
     "https://a-perfect-circle.bandcamp.com/": {
-      "checked_at": "2026-11-26T23:55:34.457607+00:00",
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "http_404"
@@ -3432,7 +3432,7 @@
       "reason": null
     },
     "https://theteskeybrothers.bandcamp.com/": {
-      "checked_at": "2026-11-26T23:55:34.457607+00:00",
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
       "selection": "catalog-order-first-streamable-v1",
       "result": null,
       "reason": "no_streamable_track"
@@ -3566,6 +3566,237 @@
         "listen_service": "Bandcamp",
         "listen_title": "only yours",
         "release_url": "https://sherane.bandcamp.com/album/sherane"
+      },
+      "reason": null
+    },
+    "https://habak.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://habak.bandcamp.com/track/mil-orqui-deas-en-medio-del-desierto",
+        "listen_service": "Bandcamp",
+        "listen_title": "Mil orquídeas en medio del desierto",
+        "release_url": "https://habak.bandcamp.com/album/mil-orqui-deas-en-medio-del-desierto"
+      },
+      "reason": null
+    },
+    "https://axecollector.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://axecollector.bandcamp.com/track/unforced-damage",
+        "listen_service": "Bandcamp",
+        "listen_title": "Unforced Damage",
+        "release_url": "https://axecollector.bandcamp.com/album/axe-collector-2"
+      },
+      "reason": null
+    },
+    "https://sevende.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://sevende.bandcamp.com/track/wasting-life-naturally",
+        "listen_service": "Bandcamp",
+        "listen_title": "Wasting life, naturally",
+        "release_url": "https://sevende.bandcamp.com/album/how-much-trash-is-enough"
+      },
+      "reason": null
+    },
+    "https://worntin.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://worntin.bandcamp.com/track/ominous-light",
+        "listen_service": "Bandcamp",
+        "listen_title": "Ominous Light",
+        "release_url": "https://worntin.bandcamp.com/album/smmr-26"
+      },
+      "reason": null
+    },
+    "https://1tbsp.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://1tbsp.bandcamp.com/track/pink-dress",
+        "listen_service": "Bandcamp",
+        "listen_title": "1tbsp, Cherry Chola - Pink Dress",
+        "release_url": "https://1tbsp.bandcamp.com/album/big-soaps"
+      },
+      "reason": null
+    },
+    "https://digitalism.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://digitalism.bandcamp.com/track/space-invaders",
+        "listen_service": "Bandcamp",
+        "listen_title": "Space Invaders",
+        "release_url": "https://digitalism.bandcamp.com/album/optimism-2"
+      },
+      "reason": null
+    },
+    "https://elizarose1.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://elizarose1.bandcamp.com/track/fabriclive-presents-eliza-rose-continuous-mix",
+        "listen_service": "Bandcamp",
+        "listen_title": "FABRICLIVE. presents Eliza Rose [Continuous Mix]",
+        "release_url": "https://elizarose1.bandcamp.com/album/fabriclive-presents-eliza-rose"
+      },
+      "reason": null
+    },
+    "https://nogaerez.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://nogaerez.bandcamp.com/track/ktd-against-the-machine",
+        "listen_service": "Bandcamp",
+        "listen_title": "KTD (Against The Machine)",
+        "release_url": "https://nogaerez.bandcamp.com/album/kids-against-the-machine"
+      },
+      "reason": null
+    },
+    "https://sophiastel.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://sophiastel.bandcamp.com/track/everyone-falls-asleep-in-their-own-time-3",
+        "listen_service": "Bandcamp",
+        "listen_title": "Everyone Falls Asleep In Their Own Time",
+        "release_url": "https://sophiastel.bandcamp.com/album/how-to-win-at-solitaire-deluxe-edition"
+      },
+      "reason": null
+    },
+    "https://toroymoi.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://toroymoi.bandcamp.com/track/keynote",
+        "listen_service": "Bandcamp",
+        "listen_title": "Keynote",
+        "release_url": "https://toroymoi.bandcamp.com/album/unusua"
+      },
+      "reason": null
+    },
+    "https://borisbrejcha.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://borisbrejcha.bandcamp.com/track/die-maschine-auf-diskette-2",
+        "listen_service": "Bandcamp",
+        "listen_title": "Die Maschine auf Diskette 2",
+        "release_url": "https://borisbrejcha.bandcamp.com/album/die-maschine-auf-diskette-2"
+      },
+      "reason": null
+    },
+    "https://tennisdj.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://tennisdj.bandcamp.com/track/cold-hands-italo-mix",
+        "listen_service": "Bandcamp",
+        "listen_title": "Cold Hands (Italo Mix)",
+        "release_url": "https://tennisdj.bandcamp.com/album/cold-hands"
+      },
+      "reason": null
+    },
+    "https://kidoo.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://kidoo.bandcamp.com/track/kidoo-begining-of-the-end",
+        "listen_service": "Bandcamp",
+        "listen_title": "Kidoo - Begining of the End",
+        "release_url": "https://kidoo.bandcamp.com/album/split-phases"
+      },
+      "reason": null
+    },
+    "https://melladee.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://melladee.bandcamp.com/track/no-trouble-extended-mix",
+        "listen_service": "Bandcamp",
+        "listen_title": "Mella Dee, Clementine Douglas - No Trouble (Extended Mix)",
+        "release_url": "https://melladee.bandcamp.com/track/no-trouble-extended-mix"
+      },
+      "reason": null
+    },
+    "https://adambeyer.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://adambeyer.bandcamp.com/track/synchronize-original-mix",
+        "listen_service": "Bandcamp",
+        "listen_title": "Synchronize (Original Mix)",
+        "release_url": "https://adambeyer.bandcamp.com/album/do-our-thing"
+      },
+      "reason": null
+    },
+    "https://svenvaeth.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://svenvaeth.bandcamp.com/track/fusion-wolfgang-haffner-jazz-version",
+        "listen_service": "Bandcamp",
+        "listen_title": "Fusion (Wolfgang Haffner Jazz Version)",
+        "release_url": "https://svenvaeth.bandcamp.com/album/fusion-2"
+      },
+      "reason": null
+    },
+    "https://djheartstring.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://djheartstring.bandcamp.com/track/heartcore-dreams-become-reality-2",
+        "listen_service": "Bandcamp",
+        "listen_title": "Heartcore (Dreams Become Reality)",
+        "release_url": "https://djheartstring.bandcamp.com/album/sentimental-ultra-2"
+      },
+      "reason": null
+    },
+    "https://djhellofficial.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://djhellofficial.bandcamp.com/track/planet-earth-original",
+        "listen_service": "Bandcamp",
+        "listen_title": "Planet Earth (Original)",
+        "release_url": "https://djhellofficial.bandcamp.com/album/there-is-no-planet-earth"
+      },
+      "reason": null
+    },
+    "https://loukeman.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://loukeman.bandcamp.com/track/baby-youre-a-star",
+        "listen_service": "Bandcamp",
+        "listen_title": "Baby You're A Star",
+        "release_url": "https://loukeman.bandcamp.com/album/sd-2"
+      },
+      "reason": null
+    },
+    "https://wildchildsounds.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://wildchildsounds.bandcamp.com/track/ill-be-home-for-christmas",
+        "listen_service": "Bandcamp",
+        "listen_title": "I'll Be Home For Christmas",
+        "release_url": "https://wildchildsounds.bandcamp.com/album/christmas-mixtape-volume-ii"
+      },
+      "reason": null
+    },
+    "https://peteypablomusic.bandcamp.com/": {
+      "checked_at": "2026-11-28T12:13:49.685471+00:00",
+      "selection": "catalog-order-first-streamable-v1",
+      "result": {
+        "listen_url": "https://peteypablomusic.bandcamp.com/track/brand-new-paper",
+        "listen_service": "Bandcamp",
+        "listen_title": "Brand New Paper",
+        "release_url": "https://peteypablomusic.bandcamp.com/album/keep-on-goin"
       },
       "reason": null
     }
